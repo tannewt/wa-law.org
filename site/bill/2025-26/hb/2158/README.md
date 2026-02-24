@@ -9,9 +9,9 @@
 
 ## Meetings
 ### Thu 02/19 10:30 AM - Law & Justice (LAW): SHB 2158 Electronic notarial acts
-#### 0 👍 - Pro
+#### 174 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

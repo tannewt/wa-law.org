@@ -78,6 +78,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
+
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18  👎1 
@@ -143,7 +145,7 @@
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎2 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎3 
 * 👎 Eric Perry
 
 ## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  

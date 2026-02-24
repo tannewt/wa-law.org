@@ -77,13 +77,14 @@
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 * 👍💵 Elizabeth Hendren
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍3  
 * 👍 Alexander Bejarán  Estévez
+* 👍💵 Elizabeth Hendren
 * 👍💵 Elizabeth Hendren
 
 ### [SB 6017](/bill/2025-26/sb/6017/) - Crime victims & witnesses 👍1  
 
-### [SB 6070](/bill/2025-26/sb/6070/) - Recovery of missing persons 👍1  
+### [SB 6070](/bill/2025-26/sb/6070/) - Recovery of missing persons 👍2  
 
 ## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
 * 👎💵 Elizabeth Hendren

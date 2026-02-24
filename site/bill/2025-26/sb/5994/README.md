@@ -12,11 +12,13 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Finance (FIN): SB 5994 Timber tax distributions
-#### 0 👍 - Pro
+#### 89 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jeff Chapman - Jefferson County Assessor
 
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5994 Timber tax distributions
 #### 5 👍 - Pro

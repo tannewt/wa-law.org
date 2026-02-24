@@ -8,7 +8,10 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Early Learning & K-12 Education (EDU): EHB 2317 Early learning licensing
-#### 0 👍 - Pro
+#### 181 👍 - Pro
+Testifying:
+* 💵Katy Warren - WA St. Assn of Head Start and ECEAP
+* Kristine Wilson - Opportunity Council Early Learning & Family Services
 
 #### 0 👎 - Con
 

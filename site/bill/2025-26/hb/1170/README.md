@@ -23,11 +23,23 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 1170 AI content notices
-#### 0 👍 - Pro
+#### 223 👍 - Pro
+Testifying:
+* Jai Jaisimha - Transparency Coalition.ai
+* Danica Noble
+* STEVE WIMMER - Transparency Coalition
+* 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
+* Sandra Distelhorst - American Association of University Women of Washington (AAUW-WA)
 
-#### 0 👎 - Con
+#### 656 👎 - Con
+Testifying:
+* John Coleman - Foundation for Individual Rights and Expression
+* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kiernan Flanagan
 
 ### Mon 01/26 04:00 PM - Appropriations (APP): HB 1170 AI content notices
 #### 297 👍 - Pro

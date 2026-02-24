@@ -36,11 +36,13 @@
 
 ### [SB 6116](/bill/2025-26/sb/6116/) - Vapor products/tax 👍1  
 
-## [SB 6258](/bill/2025-26/sb/6258/) - Medical license relinquish. 👍1  
+### [SB 6258](/bill/2025-26/sb/6258/) - Medical license relinquish. 👍1  
+
+## [SB 6321](/bill/2025-26/sb/6321/) - Scientific research 👍1  
 
 ## 2023-24
 
-### [SB 6258](/bill/2023-24/sb/6258/) - Medical license relinquish. 👍1  
+### [SB 6321](/bill/2023-24/sb/6321/) - Scientific research 👍1  
 
 ### [HB 1041](/bill/2023-24/hb/1041/) - Prescribing psychologists  👎1 
 

@@ -13,7 +13,7 @@
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): SB 6011 Court of appeals bailiffs
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

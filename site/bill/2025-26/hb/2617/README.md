@@ -10,8 +10,22 @@
 ### Wed 02/25 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2617 Higher education procedures
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Melissa Beard - Council of Presidents
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* 💵Nora Selander - Western Washington University
+* Bill Lyne - United Faculty of Washington State
+* Amy Morrison - Lake WA Institute of Technology
+* Arlen Harris - WA State Board for Community & Technical Colleges
+* Beth Ebel - Council of Faculty - UW Faculty Leg Rep
+* Matthew Altman - Council of Faculty - CWU Faculty Leg Rep
+* Sam Ligon - Council of Faculty - EWU Faculty Leg Rep
+* 💵Jacqui Cain - American Federation of Teachers (AFT-WA)
+* Suzanne Southerland - Chair, Washington Education Association (WEA) Higher Education
+* 💵Sienna Jarrard - WA Student Association
+* John Carmichael - President, The Evergreen State College
 
-#### 0 👎 - Con
+#### 625 👎 - Con
 
 #### 0 ❓ - Other

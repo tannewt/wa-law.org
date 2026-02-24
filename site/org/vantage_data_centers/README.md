@@ -4,6 +4,8 @@
 ### [HB 1253](/bill/2025-26/hb/1253/) - Utility joint use agreements 👍1  
 * 👍 Michael DePaola
 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎1 
+
 ## [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎1 
 
 ## 2023-24

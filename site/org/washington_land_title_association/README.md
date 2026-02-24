@@ -19,11 +19,11 @@
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities   ❓1
 * ❓ Craig Trummel
 
-## [SB 5831](/bill/2025-26/sb/5831/) - Enacting the uniform mortgage modification act. 👍1  
+## [SB 5831](/bill/2025-26/sb/5831/) - Enacting the uniform mortgage modification act. 👍2  
 
 ## 2023-24
 
-### [SB 5831](/bill/2023-24/sb/5831/) - Enacting the uniform mortgage modification act. 👍1  
+### [SB 5831](/bill/2023-24/sb/5831/) - Enacting the uniform mortgage modification act. 👍2  
 
 ### [HB 1412](/bill/2023-24/hb/1412/) - Ag. land/foreign ownership   ❓1
 * ❓ Sean Holland

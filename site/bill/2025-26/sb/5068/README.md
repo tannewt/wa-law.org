@@ -15,13 +15,17 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESB 5068 Public employ. eligibility
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Ethan Ndichu
+* Joe McDermott - State Relations Director | King County
 
-#### 2 👎 - Con
+#### 1527 👎 - Con
+Testifying:
+* Stephen Schutt
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 03/13 10:30 AM - Community Safety, Justice, & Reentry (CSJR): SB 5068 Public employ. eligibility
 #### 11 👍 - Pro

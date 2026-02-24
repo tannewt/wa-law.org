@@ -16,15 +16,35 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): ESHB 2238 Statewide food security
-#### 365 👍 - Pro
+#### 986 👍 - Pro
 Testifying:
 * 💵Michael Moran - 2nd Harvest Inland Northwest
 * Gabriel Navarro
 * Zsofia Pasztor - Fresh Food Coalition
+* David Bobanick - Harvest Against Hunger
+* Jon DeVaney - Washington State Tree Fruit Association
+* Stephen Davis - [Food Lifeline](/org/food_lifeline/)
+* Bryan Yambe - [Pierce County](/org/pierce_county/)
+* 💵Mark Streuli - WA Wheat Growers Assoc., WA Potato and Onion Assoc., WA Cattlemen's Association
+* 💵Molly Pfaffenroth - Washington Food Industry Association
+* Jonalee Squeochs - Yakama Nation Farms
+* Eric Williams - [Second Harvest Inland Northwest](/org/second_harvest_inland_northwest/)
+* Andrew Stout - Westwind Organics
+* Bre Elsey - WA Farm Bureau
+* Emily Dexter - Port Angeles Food Bank
+* Erik Mora - Blue Mountain Action Council
+* Alexandra Epstein-Solfield - WA School Nutrition Association
+* 💵Mitch Denning - Alliance of Educational Associations
+* Phyllis Farrell - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* AHNDREA BLUE - [Making A Difference Foundation](/org/making_a_difference_foundation/)
+* Jennifer Antos - Seattle Neighborhood Farmers Markets
+* 💵Anna Nepomuceno - [Northwest Harvest](/org/northwest_harvest/)
 
-#### 0 👎 - Con
+#### 940 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Katie Rains - WA State Department of Agriculture
 
 ### Wed 01/14 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2238 Statewide food security
 #### 149 👍 - Pro

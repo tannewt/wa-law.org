@@ -8,11 +8,13 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SB 6278 Teacher & principal programs
-#### 0 👍 - Pro
+#### 6 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Anna Corinne Huffman - Professional Educator Standards Board (PESB)
 
 ### Tue 01/27 08:00 AM - Early Learning & K-12 Education (EDU): SB 6278 Teacher & principal programs
 #### 7 👍 - Pro

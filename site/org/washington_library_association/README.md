@@ -22,7 +22,7 @@
 
 ### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍2  
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍2  
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍3  
 
 ### [HB 2579](/bill/2025-26/hb/2579/) - Public media grants   ❓1
 * ❓ Eryn Duffee
@@ -49,11 +49,13 @@
 
 ### [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍2  
 
-## [SB 5961](/bill/2025-26/sb/5961/) - Early literacy programs 👍1  
+### [SB 5961](/bill/2025-26/sb/5961/) - Early literacy programs 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 5961](/bill/2023-24/sb/5961/) - Early literacy programs 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1609](/bill/2023-24/hb/1609/) - School library info and tech 👍5  
 * 👍 Sarah Logan

@@ -15,13 +15,24 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): HB 1759 Day of the 12s
-#### 1 👍 - Pro
+#### 354 👍 - Pro
 Testifying:
 * Captain Seahawk - Captain SeaHawk V2.0
+* Sarah Akey
+* Celeste Garcia
+* Laurie Staples - Laurie Staples
+* Alena Edin - Sea Hawkers Booster Club Executive Board
+* Anna Peterson - Sea Hawkers Booster Club Executive Board
+* Chris Childs - Sea Hawkers Booster Club Executive Board
+* David Moody - Sea Hawkers Booster Club Executive Board
+* Thomas Edin - Sea Hawkers Booster Club
+* Terri Fletcher - Sea Hawkers Booster Club - Kirkland Chapter
+* Lori CROSS - East Plateau Sea Hawkers President and Founder
+* Justin Smith
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 19 ❓ - Other
 
 ### Fri 03/14 10:30 AM - State Government & Elections (SGE): HB 1759 Day of the 12s
 #### 131 👍 - Pro

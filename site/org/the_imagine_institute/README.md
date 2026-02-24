@@ -4,7 +4,7 @@
 ### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
 * 👍 Cate Bridenstein
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍2  
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍3  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍 Pauli Owen

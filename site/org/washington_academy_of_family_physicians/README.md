@@ -15,14 +15,18 @@
 
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍2  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍3  
 * 👍 Dr. Katina Rue
 
-### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍1  
+### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍2  
 
 ### [SB 5084](/bill/2025-26/sb/5084/) - Health carrier reporting 👍1  
 
 ### [SB 5185](/bill/2025-26/sb/5185/) - International med. pathways   ❓1
+
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
+
+### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
 
 ### [SB 5924](/bill/2025-26/sb/5924/) - Pharmacist prescriptive auth  👎1 
 

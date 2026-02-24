@@ -34,7 +34,8 @@
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 * 👍 Brittany Gregory
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+* ❓ Christopher Stanley
 * ❓ Christopher Stanley
 
 ### [HB 2412](/bill/2025-26/hb/2412/) - Superior court judge/Yakima 👍1  
@@ -57,14 +58,14 @@
 * 👍 Christopher Stanley
 * 👍 Brittany Gregory
 
-### [SB 5865](/bill/2025-26/sb/5865/) - Garnishment forms 👍1  
+### [SB 5865](/bill/2025-26/sb/5865/) - Garnishment forms 👍2  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  ❓1
 * 👍 Christopher Stanley
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp. 👍1  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp. 👍1  ❓1
 * 👍 Christopher Stanley
 
 ### [HB 1023](/bill/2023-24/hb/1023/) - Wire tap reports/courts 👍2  

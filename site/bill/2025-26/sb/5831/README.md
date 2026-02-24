@@ -8,11 +8,11 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): SB 5831 Uniform mortgage mod. act
-#### 0 👍 - Pro
+#### 157 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 01/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5831 Uniform mortgage mod. act
 #### 6 👍 - Pro

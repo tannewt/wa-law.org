@@ -65,7 +65,7 @@
 
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  
 
 ### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides 👍1  
 
@@ -78,9 +78,10 @@
 ### [SB 5171](/bill/2025-26/sb/5171/) - Wolf predation 👍1  
 * 👍💵 Paula Swedeen
 
-### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍3  
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍5  
 * 👍💵 Paula Swedeen
 * 👍💵 Paula Swedeen
+* 👍💵 Nadine Nadow
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 

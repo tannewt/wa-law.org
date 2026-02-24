@@ -45,13 +45,18 @@
 
 ### [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍1  
 
-## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 * 👎💵 Sienna Jarrard
+
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
+## [SJM 8014](/bill/2025-26/sjm/8014/) - Aysenur Ezgi Eygi killing 👍1  
+* 👍 Hiro Hirano-Holcomb
 
 ## 2023-24
 
-### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎1 
-* 👎💵 Sienna Jarrard
+### [SJM 8014](/bill/2023-24/sjm/8014/) - Aysenur Ezgi Eygi killing 👍1  
+* 👍 Hiro Hirano-Holcomb
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 

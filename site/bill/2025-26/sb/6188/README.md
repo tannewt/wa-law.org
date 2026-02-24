@@ -12,9 +12,13 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Labor & Workplace Standards (LAWS): SB 6188 Asbestos training rules
-#### 1 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Tammy Fellin - Department of Labor & Industries
 
-#### 0 👎 - Con
+#### 145 👎 - Con
+Testifying:
+* Mike Ennis - Building Industry Association of Washington (BIAW)
 
 #### 0 ❓ - Other
 

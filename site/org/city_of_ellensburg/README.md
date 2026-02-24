@@ -7,13 +7,19 @@
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
 
-## [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
+* 👍 Rebecca Springer
+
+### [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
 * 👍💵 Josh Weiss
+
+## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓ Rebecca Springer
 
 ## 2023-24
 
-### [SB 5053](/bill/2023-24/sb/5053/) - PFD formation 👍1  
-* 👍💵 Josh Weiss
+### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓ Rebecca Springer
 
 ### [HB 2173](/bill/2023-24/hb/2173/) - Natural gas utilities/OPMA 👍2  
 * 👍 Buddy Stanavich

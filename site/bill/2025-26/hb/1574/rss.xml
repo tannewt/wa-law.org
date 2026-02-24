@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1574/</link>
 		<description>Updates about HB 1574</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Feb 2026 12:15:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -361,6 +361,46 @@
 			<pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-13/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>👎James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Con. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Thu, 19 Feb 2026 13:53:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2026-02-19 13:53:42</guid>
+		</item>
+		<item>
+			<title>👎💵Russell Brown - WA Association of Prosecuting Attorneys</title>
+			<description>Russell Brown signed up to testify Con. They are signed up to represent WA Association of Prosecuting Attorneys. They are a registered lobbyist.</description>
+			<pubDate>Thu, 19 Feb 2026 19:22:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Russell/Brown/2026-02-19 19:22:05</guid>
+		</item>
+		<item>
+			<title>❓💵Brad Banks - Washington State Association of Counties (WSAC)</title>
+			<description>Brad Banks signed up to testify Other. They are signed up to represent Washington State Association of Counties (WSAC). They are a registered lobbyist.</description>
+			<pubDate>Fri, 20 Feb 2026 09:28:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Brad/Banks/2026-02-20 09:28:07</guid>
+		</item>
+		<item>
+			<title>👍Caleb Banta-Green - University of Washington, School of Medicine</title>
+			<description>Caleb Banta-Green signed up to testify Pro. They are signed up to represent University of Washington, School of Medicine.</description>
+			<pubDate>Fri, 20 Feb 2026 10:17:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Caleb/Banta-Green/2026-02-20 10:17:29</guid>
+		</item>
+		<item>
+			<title>❓Tristan Seikel - VOCAL WA</title>
+			<description>Tristan Seikel signed up to testify Other. They are signed up to represent VOCAL WA.</description>
+			<pubDate>Fri, 20 Feb 2026 12:15:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Tristan/Seikel/2026-02-20 12:15:28</guid>
 		</item>
 	</channel>
 </rss>

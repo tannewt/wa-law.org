@@ -11,7 +11,11 @@
 ### Tue 02/24 10:30 AM - Local Government (LG): SSB 6076 Utility procurement
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 57 👍 - Pro
+Testifying:
+* Patrick Bishop - Grant PUD
+* 💵Jason Hudson - IBEW Local 77
+* 💵Nicolas Garcia - WPUDA
 
 #### 0 👎 - Con
 

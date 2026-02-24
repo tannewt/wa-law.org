@@ -8,9 +8,12 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): HB 2426 Pollution control appeals
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Darrin Raines - Greater Grays Harbor Inc.
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

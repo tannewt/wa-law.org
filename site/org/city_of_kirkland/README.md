@@ -86,7 +86,7 @@
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍2  
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍3  
 
@@ -145,9 +145,13 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
 
-### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
+### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍2  
 
 ### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 

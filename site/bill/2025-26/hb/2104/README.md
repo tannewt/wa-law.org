@@ -13,9 +13,11 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 2104 Aviation assurance funding
-#### 0 👍 - Pro
+#### 68 👍 - Pro
+Testifying:
+* Noel Hardin - Asotin County Fire District 1/ Washington Fire Chief's
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

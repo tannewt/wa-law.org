@@ -8,9 +8,14 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): HB 2632 Noncitizen terminology
-#### 0 👍 - Pro
+#### 176 👍 - Pro
+Testifying:
+* Chach Duarte White - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Andres Munoz
+* Elizabeth Fitzgearld
+* Nicholas Mejía
 
-#### 0 👎 - Con
+#### 861 👎 - Con
 
 #### 0 ❓ - Other
 

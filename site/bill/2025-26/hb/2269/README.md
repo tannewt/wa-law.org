@@ -14,9 +14,14 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Housing (HSG): SHB 2269 Middle housing/uninc. areas
-#### 0 👍 - Pro
+#### 265 👍 - Pro
+Testifying:
+* Anthony Mixer - Citizen Volunteer Lobbyist
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Andrea Smiley - Building Industry Association of WA
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

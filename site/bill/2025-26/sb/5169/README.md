@@ -19,9 +19,19 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5169 Testimony of children
-#### 2 👍 - Pro
+#### 119 👍 - Pro
+Testifying:
+* ANITA PETRA - Benton County Prosecutor's office
+* Coreen Schnepf - Pierce County Prosecutor's Office
+* Keri Arnold - Pierce County Prosecutor's Office
+* Sarah Park - Pierce County Prosecutor's Office
+* Arild Barrett
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Kate Benward - King County Department of Public Defense
+* Alex Narvaez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Sarah Hudson - Washington Defender Association & Washington Association of Criminal Defense Lawyers
 
 #### 0 ❓ - Other
 

@@ -16,13 +16,18 @@
 
 ## Meetings
 ### Mon 02/16 08:30 AM - State Government & Elections (SGE): ESHB 1916 Voter registrations
-#### 537 👍 - Pro
+#### 645 👍 - Pro
 Testifying:
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Joseph Lachman - Asian Counseling and Referral Service
 * 💵Caron Cargill - [Responsive Gov Action](/org/responsive_gov_action/)
+* Lilliane Ballesteros - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
+* 💵Nilu Jenks - FairVote Washington
 
-#### 736 👎 - Con
+#### 1197 👎 - Con
+Testifying:
+* Eric Lundberg
+* LORILEE GATES
 
 #### 2 ❓ - Other
 Testifying:

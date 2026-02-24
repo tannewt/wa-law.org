@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SB%206005)
+* 02/23/2026 [Senate Democrats](/org/senate_democrats/) - [Senate unveils bipartisan supplemental transportation budget prioritizing preservation and maintenance, job creation - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/23/senate-unveils-bipartisan-supplemental-transportation-budget-prioritizing-preservation-and-maintenance-job-creation/#:~:text=SB%206005)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 7: Budgets revealed, another cutoff arrives as session hits its stretch run - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/20/this-week-in-the-senate-week-7-budgets-revealed-another-cutoff-arrives-as-session-hits-its-stretch-run/#:~:text=SB%206005)
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%206005)
 * 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=Senate%20Bill%206005%20here)
@@ -15,11 +17,23 @@
 ### Tue 02/24 04:00 PM - Transportation (TRAN): SB 6005 Transportation budget, supp.
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
+* 💵Lyset Cadena - WSTA
+* 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
+* 💵Isaac Kastama - Clean & Prosperous Washington
 
-#### 0 👎 - Con
+#### 83 👎 - Con
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Breck Lebegue - WA Physicians for Social Responsibility
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Lara Lant - City of Bainbridge Island, City Manager
+* Kyle Moore - [City of Kent](/org/city_of_kent/)
 
 ### Tue 01/13 04:00 PM - Transportation (TRAN): SB 6005 Transportation budget, supp.
 #### 12 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6268/</link>
 		<description>Updates about SB 6268</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -103,6 +103,45 @@
 			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-14/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>👍Julie Gunter - copart</title>
+			<description>Julie Gunter signed up to testify Pro.</description>
+			<pubDate>Sun, 15 Feb 2026 08:49:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Julie/Gunter/2026-02-15 08:49:02</guid>
+		</item>
+		<item>
+			<title>👍Katherine George - copart</title>
+			<description>Katherine George signed up to testify Pro.</description>
+			<pubDate>Mon, 16 Feb 2026 08:01:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katherine/George/2026-02-16 08:01:22</guid>
+		</item>
+		<item>
+			<title>👍Colette Weeks - Washington Coalition for Open Government</title>
+			<description>Colette Weeks signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_coalition_for_open_government/"&gt;Washington Coalition for Open Government&lt;/a&gt;.</description>
+			<pubDate>Tue, 17 Feb 2026 18:22:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Colette/Weeks/2026-02-17 18:22:57</guid>
+		</item>
+		<item>
+			<title>👍Amara Oden - Washington Coalition for Open Government</title>
+			<description>Amara Oden signed up to testify Pro.</description>
+			<pubDate>Wed, 18 Feb 2026 08:45:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amara/Oden/2026-02-18 08:45:34</guid>
+		</item>
+		<item>
+			<title>ED - Executive action taken by committee.</title>
+			<description>ED - Executive action taken by committee.</description>
+			<pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-23/ED - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

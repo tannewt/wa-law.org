@@ -3,6 +3,8 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
+### [HB 1687](/bill/2025-26/hb/1687/) - Social housing authorities 👍1  
+
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 * 👍 Suresh Chanmugam
 
@@ -17,6 +19,8 @@
 ### [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources  👎1 
 
 ### [SB 6201](/bill/2025-26/sb/6201/) - Social housing agencies/tax 👍3  
+
+### [SB 6321](/bill/2025-26/sb/6321/) - Scientific research 👍1  
 
 ## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 

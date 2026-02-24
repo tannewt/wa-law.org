@@ -12,6 +12,8 @@
 
 ### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
 
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍1  
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  

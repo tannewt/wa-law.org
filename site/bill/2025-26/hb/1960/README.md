@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Third Substitute](S3/)
+* [Engrossed Third Substitute](S3.E/)
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): 3SHB 1960 Renewable energy

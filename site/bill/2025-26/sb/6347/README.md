@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=ESB%206347)
 * 02/19/2026 [The Stranger](/org/the_stranger/) - [Guest Rant: The Millionaires’ Tax Gives Corporations a (Tax) Break - The Stranger](https://www.thestranger.com/guest-editorial/2026/02/19/80485013/guest-rant-the-millionaires-tax-gives-corporations-a-tax-break#:~:text=SB%206347)
 * 02/17/2026 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Washington Legislature, Don’t Reverse the Estate Tax » The Urbanist](https://www.theurbanist.org/2026/02/17/op-ed-washington-legislature-dont-reverse-the-estate-tax/#:~:text=Senate%20Bill%206347)
 * 02/17/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes Kauffman bill to restore balance to Washington’s estate tax - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/02/17/senate-passes-kauffman-bill-to-restore-balance-to-washingtons-estate-tax/#:~:text=Senate%20Bill%206347)
@@ -19,8 +20,13 @@
 ### Thu 02/26 08:00 AM - Finance (FIN): ESB 6347 Estate tax rates
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 65 👍 - Pro
 
-#### 0 👎 - Con
+#### 39 👎 - Con
+Testifying:
+* 💵John Burbank
+* 💵Rian Watt - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* 💵Lily Storbeck
+* 💵Mia Shigemura - Washington State Budget and Policy Center
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -13,11 +13,15 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): 2SHB 1701 Liquor licensee premises
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Jodi Cowell - 526 E Woodin Ave
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Marc Webster - Washington State Liquor and Cannabis Board
 
 ### Wed 01/21 01:30 PM - Consumer Protection & Business (CPB): HB 1701 Liquor licensee premises
 #### 3 👍 - Pro

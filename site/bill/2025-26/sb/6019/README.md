@@ -10,9 +10,13 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Appropriations (APP): ESSB 6019 Home care rates
-#### 1 👍 - Pro
+#### 83 👍 - Pro
+Testifying:
+* 💵Brad Banks
+* Demas Nesterenko - SEIU775
+* Darryl Johnson
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

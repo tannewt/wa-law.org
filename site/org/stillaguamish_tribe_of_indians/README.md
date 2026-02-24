@@ -16,17 +16,21 @@
 
 ### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making  👎1 
 
-### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
 
 ### [SB 5264](/bill/2025-26/sb/5264/) - Tax compacts/capital invest. 👍1  
 
 ### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
+
+### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍1  
 
 ### [SB 5988](/bill/2025-26/sb/5988/) - Opioid treatment prg. fees 👍1  
 
 ### [SB 6017](/bill/2025-26/sb/6017/) - Crime victims & witnesses 👍1  
 
 ### [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍1  
+
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
 
 ## [SB 6137](/bill/2025-26/sb/6137/) - Regulated sports wagering 👍1  
 

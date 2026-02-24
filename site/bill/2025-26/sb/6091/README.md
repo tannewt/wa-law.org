@@ -13,11 +13,19 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): SSB 6091 Real estate/exclusive market
-#### 2 👍 - Pro
+#### 224 👍 - Pro
 Testifying:
 * Noel Le - MindCast AI
+* 💵Bill Clarke - Washington Realtors
+* James Fisher - VP Government Affairs Washington Realtors
+* Lucy Wood - Windermere Regional Director
+* 💵Anna Boone - [Zillow](/org/zillow/)
+* Adria Buchanan - Fair housing center of washington
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
-#### 0 👎 - Con
+#### 47 👎 - Con
+Testifying:
+* Daniel Bannon - RHAWA
 
 #### 0 ❓ - Other
 

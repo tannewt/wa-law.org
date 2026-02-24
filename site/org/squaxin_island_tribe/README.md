@@ -21,6 +21,8 @@
 
 ### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
 
+### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍1  
+
 ### [SB 6016](/bill/2025-26/sb/6016/) - Aquifer recharge areas 👍1  
 
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  

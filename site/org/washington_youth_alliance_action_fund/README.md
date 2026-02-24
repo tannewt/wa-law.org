@@ -10,8 +10,9 @@
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍2  
 
-### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍3  
 * 👍 Mahi Malladi
+* 👍 Kenneth Garcia
 
 ### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍4  
 * 👍 Fatra Hussein
@@ -32,7 +33,8 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
 
-### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
+### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍2  
+* 👍 Abby Wu
 
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍2  
 * 👍 Preston Tucker
@@ -63,8 +65,8 @@
 
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 
 ## 2023-24
 
-## [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  

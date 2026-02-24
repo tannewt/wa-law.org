@@ -15,11 +15,13 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Housing (HOUS): SSB 6237 Rental property flood discl.
-#### 0 👍 - Pro
+#### 5 👍 - Pro
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Krystelle Purkey - Washington Multi-Family Housing Association
 
 ### Fri 01/30 10:30 AM - Housing (HSG): SB 6237 Rental property flood discl.
 #### 7 👍 - Pro

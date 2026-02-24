@@ -13,11 +13,14 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Housing (HSG): 2SHB 2590 Limited equity cooperatives
-#### 0 👍 - Pro
+#### 57 👍 - Pro
+Testifying:
+* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* Jessica McKeegan Jensen - Cap City Law PS
 
-#### 0 👎 - Con
+#### 631 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Fri 02/06 08:00 AM - Finance (FIN): SHB 2590 Limited equity cooperatives
 #### 27 👍 - Pro

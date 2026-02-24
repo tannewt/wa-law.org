@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2114/</link>
 		<description>Updates about HB 2114</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Feb 2026 13:27:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -124,6 +124,22 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-17/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Marianne Nichols - Pend Oreille County Auditor</title>
+			<description>Marianne Nichols signed up to testify Pro. They are signed up to represent Pend Oreille County Auditor.</description>
+			<pubDate>Sun, 22 Feb 2026 20:09:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Marianne/Nichols/2026-02-22 20:09:50</guid>
+		</item>
+		<item>
+			<title>👍Thad Duvall - Douglas County Auditor/ Licensing Co-Chair Washington State Association of County Auditors</title>
+			<description>Thad Duvall signed up to testify Pro. They are signed up to represent Douglas County Auditor/ Licensing Co-Chair Washington State Association of County Auditors.</description>
+			<pubDate>Mon, 23 Feb 2026 13:27:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Thad/Duvall/2026-02-23 13:27:50</guid>
 		</item>
 	</channel>
 </rss>

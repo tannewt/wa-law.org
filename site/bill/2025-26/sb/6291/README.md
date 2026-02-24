@@ -8,7 +8,10 @@
 
 ## Meetings
 ### Wed 02/18 10:00 AM - Environment & Energy (ENVI): SB 6291 On-site wastewater systems
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Jaime Bodden - WSALPHO
+* Erin Hockaday - WSALPHO
 
 #### 0 👎 - Con
 

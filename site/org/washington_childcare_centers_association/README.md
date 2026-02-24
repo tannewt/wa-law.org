@@ -4,7 +4,8 @@
 ### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
 * 👍💵 Amy Anderson
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board  👎1 
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board  👎3 
+* 👎💵 Amy Anderson
 * 👎💵 Amy Anderson
 
 ### [HB 1282](/bill/2025-26/hb/1282/) - Child care  👎1 
@@ -48,7 +49,7 @@
 
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential 👍1  
 
-### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍2  
 * 👍💵 Amy Anderson
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
@@ -58,13 +59,17 @@
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎3 
 * 👎💵 Amy Anderson
 
-### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
+### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍2  
 
-## [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
+### [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
+
+### [SB 6007](/bill/2025-26/sb/6007/) - DCYF assessment practices 👍1  
+
+## [SB 6353](/bill/2025-26/sb/6353/) - Working conn. child care  👎1 
 
 ## 2023-24
 
-### [SB 5907](/bill/2023-24/sb/5907/) - ECEAP access/military 👍1  
+### [SB 6353](/bill/2023-24/sb/6353/) - Working conn. child care  👎1 
 
 ### [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍2  
 

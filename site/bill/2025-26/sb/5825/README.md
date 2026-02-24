@@ -21,9 +21,13 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SSB 5825 Leadership board/gifts
-#### 0 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Olivia Sarriugarte - Volunteer Board Member, Washington State Leadership Board
+* Laura Armstrong Laura Armstrong - [Washington State Leadership Board](/org/washington_state_leadership_board/)
+* Brian Moreno - [Washington State Leadership Board](/org/washington_state_leadership_board/)
 
-#### 0 👎 - Con
+#### 49 👎 - Con
 
 #### 0 ❓ - Other
 

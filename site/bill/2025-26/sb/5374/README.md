@@ -18,11 +18,13 @@
 ### Tue 02/24 10:30 AM - Local Government (LG): ESSB 5374 Transportation/tribal rep.
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 10 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Wed 03/26 08:00 AM - Local Government (LG): SSB 5374 Transportation/tribal rep.
 #### 36 👍 - Pro

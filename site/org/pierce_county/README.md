@@ -11,6 +11,8 @@
 
 ### [HB 1098](/bill/2025-26/hb/1098/) - County local roads 👍1  
 
+### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements  👎1 
+
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
 ### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎1 
@@ -38,21 +40,29 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
+### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement  👎1 
+
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations   ❓1
 * ❓💵 Michael Shaw
 
-### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍1  
+### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍2  
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍2  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2203](/bill/2025-26/hb/2203/) - Interference with emergency 👍1  
+
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
+* 👍 Bryan Yambe
 * 👍 Bryan Yambe
 
 ### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎1 
 
 ### [HB 2376](/bill/2025-26/hb/2376/) - Property tax  👎1 
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍2  
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍3  
+* 👍 Anita Gallagher
 * 👍 Anita Gallagher
 
 ### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings 👍1  
@@ -70,6 +80,8 @@
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
+
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 
 ### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
@@ -84,9 +96,13 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎7 
+
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
 
 ### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
 * 👍 Robin Vazquez
@@ -103,13 +119,16 @@
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍2  
 * 👍 Ryan Mello
 
-## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
+### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 * 👍 Anita Gallagher
+
+### [SB 6321](/bill/2025-26/sb/6321/) - Scientific research  👎1 
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
 
 ## 2023-24
 
-### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍1  
-* 👍 Anita Gallagher
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 

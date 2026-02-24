@@ -8,15 +8,27 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%206200)
+
 ## Meetings
 ### Mon 02/23 01:30 PM - Housing (HOUS): ESSB 6200 Tenant cooling devices
-Sign up to testify:
+#### 361 👍 - Pro
+Testifying:
+* Brian Henning - Gonzaga Institute for Climate, Water, and the Environment
+* 💵Carl Nelson - Cedar Creek Tenants' Union
+* Violet Lavatai - Tenant Organizers & Advocates
+* 💵Charlee Thompson - [Northwest Energy Coalition](/org/northwest_energy_coalition/)
+* 💵James Moschella - Washington Physicians for Social Responsibility
+* Annemarie Dooley - WA Physicians for Social Responsibility
 
-#### 0 👍 - Pro
+#### 140 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 11 ❓ - Other
+Testifying:
+* 💵Krystelle Purkey - Washington Multi-Family Housing Association
+* 💵Jim Henderson - National Association of Residential Property Managers (NARPM)
+* Matthew Rose
 
 ### Fri 01/23 10:30 AM - Housing (HSG): SB 6200 Tenant cooling devices
 #### 321 👍 - Pro

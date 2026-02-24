@@ -26,12 +26,14 @@
 
 ### [SB 6275](/bill/2025-26/sb/6275/) - Community reinvestment prg. 👍1  
 
-## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
+## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍2  
+* 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey
 
 ## 2023-24
 
-### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍1  
+### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍2  
+* 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1

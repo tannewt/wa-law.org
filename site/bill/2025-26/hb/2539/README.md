@@ -9,9 +9,15 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Human Services (HS): SHB 2539 Inmate funds
-#### 8 👍 - Pro
+#### 55 👍 - Pro
+Testifying:
+* Derond Potts
+* Tonelli Anderson
+* 💵Emijah Smith - Colorful Communities LLC
+* Candice Baughman - Statewide Reentry Council
+* 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 
-#### 0 👎 - Con
+#### 118 👎 - Con
 
 #### 0 ❓ - Other
 

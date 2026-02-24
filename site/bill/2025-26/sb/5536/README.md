@@ -10,9 +10,9 @@
 ### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): SB 5536 Property distrib./divorce
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 200 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

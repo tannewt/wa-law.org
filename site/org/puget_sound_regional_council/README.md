@@ -14,13 +14,16 @@
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍2  
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍2  
 * 👍 Ben Bakkenta
+
+## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
+* 👍 Robin Koskey
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍2  
-* 👍 Ben Bakkenta
+### [SB 6352](/bill/2023-24/sb/6352/) - Transportation resources 👍1  
+* 👍 Robin Koskey
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓2
 * ❓ Ben Bakkenta

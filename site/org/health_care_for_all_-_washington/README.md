@@ -82,7 +82,7 @@
 
 ### [SB 5947](/bill/2025-26/sb/5947/) - Establishing the Washington health care board.   ❓1
 
-### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state. 👍1  
+### [SB 5949](/bill/2025-26/sb/5949/) - Insurer taxes 👍1  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 

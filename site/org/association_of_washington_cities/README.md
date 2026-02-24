@@ -211,13 +211,14 @@
 * 👎💵 Candice Bock
 * ❓💵 Derrick Nunnally
 
-### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍3  
 * 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
-### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎2 
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎3 
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
+* 👎💵 Derrick Nunnally
 
 ### [HB 1763](/bill/2025-26/hb/1763/) - Affordable housing funding 👍1  
 
@@ -239,7 +240,7 @@
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 
-### [HB 1823](/bill/2025-26/hb/1823/) - Transp. improvement board 👍2  
+### [HB 1823](/bill/2025-26/hb/1823/) - Transp. improvement board 👍3  
 
 ### [HB 1835](/bill/2025-26/hb/1835/) - Aligning cannabis licensing decisions by the liquor and cannabis board with local zoning ordinances. 👍1  
 
@@ -261,6 +262,8 @@
 
 ### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
 * 👍💵 Carl Schroeder
+
+### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
@@ -285,7 +288,8 @@
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
-### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement   ❓1
+### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement   ❓2
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍1  
@@ -294,7 +298,8 @@
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 * 👍💵 Candice Bock
 
-### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users    ❓1
+### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users    ❓2
+* ❓💵 Derrick Nunnally
 * ❓💵 Derrick Nunnally
 
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations  👎1 
@@ -320,6 +325,8 @@
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
 * ❓💵 Carl Schroeder
 
+### [HB 2203](/bill/2025-26/hb/2203/) - Interference with emergency 👍1  
+
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections   ❓2
@@ -335,28 +342,32 @@
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎2 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎2 ❓1
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
+* ❓💵 Carl Schroeder
 
 ### [HB 2270](/bill/2025-26/hb/2270/) - Lodging tax revenue use 👍1  
 * 👍💵 Candice Bock
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ### [HB 2291](/bill/2025-26/hb/2291/) - Kratom   ❓1
 * ❓💵 Derrick Nunnally
 
-### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓2
+* ❓💵 Steven Ellis
 * ❓💵 Steven Ellis
 
 ### [HB 2297](/bill/2025-26/hb/2297/) - Grocery store incentives 👍1  
 
-### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍3  
 
-### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  ❓1
 * ❓💵 Steven Ellis
+* 👍💵 Steven Ellis
 
 ### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  
 
@@ -374,7 +385,7 @@
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 * 👍💵 Steven Ellis
 
-### [HB 2405](/bill/2025-26/hb/2405/) - PTSD treatment and research 👍2  
+### [HB 2405](/bill/2025-26/hb/2405/) - PTSD treatment and research 👍3  
 
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
 
@@ -387,10 +398,12 @@
 ### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
 * 👍💵 Carl Schroeder
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍2  
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍3  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
@@ -412,6 +425,8 @@
 
 ### [HB 2614](/bill/2025-26/hb/2614/) - Home cultivation of cannabis  👎1 
 * 👎💵 Derrick Nunnally
+
+### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information   ❓1
 
 ### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  
 * 👍💵 Candice Bock
@@ -495,9 +510,9 @@
 
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
 
-### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍2  
+### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍3  
 
-### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
+### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍3  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 * 👍 Amy Ockerlander
@@ -575,6 +590,8 @@
 * 👍💵 Carl Schroeder
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎2 
+
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.   ❓1
 
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍2  
 
@@ -660,18 +677,23 @@
 
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
+### [SB 5890](/bill/2025-26/sb/5890/) - Reckless driving, speed 👍1  
+
 ### [SB 5898](/bill/2025-26/sb/5898/) - Aircraft fuel tax proceeds   ❓1
 
-### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍2  
 
 ### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers   ❓1
 * ❓💵 Derrick Nunnally
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement   ❓2
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement   ❓4
+* ❓💵 Derrick Nunnally
+* ❓💵 Derrick Nunnally
 * ❓💵 Derrick Nunnally
 * ❓💵 Derrick Nunnally
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓2
@@ -687,12 +709,13 @@
 ### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓1
 * ❓💵 Carl Schroeder
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎3 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎4 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 
 ### [SB 6028](/bill/2025-26/sb/6028/) - Homeownership dev. loans 👍1  
 
@@ -751,13 +774,17 @@
 ### [SB 6335](/bill/2025-26/sb/6335/) - Transportation commission   ❓1
 * ❓💵 Steven Ellis
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓1
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓2
 * ❓💵 Candice Bock
+* ❓💵 Candice Bock
+
+## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources   ❓1
+* ❓💵 Steven Ellis
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires   ❓1
-* ❓💵 Candice Bock
+### [SB 6352](/bill/2023-24/sb/6352/) - Transportation resources   ❓1
+* ❓💵 Steven Ellis
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

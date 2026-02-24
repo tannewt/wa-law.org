@@ -32,8 +32,10 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance   ❓1
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  ❓1
 * ❓💵 Linda Garcia
+* 👍 Jeff DeLuca
+* 👍💵 Linda Garcia
 
 ### [HB 2039](/bill/2025-26/hb/2039/) - Child support pass through  👎1 
 
@@ -47,14 +49,16 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓3
 * ❓ Jeff DeLuca
 * ❓ Jeff DeLuca
+* ❓ Jeff DeLuca
 
-### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  ❓1
 * 👍 Jeff DeLuca
+* ❓ Jeff DeLuca
 
 ### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍2  
 * 👍 Jeff DeLuca
@@ -65,6 +69,8 @@
 ### [HB 2373](/bill/2025-26/hb/2373/) - Electric utility bill assist 👍2  
 * 👍 Jeff DeLuca
 * 👍💵 Linda Garcia
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
 
 ### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍1  
 
@@ -107,19 +113,21 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
+* ❓ Jeff DeLuca
 * ❓ Jeff DeLuca
 
-### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  ❓1
 * 👍 Jeff DeLuca
+* ❓ Jeff DeLuca
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍2  
 * 👍 Jeff DeLuca
 * 👍💵 Linda Garcia
 
-### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍1  
+### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍2  
 * 👍 Shay Stokes
 
 ### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍3  

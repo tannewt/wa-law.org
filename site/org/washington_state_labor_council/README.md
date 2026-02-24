@@ -21,13 +21,16 @@
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties 👍1  
 * 👍 Joe Kendo
 
-## [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍1  
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍1  
 * 👍💵 Carissa Larsen
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+* 👍 April Sims
 
 ## 2023-24
 
-### [SB 5847](/bill/2023-24/sb/5847/) - Workers' comp. medical care 👍1  
-* 👍💵 Carissa Larsen
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+* 👍 April Sims
 
 ### [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍1  
 * 👍 Joe Kendo

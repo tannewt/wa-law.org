@@ -27,7 +27,19 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
+### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users   👎1 
+* 👎 Kyle Moore
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 ❓1
+* ❓ Kyle Moore
+
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
+* ❓ Kyle Moore
+
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
+* ❓ Kyle Moore
 
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones   ❓1
 * ❓ Kristen Holdsworth
@@ -51,6 +63,12 @@
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
 ### [SB 5890](/bill/2025-26/sb/5890/) - Reckless driving, speed 👍1  
+
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓1
+* ❓ Kyle Moore
+
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
+* ❓ Kyle Moore
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓1
 

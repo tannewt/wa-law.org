@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6247/</link>
 		<description>Updates about SB 6247</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Feb 2026 16:12:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -123,6 +123,38 @@
 			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-14/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>👍Flip Herndon - AESD</title>
+			<description>Flip Herndon signed up to testify Pro. They are signed up to represent AESD.</description>
+			<pubDate>Tue, 17 Feb 2026 17:34:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Flip/Herndon/2026-02-17 17:34:29</guid>
+		</item>
+		<item>
+			<title>❓Logan Noel-Endres - Washington State School Directors' Association (WSSDA)</title>
+			<description>Logan Noel-Endres signed up to testify Other. They are signed up to represent Washington State School Directors' Association (WSSDA).</description>
+			<pubDate>Wed, 18 Feb 2026 11:28:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Logan/Noel-Endres/2026-02-18 11:28:26</guid>
+		</item>
+		<item>
+			<title>❓💵Marissa Rathbone - WA Assoc of School Admin (WASA) &amp; WA Assoc of School Business Officials (WASBO)</title>
+			<description>Marissa Rathbone signed up to testify Other. They are signed up to represent WA Assoc of School Admin (WASA) &amp; WA Assoc of School Business Officials (WASBO). They are a registered lobbyist.</description>
+			<pubDate>Wed, 18 Feb 2026 13:29:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Marissa/Rathbone/2026-02-18 13:29:17</guid>
+		</item>
+		<item>
+			<title>👍Misha Cherniske - Office of Superintendent of Public Instruction</title>
+			<description>Misha Cherniske signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction.</description>
+			<pubDate>Wed, 18 Feb 2026 16:12:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Misha/Cherniske/2026-02-18 16:12:23</guid>
 		</item>
 	</channel>
 </rss>

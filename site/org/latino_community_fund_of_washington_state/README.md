@@ -37,6 +37,9 @@
 
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍2  
 
+### [HB 1916](/bill/2025-26/hb/1916/) - Voter registrations 👍1  
+* 👍 Lilliane Ballesteros
+
 ### [HB 1987](/bill/2025-26/hb/1987/) - Food security strategy 👍1  
 
 ### [HB 2039](/bill/2025-26/hb/2039/) - Child support pass through  👎1 
@@ -62,7 +65,7 @@
 
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍2  
 
-### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍1  
+### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍2  
 * 👍💵 Jake García
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
@@ -120,7 +123,7 @@
 
 ### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍1  
 
-### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍2  
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
 
@@ -135,16 +138,16 @@
 
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 
-### [SB 6178](/bill/2025-26/sb/6178/) - Prop. insurance assignments 👍1  
+### [SB 6178](/bill/2025-26/sb/6178/) - Prop. insurance assignments 👍2  
 
 ### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍3  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍4  
 * 👍💵 Jake García
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍3  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍4  
 * 👍💵 Jake García
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  

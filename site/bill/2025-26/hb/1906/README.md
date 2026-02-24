@@ -12,18 +12,30 @@
 ### Tue 02/24 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1906 Water system rates
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Bill Clarke - WA PUD Association
+* Kevin Van De Wege - Thurston PUD
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Charlie Brown - Northwest Natural
+* 💵Christine Brewer - Washington Water Service
 
 ### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): 2SHB 1906 Water system rates
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Kevin Van De Wege - Thurston PUD
+* 💵Bill Clarke - WA PUD Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Charlie Brown - Northwest Natural
+* 💵Christine Brewer - Washington Water Service
 
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 1906 Water system rates
 #### 2 👍 - Pro

@@ -13,6 +13,9 @@
 ### [HB 2168](/bill/2025-26/hb/2168/) - Overdose mapping information 👍1  
 * 👍 MD, Scott Phillips
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
+* 👎 Dr. Scott Phillips
+
 ### [HB 2291](/bill/2025-26/hb/2291/) - Kratom   ❓1
 * ❓ Dr. Jimmy Leonard
 

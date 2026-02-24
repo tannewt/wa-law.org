@@ -18,11 +18,19 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): E2SHB 1750 Voting rights act claims
-#### 148 👍 - Pro
+#### 482 👍 - Pro
+Testifying:
+* 💵Alex Hur - OneAmerica
+* Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
-#### 0 👎 - Con
+#### 1004 👎 - Con
+Testifying:
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Linda Farmer - WSACA Legislative Co Chair
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1750 Voting rights act claims
 #### 473 👍 - Pro

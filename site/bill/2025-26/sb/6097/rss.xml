@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6097/</link>
 		<description>Updates about SB 6097</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Feb 2026 09:16:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -93,6 +93,30 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-17/First reading, referred to Agriculture &amp; Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍Joe Sambataro - Tulalip Tribes of Washington</title>
+			<description>Joe Sambataro signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/tulalip_tribes_of_washington/"&gt;Tulalip Tribes of Washington&lt;/a&gt;.</description>
+			<pubDate>Thu, 19 Feb 2026 13:05:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Sambataro/2026-02-19 13:05:03</guid>
+		</item>
+		<item>
+			<title>👍Mo McBroom - King County</title>
+			<description>Mo McBroom signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/king_county/"&gt;King County&lt;/a&gt;.</description>
+			<pubDate>Fri, 20 Feb 2026 08:58:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mo/McBroom/2026-02-20 08:58:25</guid>
+		</item>
+		<item>
+			<title>👍Kristi England - Forterra</title>
+			<description>Kristi England signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/forterra/"&gt;Forterra&lt;/a&gt;.</description>
+			<pubDate>Mon, 23 Feb 2026 09:16:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kristi/England/2026-02-23 09:16:01</guid>
 		</item>
 	</channel>
 </rss>

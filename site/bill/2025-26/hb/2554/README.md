@@ -11,9 +11,12 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 2554 Tribal fishing rights
-#### 0 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* Jim Woods - WDFW
+* Joe Panesko - Washington State Office of the Attorney General
 
-#### 0 👎 - Con
+#### 125 👎 - Con
 
 #### 0 ❓ - Other
 

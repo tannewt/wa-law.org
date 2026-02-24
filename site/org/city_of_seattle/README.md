@@ -10,7 +10,7 @@
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍3  
 
 ### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases 👍1  
 
@@ -97,6 +97,8 @@
 ### [HB 1657](/bill/2025-26/hb/1657/) - Washington 13 free guarantee 👍1  
 * 👍 Brittany Ota-Malloy
 
+### [HB 1687](/bill/2025-26/hb/1687/) - Social housing authorities 👍1  
+
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 
 ### [HB 1714](/bill/2025-26/hb/1714/) - Small business risk pooling 👍1  
@@ -148,21 +150,21 @@
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
 
-### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
+### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍2  
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍2  
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
 
 ### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍2  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
 
 ### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍1  
 
@@ -171,7 +173,7 @@
 ### [HB 2297](/bill/2025-26/hb/2297/) - Grocery store incentives 👍1  
 * 👍 Lylianna Allala
 
-### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍2  
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍3  
 * 👍 Rico Quirindongo
 
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
@@ -188,7 +190,7 @@
 
 ### [HB 2411](/bill/2025-26/hb/2411/) - Shared leave 👍1  
 
-### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍2  
 
 ### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy 👍1  
 
@@ -206,7 +208,7 @@
 
 ### [HB 2610](/bill/2025-26/hb/2610/) - Nonprofit housing providers 👍1  
 
-### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍1  
+### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍2  
 
 ### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
 
@@ -237,6 +239,8 @@
 
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
 
+### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
+
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍2  
@@ -263,6 +267,8 @@
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
+### [SB 5374](/bill/2025-26/sb/5374/) - Transportation/tribal rep. 👍1  
+
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
@@ -270,6 +276,8 @@
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
+
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍3  
 
@@ -305,22 +313,25 @@
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
-### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
-### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
+### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍2  
 
-### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
+### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍2  
+* 👍 Erika Evans
 * 👍 Erika Evans
 
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍3  
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍2  
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍2  
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍3  
 
 ### [SB 5992](/bill/2025-26/sb/5992/) - Youth development fund 👍1  
+
+### [SB 5995](/bill/2025-26/sb/5995/) - Zero emission cargo handling 👍1  
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
 
@@ -334,7 +345,9 @@
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
-### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
+
+### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍2  
 
 ### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍1  
 
@@ -349,6 +362,8 @@
 ### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
 
 ### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
+
+### [SB 6309](/bill/2025-26/sb/6309/) - High cap. transit permits 👍1  
 
 ### [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍1  
 

@@ -8,13 +8,16 @@
 
 ## Meetings
 ### Mon 02/23 04:00 PM - Transportation (TR): PSHB 2711 - Concerning transportation resources. (Remote Testimony Available).
-Sign up to testify:
+#### 6 👍 - Pro
+Testifying:
+* 💵Dennis Eagle - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 0 👍 - Pro
+#### 46 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Charlie Power - RV Country
+* Kevin Carl - Fife RV Center
 
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 2711 Transportation resources
 #### 0 👍 - Pro

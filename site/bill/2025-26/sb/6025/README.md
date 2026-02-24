@@ -8,9 +8,15 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): SB 6025 Definition of fetal death
-#### 0 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* ARNP, Rachel Johnson CNM
+* Dr. Alson Burke - ACOG - WA Section
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
 
-#### 1 👎 - Con
+#### 395 👎 - Con
+Testifying:
+* Eric Lundberg
 
 #### 0 ❓ - Other
 

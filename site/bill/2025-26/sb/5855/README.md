@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=SSB%205855)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February legislative update - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/02/19/february-legislative-update/#:~:text=5855)
 * 02/18/2026 [KING5](/org/king5/) - [Bill banning masked law enforcement gets public hearing in Olympia | king5.com](https://www.king5.com/article/news/politics/masked-law-enforcement-bill-public-hearing-house/281-b902a2e9-5d46-4107-9b24-02bd8973595e#:~:text=Senate%20Bill%205855)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SSB%205855)
@@ -67,19 +68,30 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5855 Law enf. face coverings
-#### 360 👍 - Pro
+#### 1512 👍 - Pro
 Testifying:
 * Rachael Snell
+* Steve Albrecht
+* Armaan Chandnani - Washington High School Democrats
+* Nathan Olson - Governor's Office
+* Leesa Manion - King County Prosecuting Attorney's Office
+* Joe Vinson - City of SeaTac Councilmember
+* County Comm. Carolina Mejia
+* 💵Mahmood Alkhazraji - ASCWU
+* Chris Bloomquist
 
-#### 138 👎 - Con
+#### 1475 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Laurie Layne
+* Noah Meehan - Washington State Young Republicans
+* David Engell
 
-#### 3 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Cobi Clark
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5855 Law enf. face coverings
 #### 14718 👍 - Pro

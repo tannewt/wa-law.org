@@ -11,11 +11,18 @@
 ### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5520 Wrongly convicted persons
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 54 👍 - Pro
+Testifying:
+* 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
+* Ted Bradford
 
-#### 0 👎 - Con
+#### 257 👎 - Con
+Testifying:
+* Jaime Taft
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jordan Coleman
 
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 5520 Wrongly convicted persons
 #### 39 👍 - Pro

@@ -9,9 +9,12 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): SHB 2339 Nursing
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* /s/Mary Sue Gorski - Washington State Nursing Care Quality Assurance Commission
+* PhD, ARNP, FNP-BC, Louise Kaplan - ARNPs United of Washington State (AUWS)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

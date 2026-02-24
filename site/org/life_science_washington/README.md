@@ -32,15 +32,16 @@
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 
-## [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎2 
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎3 
 * 👎💵 Curtis Knapp
 * 👎💵 Curtis Knapp
+* 👎💵 Curtis Knapp
+
+## [SB 6321](/bill/2025-26/sb/6321/) - Scientific research   ❓1
 
 ## 2023-24
 
-### [SB 5981](/bill/2023-24/sb/5981/) - 340B drug pricing program  👎2 
-* 👎💵 Curtis Knapp
-* 👎💵 Curtis Knapp
+### [SB 6321](/bill/2023-24/sb/6321/) - Scientific research   ❓1
 
 ### [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board  👎1 
 * 👎💵 Marc Cummings

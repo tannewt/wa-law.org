@@ -18,9 +18,13 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): 2SSB 5968 Permitting and licensing
-#### 0 👍 - Pro
+#### 47 👍 - Pro
+Testifying:
+* Beau Perschbacher - Governor's Office
+* 💵Emily Wittman - Association of WA Business
+* 💵Heather Kurtenbach - Washington State Building Trades
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

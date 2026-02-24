@@ -8,9 +8,11 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Agriculture and Natural Resources (AGNR): SB 5816 Sale of juice grapes
-#### 0 👍 - Pro
+#### 48 👍 - Pro
+Testifying:
+* David Golladay
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

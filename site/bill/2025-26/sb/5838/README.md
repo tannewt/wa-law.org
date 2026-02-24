@@ -16,13 +16,23 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Agriculture and Natural Resources (AGNR): ESSB 5838 Board of natural resources
-#### 4 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
+* Glenda Breiler - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Tyson Johnston - Tribal Council, Quinault Indian Nation
+* Council Jeremy Takala - Yakama Nation
+* Jarred-Michel Erickson - Confederated Tribes of the Colville Reservation
 
-#### 4 👎 - Con
+#### 130 👎 - Con
+Testifying:
+* Todd Myers - Washington Policy Center
+* John Worthington
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Josh Weiss - Skagit County and the Clallam Economic Alliance
 
 ### Mon 01/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5838 Board of natural resources
 #### 33 👍 - Pro

@@ -9,17 +9,25 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%205925)
 * 02/04/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: The dangers of AG Nick Brown's agency request bills | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_15741b7a-9a99-433d-99dd-912daead2d40.html#:~:text=SB-5925)
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 5925 AGO investigation powers
-#### 1 👍 - Pro
+#### 228 👍 - Pro
+Testifying:
+* Chalia Stallings-Ala'ilima - Attorney General Office
 
-#### 3 👎 - Con
+#### 784 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Preston McCollam - Spokane Prosecuting Attorney
+* Jeannie Magdua
+* Ryan Lufkin - WACOPS - Washington Council of Police and Sheriffs
+* Eric Lundberg
+* Ron Bemis
 
-#### 0 ❓ - Other
+#### 30 ❓ - Other
 
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 5925 AGO investigation powers
 #### 600 👍 - Pro

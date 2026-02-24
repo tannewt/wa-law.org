@@ -26,6 +26,19 @@
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [El procurador general Brown, en colaboración con legisladores estatales, propone la Ley de Protección a Trabajadores Inmigrantes | Washington State](http://www.atg.wa.gov/news/news-releases/el-procurador-general-brown-en-colaboraci-n-con-legisladores-estatales-propone#:~:text=HB%202105)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Ways & Means (WM): 2SHB 2105 Immigrant workers
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 34 👎 - Con
+Testifying:
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
+
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2105 Immigrant workers
 #### 922 👍 - Pro
 Testifying:

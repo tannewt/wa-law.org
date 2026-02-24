@@ -49,6 +49,9 @@
 
 ### [HB 2185](/bill/2025-26/hb/2185/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓ William Hairston
+
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍2  
 
 ### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
@@ -97,11 +100,14 @@
 
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎3 
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍3  
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍2  
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍2  
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Giannina Ferrara
 
 ### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍2  
 

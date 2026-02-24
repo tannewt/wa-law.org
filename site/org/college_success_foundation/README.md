@@ -24,12 +24,12 @@
 
 ### [SB 5828](/bill/2025-26/sb/5828/) - College scholarships/private 👍2  
 
-## [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
+## [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍2  
 * 👍 Yokiko Hayashi-saguil
 
 ## 2023-24
 
-### [SB 5963](/bill/2023-24/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
+### [SB 5963](/bill/2023-24/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍2  
 * 👍 Yokiko Hayashi-saguil
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  

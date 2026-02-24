@@ -13,11 +13,18 @@
 
 ## Meetings
 ### Mon 02/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): ESB 5890 Reckless driving, speed
-Sign up to testify:
+#### 269 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Mark McKechnie - Washington Traffic Safety Commission
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Chad Campbell - IUOE Local 612
+* Thomas DuBeau - Operating Engineers, IUOE Local 302
+* Jerry VanderWood - Associated General Contractors (AGC)
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 21 👎 - Con
+Testifying:
+* JJ Hodgins - Washington Association of Criminal Defense Lawyers & Washington Defender Association
 
 #### 0 ❓ - Other
 

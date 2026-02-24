@@ -86,9 +86,11 @@
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍3  
 
-### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍1  
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍2  
+* 👍 Alison McCaffree
 
-### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍1  
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍2  
+* 👍 Alison McCaffree
 
 ### [HB 1815](/bill/2025-26/hb/1815/) - Prison riot offenses 👍1  
 
@@ -96,6 +98,8 @@
 * 👍 Alison McCaffree
 
 ### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍1  
+
+### [HB 2123](/bill/2025-26/hb/2123/) - Foreign nationals/elections 👍1  
 
 ### [HB 2129](/bill/2025-26/hb/2129/) - Fortifying agritourism. 👍1  
 
@@ -108,6 +112,9 @@
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
 * 👍 Ann Murphy
+
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+* 👍 Phyllis Farrell
 
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍2  
 * 👍 Alison McCaffree
@@ -125,6 +132,8 @@
 
 ### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍2  
 
+### [HB 2343](/bill/2025-26/hb/2343/) - Game farm/water quality 👍1  
+
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
 
 ### [HB 2384](/bill/2025-26/hb/2384/) - Continuing care retirement 👍1  
@@ -135,7 +144,8 @@
 
 ### [HB 2463](/bill/2025-26/hb/2463/) - Farmers/food programs 👍1  
 
-### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍2  
+* 👍 Lydia Zepeda
 * 👍 Lydia Zepeda
 
 ### [HB 2499](/bill/2025-26/hb/2499/) - Conservation districts 👍1  
@@ -146,7 +156,7 @@
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
 * 👍 Lydia Zepeda
 
-### [HB 2619](/bill/2025-26/hb/2619/) - Agriculture regulations   ❓1
+### [HB 2619](/bill/2025-26/hb/2619/) - Agriculture regulations  👎1 ❓1
 
 ### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making  👎1 
 
@@ -199,7 +209,8 @@
 
 ### [SB 5342](/bill/2025-26/sb/5342/) - Legislators/state facilities 👍2  
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍1  ❓1
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍2  ❓1
+* 👍 Ann Murphy
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍4  
 * 👍 Dee Anne Finken
@@ -218,6 +229,8 @@
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
 
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
+
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍2  
 
 ### [SB 5551](/bill/2025-26/sb/5551/) - School library info and tech 👍1  
@@ -233,17 +246,19 @@
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍2  
 * 👍 Ann Murphy
 
-### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍2  
+### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍3  
 * 👍 Phyllis Farrell
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
 * 👍 Alison McCaffree
 
-### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎2 
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎3 
+* 👎 Ann Murphy
 
 ### [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags  👎1 
 
-### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  ❓1
+### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  ❓2
+* ❓ Alison McCaffree
 
 ### [SB 6104](/bill/2025-26/sb/6104/) - Agriculture impacts   ❓1
 
@@ -257,6 +272,8 @@
 
 ### [SB 6174](/bill/2025-26/sb/6174/) - Textile producers 👍1  
 
+### [SB 6222](/bill/2025-26/sb/6222/) - Students/surplus technology 👍1  
+
 ### [SB 6271](/bill/2025-26/sb/6271/) - Mattress producer resp. 👍1  
 
 ### [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
@@ -266,13 +283,15 @@
 
 ### [SB 6313](/bill/2025-26/sb/6313/) - Capitol centennial account 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 * 👍 Karen Crowley
+* 👍 Karen Crowley
+
+## [SB 6353](/bill/2025-26/sb/6353/) - Working conn. child care  👎1 
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
-* 👍 Karen Crowley
+### [SB 6353](/bill/2023-24/sb/6353/) - Working conn. child care  👎1 
 
 ### [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption  👎1 ❓1
 * ❓ Sherri Dysart

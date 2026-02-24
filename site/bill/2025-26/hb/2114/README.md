@@ -12,11 +12,12 @@
 
 ## Meetings
 ### Mon 02/23 04:00 PM - Transportation (TRAN): SHB 2114 Defective license plates
-Sign up to testify:
+#### 276 👍 - Pro
+Testifying:
+* Marianne Nichols - Pend Oreille County Auditor
+* Thad Duvall - Douglas County Auditor/ Licensing Co-Chair Washington State Association of County Auditors
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

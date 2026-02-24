@@ -10,11 +10,20 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): ESHB 2247 Veterinarian relationship
-#### 0 👍 - Pro
+#### 276 👍 - Pro
+Testifying:
+* 💵Brittany Benesi - ASPCA
+* Donna DeBonis
+* Zarah Gaeta - Seattle Veterinary Outreach
+* Dr. Jen Stonequist - Kitsap Humane Society
+* Katie Jarl - PETS Partnership for Expanded Telemedicine Services
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Amber Itle - WSDA State Veterinarian
+* 💵Greg Hanon - Washington State Veterinary Medical Assoc.
 
 ### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 2247 Veterinarian relationship
 #### 1303 👍 - Pro

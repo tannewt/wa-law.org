@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2532/</link>
 		<description>Updates about HB 2532</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Feb 2026 08:48:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -184,6 +184,46 @@
 			<pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-13/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>👍Vice Chairwoman Loni Greninger - Jamestown S'Klallam Tribe</title>
+			<description>Vice Chairwoman Loni Greninger signed up to testify Pro. They are signed up to represent Jamestown S'Klallam Tribe.</description>
+			<pubDate>Wed, 18 Feb 2026 12:20:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vice Chairwoman Loni/Greninger/2026-02-18 12:20:54</guid>
+		</item>
+		<item>
+			<title>👍Councilmember Irene Carper - The Suquamish Tribe</title>
+			<description>Councilmember Irene Carper signed up to testify Pro. They are signed up to represent The Suquamish Tribe.</description>
+			<pubDate>Wed, 18 Feb 2026 17:01:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Councilmember Irene/Carper/2026-02-18 17:01:25</guid>
+		</item>
+		<item>
+			<title>👍Jeffrey Riggins - The Suquamish Tribe</title>
+			<description>Jeffrey Riggins signed up to testify Pro. They are signed up to represent The Suquamish Tribe.</description>
+			<pubDate>Wed, 18 Feb 2026 17:01:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeffrey/Riggins/2026-02-18 17:01:25</guid>
+		</item>
+		<item>
+			<title>👍Emily Hobart - Washington State Dental Association</title>
+			<description>Emily Hobart signed up to testify Pro. They are signed up to represent Washington State Dental Association.</description>
+			<pubDate>Thu, 19 Feb 2026 07:25:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Hobart/2026-02-19 07:25:26</guid>
+		</item>
+		<item>
+			<title>👍Teagan Levine - Washington State Dental Association</title>
+			<description>Teagan Levine signed up to testify Pro.</description>
+			<pubDate>Thu, 19 Feb 2026 08:48:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Teagan/Levine/2026-02-19 08:48:39</guid>
 		</item>
 	</channel>
 </rss>

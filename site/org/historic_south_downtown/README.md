@@ -1,10 +1,11 @@
 # Historic South Downtown
 ## 2025-26
 
-### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍11  
+### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍15  
 * 👍 Kathleen Barry Johnson
 * 👍 Kathleen Barry Johnson
 * 👍 Amy Chen Lozano
+* 👍 Kathleen Barry Johnson
 
 ### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
 

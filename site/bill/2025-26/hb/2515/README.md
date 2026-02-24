@@ -22,11 +22,53 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 2515 Large energy use facilities
-#### 0 👍 - Pro
+#### 624 👍 - Pro
+Testifying:
+* 💵Logan Bahr - Tacoma Power/Tacoma Public Utilities
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Zachariah Baker - NW Energy Coalition
+* Council Jeremy Takala - Yakama Nation
+* Lauren Redfield
+* Al French - 1116 w Broadway Ave
+* 💵Emily Moore - [Sightline Institute](/org/sightline_institute/)
+* Emily Johnston
+* Chris Wilke - Center for Environmental Law and Policy
+* Neal Anderson
+* Mckenna Beck - NRDC
+* Colby Stice
+* Daniel Lee
+* Michael Werden
+* Riya Joshi
+* Waylon Leng
+* Carlos Yosten - West Sound Democratic Socialists of America, Co-Chair
+* Aja DeCoteau - Columbia River Inter-Tribal Fish Commission
+* Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)
+* Lisa Ganuelas - Confederated Tribes of the Umatilla Indian Reservation - Trustee
 
-#### 0 👎 - Con
+#### 931 👎 - Con
+Testifying:
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Dan Diorio - Data Center Coalition
+* John Roskelley
+* 💵Josie Cummings - Avista
+* 💵Jay Balasbas - Sabey Data Center Properties
+* 💵Patrick Boss - [Port of Quincy](/org/port_of_quincy/)
+* 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
 
-#### 0 ❓ - Other
+#### 12 ❓ - Other
+Testifying:
+* Ryan Collins - Snohomish PUD
+* Kas Guillozet - BEF
+* Vice Chairman Ashton Picard - [Nez Perce Tribe](/org/nez_perce_tribe/)
+* Ruth Ewald
+* 💵Dave Warren - Klickitat PUD
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Joel Creswell - Washington Department of Ecology
+* Austin Scharff - Washington State Department of Commerce
+* 💵Bill Clarke - Grant County PUD
 
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2515 Large energy use facilities
 #### 618 👍 - Pro

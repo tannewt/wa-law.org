@@ -12,7 +12,11 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): ESB 5649 Supply chain competitiveness
-#### 5 👍 - Pro
+#### 164 👍 - Pro
+Testifying:
+* Cassie Losey - Port of Benton
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Katharine Frazier - [Port of Port Angeles](/org/port_of_port_angeles/)
 
 #### 0 👎 - Con
 

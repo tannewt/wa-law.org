@@ -14,9 +14,11 @@
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SB 6044 Diwali and Bandi Chhor Divas
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* Jasmit Singh - Khalsa Gurmat Center
 
-#### 0 👎 - Con
+#### 47 👎 - Con
 
 #### 0 ❓ - Other
 

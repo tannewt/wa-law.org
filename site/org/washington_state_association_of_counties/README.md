@@ -173,16 +173,21 @@
 ### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties 👍1  
 * 👍💵 Paul Jewell
 
-### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 ❓1
 * 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
+* ❓💵 Paul Jewell
 
-### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍4  
+* 👍💵 Curtis Steinhauer
 * 👍💵 Curtis Steinhauer
 * 👍💵 Curtis Steinhauer
 
 ### [HB 1742](/bill/2025-26/hb/1742/) - Urban design/environment 👍1  
 * 👍💵 Kelsey Hulse
+
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims   ❓1
+* ❓💵 Paul Jewell
 
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍2  
 * 👍💵 Paul Jewell
@@ -193,6 +198,8 @@
 
 ### [HB 1818](/bill/2025-26/hb/1818/) - Administration of plats   ❓1
 * ❓💵 Curtis Steinhauer
+
+### [HB 1823](/bill/2025-26/hb/1823/) - Transp. improvement board 👍1  
 
 ### [HB 1840](/bill/2025-26/hb/1840/) - Middle housing 👍1  
 * 👍 BRIAN ENSLOW
@@ -228,9 +235,10 @@
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Paul Jewell
 
-### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍3  
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍4  
 * 👍💵 Curtis Steinhauer
 * 👍💵 Kelsey Hulse
+* 👍💵 Curtis Steinhauer
 * 👍💵 Curtis Steinhauer
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
@@ -239,6 +247,9 @@
 ### [HB 2018](/bill/2025-26/hb/2018/) - Solid waste/local government 👍2  
 * 👍💵 Travis Dutton
 * 👍💵 Paul Jewell
+
+### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement   ❓1
+* ❓💵 Paul Jewell
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
@@ -281,12 +292,16 @@
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 
+### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
+* 👍💵 Curtis Steinhauer
+
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍3  
 * 👍💵 Travis Dutton
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  ❓2
 * ❓💵 Curtis Steinhauer
 * 👍💵 Travis Dutton
+* ❓💵 Paul Jewell
 
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
 * ❓💵 Axel Swanson
@@ -297,7 +312,8 @@
 ### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍1  
 * 👍💵 Travis Dutton
 
-### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍2  
+* 👍💵 Axel Swanson
 * 👍💵 Axel Swanson
 
 ### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas.   ❓1
@@ -314,13 +330,15 @@
 
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
 
-### [HB 2418](/bill/2025-26/hb/2418/) - Permit review  👎1 
+### [HB 2418](/bill/2025-26/hb/2418/) - Permit review  👎1 ❓1
 * 👎💵 Kelsey Hulse
+* ❓💵 Curtis Steinhauer
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 * 👍💵 Axel Swanson
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍2  
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍3  
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
@@ -375,6 +393,8 @@
 * ❓💵 Travis Dutton
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
+
+### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
 
 ### [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
 * 👍💵 Paul Jewell
@@ -439,9 +459,15 @@
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 * 👎💵 Kelsey Hulse
 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
+* 👎💵 Kelsey Hulse
+
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
 
 ### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
+
+### [SB 5374](/bill/2025-26/sb/5374/) - Transportation/tribal rep.   ❓1
+* ❓💵 Axel Swanson
 
 ### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎1 
 * 👎💵 Paul Jewell
@@ -481,6 +507,8 @@
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 * 👍 BRIAN ENSLOW
+
+### [SB 5552](/bill/2025-26/sb/5552/) - Kit homes/building codes 👍1  
 
 ### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
 * 👍 BRIAN ENSLOW
@@ -546,7 +574,8 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
-### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources   ❓1
+### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources   ❓2
+* ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 
 ### [SB 5839](/bill/2025-26/sb/5839/) - County ferry districts 👍1  
@@ -560,7 +589,8 @@
 ### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax   ❓1
 * ❓💵 Paul Jewell
 
-### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍2  
+* 👍💵 Curtis Steinhauer
 * 👍💵 Curtis Steinhauer
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders  👎2 
@@ -569,6 +599,10 @@
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags   ❓1
 * ❓💵 Travis Dutton
+
+### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb.  👎2 
+* 👎💵 Paul Jewell
+* 👎💵 Travis Dutton
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Curtis Steinhauer
@@ -586,7 +620,8 @@
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
 * ❓💵 Curtis Steinhauer
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
+* 👍💵 Curtis Steinhauer
 * 👍💵 Curtis Steinhauer
 
 ### [SB 6028](/bill/2025-26/sb/6028/) - Homeownership dev. loans 👍1  
@@ -596,6 +631,9 @@
 
 ### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones   ❓1
 * ❓💵 Axel Swanson
+
+### [SB 6113](/bill/2025-26/sb/6113/) - Tax administration   ❓1
+* ❓💵 Paul Jewell
 
 ### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
 
@@ -639,12 +677,14 @@
 ### [SB 6335](/bill/2025-26/sb/6335/) - Transportation commission   ❓1
 * ❓💵 Axel Swanson
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓1
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓2
+* ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires   ❓1
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires   ❓2
+* ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  

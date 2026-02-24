@@ -7,7 +7,8 @@
 ### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
 * 👍 LaDessa Croucher
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+* ❓ LaDessa Croucher
 * ❓ LaDessa Croucher
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
@@ -19,7 +20,8 @@
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 * 👍 LaDessa Croucher
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
+* ❓ LaDessa Croucher
 * ❓ LaDessa Croucher
 
 ## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  

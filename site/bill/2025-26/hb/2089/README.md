@@ -18,11 +18,18 @@
 ### Tue 02/24 04:00 PM - Ways & Means (WM): SHB 2089 Taxes on loan interest
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 494 👍 - Pro
+Testifying:
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-#### 0 👎 - Con
+#### 843 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 2089 Taxes on loan interest
 #### 295 👍 - Pro

@@ -15,7 +15,8 @@
 ### [HB 1393](/bill/2025-26/hb/1393/) - Commencement/cultural exp. 👍1  
 * 👍 Lauren Mendez
 
-### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍4  
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍5  
+* 👍 Mabel Thackeray
 * 👍 Mabel Thackeray
 * 👍 Mabel Thackeray
 

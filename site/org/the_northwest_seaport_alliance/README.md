@@ -25,7 +25,7 @@
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
 * ❓ Sean Eagan
 
-### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍1  
+### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍2  
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
@@ -49,16 +49,16 @@
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 * 👎 Sean Eagan
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍3  
 
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
 * ❓ Sean Eagan
 
-## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
+## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍2  
 
 ## 2023-24
 
-### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍1  
+### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍2  
 
 ### [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 

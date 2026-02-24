@@ -18,13 +18,41 @@
 
 ## Meetings
 ### Mon 02/23 01:30 PM - Environment & Energy (ENVI): 2ESSB 5360 Environmental crimes
-Sign up to testify:
+#### 684 👍 - Pro
+Testifying:
+* Adam Eitmann - [Office of the Attorney General](/org/office_of_the_attorney_general/)
+* Bill Sherman - [Office of the Attorney General](/org/office_of_the_attorney_general/)
+* Sylvia Miller - Vice Chair, Puyallup Tribal Council
+* Sean Dixon - Puget Soundkeeper
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* Jonathan Grudin
+* Stefanie Stockwell - Communities for a Healthy Bay
 
-#### 0 👍 - Pro
+#### 2033 👎 - Con
+Testifying:
+* Billy Olesen - Washington State Pest Management Association
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
+* W. Jay Gordon - Washington STatate Dairy Federation and self
+* Elaine Oneil - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Van Collins - [American Council of Engineering Companies of Washington](/org/american_council_of_engineering_companies_of_washington/)
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Daniel Himebaugh - [Energy Northwest](/org/energy_northwest/)
+* Amy Wentworth - [Pacific Seafood](/org/pacific_seafood/)
+* David Engell
+* James Tieken - President Spokane Regional Labor Council
+* Marty Hodgson - United Steelworkers
+* Kane Wardle - United Steelworkers District 12
+* Dave Garegnani - IBEW LOCAL 77
+* 💵John Traynor - washington state labor council, afl-cio
+* 💵Joshua Estes - Association of Western Pulp and Paper Workers Union (AWPPW)
+* 💵Tony Sermonti - International Union of Operating Engineers Local 302
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5360 Environmental crimes
 #### 7 👍 - Pro

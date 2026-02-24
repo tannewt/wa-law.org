@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2711/</link>
 		<description>Updates about HB 2711</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Feb 2026 13:40:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,30 @@
 			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-02/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>❓Charlie Power - RV Country</title>
+			<description>Charlie Power signed up to testify Other. They are signed up to represent RV Country.</description>
+			<pubDate>Sat, 21 Feb 2026 11:46:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Charlie/Power/2026-02-21 11:46:36</guid>
+		</item>
+		<item>
+			<title>❓Kevin Carl - Fife RV Center</title>
+			<description>Kevin Carl signed up to testify Other. They are signed up to represent Fife RV Center.</description>
+			<pubDate>Sat, 21 Feb 2026 11:46:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kevin/Carl/2026-02-21 11:46:36</guid>
+		</item>
+		<item>
+			<title>👍💵Dennis Eagle - Washington Federation of State Employees</title>
+			<description>Dennis Eagle signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_federation_of_state_employees/"&gt;Washington Federation of State Employees&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 23 Feb 2026 13:40:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dennis/Eagle/2026-02-23 13:40:39</guid>
 		</item>
 	</channel>
 </rss>

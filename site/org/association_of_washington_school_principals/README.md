@@ -24,6 +24,8 @@
 ### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
 * 👍💵 Roz Thompson
 
+### [HB 1295](/bill/2025-26/hb/1295/) - Reading and writing literacy 👍1  
+
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍3  
 
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
@@ -43,9 +45,10 @@
 
 ### [HB 1734](/bill/2025-26/hb/1734/) - Outdoor learning grants 👍1  
 
-### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  ❓1
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  ❓2
 * ❓💵 Roz Thompson
 * 👍💵 Roz Thompson
+* ❓💵 Roz Thompson
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎1 
 
@@ -65,13 +68,15 @@
 
 ### [HB 2116](/bill/2025-26/hb/2116/) - School enrichment funding 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎3 
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
 
 ### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍1  
 
-### [HB 2636](/bill/2025-26/hb/2636/) - Public education reviews 👍1  
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+
+### [HB 2636](/bill/2025-26/hb/2636/) - Public education reviews 👍2  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -161,7 +166,13 @@
 
 ### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
 
+### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍1  
+
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
+
+### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots   ❓1
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎2 
 
 ### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
 
@@ -171,9 +182,13 @@
 
 ### [SB 6130](/bill/2025-26/sb/6130/) - National voter reg. day 👍1  
 
+### [SB 6222](/bill/2025-26/sb/6222/) - Students/surplus technology 👍1  
+
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 
-### [SB 6278](/bill/2025-26/sb/6278/) - Teacher & principal programs 👍1  
+### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎1 
+
+### [SB 6278](/bill/2025-26/sb/6278/) - Teacher & principal programs 👍2  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍2  
 

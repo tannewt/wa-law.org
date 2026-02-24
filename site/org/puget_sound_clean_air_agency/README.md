@@ -16,8 +16,9 @@
 
 ### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 ❓1
 * 👎 Christine Cooley
+* ❓ Christine Cooley
 
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
 * 👎 Christine Cooley
@@ -32,13 +33,15 @@
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1 👎1 
 * 👎 Christine Cooley
+* 👍 Christine Cooley
+
+## [SB 6354](/bill/2025-26/sb/6354/) - Electric vehicles 👍1  
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.  👎1 
-* 👎 Christine Cooley
+### [SB 6354](/bill/2023-24/sb/6354/) - Electric vehicles 👍1  
 
 ### [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 

@@ -139,7 +139,7 @@
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
-### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility  👎2 
+### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility  👎3 
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration  👎1 
 
@@ -229,7 +229,8 @@
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety  👎1 
 
-### [SB 5917](/bill/2025-26/sb/5917/) - Abortion medications  👎2 
+### [SB 5917](/bill/2025-26/sb/5917/) - Abortion medications  👎4 
+* 👎 Mary Long
 * 👎 Mary Long
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services  👎1 
@@ -237,6 +238,8 @@
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda  👎1 
 
 ### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎2 
+
+### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots  👎1 
 
 ### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services  👎1 ❓1
 * ❓ Julie Barrett

@@ -42,15 +42,17 @@
 ### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍1  
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍5  
-* 👍 Sasha Wasserstrom
+* 👍💵 Sasha Wasserstrom
 
-### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍2  
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍3  
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍3  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
+
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 
@@ -72,7 +74,7 @@
 
 ### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍3  
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 
@@ -82,9 +84,13 @@
 
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
 
-### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍2  
 
 ### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍1  
+
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
+
+### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
@@ -144,13 +150,13 @@
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
-### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍3  
 
-### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍1  
+### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍2  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍3  
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
@@ -160,17 +166,19 @@
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  
+
 ### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
 
 ### [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
 
 ### [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

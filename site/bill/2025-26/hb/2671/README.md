@@ -10,8 +10,10 @@
 ### Wed 02/25 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2671 State financial aid
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Dave Thurman - Northeastern University Seattle
 
-#### 0 👎 - Con
+#### 93 👎 - Con
 
 #### 0 ❓ - Other

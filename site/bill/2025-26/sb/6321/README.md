@@ -8,13 +8,20 @@
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Higher Education & Workforce Development (HEWD): SB 6321 Scientific research
-Sign up to testify:
+#### 861 👍 - Pro
+Testifying:
+* Shelly Sakiyama-Elbert - University of Washington School of Medicine
+* Aaron Pelly
+* Abigail Gambrill
+* Jenna Morris
+* Kasey Girven
+* Lucas O'Bryan
+* Rachel Woods-Robinson
+* 💵Connor Haggerty
 
-#### 0 👍 - Pro
+#### 902 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 4 ❓ - Other
 
 ### Thu 01/29 01:30 PM - Higher Education & Workforce Development (HEWD): SB 6321 Scientific research
 #### 1 👍 - Pro

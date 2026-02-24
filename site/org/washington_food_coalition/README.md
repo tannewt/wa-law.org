@@ -5,16 +5,18 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
 
 ### [HB 2463](/bill/2025-26/hb/2463/) - Farmers/food programs 👍1  
 * 👍 Trish Twomey
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+
+## [SB 6006](/bill/2025-26/sb/6006/) - Food banks/sales tax 👍1  
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍1  
+### [SB 6006](/bill/2023-24/sb/6006/) - Food banks/sales tax 👍1  
 
 ### [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 

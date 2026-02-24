@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6113/</link>
 		<description>Updates about SB 6113</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Feb 2026 18:58:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -219,6 +219,69 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-17/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>👍John Fleckenstein - Student Orchestras of Greater Olympia</title>
+			<description>John Fleckenstein signed up to testify Pro. They are signed up to represent Student Orchestras of Greater Olympia.</description>
+			<pubDate>Sat, 21 Feb 2026 09:24:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Fleckenstein/2026-02-21 09:24:24</guid>
+		</item>
+		<item>
+			<title>❓💵Paul Jewell - Washington State Association of Counties</title>
+			<description>Paul Jewell signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sat, 21 Feb 2026 10:22:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Paul/Jewell/2026-02-21 10:22:19</guid>
+		</item>
+		<item>
+			<title>❓Hunter George - Washington Recreation and Park Association</title>
+			<description>Hunter George signed up to testify Other. They are signed up to represent Washington Recreation and Park Association.</description>
+			<pubDate>Mon, 23 Feb 2026 08:12:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Hunter/George/2026-02-23 08:12:28</guid>
+		</item>
+		<item>
+			<title>❓Jessi Roberts - WA State Independent Auto Dealer Association</title>
+			<description>Jessi Roberts signed up to testify Other. They are signed up to represent WA State Independent Auto Dealer Association.</description>
+			<pubDate>Mon, 23 Feb 2026 10:13:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jessi/Roberts/2026-02-23 10:13:04</guid>
+		</item>
+		<item>
+			<title>❓Danielle Duvall - CREDAWA, The Commercial Real Estate Development Association (Formally NAIOPWA)</title>
+			<description>Danielle Duvall signed up to testify Other. They are signed up to represent CREDAWA, The Commercial Real Estate Development Association (Formally NAIOPWA).</description>
+			<pubDate>Mon, 23 Feb 2026 12:38:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Danielle/Duvall/2026-02-23 12:38:50</guid>
+		</item>
+		<item>
+			<title>❓Patty Belmonte - Hands On Children's Museum</title>
+			<description>Patty Belmonte signed up to testify Other. They are signed up to represent Hands On Children's Museum.</description>
+			<pubDate>Mon, 23 Feb 2026 15:58:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Patty/Belmonte/2026-02-23 15:58:46</guid>
+		</item>
+		<item>
+			<title>❓Lars Myren - Columbia Choirs of Metropolitan Seattle</title>
+			<description>Lars Myren signed up to testify Other. They are signed up to represent Columbia Choirs of Metropolitan Seattle.</description>
+			<pubDate>Mon, 23 Feb 2026 18:08:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lars/Myren/2026-02-23 18:08:59</guid>
+		</item>
+		<item>
+			<title>Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA</title>
+			<description>News article "Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 23 Feb 2026 18:58:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=ESSB%206113</guid>
 		</item>
 	</channel>
 </rss>

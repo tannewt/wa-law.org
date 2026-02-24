@@ -4,17 +4,21 @@
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍2  
 * 👍💵 Jennifer Baker
 
-### [HB 2111](/bill/2025-26/hb/2111/) - Allowing the Interstate 5 bridge replacement project toll facility bond retirement account to receive its proportionate share of earnings. 👍1  
+### [HB 2111](/bill/2025-26/hb/2111/) - Allowing the Interstate 5 bridge replacement project toll facility bond retirement account to receive its proportionate share of earnings. 👍2  
 
 ### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
-## [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
+
+### [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  
+
+## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
 
 ## 2023-24
 
-### [SB 5734](/bill/2023-24/sb/5734/) - Interstate bridge toll bonds 👍1  
+### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍1  
 
 ### [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍6  
 * 👍💵 Jennifer Baker

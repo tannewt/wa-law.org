@@ -11,10 +11,25 @@
 * 02/12/2026 [House Democrats](/org/house_democrats/) - [House Passes “Ryan’s Law,” Restoring Compassion and Dignity to End-of-Life Care – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/12/house-passes-ryans-law-restoring-compassion-and-dignity-to-end-of-life-care/#:~:text=House%20B)
 
 ## Meetings
-### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): SHB 2152 Cannabis/health facilities
-#### 6 👍 - Pro
+### Thu 02/26 01:30 PM - Ways & Means (WM): SHB 2152 Cannabis/health facilities
+Sign up to testify:
+
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): SHB 2152 Cannabis/health facilities
+#### 25 👍 - Pro
+Testifying:
+* Mike Asai - Emerald City Collective
+* Michael Rochlin - American Cannabis Nurses Association (ACNA)
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Dale Rogers - Green Cross Patient CO-OP
+* Bethany Rondeaux - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
+
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

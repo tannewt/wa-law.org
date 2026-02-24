@@ -8,9 +8,11 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Transportation (TR): ESB 5705 Traffic infraction penalties
-#### 3 👍 - Pro
+#### 145 👍 - Pro
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

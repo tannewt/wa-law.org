@@ -12,7 +12,7 @@
 ### Thu 02/26 01:30 PM - Transportation (TR): ESSB 6311 Pedestrian passage
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 12 👍 - Pro
 
 #### 0 👎 - Con
 

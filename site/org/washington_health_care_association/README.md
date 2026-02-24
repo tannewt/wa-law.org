@@ -20,8 +20,9 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax   ❓1
 * ❓ Jeff Gombosky
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 ❓1
 * 👎 Carma Matti-Jackson
+* ❓ Carma Matti-Jackson
 
 ### [HB 2299](/bill/2025-26/hb/2299/) - Independent living ombuds  👎1 
 * 👎 Jeff Gombosky
@@ -52,8 +53,9 @@
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.   ❓1
 * ❓ Jeff Gombosky
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 ❓1
 * 👎 Carma Matti-Jackson
+* ❓ Carma Matti-Jackson
 
 ### [SB 6063](/bill/2025-26/sb/6063/) - DSHS terminology 👍1  
 

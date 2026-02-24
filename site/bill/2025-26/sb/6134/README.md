@@ -10,9 +10,11 @@
 ### Tue 02/24 10:30 AM - Labor & Workplace Standards (LAWS): SB 6134 Striking workers/UI overpay
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 149 👍 - Pro
+Testifying:
+* Elizabeth New - Washington Policy Center
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

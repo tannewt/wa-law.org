@@ -91,7 +91,7 @@
 
 ### [HB 2073](/bill/2025-26/hb/2073/) - Health carrier surpluses 👍1  
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍3  
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Amy Brackenbury
@@ -100,7 +100,7 @@
 
 ### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
 
-### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍2  
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍3  
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
 
@@ -112,9 +112,11 @@
 * 👍 Megan Moore
 * 👍 Megan Moore
 
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
 ### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child  👎1 
 
-### [HB 2532](/bill/2025-26/hb/2532/) - Nitrous oxide sale 👍1  
+### [HB 2532](/bill/2025-26/hb/2532/) - Nitrous oxide sale 👍2  
 
 ### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
 
@@ -143,7 +145,7 @@
 
 ### [SB 5273](/bill/2025-26/sb/5273/) - Concerning the availability of community violence prevention and intervention services. 👍1  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍2  
 
 ### [SB 5335](/bill/2025-26/sb/5335/) - Rural nursing education 👍1  
 
@@ -158,6 +160,8 @@
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
 ### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍2  
+
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
 
@@ -175,6 +179,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5808](/bill/2025-26/sb/5808/) - Health carrier surpluses 👍2  
+
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
@@ -184,7 +190,7 @@
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
 
 ### [SB 5921](/bill/2025-26/sb/5921/) - Psilocybin   ❓1
 
@@ -192,12 +198,14 @@
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
+
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Amy Brackenbury
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 
-### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
+### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍2  
 
 ### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
 
@@ -217,7 +225,7 @@
 ### [SB 6204](/bill/2025-26/sb/6204/) - Home cultivation of cannabis  👎1 
 * 👎💵 Amy Brackenbury
 
-### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍2  
 
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 

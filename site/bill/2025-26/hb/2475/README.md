@@ -12,9 +12,13 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): SHB 2475 Language access
-#### 0 👍 - Pro
+#### 29 👍 - Pro
+Testifying:
+* Patrick Stickney - WA State Office of Equity
+* Joana Ramos - Washington State Coalition for Language Access
+* Paula Fillmore-Sardinas - WA Build Back Black Alliance
 
-#### 0 👎 - Con
+#### 754 👎 - Con
 
 #### 0 ❓ - Other
 

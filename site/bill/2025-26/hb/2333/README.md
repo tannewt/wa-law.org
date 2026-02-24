@@ -15,11 +15,22 @@
 
 ## Meetings
 ### Fri 02/20 02:00 PM - Law & Justice (LAW): 2SHB 2333 Political violence
-#### 0 👍 - Pro
+#### 247 👍 - Pro
+Testifying:
+* Joe Kunzler - NEVER AGAIN MEANS NEVER AGAIN
+* Casey Parks - King County Prosecutor's Office
+* Gary Ernsdorff - King County Prosecutor's Office
+* Louisa Duggan - Vote Mama Lobby
 
-#### 0 👎 - Con
+#### 266 👎 - Con
 
-#### 0 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Jennifer Ritchie - King County Prosecutor's Office
+* Michael Mohandeson - King County Prosecutor's Office
+* Marianne Nichols - Pend Oreille County Auditor and Washington Association of County Auditors
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
+* Sean Flynn - Public Disclosure Commission
 
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2333 Political violence
 #### 7 👍 - Pro

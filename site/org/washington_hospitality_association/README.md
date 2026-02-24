@@ -133,7 +133,8 @@
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 * 👎💵 Andrea Reay
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓2
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓3
+* ❓💵 Andrea Reay
 * ❓💵 Andrea Reay
 * ❓💵 Andrea Reay
 
@@ -169,7 +170,7 @@
 
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content   ❓1
 
-### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
+### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍2  
 * 👍 Sean DeWitz
 
 ### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
@@ -179,6 +180,8 @@
 ### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍2  
 * 👍 Anthony Anton
 * 👍 Anthony Anton
+
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
 
 ### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving  👎1 
 * 👎 Sean DeWitz
@@ -192,7 +195,7 @@
 ### [HB 2465](/bill/2025-26/hb/2465/) - Water recreation facilities 👍1  
 * 👍💵 Samantha Louderback
 
-### [HB 2476](/bill/2025-26/hb/2476/) - Theater licenses/alcohol 👍1  
+### [HB 2476](/bill/2025-26/hb/2476/) - Theater licenses/alcohol 👍2  
 * 👍 Sean DeWitz
 
 ### [HB 2483](/bill/2025-26/hb/2483/) - Data broker registry  👎1 
@@ -309,6 +312,8 @@
 
 ### [SB 5864](/bill/2025-26/sb/5864/) - Concerning verification of motor vehicle insurance. 👍1  
 
+### [SB 5874](/bill/2025-26/sb/5874/) - Unemployment info. reporting 👍1  
+
 ### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources.   ❓1
 * ❓ Jeff Gunn
 
@@ -319,20 +324,22 @@
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍3  
 * 👍💵 Logan Dozier
 
-### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking   ❓2
+### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking 👍1  ❓2
 * ❓💵 Andrea Reay
 
-### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
+### [SB 5949](/bill/2025-26/sb/5949/) - Insurer taxes  👎1 
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags   ❓1
 * ❓💵 Kerry Dolan
 
-### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍1  
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍2  
+* 👍💵 Kerry Dolan
 
 ### [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail 👍1  
 * 👍 Sean DeWitz
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎2 
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎3 
+* 👎💵 Logan Dozier
 * 👎💵 Logan Dozier
 * 👎💵 Logan Dozier
 
@@ -345,10 +352,11 @@
 
 ### [SB 6106](/bill/2025-26/sb/6106/) - Laid-off employees 👍1  
 
-### [SB 6136](/bill/2025-26/sb/6136/) - Industrial insurance rates 👍1  
+### [SB 6136](/bill/2025-26/sb/6136/) - Industrial insurance rates 👍2  
+* 👍💵 Andrea Reay
 * 👍💵 Andrea Reay
 
-### [SB 6137](/bill/2025-26/sb/6137/) - Regulated sports wagering 👍1  
+### [SB 6137](/bill/2025-26/sb/6137/) - Regulated sports wagering 👍2  
 
 ### [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals  👎1 
 
@@ -369,12 +377,14 @@
 
 ### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓1
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓2
+* ❓💵 Andrea Reay
 * ❓💵 Andrea Reay
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires   ❓1
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires   ❓2
+* ❓💵 Andrea Reay
 * ❓💵 Andrea Reay
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  

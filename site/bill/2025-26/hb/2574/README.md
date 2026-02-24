@@ -11,11 +11,15 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): HB 2574 Deceased candidates
-#### 0 👍 - Pro
+#### 118 👍 - Pro
 
-#### 0 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* Chris Roberts
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sharon Hanek
 
 ### Wed 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 2574 Deceased candidates
 #### 143 👍 - Pro

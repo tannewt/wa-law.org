@@ -52,7 +52,8 @@
 
 ### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 
-### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍2  
+* 👍 Tim Hohmann
 
 ### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank 👍1  
 
@@ -64,7 +65,7 @@
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 
-### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍2  
 
 ## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍2  
 

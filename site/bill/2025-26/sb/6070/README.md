@@ -10,19 +10,42 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=E2SSB%206070)
 * 02/11/2026 [Senate Democrats](/org/senate_democrats/) - [MEDIA ADVISORY: We support survivors in this Washington - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/02/11/media-advisory-we-support-survivors-in-this-washington/#:~:text=Senate%20Bill%206070)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [My prime sponsored bills advancing - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/02/06/my-prime-sponsored-bills-advancing/#:~:text=Senate%20Bill%206070)
 * 01/20/2026 [FOX13](/org/fox13/) - [What is a Purple Alert? Proposed WA legislation | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-law-purple-alert#:~:text=Senate%20Bill%206070)
 
 ## Meetings
 ### Mon 02/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): E2SSB 6070 Recovery of missing persons
-Sign up to testify:
+#### 430 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Arzu FOROUGH - Washington Autism Alliance
+* Lucy Fitzgerald - Washington Autism Alliance
+* Jena Lavik-Kennedy
+* Benjamin Milstein
+* Bowen Guo
+* Zohaib Lakhani
+* Geethika Burugupally
+* Jonah Kim
+* Ava Nelson
+* Julie Juri
+* Gary Ernsdorff - King County Prosecutor's Office
+* Adam Olen
+* Thao Hoang
+* Irene Pfister
+* Sarah Childs
+* Yasmeen Waheed - Survivors Inspire Solutions
+* Rae Weston - Freedom Project
+* Emily Carlsen
 
-#### 0 👍 - Pro
+#### 8 👎 - Con
+Testifying:
+* Maya Morales - WA People's Privacy
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jonathan Pincus - The Nexus of Privacy
 
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6070 Recovery of missing persons
 #### 157 👍 - Pro

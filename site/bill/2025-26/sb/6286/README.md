@@ -22,9 +22,13 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SSB 6286 Detention facility fines/DOH
-#### 0 👍 - Pro
+#### 224 👍 - Pro
+Testifying:
+* Anders Ibsen - Mayor, City of Tacoma
+* Melissa Chaudhry
+* Zahid Chaudhry
 
-#### 0 👎 - Con
+#### 865 👎 - Con
 
 #### 0 ❓ - Other
 

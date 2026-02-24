@@ -12,7 +12,9 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Appropriations (APP): SB 6065 School vehicle funds
-#### 1 👍 - Pro
+#### 54 👍 - Pro
+Testifying:
+* Jim Kowalkowski - Rural Education Center
 
 #### 0 👎 - Con
 

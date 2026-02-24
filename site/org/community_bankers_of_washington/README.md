@@ -1,6 +1,9 @@
 # Community Bankers of Washington
 ## 2025-26
 
+### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements  👎1 
+* 👎💵 Brad Tower
+
 ### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
 
 ### [HB 1506](/bill/2025-26/hb/1506/) - Credit union-bank merger/tax 👍3  
@@ -24,8 +27,9 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
 * 👎💵 Brad Tower
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest  👎2 
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest  👎2 ❓1
 * 👎💵 Brad Tower
+* ❓💵 Brad Tower
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 
@@ -67,7 +71,7 @@
 * 👎💵 Brad Tower
 * 👎💵 Brad Tower
 
-### [SB 5831](/bill/2025-26/sb/5831/) - Enacting the uniform mortgage modification act. 👍1  
+### [SB 5831](/bill/2025-26/sb/5831/) - Enacting the uniform mortgage modification act. 👍2  
 
 ## [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission  👎1 
 * 👎💵 Brad Tower

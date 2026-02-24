@@ -45,13 +45,17 @@
 ### [HB 1897](/bill/2025-26/hb/1897/) - Community safety/liability 👍2  
 * 👍💵 Kelly Olson
 
-### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
+### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍4  
 * 👍 Laura Del Villar
+* 👍 Sugam Soni
 
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
 * 👍 Cassia Hershenow
 
 ### [HB 2217](/bill/2025-26/hb/2217/) - Concerning rehabilitative pathways for persons charged with certain felony offenses who have no prior felony convictions in adult criminal court. 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Kelly Olson
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
 
@@ -61,15 +65,23 @@
 
 ### [HB 2457](/bill/2025-26/hb/2457/) - Crime victim penalty assess.  👎1 
 
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+
 ### [HB 2490](/bill/2025-26/hb/2490/) - Ex. medical placement 👍1  
 
-### [HB 2539](/bill/2025-26/hb/2539/) - Inmate funds 👍1  
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
+
+### [HB 2539](/bill/2025-26/hb/2539/) - Inmate funds 👍2  
+* 👍💵 Kelly Olson
 
 ### [HB 2558](/bill/2025-26/hb/2558/) - Mental health sentencing alt  👎1 
 
 ### [HB 2595](/bill/2025-26/hb/2595/) - Collateral attacks/criminal 👍1  
 
-### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎1 
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
+
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
+* 👎 Destiny Moreno
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
 * 👍💵 Anthony Blankenship
@@ -83,13 +95,18 @@
 
 ### [SB 5490](/bill/2025-26/sb/5490/) - Jail searches/gender 👍1  
 
+### [SB 5520](/bill/2025-26/sb/5520/) - Wrongly convicted persons 👍1  
+
 ### [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍2  
 
 ### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍1  
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍3  
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Corey Guilmette
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 

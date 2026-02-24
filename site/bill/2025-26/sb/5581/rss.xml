@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5581/</link>
 		<description>Updates about SB 5581</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 20:19:18 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Feb 2026 18:36:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -286,6 +286,38 @@
 			<pubDate>Fri, 13 Feb 2026 20:19:18 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=ESB%205581</guid>
+		</item>
+		<item>
+			<title>👍Tim Hohmann - City of Bellingham</title>
+			<description>Tim Hohmann signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_bellingham/"&gt;City of Bellingham&lt;/a&gt;.</description>
+			<pubDate>Tue, 17 Feb 2026 10:57:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tim/Hohmann/2026-02-17 10:57:47</guid>
+		</item>
+		<item>
+			<title>❓Tracy Furutani - City of Lake Forest Park Councilmember</title>
+			<description>Tracy Furutani signed up to testify Other. They are signed up to represent City of Lake Forest Park Councilmember.</description>
+			<pubDate>Tue, 17 Feb 2026 15:52:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Tracy/Furutani/2026-02-17 15:52:26</guid>
+		</item>
+		<item>
+			<title>👍💵Bryce Yadon - Transportation Choices Coalition</title>
+			<description>Bryce Yadon signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/transportation_choices_coalition/"&gt;Transportation Choices Coalition&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 17 Feb 2026 16:09:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bryce/Yadon/2026-02-17 16:09:58</guid>
+		</item>
+		<item>
+			<title>👍Vicky Clarke - Washington Bikes</title>
+			<description>Vicky Clarke signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_bikes/"&gt;Washington Bikes&lt;/a&gt;.</description>
+			<pubDate>Tue, 17 Feb 2026 18:36:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vicky/Clarke/2026-02-17 18:36:44</guid>
 		</item>
 	</channel>
 </rss>

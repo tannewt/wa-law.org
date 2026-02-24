@@ -18,9 +18,12 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Education (ED): SSB 6222 Students/surplus technology
-#### 0 👍 - Pro
+#### 245 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

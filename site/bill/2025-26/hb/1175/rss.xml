@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1175/</link>
 		<description>Updates about HB 1175</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Feb 2026 14:25:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -263,6 +263,13 @@
 			<pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-19/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>Seattle clears way for cafes, markets in residential zones - Axios Seattle</title>
+			<description>News article "Seattle clears way for cafes, markets in residential zones - Axios Seattle" from Axios.</description>
+			<pubDate>Wed, 18 Feb 2026 14:25:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2026/02/18/seattle-residential-zoning-cafes-markets-corner-stores#:~:text=House%20Bill%201175</guid>
 		</item>
 	</channel>
 </rss>

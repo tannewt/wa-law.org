@@ -17,9 +17,15 @@
 
 ## Meetings
 ### Thu 02/19 10:30 AM - Law & Justice (LAW): ESHB 2532 Nitrous oxide sale
-#### 1 👍 - Pro
+#### 79 👍 - Pro
+Testifying:
+* Vice Chairwoman Loni Greninger - Jamestown S'Klallam Tribe
+* Councilmember Irene Carper - The Suquamish Tribe
+* Jeffrey Riggins - The Suquamish Tribe
+* Emily Hobart - Washington State Dental Association
+* Teagan Levine
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

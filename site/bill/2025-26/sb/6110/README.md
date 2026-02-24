@@ -8,13 +8,20 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%206110)
+
 ## Meetings
 ### Thu 02/26 01:30 PM - Transportation (TR): ESSB 6110 Electric bicycle, motorcycle
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Tod Petersen
+* Neal Black - Kirkland City Councilmember
+* Lee Lambert - [Washington Bikes](/org/washington_bikes/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -18,12 +18,13 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): 2ESSB 5268 Unlawful firearm possession
-#### 3 👍 - Pro
+#### 210 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
-#### 1 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other
 

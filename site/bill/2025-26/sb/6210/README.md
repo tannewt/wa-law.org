@@ -13,11 +13,24 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): ESSB 6210 Health plan certification
-#### 6 👍 - Pro
+#### 163 👍 - Pro
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner
+* 💵Vicki Lowe
+* Ingrid Ulrey - Washington Health Benefit Exchange
+* Stephany Shackelford - Acrisure
+* 💵Adam Zarrin - Blood Cancer United, formerly the Leukemia & Lymphoma Society
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Kyle Davies - San Juan County Board of Health
 
-#### 0 👎 - Con
+#### 832 👎 - Con
+Testifying:
+* Andrea Davis - [Coordinated Care](/org/coordinated_care/)
+* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jennifer Brackeen - Washington State Hospital Association
 
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 6210 Health plan certification
 #### 159 👍 - Pro

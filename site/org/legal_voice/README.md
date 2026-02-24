@@ -38,8 +38,11 @@
 
 ### [SB 5826](/bill/2025-26/sb/5826/) - Concerning access at public postsecondary educational institutions to medication abortion. 👍1  
 
-### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍2  
+### [SB 5917](/bill/2025-26/sb/5917/) - Abortion medications 👍1  
+
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍2  ❓1
 * 👍💵 Alizeh Bhojani
+* ❓💵 Alizeh Bhojani
 
 ### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍2  
 

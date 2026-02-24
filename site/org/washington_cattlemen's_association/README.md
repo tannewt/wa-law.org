@@ -22,7 +22,8 @@
 ### [HB 2221](/bill/2025-26/hb/2221/) - Restoring and sustaining healthy ungulate populations.   ❓1
 * ❓💵 Mark Streuli
 
-### [HB 2239](/bill/2025-26/hb/2239/) - Family burial grounds 👍1  
+### [HB 2239](/bill/2025-26/hb/2239/) - Family burial grounds 👍2  
+* 👍💵 Mark Streuli
 * 👍💵 Mark Streuli
 
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC  👎1 
@@ -44,7 +45,7 @@
 ### [SB 5354](/bill/2025-26/sb/5354/) - Gray wolf management 👍1  
 * 👍💵 Mark Streuli
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎4 
 
 ### [SB 5384](/bill/2025-26/sb/5384/) - Riparian programs review 👍1  
 
@@ -66,11 +67,13 @@
 
 ### [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants 👍1  
 
-## [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining  👎2 
+### [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining  👎2 
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
 
 ## 2023-24
 
-### [SB 6117](/bill/2023-24/sb/6117/) - Collective bargaining  👎2 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
 
 ### [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board 👍1  
 

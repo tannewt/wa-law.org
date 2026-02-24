@@ -12,9 +12,15 @@
 ### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 6086 Judicial security
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 52 👍 - Pro
+Testifying:
+* J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration
+* Judge Sean O'Donnell - BJA Court Security Committee
+* Anita Booker-Hay - BIIA Chief Industrial Appeals Judge
+* Bob Battles - BIIA Business Board Member
+* Judge Rebecca Robertson - District & Municipal Court Judges' Association
 
-#### 0 👎 - Con
+#### 184 👎 - Con
 
 #### 0 ❓ - Other
 

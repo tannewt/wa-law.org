@@ -20,11 +20,27 @@
 #### 0 ❓ - Other
 
 ### Wed 02/18 10:30 AM - Housing (HSG): SHB 2452 Rent increase notice service
-#### 0 👍 - Pro
+#### 421 👍 - Pro
+Testifying:
+* William Schneider - Washington Multi-Family Housing Association
+* Matthew Plummer - MVP Property Pros LLC
+* Teresa Warner
+* Nancy Lindley
+* rose Sanderson - IPG
+* Scott Christensen - Sundance MHC LLC
+* CHRISTINE PETIG
+* James Schock - 1514 S Jackson 3
+* Lee Hinds
+* Tavia Doffing
+* Marlene Jensen
+* Brittani Marcoe - Marcoe Management, LLC
+* Daniel Bannon - RHAWA
 
-#### 0 👎 - Con
+#### 11 👎 - Con
 
-#### 0 ❓ - Other
+#### 19 ❓ - Other
+Testifying:
+* William Zimmerman
 
 ### Mon 01/19 01:30 PM - Housing (HOUS): HB 2452 Rent increase notice service
 #### 354 👍 - Pro

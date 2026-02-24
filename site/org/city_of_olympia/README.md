@@ -24,6 +24,10 @@
 
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area. 👍1  
 
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
+
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+
 ### [HB 2530](/bill/2025-26/hb/2530/) - Aquatics/sports PFD deadline 👍1  
 * 👍 Sylvana Niehuser
 
@@ -42,6 +46,8 @@
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 * 👍💵 Paul Berendt
+
+### [SB 6091](/bill/2025-26/sb/6091/) - Real estate/exclusive market 👍1  
 
 ### [SB 6189](/bill/2025-26/sb/6189/) - Aquatics/sports PFD deadline 👍1  
 * 👍 Sylvana Niehuser

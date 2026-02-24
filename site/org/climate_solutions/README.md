@@ -78,7 +78,8 @@
 ### [HB 2141](/bill/2025-26/hb/2141/) - Building codes  👎1 
 * 👎 Deepa Sivarajan
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍2  
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍3  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
@@ -91,9 +92,13 @@
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
 * 👎💵 Leah Missik
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎2 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎2 ❓1
 * 👎💵 Leah Missik
 * 👎💵 Leah Missik
+* ❓💵 Leah Missik
+
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
+* ❓💵 Leah Missik
 
 ### [HB 2330](/bill/2025-26/hb/2330/) - Establishing a prioritization process for capital funding for state campus district energy systems. 👍1  
 
@@ -103,12 +108,13 @@
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities  👎1 
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1 👎1 
 * 👎💵 Leah Missik
 
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍3  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍4  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ### [HB 2537](/bill/2025-26/hb/2537/) - Emissions/trade-exposed 👍1  
@@ -177,13 +183,18 @@
 ### [SB 5932](/bill/2025-26/sb/5932/) - Alternative jet fuel  👎1 
 * 👎💵 Leah Missik
 
-### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍2  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
-### [SB 5995](/bill/2025-26/sb/5995/) - Zero emission cargo handling 👍1  
+### [SB 5995](/bill/2025-26/sb/5995/) - Zero emission cargo handling 👍2  
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 ❓1
 * 👎💵 Leah Missik
+* ❓💵 Altinay Karasapan
+
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
+* ❓💵 Leah Missik
 
 ### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 
@@ -200,14 +211,17 @@
 
 ### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
 
-## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍2  
+### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍3  
 * 👍💵 Leah Missik
+* 👍💵 Leah Missik
+* 👍💵 Leah Missik
+
+## [SB 6354](/bill/2025-26/sb/6354/) - Electric vehicles 👍1  
 * 👍💵 Leah Missik
 
 ## 2023-24
 
-### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed 👍2  
-* 👍💵 Leah Missik
+### [SB 6354](/bill/2023-24/sb/6354/) - Electric vehicles 👍1  
 * 👍💵 Leah Missik
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍2  

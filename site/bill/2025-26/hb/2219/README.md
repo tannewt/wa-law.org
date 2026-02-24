@@ -14,9 +14,12 @@
 
 ## Meetings
 ### Thu 02/19 10:30 AM - Early Learning & K-12 Education (EDU): ESHB 2219 Child care providers
-#### 0 👍 - Pro
+#### 52 👍 - Pro
+Testifying:
+* 💵Alex Galeana - Children's Campaign Fund Action
+* Jordan Crawley - Alki Beach Academy / SEIU 925
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

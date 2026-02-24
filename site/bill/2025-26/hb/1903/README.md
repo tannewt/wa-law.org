@@ -15,11 +15,26 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1903 Low-income energy assistance
-#### 0 👍 - Pro
+#### 228 👍 - Pro
+Testifying:
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Kirsten York - Multi-Service Center
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Dan Fagerlie - President, Ferry PUD #1 Board of Commissioners
 
-#### 0 👎 - Con
+#### 30 👎 - Con
+Testifying:
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 
-#### 0 ❓ - Other
+#### 10 ❓ - Other
+Testifying:
+* 💵Nicolas Garcia - WPUDA
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Dave Pringle - Dept. of Commerce
+* 💵Adán Espino - Franklin PUD
+* Sheri D Nelson - WA Rural Electric Cooperative Assn
 
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 1903 Low-income energy assistance
 #### 1034 👍 - Pro

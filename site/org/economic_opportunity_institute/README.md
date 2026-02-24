@@ -73,9 +73,12 @@
 
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio 👍1  
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓ Sam Hatzenbeler
+
 ### [HB 2292](/bill/2025-26/hb/2292/) - Small business stock gains 👍1  
 
-### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍2  
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍3  
 * 👍 Sam Hatzenbeler
 
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍2  
@@ -83,8 +86,9 @@
 ### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes 👍1  
 * 👍 Sam Hatzenbeler
 
-### [HB 2548](/bill/2025-26/hb/2548/) - Health care market standards 👍1  
+### [HB 2548](/bill/2025-26/hb/2548/) - Health care market standards 👍3  
 * 👍 Sam Hatzenbeler
+* 👍💵 Aaron Keating
 
 ### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
 
@@ -100,7 +104,7 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Sam Hatzenbeler
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍5  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍6  
 
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program   ❓1
 * ❓ Sam Hatzenbeler
@@ -145,6 +149,9 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
+### [SB 5808](/bill/2025-26/sb/5808/) - Health carrier surpluses 👍1  
+* 👍 Sam Hatzenbeler
+
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
 * 👍💵 Traci Underwood
 
@@ -156,6 +163,9 @@
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Sam Hatzenbeler
+
 ### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
 * 👍💵 Helen Ippolito
 
@@ -166,15 +176,20 @@
 
 ### [SB 6229](/bill/2025-26/sb/6229/) - Small business stock gains 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍4  
 * 👍💵 Rian Watt
 * 👍💵 Rian Watt
+* 👍💵 Rian Watt
+* 👍 Sam Hatzenbeler
+
+### [SB 6347](/bill/2025-26/sb/6347/) - Estate tax rates  👎1 
+* 👎💵 Rian Watt
+
+## [SB 6353](/bill/2025-26/sb/6353/) - Working conn. child care  👎1 
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
-* 👍💵 Rian Watt
-* 👍💵 Rian Watt
+### [SB 6353](/bill/2023-24/sb/6353/) - Working conn. child care  👎1 
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Traci Underwood

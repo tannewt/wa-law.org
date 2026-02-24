@@ -8,7 +8,10 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): SB 5877 Anesth. assistant surcharges
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Taylor Bacharach-Nixon - Washington Medical Commission
+* 💵Carolyn Logue - WA Academy of Anesthesiologist Assistants
 
 #### 0 👎 - Con
 

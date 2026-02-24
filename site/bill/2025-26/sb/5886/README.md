@@ -12,9 +12,16 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5886 Personality rights
-#### 20 👍 - Pro
+#### 100 👍 - Pro
+Testifying:
+* 💵Bhargav Iyer - Associated Students of Washington State University
+* Brandon Elliott - Associated Students of the University of Washington
+* Ameer Yarbrough
+* Ameer Yarbrough
+* Jai Jaisimha - Transparency Coalition.ai
+* STEVE WIMMER - Transparency Coalition
 
-#### 0 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other
 

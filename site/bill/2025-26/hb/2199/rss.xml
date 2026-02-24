@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2199/</link>
 		<description>Updates about HB 2199</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Feb 2026 08:52:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -141,6 +141,38 @@
 			<pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-13/First reading, referred to Agriculture &amp; Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍James Weaver - Port of Poulsbo</title>
+			<description>James Weaver signed up to testify Pro. They are signed up to represent Port of Poulsbo.</description>
+			<pubDate>Tue, 17 Feb 2026 05:11:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/Weaver/2026-02-17 05:11:09</guid>
+		</item>
+		<item>
+			<title>👍💵James Cockburn - Washington Public Ports Association</title>
+			<description>James Cockburn signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_public_ports_association/"&gt;Washington Public Ports Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 17 Feb 2026 07:12:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/Cockburn/2026-02-17 07:12:52</guid>
+		</item>
+		<item>
+			<title>👍Mark Trenary - City of Port Orchard Council Member</title>
+			<description>Mark Trenary signed up to testify Pro. They are signed up to represent City of Port Orchard Council Member.</description>
+			<pubDate>Tue, 17 Feb 2026 16:23:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mark/Trenary/2026-02-17 16:23:22</guid>
+		</item>
+		<item>
+			<title>👍Commissioner Heidi Eisenhour - Jefferson County</title>
+			<description>Commissioner Heidi Eisenhour signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/jefferson_county/"&gt;Jefferson County&lt;/a&gt;.</description>
+			<pubDate>Wed, 18 Feb 2026 08:52:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Commissioner Heidi/Eisenhour/2026-02-18 08:52:48</guid>
 		</item>
 	</channel>
 </rss>

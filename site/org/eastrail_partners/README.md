@@ -6,7 +6,7 @@
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 * 👍 Katherine Hollis
 
-### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍2  
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍3  
 
 ## [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
 * 👍 Katherine Hollis

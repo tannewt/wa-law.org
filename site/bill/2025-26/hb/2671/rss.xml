@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2671/</link>
 		<description>Updates about HB 2671</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Feb 2026 12:38:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,14 @@
 			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-26/First reading, referred to Postsecondary Education &amp; Workforce.</guid>
+		</item>
+		<item>
+			<title>👍Dave Thurman - Northeastern University Seattle</title>
+			<description>Dave Thurman signed up to testify Pro. They are signed up to represent Northeastern University Seattle.</description>
+			<pubDate>Fri, 20 Feb 2026 12:38:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dave/Thurman/2026-02-20 12:38:01</guid>
 		</item>
 	</channel>
 </rss>

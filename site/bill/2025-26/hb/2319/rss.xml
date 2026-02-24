@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2319/</link>
 		<description>Updates about HB 2319</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Feb 2026 12:25:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -110,6 +110,14 @@
 			<guid isPermaLink="false">2026-02-13/Third reading, passed; yeas, 72; nays, 22; absent, 0; excused, 4.</guid>
 		</item>
 		<item>
+			<title>👍Cathy Murahashi - The Arc of Washington</title>
+			<description>Cathy Murahashi signed up to testify Pro. They are signed up to represent The Arc of Washington.</description>
+			<pubDate>Mon, 16 Feb 2026 09:45:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cathy/Murahashi/2026-02-16 09:45:13</guid>
+		</item>
+		<item>
 			<title>First reading, referred to Human Services.</title>
 			<description>First reading, referred to Human Services.</description>
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
@@ -122,6 +130,22 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/02/17/house-passes-rep-farivars-bills-to-expand-food-access-update-disability-facility-names-strengthen-transparency-in-rhcs/#:~:text=HB%202319</guid>
+		</item>
+		<item>
+			<title>👍💵Chloe Merino - Disability Rights Washington</title>
+			<description>Chloe Merino signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/disability_rights_washington/"&gt;Disability Rights Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 17 Feb 2026 11:31:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chloe/Merino/2026-02-17 11:31:26</guid>
+		</item>
+		<item>
+			<title>👍SHAWN LATHAM - Self Advocates In Leadership</title>
+			<description>SHAWN LATHAM signed up to testify Pro. They are signed up to represent Self Advocates In Leadership.</description>
+			<pubDate>Tue, 17 Feb 2026 12:25:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/SHAWN/LATHAM/2026-02-17 12:25:26</guid>
 		</item>
 	</channel>
 </rss>

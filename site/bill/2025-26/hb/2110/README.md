@@ -10,14 +10,20 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): ESHB 2110 Specialty care transports
-#### 1 👍 - Pro
+#### 92 👍 - Pro
+Testifying:
+* Shane McGuire - Columbia County Health System
+* Kelly Thompson - Forks Community Hospital
+* Katie Kolan - Washington State Hospital Association (WSHA)
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Laban Molsee
 * Jerid Hilderbrand
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jessica Hauffe - Washington State Nurses Association (WSNA)
 
 ### Tue 01/13 01:30 PM - Health Care & Wellness (HCW): HB 2110 Specialty care transports
 #### 113 👍 - Pro

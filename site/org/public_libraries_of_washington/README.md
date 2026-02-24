@@ -6,6 +6,8 @@
 
 ### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍2  
 
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
+
 ## [SB 5365](/bill/2025-26/sb/5365/) - Library funding alternate 👍1  
 
 ## 2023-24

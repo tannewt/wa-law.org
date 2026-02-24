@@ -26,6 +26,8 @@
 
 ### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  
 
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
+
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
 
 ### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 

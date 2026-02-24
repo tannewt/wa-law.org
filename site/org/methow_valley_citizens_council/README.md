@@ -42,13 +42,17 @@
 
 ### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
+### [HB 1983](/bill/2025-26/hb/1983/) - Timberland definition/REET 👍1  
 
-### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍1  
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍2  
+
+### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍2  
 
 ### [HB 2141](/bill/2025-26/hb/2141/) - Building codes  👎1 
 
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
+
+### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
 
 ### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
 
@@ -64,13 +68,13 @@
 
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍3  
 
-### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍3  
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍5  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍5  
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍2  
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍1  
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍2  
 
 ### [SB 5391](/bill/2025-26/sb/5391/) - Sustainable farms grants 👍2  
 
@@ -94,13 +98,15 @@
 
 ### [SB 5722](/bill/2025-26/sb/5722/) - Local farming grant program 👍1  
 
-### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍2  
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍3  
 
-## [SB 5749](/bill/2025-26/sb/5749/) - Housing opportunity zones 👍1  
+### [SB 5749](/bill/2025-26/sb/5749/) - Housing opportunity zones 👍1  
+
+## [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍1  
 
 ## 2023-24
 
-### [SB 5749](/bill/2023-24/sb/5749/) - Housing opportunity zones 👍1  
+### [SB 5928](/bill/2023-24/sb/5928/) - Wildfire risk models 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
 

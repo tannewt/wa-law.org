@@ -12,7 +12,7 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Human Services (HS): SHB 1390 Community protection program
-#### 0 👍 - Pro
+#### 5 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -11,6 +11,7 @@
 * [Engrossed Third Substitute](S3.E/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=2SHB%201634)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=2SHB%201634)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=2SHB%201634)
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=2SHB%201634)
@@ -25,9 +26,18 @@
 ### Tue 02/24 08:00 AM - Early Learning & K-12 Education (EDU): E3SHB 1634 Behavioral health/schools
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 509 👍 - Pro
+Testifying:
+* Misha Cherniske - Office of Superintendent of Public Instruction
+* Mabel Thackeray - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Erin Wick - Association of Educational Service Districts
+* Kenneth Garcia - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
+* Jayna Muneta
+* Nese Yildirim
 
-#### 0 👎 - Con
+#### 197 👎 - Con
+Testifying:
+* Steven Pearce - Citizens Commission on Human Rights
 
 #### 0 ❓ - Other
 

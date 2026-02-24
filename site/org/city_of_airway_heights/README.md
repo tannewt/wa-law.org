@@ -14,13 +14,17 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 
-### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍2  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓1
+* ❓ Albert Tripp
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎1 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires   ❓1
+* ❓ Albert Tripp
 
 ### [HB 1952](/bill/2023-24/hb/1952/) - Disasters/long-term recovery 👍1  
 

@@ -11,9 +11,11 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): SB 5944 Language access providers
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

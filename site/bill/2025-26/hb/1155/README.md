@@ -19,13 +19,24 @@
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Labor & Commerce (LC): ESHB 1155 Noncompetition agreements
-Sign up to testify:
+#### 26 👍 - Pro
+Testifying:
+* 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
+* Jesse Wing - WA Employment Lawyers Association (WELA)
+* Sung Shin
+* Taifa Harris
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
+* Raquel Sadler - Washington Mental Health Counseling Association
 
-#### 0 👍 - Pro
+#### 829 👎 - Con
+Testifying:
+* 💵James Crandall - AWB
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Rose Feliciano - TechNet
+* 💵Alexa Silver - [Vancouver Clinic](/org/vancouver_clinic/)
 
 ### Wed 01/15 08:00 AM - Labor & Workplace Standards (LAWS): HB 1155 Noncompetition agreements
 #### 54 👍 - Pro

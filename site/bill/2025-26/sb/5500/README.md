@@ -18,11 +18,17 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Appropriations (APP): ESSB 5500 Child care rate model
-#### 73 👍 - Pro
+#### 554 👍 - Pro
+Testifying:
+* Desiree Hall - Early Educator Design Team Member
+* 💵Jennifer Ziegler - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* Kerra Bower - Raze Early Learning Development Center
+* Stephaine Courtney - Shades of Motherhood Network
+* Betsy Williams - Take Up the Cause NW
 
-#### 2 👎 - Con
+#### 136 👎 - Con
 
-#### 0 ❓ - Other
+#### 8 ❓ - Other
 
 ### Tue 02/04 08:00 AM - Early Learning & K-12 Education (EDU): SB 5500 Child care reimburse. rates
 #### 801 👍 - Pro

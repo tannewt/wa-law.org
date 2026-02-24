@@ -15,9 +15,17 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): ESHB 2242 Preventive health services
-#### 5 👍 - Pro
+#### 263 👍 - Pro
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner
+* FAAP (she /her), Cora MD - WCAAP
+* Jay Miler - Tacoma Pierce County Health Department
+* Caitlin Safford - Washington State Office of the Governor
+* Dennis Worsham - Washington State Department of Health
 
-#### 2 👎 - Con
+#### 955 👎 - Con
+Testifying:
+* 💵Robert Runnells - [Informed Choice Washington](/org/informed_choice_washington/)
 
 #### 0 ❓ - Other
 

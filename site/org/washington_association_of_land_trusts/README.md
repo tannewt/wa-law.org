@@ -11,12 +11,18 @@
 
 ### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+### [HB 1983](/bill/2025-26/hb/1983/) - Timberland definition/REET 👍1  
+
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓3
+* ❓ Vanessa Kritzer
 * ❓ Vanessa Kritzer
 * ❓ Vanessa Kritzer
 
-### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  ❓1
 * ❓ Vanessa Kritzer
+* 👍 Vanessa Kritzer
 
 ### [HB 2624](/bill/2025-26/hb/2624/) - Unsolicited real estate tx. 👍1  
 * 👍 Vanessa Kritzer

@@ -84,8 +84,9 @@
 * 👎💵 Morgan Irwin
 * 👎💵 Morgan Irwin
 
-### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎3 
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎4 
 * 👎💵 Morgan Irwin
+* 👎 Max Martin
 * 👎 Max Martin
 
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
@@ -496,7 +497,7 @@
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
-### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
+### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍2  
 * 👍 Max Martin
 
 ### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention  👎1 
@@ -526,7 +527,7 @@
 
 ### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍1  
 
-### [HB 2334](/bill/2025-26/hb/2334/) - Cash transactions/pennies 👍1  
+### [HB 2334](/bill/2025-26/hb/2334/) - Cash transactions/pennies 👍2  
 
 ### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant   ❓2
 * ❓💵 Peter Godlewski
@@ -569,7 +570,7 @@
 
 ### [HB 2503](/bill/2025-26/hb/2503/) - AI training data  👎1 
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎2 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎3 
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
@@ -708,7 +709,8 @@
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development  👎1 
 * 👎💵 Peter Godlewski
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎3 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎4 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
@@ -936,7 +938,7 @@
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
-### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
+### [SB 5949](/bill/2025-26/sb/5949/) - Insurer taxes  👎1 
 * 👎💵 Emily Wittman
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags  👎1 
@@ -947,21 +949,27 @@
 ### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  
 * 👍💵 Emily Wittman
 
-### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍3  
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍4  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
 ### [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail 👍1  
 * 👍 Max Martin
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎2 
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎3 
+* 👎💵 Emily Wittman
 * 👎💵 Emily Wittman
 * 👎💵 Emily Wittman
 
-### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎1 
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots  👎1 
+
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest  👎1 
+* 👎💵 Emily Wittman
 
 ### [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage  👎1 
 
@@ -1017,18 +1025,23 @@
 ### [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants  👎1 
 * 👎💵 Peter Godlewski
 
-### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed  👎1 
+### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed  👎1 ❓1
 * 👎💵 Peter Godlewski
+* ❓💵 Peter Godlewski
 
 ### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓3
 
 ### [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
 
-## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎2 
+### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎2 
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
+* 👎 Max Martin
 
 ## 2023-24
 
-### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use  👎2 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
+* 👎 Max Martin
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

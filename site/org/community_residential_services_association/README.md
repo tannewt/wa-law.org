@@ -25,6 +25,10 @@
 * 👍 Scott Livengood
 * 👍 Jennifer Lengyel
 
+### [HB 2600](/bill/2025-26/hb/2600/) - Supported living cost report  👎2 
+* 👎💵 Melissa Johnson
+* 👎 Randy Hauck
+
 ### [SB 5125](/bill/2025-26/sb/5125/) - Residential services rate 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
@@ -41,15 +45,19 @@
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍2  
 
-## [SB 6024](/bill/2025-26/sb/6024/) - DD res. service providers 👍2  
+## [SB 6024](/bill/2025-26/sb/6024/) - DD res. service providers 👍4  
 * 👍 Scott Livengood
 * 👍 Jennifer Lengyel
+* 👍 Jennifer Lengyel
+* 👍💵 Melissa Johnson
 
 ## 2023-24
 
-### [SB 6024](/bill/2023-24/sb/6024/) - DD res. service providers 👍2  
+### [SB 6024](/bill/2023-24/sb/6024/) - DD res. service providers 👍4  
 * 👍 Scott Livengood
 * 👍 Jennifer Lengyel
+* 👍 Jennifer Lengyel
+* 👍💵 Melissa Johnson
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓💵 Melissa Johnson

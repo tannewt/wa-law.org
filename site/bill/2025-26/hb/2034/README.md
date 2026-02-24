@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [House Democratic Operating Budget Maintains Critical Services, Prepares for the Future – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/house-democratic-operating-budget-maintains-critical-services-prepares-for-the-future/#:~:text=HB%202034)
 * 02/17/2026 [The Center Square](/org/the_center_square/) - [WA House bill raids billions from pension plan while lawmakers also pass record tax hikes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a8e0cc09-4853-4274-995b-bbdeae278a3d.html#:~:text=House%20Bill%202034)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=E2SHB%202034)
 * 10/09/2025 [The Center Square](/org/the_center_square/) - [How WA's public pension system planning could cost taxpayers down the road | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5c7e0578-7b42-4e1d-aa68-a3232d3f6066.html#:~:text=House%20Bill%202034)
@@ -18,11 +19,17 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2034 LEOFF 1 restatement
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 1522 👎 - Con
+Testifying:
+* Anthony Mixer - Citizen Volunteer Lobbyist
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Thu 03/13 04:00 PM - Appropriations (APP): HB 2034 LEOFF 1 restatement
 #### 22 👍 - Pro

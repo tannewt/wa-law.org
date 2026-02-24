@@ -16,9 +16,13 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Postsecondary Education & Workforce (PEW): SB 5963 Passport to careers program
-#### 0 👍 - Pro
+#### 261 👍 - Pro
+Testifying:
+* 💵Christopher Rosenquist - Associated Students of Western Washington University
+* 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
+* 💵Joel Anderson - Washington Student Achievement Council
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -1,6 +1,8 @@
 # Mercy Housing Northwest
 ## 2025-26
 
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
 ## [SB 6256](/bill/2025-26/sb/6256/) - Unoccupied housing/tax 👍3  

@@ -13,9 +13,12 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): SB 5904 Use of nursing titles
-#### 118 👍 - Pro
+#### 215 👍 - Pro
+Testifying:
+* 💵Jessica Hauffe - Washington State Nurses Association (WSNA)
+* Alex Knox - Washington State Nurses Association (WSNA)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

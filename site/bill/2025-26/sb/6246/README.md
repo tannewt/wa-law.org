@@ -12,11 +12,26 @@
 
 ## Meetings
 ### Wed 02/18 10:00 AM - Environment & Energy (ENVI): ESB 6246 Emissions/trade-exposed
-#### 0 👍 - Pro
+#### 45 👍 - Pro
+Testifying:
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Caitlin Krenn - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵David Mendoza - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 0 👎 - Con
+#### 408 👎 - Con
 
-#### 0 ❓ - Other
+#### 12 ❓ - Other
+Testifying:
+* Toyin Olowu - Nucor Steel
+* 💵Jessica Spiegel - WSPA
+* Chris McCabe - [Northwest Pulp & Paper Association](/org/northwest_pulp_&_paper_association/)
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+* Joel Creswell - Washington Department of Ecology
+* 💵Jennifer Ziegler - [Kaiser Aluminum](/org/kaiser_aluminum/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* 💵Joshua Estes - Association of Western Pulp and Paper Workers Union (AWPPW)
 
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SB 6246 Emissions/trade-exposed
 #### 18 👍 - Pro

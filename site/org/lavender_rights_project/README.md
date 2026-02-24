@@ -9,6 +9,10 @@
 * 👍 Bryanna Jenkins
 * 👍💵 Oliver Miska
 
+### [HB 1687](/bill/2025-26/hb/1687/) - Social housing authorities 👍1  
+
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+
 ### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors   ❓1
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
@@ -25,12 +29,16 @@
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
 ### [HB 2293](/bill/2025-26/hb/2293/) - Prohibiting law enforcement training with certain foreign entities. 👍1  
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 * 👍💵 Jaelynn Scott
 
 ### [HB 2526](/bill/2025-26/hb/2526/) - Prostitution  👎1 
+
+### [HB 2539](/bill/2025-26/hb/2539/) - Inmate funds 👍1  
 
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
 
@@ -41,6 +49,8 @@
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community.   ❓2
 * ❓💵 Oliver Miska
 * ❓ Bryanna Jenkins
+
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 * 👍💵 Jaelynn Scott
@@ -57,11 +67,13 @@
 
 ### [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+* 👍💵 Oliver Miska
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
+* 👍💵 Oliver Miska
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 * 👍 Amari Leach

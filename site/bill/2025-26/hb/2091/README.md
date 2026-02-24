@@ -11,11 +11,12 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): HB 2091 Bargaining/employee info.
-#### 8 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Joey Hicklin - WPEA
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

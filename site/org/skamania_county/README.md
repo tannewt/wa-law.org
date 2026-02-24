@@ -10,6 +10,12 @@
 
 ### [SB 5021](/bill/2025-26/sb/5021/) - Retention of court exhibits 👍1  
 
+### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍1  
+
+### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  
+
+### [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants 👍1  
+
 ## [SB 6242](/bill/2025-26/sb/6242/) - County shared stewardship 👍1  
 
 ## 2023-24

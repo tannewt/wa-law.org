@@ -59,7 +59,7 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍2  
 
-### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍2  
 
 ### [HB 1815](/bill/2025-26/hb/1815/) - Prison riot offenses 👍1  
 * 👍 Alexandra Narvaez
@@ -87,7 +87,8 @@
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+* ❓ Kat Lohman
 * ❓ Kat Lohman
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
@@ -104,7 +105,8 @@
 
 ### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍2  
 
-### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍2  
+* 👍 Chach Duarte White
 * 👍 Chach Duarte White
 
 ### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders   ❓1
@@ -135,7 +137,8 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓2
 * ❓💵 Roxana Gomez
 
-### [SB 5169](/bill/2025-26/sb/5169/) - Testimony of children  👎1 
+### [SB 5169](/bill/2025-26/sb/5169/) - Testimony of children  👎2 
+* 👎 Alex Narvaez
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 * 👍💵 Roxana Gomez
@@ -166,6 +169,8 @@
 * 👍 Annie Chung
 * 👍💵 Roxana Gomez
 
+### [SB 5520](/bill/2025-26/sb/5520/) - Wrongly convicted persons 👍1  
+
 ### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
 * 👍💵 Roxana Gomez
 
@@ -184,15 +189,16 @@
 ### [SB 5837](/bill/2025-26/sb/5837/) - Guardianship, etc. 👍1  
 * 👍 Sandy Garcia
 
-### [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍1  
+### [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍2  
 
 ### [SB 5873](/bill/2025-26/sb/5873/) - DOC/escorted leave 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍3  
+* 👍 Kat Lohman
 
-### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍2  
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍2  
 
@@ -202,15 +208,16 @@
 
 ### [SB 5956](/bill/2025-26/sb/5956/) - AI use/student discipline 👍1  
 
-### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍2  
 
 ### [SB 5977](/bill/2025-26/sb/5977/) - Child near fatality reviews 👍2  
 
 ### [SB 5979](/bill/2025-26/sb/5979/) - Dependency/substance abuse 👍1  
 * 👍 Annie Chung
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
 * ❓ Kat Lohman
+* ❓💵 Roxana Gomez
 
 ### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
 * 👍💵 Roxana Gomez
@@ -230,11 +237,11 @@
 * 👍 Annie Chung
 * 👍💵 Roxana Gomez
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍3  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍3  
 
 ### [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 * 👍 Erin Shea McCann

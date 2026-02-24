@@ -12,11 +12,17 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 2428 Life insurance policy lapses
-#### 0 👍 - Pro
+#### 194 👍 - Pro
+Testifying:
+* Rory Paine-Donovan - Office of the Insurance Commissioner
+* Paula Fillmore-Sardinas - FMSGS/WBBA
+* Cathleen MacCaul - AARP Washington State
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Christine Brewer - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
 
 ### Fri 01/23 08:00 AM - Consumer Protection & Business (CPB): HB 2428 Life insurance policy lapses
 #### 5 👍 - Pro

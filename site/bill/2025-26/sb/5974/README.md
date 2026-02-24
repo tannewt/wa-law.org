@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/23/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Tanksley: Bill for new requirements on sheriffs, chiefs undermines local control | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/23/tanksley-bill-for-new-requirements-on-sheriffs-chiefs-undermines-local-control/#:~:text=2SSB%205974)
+* 02/23/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA bill allowing state to remove elected sheriffs faces another contentious hearing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ee5e3d6c-871d-4fe4-89e7-52fe5ee0d983.html#:~:text=Senate%20Bill%205974)
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=2SSB%205974)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%205974)
 * 01/27/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Washington Sheriffs Targeted Again: Is HB 2387 Really Better Than SB 5974? - Conservative Ladies of Washington](https://conservativeladiesofwa.com/washington-sheriffs-hb-2387-vs-sb-5974/#:~:text=SB%205974)
 * 01/22/2026 [MyNorthwest](/org/mynorthwest/) - [Taking aim at ICE: State bill would ban former agents from being hired as police officers - MyNorthwest.com](https://mynorthwest.com/local/ice-bill-police-officers/4191755#:~:text=Senate%20Bill%205974)
@@ -22,13 +25,55 @@
 
 ## Meetings
 ### Mon 02/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): 2SSB 5974 Local law enforcement
-Sign up to testify:
+#### 1988 👍 - Pro
+Testifying:
+* Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Karen Peacey - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
+* 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Kim Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
+* 💵Renee Hopkins - [Alliance for Gun Responsibility](/org/alliance_for_gun_responsibility/)
+* Amy McColm
+* 💵Anita Yandle - New York School of Law Policing Project
+* 💵Damiana Merryweather - [Fuse Washington](/org/fuse_washington/)
+* Eliana Machefsky - National Police Accountability Project
+* Gabrielle Gilbert - Rural Solutions of Klickitat County
+* Liz Moore - Peace Justice Action League of Spokane
+* Steve Albrecht
+* Ronald Reed - Retired
 
-#### 0 👍 - Pro
+#### 11669 👎 - Con
+Testifying:
+* Rick Kuss - Kitsap County Sheriff Candidate
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Laurie Layne
+* Dawn Land
+* Cobi Clark
+* John Nowels - Testifying as the Spokane County Sheriff and WASPC President
+* Mark Crider - Sheriff Walla Walla County, Washington State Sheriff's Association, President
+* Daniel Garcia - Pacific County Sheriff's Office
+* Eric Lundberg
+* Robert Schaefer
+* Ricardo Rubio - Testify as a Citizen of Pacific County
+* Ricardo Rubio - Testify as a Citizen of Pacific County
+* Christopher Hall
+* Anna Burt
+* Jeff Winter
+* Curtis Storer
+* Tim Eyman - Initiative Activist
+* David Engell
+* Robin Blanchard
+* David Engell
+* MARCUS CARTER - Puget Sound Patriots
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 12 ❓ - Other
+Testifying:
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Greg Zempel - Kittitas County Prosecutor/Wa Association of Prosecuting Attorneys
+* Mary Robnett - Pierce County Prosecutor/WA Association of Prosecuting Attorneys
 
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5974 Local law enforcement
 #### 1481 👍 - Pro

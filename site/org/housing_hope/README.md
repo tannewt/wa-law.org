@@ -14,6 +14,9 @@
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
 
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
+* 👍 Joan Penney
+
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
@@ -22,6 +25,9 @@
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
 ### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
+
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍 Joan Penney
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 

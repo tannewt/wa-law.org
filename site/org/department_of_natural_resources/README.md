@@ -63,10 +63,14 @@
 * ❓ Pat Sullivan
 * ❓ Pat Sullivan
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
+### [HB 1983](/bill/2025-26/hb/1983/) - Timberland definition/REET 👍1  
+* 👍 Duane Emmons
+
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍2  
+* 👍 Pat Sullivan
 * 👍 Pat Sullivan
 
-### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍1  
+### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍2  
 * 👍 George Geissler
 
 ### [HB 2139](/bill/2025-26/hb/2139/) - Snowmobile registration fees 👍1  
@@ -84,6 +88,8 @@
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship   ❓1
 
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
+
 ### [HB 2327](/bill/2025-26/hb/2327/) - County forest board lands   ❓1
 
 ### [HB 2348](/bill/2025-26/hb/2348/) - Timber sale process 👍1  
@@ -96,7 +102,7 @@
 * 👎 Maggie Franquemont
 * 👎 Michael Norris
 
-### [HB 2624](/bill/2025-26/hb/2624/) - Unsolicited real estate tx. 👍1  
+### [HB 2624](/bill/2025-26/hb/2624/) - Unsolicited real estate tx. 👍2  
 * 👍 Robin Hammill
 
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍2  
@@ -150,24 +156,29 @@
 * ❓ George Geissler
 * ❓ George Geissler
 
+### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍1  
+* 👍 Glenda Breiler
+
 ### [SB 5893](/bill/2025-26/sb/5893/) - Forest health appropriation 👍1  
 * 👍 George Geissler
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models   ❓1
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  ❓1
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  ❓1
 
 ### [SB 5992](/bill/2025-26/sb/5992/) - Youth development fund 👍1  
 * 👍 Evan Pierce
 
-### [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍1  
+### [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍2  
 
 ### [SB 6073](/bill/2025-26/sb/6073/) - Wildland firefighters/LEOFF 👍1  
 * 👍 George Geissler
 
+### [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants   ❓1
+
 ### [SB 6104](/bill/2025-26/sb/6104/) - Agriculture impacts   ❓1
 
-### [SB 6160](/bill/2025-26/sb/6160/) - Reports by state agencies 👍1  
+### [SB 6160](/bill/2025-26/sb/6160/) - Reports by state agencies 👍2  
 
 ### [SB 6216](/bill/2025-26/sb/6216/) - Timber sale process 👍1  
 * 👍 Erika Odem

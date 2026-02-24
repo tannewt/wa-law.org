@@ -107,7 +107,7 @@
 
 ### [HB 2182](/bill/2025-26/hb/2182/) - Abortion medications 👍1  
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍2  
 
 ### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
 
@@ -115,13 +115,18 @@
 
 ### [HB 2260](/bill/2025-26/hb/2260/) - Ballot measure petitions 👍1  
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
+* 👍💵 Nicole Kern
+
 ### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍2  
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
+
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
 
-### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍2  
+### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍3  
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
 
@@ -174,6 +179,8 @@
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍2  
 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+
 ### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
 
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍2  
@@ -205,15 +212,17 @@
 
 ### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
 
+### [SB 5808](/bill/2025-26/sb/5808/) - Health carrier surpluses 👍1  
+
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍3  
 
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
 
-### [SB 5917](/bill/2025-26/sb/5917/) - Abortion medications 👍1  
+### [SB 5917](/bill/2025-26/sb/5917/) - Abortion medications 👍2  
 
 ### [SB 5951](/bill/2025-26/sb/5951/) - Albuterol access in schools 👍1  
 
@@ -221,21 +230,26 @@
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍3  
 
 ### [SB 5985](/bill/2025-26/sb/5985/) - Endometriosis 👍1  
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍2  
 * 👍💵 Nicole Kern
-
-### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 * 👍💵 Courtney Normand
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  ❓1
+* 👍💵 Courtney Normand
+* ❓💵 Courtney Normand
 
-### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍💵 Courtney Normand
 
-### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍2  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
+
+### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍2  
+
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍3  
 
 ### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
 
@@ -252,12 +266,14 @@
 
 ### [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+* 👍💵 Courtney Normand
 * 👍💵 Courtney Normand
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
+* 👍💵 Courtney Normand
 * 👍💵 Courtney Normand
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  

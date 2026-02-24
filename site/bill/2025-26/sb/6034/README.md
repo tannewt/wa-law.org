@@ -14,9 +14,12 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SSB 6034 Office of Indian affairs
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Tim Reynon - Governor's Office of Indian Affairs, Executive Director
+* Mercedes White Calf - SWACH (Southwest Washington Accountable Communities for Health)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

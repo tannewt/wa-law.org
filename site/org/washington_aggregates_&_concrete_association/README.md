@@ -61,7 +61,8 @@
 ### [SB 5319](/bill/2025-26/sb/5319/) - Surface mine reclamation 👍1  
 * 👍💵 Cory Shaw
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎3 
+* 👎💵 Cory Shaw
 * 👎💵 Cory Shaw
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎2 

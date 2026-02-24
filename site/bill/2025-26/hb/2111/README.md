@@ -11,11 +11,9 @@
 
 ## Meetings
 ### Mon 02/23 04:00 PM - Transportation (TRAN): HB 2111 I-5 bridge account earnings
-Sign up to testify:
+#### 178 👍 - Pro
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

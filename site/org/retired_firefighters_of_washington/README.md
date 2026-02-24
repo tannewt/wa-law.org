@@ -1,8 +1,9 @@
 # Retired Firefighters of Washington
 ## 2025-26
 
-### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement  👎1 
+### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement  👎1 ❓1
 * 👎💵 Michael Duchemin
+* ❓💵 Michael Duchemin
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans  👎6 
 * 👎💵 Michael Duchemin

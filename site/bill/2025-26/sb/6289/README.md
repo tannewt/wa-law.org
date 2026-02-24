@@ -14,11 +14,15 @@
 ### Tue 02/24 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 6289 Economic dev. strategic plan
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 32 👍 - Pro
+Testifying:
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 
-#### 0 👎 - Con
+#### 1053 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Andrea Chartock - Washington State Department of Commerce
 
 ### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6289 Economic dev. strategic plan
 #### 17 👍 - Pro

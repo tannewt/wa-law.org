@@ -55,7 +55,7 @@
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍2  
 
-### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍2  
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍3  
 
@@ -83,13 +83,15 @@
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
 * 👍💵 Marcy Bowers
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
 
 ### [HB 2240](/bill/2025-26/hb/2240/) - Storage space rentals  👎1 
 
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
+
 ### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍3  
 
 ### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍2  
 
@@ -119,7 +121,7 @@
 
 ### [SB 5254](/bill/2025-26/sb/5254/) - Health care information 👍1  
 
-### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍2  
+### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍3  
 
 ### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services  👎1 ❓1
 * ❓ Molly Gallagher
@@ -186,7 +188,7 @@
 
 ### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍2  
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍3  
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
@@ -203,13 +205,17 @@
 ### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎2 
 * 👎 Molly Gallagher
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍3  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍6  
 * 👍 Molly Gallagher
+* 👍 Molly Gallagher
+* 👍💵 Lianna Kressin
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍3  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍6  
 * 👍 Molly Gallagher
+* 👍 Molly Gallagher
+* 👍💵 Lianna Kressin
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

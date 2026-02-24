@@ -50,6 +50,8 @@
 
 ### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
+
 ### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍3  
 
 ### [SB 5745](/bill/2025-26/sb/5745/) - Invol. treatment counsel   ❓1
@@ -62,6 +64,9 @@
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
+
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
+* 👍 Mo McBroom
 
 ### [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage   ❓1
 * ❓💵 Michael Shaw

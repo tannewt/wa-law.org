@@ -10,7 +10,9 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 6087 Donations for children
-#### 0 👍 - Pro
+#### 127 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
 #### 0 👎 - Con
 

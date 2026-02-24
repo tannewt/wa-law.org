@@ -12,11 +12,16 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5972 Correctional officers/arb.
-#### 3 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Carl Keller - Teamsters Local 760
+* Michael Rainey - AFSCME Council 2
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Jay Arnold - Kirkland City Councilmember
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 ❓ - Other
 

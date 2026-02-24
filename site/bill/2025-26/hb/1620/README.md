@@ -40,6 +40,7 @@ Testifying:
 * Amy Annette
 * Gina Bloom - Victim Advocate
 * Brandon Padilla
+* Sarah Hulteen - DV Survivor Mother
 * Natalie Sullivan
 * Yash Joshi
 * Yash Joshi - A student
@@ -124,6 +125,7 @@ Testifying:
 * Kimberly Kerr
 * Christine Cocchiola
 * Melanie Kraintz
+* Sarah Hulteen
 * Shira Cole - One of the many survivors in the HB 2237/1620 workgroup all of which who were ignored - PAYES
 * Emily Farris
 * Heidi Padilla - For Ashley, & Nicolaas- my 17 yr old son who was killed escaping Domestic Violence in August 2024

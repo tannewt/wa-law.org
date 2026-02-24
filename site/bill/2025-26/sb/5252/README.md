@@ -10,11 +10,11 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Finance (FIN): ESSB 5252 Assembly halls/property tax
-#### 39 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Russ Weston - Washington State Grange
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

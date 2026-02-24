@@ -14,6 +14,10 @@
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍4  
 
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices 👍1  
+
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences  👎1 
+
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍11  
@@ -39,7 +43,7 @@
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
 
-### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍5  
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍10  
 * 👍 Brianna Dilts
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
@@ -64,21 +68,27 @@
 
 ### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍1  
 
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍4  
+
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
 ### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍4  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍8  
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍3  
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍4  
 
+### [HB 2333](/bill/2025-26/hb/2333/) - Political violence 👍1  
+
 ### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍2  
 
 ### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍4  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍4  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍7  
+
+### [HB 2548](/bill/2025-26/hb/2548/) - Health care market standards 👍1  
 
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
 
@@ -105,7 +115,8 @@
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍2  
 
-### [SB 5436](/bill/2025-26/sb/5436/) - Worship/access interference 👍4  
+### [SB 5436](/bill/2025-26/sb/5436/) - Worship/access interference 👍7  
+* 👍💵 Kristin Ang
 * 👍💵 Kristin Ang
 * 👍💵 Kristin Ang
 
@@ -125,6 +136,8 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍3  
 
+### [SB 5808](/bill/2025-26/sb/5808/) - Health carrier surpluses 👍1  
+
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍3  
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍2  
@@ -135,13 +148,18 @@
 
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍3  
 
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍4  
+
+### [SB 5917](/bill/2025-26/sb/5917/) - Abortion medications 👍1  
+
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
 ### [SB 5947](/bill/2025-26/sb/5947/) - Establishing the Washington health care board. 👍1  
 
 ### [SB 5950](/bill/2025-26/sb/5950/) - Celebrating Rosh Hashanah, Yom Kippur, Guru Nanak, Guru Gobind Singh, and Vaisakhi. 👍2  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍8  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍12  
+* 👍💵 Kristin Ang
 * 👍💵 Kristin Ang
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
@@ -154,11 +172,15 @@
 
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍4  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍8  
+### [SB 6309](/bill/2025-26/sb/6309/) - High cap. transit permits 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍16  
+* 👍 Dr. Joyce Del Rosario
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍8  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍16  
+* 👍 Dr. Joyce Del Rosario
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

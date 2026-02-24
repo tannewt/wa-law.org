@@ -10,9 +10,13 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 5912 Indigent defense task force
-#### 0 👍 - Pro
+#### 96 👍 - Pro
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Sophia Byrd McSherry - Washington State Office of Public Defense
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

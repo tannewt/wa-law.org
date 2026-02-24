@@ -12,7 +12,7 @@
 ### Fri 02/27 01:30 PM - Transportation (TRAN): ESHB 2172 Road jurisdiction transfer
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

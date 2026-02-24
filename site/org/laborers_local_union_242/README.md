@@ -20,7 +20,7 @@
 ### [HB 2401](/bill/2025-26/hb/2401/) - Boys and men commission 👍2  
 * 👍💵 Billy Hetherington
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍2  
 
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation 👍1  
 
@@ -29,6 +29,8 @@
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors 👍1  
 
 ### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍1  
+
+### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
 
 ### [SB 6282](/bill/2025-26/sb/6282/) - Apprenticeships/wellness 👍1  
 

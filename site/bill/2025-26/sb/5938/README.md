@@ -13,12 +13,16 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Housing (HOUS): SSB 5938 Foreclosure prevention fee
-#### 18 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * 💵Elizabeth Perez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * Arvand Elmi - Gentrifree research
 * Paula Fillmore-Sardinas - FMSGS/WBBA
 * Raelene Schifano - HOA United
+* Kari Jennings
+* Tanya Belova - WHRC
+* Raquel Munguia
+* Seth Sivinski - [Northwest Justice Project](/org/northwest_justice_project/)
 
 #### 1 👎 - Con
 

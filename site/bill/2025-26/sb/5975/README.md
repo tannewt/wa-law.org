@@ -10,13 +10,28 @@
 
 ## Meetings
 ### Mon 02/23 01:30 PM - Environment & Energy (ENVI): ESSB 5975 Safe cookware
-Sign up to testify:
+#### 12 👍 - Pro
+Testifying:
+* 💵Molly Pfaffenroth - Washington Food Industry Association
+* 💵Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Charlie Brown - Assn Home Appliance Manufacturers and Cookware Sustainability Alliance
+* Dean Tryon - Wood Stone Corp.
+* 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Charlie Souhrada - North American Association of Food Equipment Manufacturers (NAFEM)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 👍 - Pro
+#### 313 👎 - Con
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Matthew Weintraub - King County Hazardous Waste Management Program
+* 💵Nick Federici - Toxic Free Future
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Holly Davies - Washington State Department of Health
+* Katrina Lassiter - Department of Ecology
 
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 5975 Safe cookware
 #### 16 👍 - Pro

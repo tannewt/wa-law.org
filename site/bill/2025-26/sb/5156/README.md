@@ -21,9 +21,18 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Housing (HOUS): ESSB 5156 Elevators/smaller apartments
-#### 2 👍 - Pro
+#### 166 👍 - Pro
+Testifying:
+* Carter Nelson - Commerical Real Estate Development Association (NAIOPWA)
+* 💵Jason Gano - 1DROP
+* Markus Johnson
+* Stephen Smith - Center for Building in North America
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Billy Taylor - National Elevator Industry, Inc. (NEII)
 
 #### 0 ❓ - Other
 

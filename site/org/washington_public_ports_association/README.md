@@ -106,12 +106,13 @@
 
 ### [HB 2103](/bill/2025-26/hb/2103/) - Authorizing certain public entities to contract for the capability of renewable or nonemitting electric generation projects. 👍1  
 
-### [HB 2111](/bill/2025-26/hb/2111/) - Allowing the Interstate 5 bridge replacement project toll facility bond retirement account to receive its proportionate share of earnings. 👍1  
+### [HB 2111](/bill/2025-26/hb/2111/) - Allowing the Interstate 5 bridge replacement project toll facility bond retirement account to receive its proportionate share of earnings. 👍2  
 
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services.  👎1 
 * 👎 Eric ffitch
 
-### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍1  
+### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍2  
+* 👍💵 James Cockburn
 * 👍💵 James Cockburn
 
 ### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
@@ -119,7 +120,8 @@
 ### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
 * 👍💵 Carly Michiels
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍2  
+* 👍💵 James Cockburn
 * 👍💵 James Cockburn
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities   ❓1
@@ -143,10 +145,10 @@
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
 * 👍💵 Carly Michiels
 
-### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍2  
 * 👍💵 James Cockburn
 
-### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍1  
+### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍2  
 
 ### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin.   ❓1
 * ❓ Eric ffitch
@@ -193,7 +195,7 @@
 
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 ❓1
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 ❓1
 * ❓💵 Carly Michiels
 
 ### [SB 5370](/bill/2025-26/sb/5370/) - Port commissioner terms 👍2  
@@ -221,9 +223,10 @@
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍2  
 * 👍 Chris Herman
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍3  
 * 👍 Chris Herman
 * 👍 Chris Herman
+* 👍 Eric ffitch
 
 ### [SB 5652](/bill/2025-26/sb/5652/) - Environment/port districts  👎1 
 * 👎 Eric ffitch
@@ -254,13 +257,14 @@
 
 ### [SB 5932](/bill/2025-26/sb/5932/) - Alternative jet fuel 👍1  
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍3  
 * 👍 Eric ffitch
 
 ### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍2  
 
-### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities   ❓1
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities   ❓2
 * ❓💵 Carly Michiels
+* ❓💵 Marian Dacca
 
 ### [SB 5989](/bill/2025-26/sb/5989/) - Aircraft fuel tax distrib. 👍1  
 
@@ -277,7 +281,7 @@
 
 ### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
 
-### [SB 6132](/bill/2025-26/sb/6132/) - Inland port district debt 👍1  
+### [SB 6132](/bill/2025-26/sb/6132/) - Inland port district debt 👍2  
 
 ### [SB 6149](/bill/2025-26/sb/6149/) - Public facilities funding 👍1  
 

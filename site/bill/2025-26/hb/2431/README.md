@@ -10,9 +10,11 @@
 ### Tue 02/24 04:00 PM - Ways & Means (WM): HB 2431 Nonprofit halls/fundraising
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 65 👍 - Pro
+Testifying:
+* Steve Singhose - Crescent Grange #1123
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

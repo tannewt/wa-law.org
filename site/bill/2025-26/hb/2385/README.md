@@ -12,9 +12,11 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): HB 2385 Medicaid access program
-#### 4 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
 
-#### 1 👎 - Con
+#### 72 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -8,6 +8,9 @@
 * 👍 Scott Richards
 * ❓ Allan Warren
 
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
+* 👍 Scott Richards
+
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍2  
 * 👍 Kas Guillozet
 * 👍 Allan Warren
@@ -18,6 +21,11 @@
 
 ### [SB 5510](/bill/2025-26/sb/5510/) - Conservation district limits 👍1  
 * 👍 Allan Warren
+
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓ Scott Richards
+
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
 
 ## [SB 6237](/bill/2025-26/sb/6237/) - Rental property flood discl. 👍2  
 * 👍 Kas Guillozet

@@ -9,7 +9,7 @@
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
-### [HB 1295](/bill/2025-26/hb/1295/) - Reading and writing literacy 👍1  
+### [HB 1295](/bill/2025-26/hb/1295/) - Reading and writing literacy 👍1 👎1 
 * 👍 Gena Vincent
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system  👎1 
@@ -19,11 +19,16 @@
 
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍2  
 
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎1 
 
 ### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎2 
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍2  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎2 
+* 👎 Emily Garza
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
@@ -58,11 +63,11 @@
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍3  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍5  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍3  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍5  
 
 ### [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 

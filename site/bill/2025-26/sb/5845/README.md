@@ -14,11 +14,20 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): ESSB 5845 Health carrier payments
-#### 8 👍 - Pro
+#### 347 👍 - Pro
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Adam Dittemore - Evergreen Health
+* Margrette Ramirez
+* Matthew Lund - UW Medicine
+* 💵Sean Graham - Washington State Medical Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵David Foster - Assoc of WA Healthcare Plans
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 
 ### Tue 01/20 10:30 AM - Health & Long Term Care (HLTC): SB 5845 Health carrier payments
 #### 69 👍 - Pro

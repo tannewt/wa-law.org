@@ -14,16 +14,22 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): ESHB 1717 Affordable housing/sales tax
-#### 10 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * 💵Jason Gauthier - Pierce County and the South Sound Housing Affordability Partners
 * Michone Preston - Habitat for Humanity of Washington State
 * Dustin Johnson - Anacortes Family Center
 * Mayor Ryan Walters - [City of Anacortes](/org/city_of_anacortes/)
+* 💵Blake Baldwin - [Hayden Homes](/org/hayden_homes/)
+* Alyssa Torrez - South Sound Housing Affordability Partners
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
-#### 0 👎 - Con
+#### 141 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jameson Kaye
 
 ### Thu 01/15 01:30 PM - Finance (FIN): HB 1717 Affordable housing/sales tax
 #### 213 👍 - Pro

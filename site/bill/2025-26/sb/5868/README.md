@@ -10,9 +10,16 @@
 ### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): SB 5868 Superior court judges
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 83 👍 - Pro
+Testifying:
+* LaDon Linde - Yakima County Commissioner
+* J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration
+* Jessica Humphreys - Yakima County Superior Court
+* Judge Elisabeth Tutsch - Yakima County Superior Court
+* Judge Laura Riquelme - Skagit County Superior Court
+* 💵Josh Weiss - [Skagit County](/org/skagit_county/)
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

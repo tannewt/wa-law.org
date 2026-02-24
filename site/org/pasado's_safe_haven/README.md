@@ -27,7 +27,7 @@
 
 ### [HB 1904](/bill/2025-26/hb/1904/) - Declawing cats 👍2  
 
-### [HB 2247](/bill/2025-26/hb/2247/) - Veterinarian relationship 👍2  
+### [HB 2247](/bill/2025-26/hb/2247/) - Veterinarian relationship 👍3  
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 

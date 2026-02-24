@@ -24,11 +24,34 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Local Government (LG): E2SSB 6026 Residential dev./zones
-#### 0 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Carter Nelson - Commercial Real Estate Development Association (NAIOPWA)
+* Dave Andersen - Department of Commerce
+* Em Stone - Governor's Office
+* Carl Shorett - AvalonBay Communities
+* Patience Malaba - Housing Development Consortium
+* Mark Villwock - D.R. Horton
+* 💵Neil Strege - WA Roundtable
+* Denny Heck - Lt. Governor
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Lauren McDonald
 
-#### 0 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* Shannon Vincent - [City of Lacey](/org/city_of_lacey/)
+* Mo Malakoutian - [City of Bellevue](/org/city_of_bellevue/)
+* Amy Falcone - Council Member,  City of Kirkland
+* Carol Helland - Director, Planning & Community Development for City of Redmond
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jeff Rimack - [City of Lakewood](/org/city_of_lakewood/)
+* Mason Thompson - Mayor, City of Bothell
+* Kristen Holdsworth - City of Kent/Long Range Planning Manager
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Blake Lyon - City of Bellingham, WA
 
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6026 Residential dev./zones
 #### 215 👍 - Pro

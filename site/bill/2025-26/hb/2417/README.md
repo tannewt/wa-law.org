@@ -8,7 +8,10 @@
 
 ## Meetings
 ### Mon 02/16 08:30 AM - State Government & Elections (SGE): HB 2417 Military code/victim rights
-#### 118 👍 - Pro
+#### 203 👍 - Pro
+Testifying:
+* James Baumgart - Intergovernmental Affairs and Policy Director - Washington Military Department
+* Maria Doucettperry - WA Veterans Legislative Coalition (VLC)
 
 #### 1 👎 - Con
 

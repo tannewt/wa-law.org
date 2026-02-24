@@ -12,14 +12,19 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): SHB 2123 Foreign nationals/elections
-#### 2 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * 💵Conner Edwards - Professional Campaign Treasurer / CG Edwards PLLC
 * Jason Michaud
+* Sharon Hanek
 
-#### 1 👎 - Con
+#### 834 👎 - Con
+Testifying:
+* Gregor Doerr - Washington State Young Republicans
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sean Flynn - Public Disclosure Commission
 
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2123 Foreign nationals/elections
 #### 61 👍 - Pro

@@ -10,9 +10,9 @@
 ### Tue 02/24 10:30 AM - Labor & Workplace Standards (LAWS): ESB 6106 Laid-off employees
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 12 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

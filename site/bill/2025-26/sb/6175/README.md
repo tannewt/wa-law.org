@@ -30,7 +30,7 @@ Testifying:
 #### 7 👎 - Con
 Testifying:
 * Brian Young - Sports Fans Coalition
-* Ian Lee - Ticket Policy Forum
+* Ian Lee - [Ticket Policy Forum](/org/ticket_policy_forum/)
 * Sean Auyash - StubHub
 * 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 

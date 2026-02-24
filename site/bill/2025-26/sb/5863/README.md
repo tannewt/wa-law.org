@@ -12,10 +12,12 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - State Government & Tribal Relations (SGOV): SB 5863 State historical records
-#### 3 👍 - Pro
+#### 159 👍 - Pro
 Testifying:
 * Tasha Le - Disability Advocate - Parent Advocate - UW Bothell Graduate Student
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
+* jessica renner - self
+* 💵Shawn Latham - Self Advocates In Leadership
 
 #### 0 👎 - Con
 

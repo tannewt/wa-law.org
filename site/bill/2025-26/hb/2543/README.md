@@ -8,11 +8,12 @@
 
 ## Meetings
 ### Thu 02/19 10:30 AM - Law & Justice (LAW): HB 2543 County clerk fees
-#### 17 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵Timothy Grisham - WASHINGTON ASSOCIATION OF COUNTY OFFICIALS
+* Catherine Cornwall - King County Superior Court Clerk
 
-#### 0 👎 - Con
+#### 64 👎 - Con
 
 #### 0 ❓ - Other
 

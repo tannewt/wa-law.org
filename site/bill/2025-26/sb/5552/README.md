@@ -16,11 +16,11 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Local Government (LG): ESSB 5552 Kit homes/building codes
-#### 2 👍 - Pro
+#### 240 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

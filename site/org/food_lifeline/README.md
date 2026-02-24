@@ -36,11 +36,17 @@
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍3  
 * 👍💵 Aaron Czyzewski
+* 👍 Stephen Davis
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Aaron Czyzewski
+
+### [HB 2294](/bill/2025-26/hb/2294/) - Prohibiting negative use restrictions on real property that have the effect of limiting consumer access to food and medicine. 👍1  
+
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
+* 👍💵 Aaron Czyzewski
 
 ### [HB 2297](/bill/2025-26/hb/2297/) - Grocery store incentives 👍1  
 
@@ -90,6 +96,12 @@
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Aaron Czyzewski
+
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍💵 Aaron Czyzewski
+
+### [SB 6006](/bill/2025-26/sb/6006/) - Food banks/sales tax 👍1  
+* 👍💵 Aaron Czyzewski
 
 ## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 * 👍💵 Aaron Czyzewski

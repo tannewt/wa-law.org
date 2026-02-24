@@ -225,14 +225,16 @@
 
 ### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp.  👎2 
 
-### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍2  
+* 👍💵 Brent Ludeman
 * 👍💵 Brent Ludeman
 
 ### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas. 👍1  
 * 👍💵 Andrea Smiley
 
-### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  ❓1
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍2  ❓1
 * ❓💵 Jan Himebaugh
+* 👍💵 Jan Himebaugh
 * 👍💵 Jan Himebaugh
 
 ### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation  👎1 
@@ -283,7 +285,7 @@
 * 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 
-### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍2  
+### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍3  
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices  👎1 
 
@@ -296,13 +298,15 @@
 
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍2  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍3  
+* 👍💵 Jan Himebaugh
 * 👍💵 Jan Himebaugh
 * 👍💵 Jan Himebaugh
 
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎3 
+* 👎💵 Bill Stauffacher
 * 👎💵 Bill Stauffacher
 
 ### [SB 5378](/bill/2025-26/sb/5378/) - PFML grants/school districts  👎1 
@@ -335,8 +339,9 @@
 * 👎💵 Andrea Smiley
 * 👎💵 Andrea Smiley
 
-### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎2 
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎3 
 * 👎💵 Brent Ludeman
+* 👎💵 Andrea Smiley
 * 👎💵 Andrea Smiley
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
@@ -415,7 +420,8 @@
 ### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners 👍2  
 * 👍💵 Andrea Smiley
 
-### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍5  
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍6  
+* 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
@@ -455,9 +461,12 @@
 ### [SB 5943](/bill/2025-26/sb/5943/) - Use of school impact fees  👎1 
 * 👎💵 Bill Stauffacher
 
-### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
+### [SB 5949](/bill/2025-26/sb/5949/) - Insurer taxes  👎1 
 
 ### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎1 
+* 👎 Mike Ennis
 
 ### [SB 6001](/bill/2025-26/sb/6001/) - Scissor stairs 👍1  
 
@@ -466,7 +475,7 @@
 ### [SB 6016](/bill/2025-26/sb/6016/) - Aquifer recharge areas 👍1  
 * 👍💵 Andrea Smiley
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍3  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍4  
 * 👍💵 Andrea Smiley
 * 👍💵 Bill Stauffacher
 * 👍💵 Bill Stauffacher
@@ -486,6 +495,8 @@
 
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes  👎1 
 
+### [SB 6188](/bill/2025-26/sb/6188/) - Asbestos training rules  👎1 
+
 ### [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA  👎2 
 
 ### [SB 6217](/bill/2025-26/sb/6217/) - College grant/credential prg 👍1  
@@ -500,11 +511,15 @@
 
 ### [SB 6291](/bill/2025-26/sb/6291/) - On-site wastewater systems 👍1  
 
-## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
+### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
+* 👎💵 Andrea Smiley
 
 ## 2023-24
 
-### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use  👎1 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
+* 👎💵 Andrea Smiley
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

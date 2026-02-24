@@ -18,11 +18,20 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): E2SSB 5395 Prior authorization/health
-#### 6 👍 - Pro
+#### 357 👍 - Pro
+Testifying:
+* Adam Dittemore - EvergreenHealth
+* 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Sean Graham - Washington State Medical Association
+* Brian Fordham
+* 💵Vanessa Saavedra - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵David Foster - Assoc of WA Healthcare Plans
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5395 Prior authorization/health
 #### 419 👍 - Pro

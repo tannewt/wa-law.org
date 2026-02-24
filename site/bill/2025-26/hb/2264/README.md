@@ -12,9 +12,12 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): HB 2264 Unemployment ins./layoffs
-#### 0 👍 - Pro
+#### 137 👍 - Pro
+Testifying:
+* Marrene Franich - Washington Employment Benefits Advocates
+* Timothy Fiser
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

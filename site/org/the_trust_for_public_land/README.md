@@ -1,7 +1,8 @@
 # The Trust for Public Land
 ## 2025-26
 
-### [HB 2624](/bill/2025-26/hb/2624/) - Unsolicited real estate tx. 👍1  
+### [HB 2624](/bill/2025-26/hb/2624/) - Unsolicited real estate tx. 👍2  
+* 👍💵 Bill Clarke
 * 👍💵 Bill Clarke
 
 ## [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  

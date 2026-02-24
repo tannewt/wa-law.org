@@ -27,7 +27,8 @@
 
 ### [HB 2211](/bill/2025-26/hb/2211/) - Concerning medically tailored meals. 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍7  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍11  
+* 👍💵 Anna Nepomuceno
 * 👍💵 Anna Nepomuceno
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
@@ -51,7 +52,7 @@
 ### [HB 2463](/bill/2025-26/hb/2463/) - Farmers/food programs 👍2  
 * 👍💵 Anna Nepomuceno
 
-### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍2  
 
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍2  
 
@@ -79,10 +80,15 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
 ### [SB 5947](/bill/2025-26/sb/5947/) - Establishing the Washington health care board. 👍1  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍💵 Anna Nepomuceno
+
+### [SB 6006](/bill/2025-26/sb/6006/) - Food banks/sales tax 👍3  
+* 👍💵 Trevor Sandison
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
 
@@ -91,11 +97,11 @@
 ### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
 * 👎💵 Anna Nepomuceno
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍3  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍4  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍3  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍4  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

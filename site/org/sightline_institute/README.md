@@ -68,6 +68,8 @@
 
 ### [HB 1916](/bill/2025-26/hb/1916/) - Voter registrations 👍1  
 
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
+
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍3  
 * 👍💵 Shannon Grimes
 * 👍💵 Shannon Grimes
@@ -75,12 +77,15 @@
 ### [HB 2228](/bill/2025-26/hb/2228/) - Scissor stairs 👍1  
 * 👍💵 Dan Bertolet
 
-### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
+
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ### [HB 2381](/bill/2025-26/hb/2381/) - Low-rise res. buildings 👍1  
 
-### [HB 2418](/bill/2025-26/hb/2418/) - Permit review 👍1  
+### [HB 2418](/bill/2025-26/hb/2418/) - Permit review 👍2  
 
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones 👍1  
 * 👍💵 Dan Bertolet
@@ -88,7 +93,8 @@
 ### [HB 2499](/bill/2025-26/hb/2499/) - Conservation districts 👍1  
 * 👍💵 Shannon Grimes
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  
+* 👍💵 Emily Moore
 * 👍💵 Emily Moore
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍3  
@@ -96,7 +102,8 @@
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍2  
 * 👍💵 Dan Bertolet
 
-### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍2  
+### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍3  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 

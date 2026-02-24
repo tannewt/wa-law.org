@@ -16,6 +16,9 @@
 
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments   ❓1
 
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety   ❓1
+* ❓💵 Amina Teouri
+
 ## [SB 6036](/bill/2025-26/sb/6036/) - Adult family home licensure 👍2  
 * 👍💵 Amina Teouri
 

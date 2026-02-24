@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=ESSB%206162)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [What we’re doing on affordability - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/20/what-were-doing-on-affordability/#:~:text=Senate%20Bill%206162)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Talk Monday? - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/02/20/talk-monday/#:~:text=Senate%20Bill%206162)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=SB%206162)
@@ -23,9 +24,14 @@
 ### Fri 02/27 08:00 AM - Finance (FIN): ESSB 6162 Property tax
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Marty Campbell - Pierce County Assessor-Treasurer
+* Steven Drew - Thurston County Assessor & co chair of the Assessor org’s legislative committee
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Laurie Layne
 
 #### 0 ❓ - Other
 

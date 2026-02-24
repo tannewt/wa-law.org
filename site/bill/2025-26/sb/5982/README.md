@@ -12,11 +12,27 @@
 
 ## Meetings
 ### Wed 02/18 10:00 AM - Environment & Energy (ENVI): SSB 5982 Consumer-owned utilities
-#### 0 👍 - Pro
+#### 313 👍 - Pro
+Testifying:
+* Caitlin Krenn - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Zachariah Baker - NW Energy Coalition
+* 💵Maya Gillett - Maya Gillett
+* Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)
+* Glenn Blackmon
+* Tony Usibelli - Washington State Sierra Club
 
-#### 0 👎 - Con
+#### 1239 👎 - Con
+Testifying:
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Austin Scharff - Washington State Department of Commerce
+* Joel Creswell - Washington Department of Ecology
+* 💵Marian Dacca - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 ### Tue 01/13 01:30 PM - Environment, Energy & Technology (ENET): SB 5982 Consumer-owned utilities
 #### 43 👍 - Pro

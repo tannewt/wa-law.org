@@ -28,7 +28,7 @@
 
 ### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
 
-### [HB 1916](/bill/2025-26/hb/1916/) - Voter registrations 👍27  
+### [HB 1916](/bill/2025-26/hb/1916/) - Voter registrations 👍33  
 
 ### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement 👍2  ❓40
 
@@ -52,15 +52,17 @@
 
 ### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
 
-### [SB 5862](/bill/2025-26/sb/5862/) - TRS & PERS plan 1 COLA 👍59  
+### [SB 5862](/bill/2025-26/sb/5862/) - TRS & PERS plan 1 COLA 👍112 👎1 
+
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎1 
 
 ### [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍20  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1 👎3 
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1 👎6 
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1 👎3 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1 👎6 
 
 ### [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 

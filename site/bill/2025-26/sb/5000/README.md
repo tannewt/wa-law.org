@@ -13,9 +13,11 @@
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SB 5000 State nickname
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 62 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Joe Kunzler
 
 #### 0 ❓ - Other
 

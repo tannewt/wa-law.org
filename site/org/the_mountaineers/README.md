@@ -3,13 +3,14 @@
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
 
-## [SB 5390](/bill/2025-26/sb/5390/) - Access to recreation sites 👍3  
+### [SB 5390](/bill/2025-26/sb/5390/) - Access to recreation sites 👍3  
 * 👍💵 Conor Marshall
+
+## [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
 
 ## 2023-24
 
-### [SB 5390](/bill/2023-24/sb/5390/) - Access to recreation sites 👍3  
-* 👍💵 Conor Marshall
+### [SB 6097](/bill/2023-24/sb/6097/) - Conservation futures/tribes 👍1  
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓ Betsy Robblee

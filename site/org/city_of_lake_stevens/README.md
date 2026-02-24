@@ -29,6 +29,8 @@
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
 
+### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
+
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  

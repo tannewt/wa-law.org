@@ -13,11 +13,19 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): 2ESHB 1210 Urban area tax preferences
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 79 👍 - Pro
+Testifying:
+* Rael Candelaria - Framatome
+* Michael Rizzitiello - [City of Richland](/org/city_of_richland/)
+* 💵Seth Worley - Government Affairs Director, UA Plumbers & Steamfitters Local 598
+* 💵Jason Hudson - IBEW Local 77
+* KARL DYE - TRIDEC
 
-#### 0 👎 - Con
+#### 246 👎 - Con
+Testifying:
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 03/18 04:00 PM - Ways & Means (WM): ESHB 1210 Urban area tax preferences
 #### 114 👍 - Pro

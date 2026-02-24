@@ -14,11 +14,15 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Human Services (HS): ESHB 2319 DD RHC facilities renaming
-#### 0 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* Cathy Murahashi - The Arc of Washington
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+* SHAWN LATHAM - Self Advocates In Leadership
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/13 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2319 DD RHC facilities renaming
 #### 34 👍 - Pro

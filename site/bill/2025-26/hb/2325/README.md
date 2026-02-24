@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
 ### Thu 02/05 08:00 AM - Finance (FIN): SHB 2325 Tourism assessment

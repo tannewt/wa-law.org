@@ -12,9 +12,16 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Local Government (LG): SB 5820 Freight rail dependent use
-#### 0 👍 - Pro
+#### 79 👍 - Pro
+Testifying:
+* Councilmember Troy McCoy - [City of Battle Ground](/org/city_of_battle_ground/)
+* John Nanney - Chelatchie Prairie Coalition
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 0 👎 - Con
+#### 50 👎 - Con
+Testifying:
+* 💵Amber Carter - [Portland Vancouver Junction Railroad](/org/portland_vancouver_junction_railroad/)
+* 💵Ken Short - Association of Washington Business (AWB)
 
 #### 0 ❓ - Other
 

@@ -12,11 +12,16 @@
 
 ## Meetings
 ### Fri 02/20 01:30 PM - Finance (FIN): HB 2713 Detention facilities B&O tax
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* 💵John Burbank
 
-#### 3 👎 - Con
+#### 951 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Travis Dutton - Washington State Association of Counties / Policy Coordinator
+* Scott Hutsell - Lincoln County - Washington State
 
 ### Mon 02/09 08:00 AM - Finance (FIN): HB 2713 Detention facilities B&O tax
 #### 7 👍 - Pro

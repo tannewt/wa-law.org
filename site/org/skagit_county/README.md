@@ -42,8 +42,9 @@
 
 ### [SB 5475](/bill/2025-26/sb/5475/) - Salmon recovery maintenance 👍1  
 
-### [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍1  
+### [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍2  
 * 👍 Commissioner Ron Wesen
+* 👍💵 Josh Weiss
 
 ### [SB 6216](/bill/2025-26/sb/6216/) - Timber sale process 👍1  
 

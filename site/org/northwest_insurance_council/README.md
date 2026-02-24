@@ -40,7 +40,7 @@
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models   ❓1
 * ❓💵 Kenton Brine
 
-### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
+### [SB 5949](/bill/2025-26/sb/5949/) - Insurer taxes  👎2 
 * 👎💵 Kenton Brine
 
 ### [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  

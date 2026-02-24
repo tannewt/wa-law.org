@@ -9,9 +9,11 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Labor & Workplace Standards (LAWS): SSB 6039 LNI communication methods
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Tammy Fellin - Department of Labor & Industries
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

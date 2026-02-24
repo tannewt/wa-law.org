@@ -10,7 +10,9 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 5865 Garnishment forms
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Judge Megan Valentine - District & Municipal Court Judges' Association
 
 #### 0 👎 - Con
 

@@ -13,9 +13,21 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Housing (HSG): HB 2304 Condominium warranties
-#### 14 👍 - Pro
+#### 436 👍 - Pro
+Testifying:
+* Rory Paine-Donovan - Office of the Insurance Commissioner
+* Tyler Langford - Office of the Insurance Commissioner
+* MATT HUTCHINS AIA - CAST architecture
+* 💵Bill Clarke - Washington Realtors
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Jason Gano - 1Drop
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Brady Nordstrom - Housing Development Consortium
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Dylan Sluder - Master Builders Association of King and Snohomish Counties
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

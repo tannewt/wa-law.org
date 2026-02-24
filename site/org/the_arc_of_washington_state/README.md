@@ -26,7 +26,7 @@
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
 
-### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
 
 ### [HB 2196](/bill/2025-26/hb/2196/) - PANDAS, pediatric treatment 👍1  
 
@@ -38,11 +38,11 @@
 ### [HB 2314](/bill/2025-26/hb/2314/) - Concerning dental care services at residential habilitation centers. 👍1  ❓1
 * ❓💵 Stacy Dym
 
-### [HB 2319](/bill/2025-26/hb/2319/) - DD RHC facilities renaming 👍1  
+### [HB 2319](/bill/2025-26/hb/2319/) - DD RHC facilities renaming 👍2  
 
 ### [HB 2337](/bill/2025-26/hb/2337/) - Concerning training requirements for individual providers caring for a family member. 👍1  
 
-### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍2  
+### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍3  
 * 👍💵 Stacy Dym
 
 ### [HB 2415](/bill/2025-26/hb/2415/) - DSHS unexpected fatalities 👍2  

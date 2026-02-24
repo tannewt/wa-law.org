@@ -12,7 +12,10 @@
 ### Tue 02/24 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 6197 Plumbing contractors
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* 💵Jason Hewitt - WA State Association of UA Plumbers, Pipefitters, HVAC/R Service Technicians
+* 💵Michael Transue - Mechanical Contractors Association of Western Washington
 
 #### 0 👎 - Con
 

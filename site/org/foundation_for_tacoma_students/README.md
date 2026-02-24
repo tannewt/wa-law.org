@@ -54,11 +54,13 @@
 
 ### [SB 5828](/bill/2025-26/sb/5828/) - College scholarships/private 👍2  
 
-## [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
+### [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
+
+## [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎1 
 
 ## 2023-24
 
-### [SB 6052](/bill/2023-24/sb/6052/) - Digital school transcripts 👍1  
+### [SB 6260](/bill/2023-24/sb/6260/) - Public education funding  👎1 
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

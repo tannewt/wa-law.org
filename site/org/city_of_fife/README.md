@@ -21,7 +21,8 @@
 
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations  👎1 
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 ❓1
+* ❓💵 Michael Transue
 
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
 

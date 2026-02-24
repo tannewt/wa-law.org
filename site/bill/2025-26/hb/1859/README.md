@@ -15,11 +15,17 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Housing (HSG): 2SHB 1859 Housing dev./religious orgs.
-#### 4 👍 - Pro
+#### 356 👍 - Pro
 Testifying:
 * Saghar Amini - Habitat for Humanity Seattle-King & Kittitas Counties
+* Menka Soni - Councilmember, City of Redmond
+* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* 💵Kristin Ang - Faith Action Network (FAN)
+* Lynne Robinson - [City of Bellevue](/org/city_of_bellevue/)
+* Shalom Agtarap
+* Shannon Meagher - Widmyer Corporation
 
-#### 0 👎 - Con
+#### 151 👎 - Con
 
 #### 0 ❓ - Other
 

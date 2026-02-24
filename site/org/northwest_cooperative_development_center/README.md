@@ -26,14 +26,15 @@
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion
 
-### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍3  
+* 👍 Victoria OBanion
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
 ### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍2  
 * 👍 Victoria OBanion
 
-### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍2  
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍3  
 
 ### [HB 2047](/bill/2025-26/hb/2047/) - Employee ownership program  👎2 
 * 👎 John McNamara
@@ -50,7 +51,10 @@
 
 ### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  
 
-### [HB 2590](/bill/2025-26/hb/2590/) - Limited equity cooperatives 👍4  
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
+
+### [HB 2590](/bill/2025-26/hb/2590/) - Limited equity cooperatives 👍7  
+* 👍 Victoria OBanion
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion
 
@@ -61,6 +65,8 @@
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion
 * 👍 Victoria O'Banion
+
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
 
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 
@@ -81,11 +87,13 @@
 
 ### [SB 6167](/bill/2025-26/sb/6167/) - Down payment assistance  👎1 
 
-## [SB 6214](/bill/2025-26/sb/6214/) - Land banking authorities 👍1  
+### [SB 6214](/bill/2025-26/sb/6214/) - Land banking authorities 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6214](/bill/2023-24/sb/6214/) - Land banking authorities 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1743](/bill/2023-24/hb/1743/) - Employee ownership 👍1  
 * 👍 John McNamara

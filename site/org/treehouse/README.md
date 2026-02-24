@@ -7,7 +7,7 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍2  
 * 👍💵 Dawn Rains
 
 ### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
@@ -28,12 +28,12 @@
 
 ### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍2  
 * 👍💵 Dawn Rains
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp. 👍1  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp. 👍2  
 * 👍💵 Dawn Rains
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 

@@ -10,9 +10,14 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): 2SHB 2345 Paid leave contributions
-#### 2 👍 - Pro
+#### 151 👍 - Pro
+Testifying:
+* Josh Dye - Employment Security Department
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* 💵James Crandall - AWB
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

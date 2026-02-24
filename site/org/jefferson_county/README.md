@@ -15,11 +15,12 @@
 
 ### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍1  
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍2  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍3  
 * 👍 Heidi Eisenhour
 * 👍 Heidi Eisenhour
+* 👍 Commissioner Heidi Eisenhour
 
-### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
+### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍2  
 
 ### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  
 

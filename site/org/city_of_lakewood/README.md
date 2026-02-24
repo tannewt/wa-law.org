@@ -37,11 +37,11 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎2 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎4 
 
 ### [HB 2349](/bill/2025-26/hb/2349/) - Sexually violent predators 👍2  
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍2  
 
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
 
@@ -54,7 +54,7 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 
-### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍2  
+### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍3  
 * 👍 Captain Chris Westby
 * 👍 Captain Chris Westby
 
@@ -74,13 +74,20 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
-### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍2  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓1
+
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 
+* 👎 Jeff Rimack
+
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+
+## [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎1 
+### [SB 6262](/bill/2023-24/sb/6262/) - Vehicle fees/maximum weight 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

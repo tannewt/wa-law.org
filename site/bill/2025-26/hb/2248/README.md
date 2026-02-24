@@ -10,11 +10,12 @@
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Law & Justice (LAW): SHB 2248 Corporate filings
-Sign up to testify:
+#### 2 👍 - Pro
+Testifying:
+* Stacey Valenzuela - Member AMHO
+* Constance Parbon
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

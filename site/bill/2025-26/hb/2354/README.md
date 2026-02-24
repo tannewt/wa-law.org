@@ -9,7 +9,9 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Housing (HSG): SHB 2354 Common interest communities
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Marjean Knight - WSCAI LAC / Stonebridge HOA
 
 #### 0 👎 - Con
 

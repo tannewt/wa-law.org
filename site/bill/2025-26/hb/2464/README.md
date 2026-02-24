@@ -14,13 +14,16 @@
 
 ## Meetings
 ### Mon 02/23 01:30 PM - Human Services (HS): HB 2464 Private detention/reports
-Sign up to testify:
+#### 506 👍 - Pro
+Testifying:
+* Lydia Zepeda - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* Josefina Mora-Cheung - La Resistencia
+* Tim Warden-Hertz - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
 
-#### 0 👍 - Pro
+#### 1118 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/19 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2464 Private detention/reports
 #### 382 👍 - Pro

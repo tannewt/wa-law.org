@@ -8,9 +8,17 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
 
+### [HB 1574](/bill/2025-26/hb/1574/) - Protecting access to life-saving care and substance use services. 👍1  
+
 ### [HB 1897](/bill/2025-26/hb/1897/) - Community safety/liability 👍2  
 * 👍 Chloe Gale
 * 👍 Chloe Gale
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎2 
+* 👎 Chloe Gale
+* 👎 Paige Killinger
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍4  
 
@@ -19,15 +27,19 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
-### [SB 5988](/bill/2025-26/sb/5988/) - Opioid treatment prg. fees 👍1  
+### [SB 5988](/bill/2025-26/sb/5988/) - Opioid treatment prg. fees 👍2  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎3 
 * 👎 Chloe Gale
+* 👎 Brandie Flood
+* 👎 Chad Vaculin
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.  👎1 
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.  👎3 
 * 👎 Chloe Gale
+* 👎 Brandie Flood
+* 👎 Chad Vaculin
 
 ### [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍2  
 

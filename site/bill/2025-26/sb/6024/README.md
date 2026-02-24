@@ -8,9 +8,12 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESB 6024 DD res. service providers
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Jennifer Lengyel - [Community Residential Services Association](/org/community_residential_services_association/)
+* 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -10,9 +10,12 @@
 ### Tue 02/24 01:30 PM - Postsecondary Education & Workforce (PEW): SB 6258 Medical license relinquish.
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 132 👍 - Pro
+Testifying:
+* Chris Bundy - [Washington Physicians Health Program](/org/washington_physicians_health_program/)
+* Fatima Mirza - Washington Medical Commission/Program Case Manager
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

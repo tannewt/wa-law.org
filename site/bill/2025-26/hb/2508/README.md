@@ -10,11 +10,12 @@
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Law & Justice (LAW): ESHB 2508 Office of independent inves.
-Sign up to testify:
+#### 9 👍 - Pro
+Testifying:
+* Annette Taylor - Office of Independent Investigations
+* Jessica Berliner - Office of Independent Investigations
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 78 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -38,8 +38,9 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
 * 👍 Jeff DeBray
+* 👍💵 Damiana Merryweather
 
 ## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 

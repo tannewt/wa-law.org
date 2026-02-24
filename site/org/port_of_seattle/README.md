@@ -74,7 +74,7 @@
 
 ### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍2  
 
 ### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍1  
 
@@ -90,11 +90,13 @@
 
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
 
-### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍2  
 
 ### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍2  
+### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍1  
+
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍3  
 * 👍 John Flanagan
 * 👍 John Flanagan
 
@@ -136,7 +138,7 @@
 * 👍 John Flanagan
 * 👍 John Flanagan
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍3  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍4  
 * 👍💵 Brooke Davies
 * 👍 John Flanagan
 
@@ -156,9 +158,9 @@
 
 ### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
 
-### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking 👍1  
+### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking 👍2  
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  
 
 ### [SB 5989](/bill/2025-26/sb/5989/) - Aircraft fuel tax distrib. 👍1  
 * 👍 John Flanagan
@@ -172,11 +174,17 @@
 ### [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants   ❓1
 * ❓ John Flanagan
 
-## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
+### [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍2  
+
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
+
+## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
+* 👍 John Flanagan
 
 ## 2023-24
 
-### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍1  
+### [SB 6352](/bill/2023-24/sb/6352/) - Transportation resources 👍1  
+* 👍 John Flanagan
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

@@ -8,11 +8,11 @@
 
 ## Meetings
 ### Mon 02/23 04:00 PM - Transportation (TRAN): HB 2495 Removal of vehicles
-Sign up to testify:
+#### 137 👍 - Pro
+Testifying:
+* Alison Redenz - City of Seattle - SDOT
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

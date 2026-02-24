@@ -50,6 +50,8 @@
 
 ### [HB 2220](/bill/2025-26/hb/2220/) - CJTC oversight  👎1 
 
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+
 ### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
@@ -60,8 +62,9 @@
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎2 
 * 👎💵 Malou Chavez
 
-### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍2  
 * 👍 Xiomara Uran
+* 👍 Tim Warden-Hertz
 
 ### [HB 2500](/bill/2025-26/hb/2500/) - Transfers to charities 👍1  
 
@@ -70,7 +73,7 @@
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
 * 👍💵 Malou Chavez
 
-### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍2  
 
 ### [HB 2641](/bill/2025-26/hb/2641/) - Law enforcement hiring 👍1  
 
@@ -94,11 +97,14 @@
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
-### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+### [SB 5808](/bill/2025-26/sb/5808/) - Health carrier surpluses 👍1  
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍3  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍4  
+* 👍💵 Malou Chavez
 * 👍💵 Malou Chavez
 * 👍💵 Malou Chavez
 

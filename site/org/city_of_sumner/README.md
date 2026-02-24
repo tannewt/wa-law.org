@@ -14,6 +14,8 @@
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎3 

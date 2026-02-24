@@ -20,6 +20,9 @@
 
 ### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
 
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest   ❓1
+* ❓💵 Matt Doumit
+
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services.  👎1 
@@ -30,7 +33,8 @@
 ### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention   ❓1
 * ❓💵 Matt Doumit
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+* ❓💵 Matt Doumit
 * ❓💵 Matt Doumit
 
 ### [HB 2327](/bill/2025-26/hb/2327/) - County forest board lands 👍1  
@@ -38,6 +42,8 @@
 
 ### [HB 2348](/bill/2025-26/hb/2348/) - Timber sale process 👍1  
 * 👍💵 Matt Doumit
+
+### [HB 2554](/bill/2025-26/hb/2554/) - Tribal fishing rights 👍1  
 
 ### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making 👍1  
 * 👍💵 Matt Doumit
@@ -47,7 +53,8 @@
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1
 * ❓ Tom Davis
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
+* 👎💵 Matt Doumit
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 
 * 👎💵 Matt Doumit
@@ -59,10 +66,11 @@
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍1  
 
-### [SB 5994](/bill/2025-26/sb/5994/) - Timber tax distributions 👍1  
+### [SB 5994](/bill/2025-26/sb/5994/) - Timber tax distributions 👍2  
 * 👍💵 Matt Doumit
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
+* ❓💵 Matt Doumit
 * ❓💵 Matt Doumit
 
 ## [SB 6216](/bill/2025-26/sb/6216/) - Timber sale process 👍1  

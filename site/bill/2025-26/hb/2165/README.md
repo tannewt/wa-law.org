@@ -19,9 +19,12 @@
 
 ## Meetings
 ### Thu 02/19 10:30 AM - Law & Justice (LAW): ESHB 2165 Peace officer false ident.
-#### 130 👍 - Pro
+#### 297 👍 - Pro
+Testifying:
+* Nathan Olson - Governor's Office
+* Joe Vinson - SeaTac City Council Member
 
-#### 0 👎 - Con
+#### 282 👎 - Con
 
 #### 0 ❓ - Other
 

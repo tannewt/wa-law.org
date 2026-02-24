@@ -48,6 +48,8 @@
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones 👍1  
 * 👍 Lauren McDonald
 
+### [HB 2636](/bill/2025-26/hb/2636/) - Public education reviews 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 
@@ -73,6 +75,8 @@
 
 ### [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
 
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍1  
+
 ### [SB 5755](/bill/2025-26/sb/5755/) - Residential dev./commercial 👍1  
 * 👍 Barb Wilson
 
@@ -94,16 +98,18 @@
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  
 * 👍 Lauren McDonald
 
+### [SB 6106](/bill/2025-26/sb/6106/) - Laid-off employees 👍1  
+
 ### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍1  
 
 ### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
 * ❓ Lauren McDonald
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1 👎1 
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1 👎4 
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1 👎1 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1 👎4 
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty 👍2  
 

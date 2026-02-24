@@ -15,11 +15,20 @@
 
 ## Meetings
 ### Fri 02/20 02:00 PM - Law & Justice (LAW): ESHB 2548 Health care market standards
-#### 0 👍 - Pro
+#### 130 👍 - Pro
+Testifying:
+* Nico Janssen - Office of the Insurance Commissioner
+* Travis Kennedy - Washington Attorney General's Office
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* 💵Melissa Johnson - Washington State Nurses Association
+* 💵Aaron Keating - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 
-#### 0 👎 - Con
+#### 105 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Zosia Stanley - Washington State Hospital Association
+* 💵Sean Graham - Washington State Medical Association
 
 ### Wed 01/21 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2548 Health care market standards
 #### 99 👍 - Pro

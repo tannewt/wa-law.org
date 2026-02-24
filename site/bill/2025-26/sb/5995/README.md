@@ -8,11 +8,20 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Local Government (LG): SB 5995 Zero emission cargo handling
-#### 0 👍 - Pro
+#### 1241 👍 - Pro
+Testifying:
+* Dan McKisson - President, ILWU WA Area District Council
+* Meghan Mason - ILWU Local 23
+* Nicholas Matson - ILWU Local 51
+* Sarah Esch - ILWU Local 19
+* Dan Twohig - International Association of Masters, Mates & Pilots
+* Kesa Sten - ILWU Local 52
 
-#### 0 👎 - Con
+#### 71 👎 - Con
+Testifying:
+* 💵Scott Hazlegrove - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
 
-#### 0 ❓ - Other
+#### 17 ❓ - Other
 
 ### Thu 01/15 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5995 Zero emission cargo handling
 #### 910 👍 - Pro

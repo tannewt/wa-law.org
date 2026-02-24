@@ -25,9 +25,11 @@
 
 ### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍2  
 
-### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+### [SB 5917](/bill/2025-26/sb/5917/) - Abortion medications 👍1  
 
-### [SB 6025](/bill/2025-26/sb/6025/) - Updating the definition of fetal death. 👍1  
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍2  
+
+### [SB 6025](/bill/2025-26/sb/6025/) - Updating the definition of fetal death. 👍2  
 
 ## [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍6  
 * 👍 Mercedes Sanchez

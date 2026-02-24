@@ -35,7 +35,8 @@
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍2  
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍3  
+* 👍💵 Aaron Yared
 * 👍💵 Aaron Yared
 * 👍💵 Aaron Yared
 
@@ -87,24 +88,25 @@
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍2  
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍3  
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍2  
+* 👍💵 Aaron Yared
 * 👍💵 Aaron Yared
 
-### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍1  
+### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍2  
 
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

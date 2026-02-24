@@ -84,11 +84,14 @@
 
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
 
+### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍1  
+
 ### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes 👍1  
 
 ### [HB 2490](/bill/2025-26/hb/2490/) - Ex. medical placement 👍1  
 
-### [HB 2548](/bill/2025-26/hb/2548/) - Health care market standards 👍1  
+### [HB 2548](/bill/2025-26/hb/2548/) - Health care market standards 👍2  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
 ### [HB 2555](/bill/2025-26/hb/2555/) - Traditional health/medicaid 👍1  
@@ -131,7 +134,8 @@
 ### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert. 👍2 👎2 
 * 👎💵 Vanessa Saavedra
 
-### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍2  
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍3  
+* 👍💵 Vanessa Saavedra
 * 👍💵 Vanessa Saavedra
 * 👍💵 Vanessa Saavedra
 
@@ -160,23 +164,30 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5808](/bill/2025-26/sb/5808/) - Health carrier surpluses 👍1  
+* 👍💵 Emily Brice
+
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
 
 ### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍2  
 
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety   ❓1
+* ❓ Lee Che Leong
+
 ### [SB 5947](/bill/2025-26/sb/5947/) - Establishing the Washington health care board. 👍1  
 
-### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state. 👍1  
+### [SB 5949](/bill/2025-26/sb/5949/) - Insurer taxes 👍1  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍2  
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓3
 * ❓💵 Emily Brice
 * ❓ Lee Che LEONG
+* ❓💵 Emily Brice
 
 ### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
 
@@ -188,17 +199,20 @@
 
 ### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍1  
 
-### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍2  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
 ### [SB 6305](/bill/2025-26/sb/6305/) - Mental health coverage 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍3  
+* 👍💵 Vanessa Saavedra
 * 👍💵 Vanessa Saavedra
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍3  
+* 👍💵 Vanessa Saavedra
 * 👍💵 Vanessa Saavedra
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  

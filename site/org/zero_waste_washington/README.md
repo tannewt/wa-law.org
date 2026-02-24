@@ -104,7 +104,7 @@
 ### [HB 2402](/bill/2025-26/hb/2402/) - Phthalates/medical equipment 👍1  
 * 👍💵 Heather Trim
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities  👎1 
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1 👎1 
 * 👎💵 Heather Trim
 
 ### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍2  
@@ -125,6 +125,8 @@
 * ❓💵 Heather Trim
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍5  
+
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍3  
 
 ### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍2  
 * 👍 Moji Igun
@@ -155,10 +157,14 @@
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍7  
 * 👍💵 Heather Trim
 
-### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎5 
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎7 
+* 👎💵 Heather Trim
 * 👎💵 Heather Trim
 
 ### [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags  👎1 
+
+### [SB 6087](/bill/2025-26/sb/6087/) - Donations for children 👍2  
+* 👍💵 Heather Trim
 
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍2  
 * 👍💵 Heather Trim
@@ -168,6 +174,9 @@
 * 👍💵 Heather Trim
 
 ### [SB 6174](/bill/2025-26/sb/6174/) - Textile producers 👍2  
+* 👍💵 Heather Trim
+
+### [SB 6222](/bill/2025-26/sb/6222/) - Students/surplus technology 👍2  
 * 👍💵 Heather Trim
 
 ### [SB 6271](/bill/2025-26/sb/6271/) - Mattress producer resp. 👍2  

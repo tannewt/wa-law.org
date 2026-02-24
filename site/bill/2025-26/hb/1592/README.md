@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/22/2026 [The Spokesman-Review](/org/the_spokesman-review/) - [State lawmakers work to keep bipartisan public defense proposals alive](https://www.spokesman.com/stories/2026/feb/22/state-lawmakers-work-to-keep-bipartisan-public-def/#:~:text=House%20Bill%201592)
 * 02/20/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers work to keep bipartisan public defense proposals alive • Washington State Standard](https://washingtonstatestandard.com/2026/02/20/wa-lawmakers-work-to-keep-bipartisan-public-defense-proposals-alive/#:~:text=House%20Bill%201592)
 * 01/14/2026 [The Washington Observer](/org/the_washington_observer/) - [A different sort of speech entirely](https://washingtonobserver.substack.com/p/a-different-sort-of-speech-entirely#:~:text=House%20bill)
 

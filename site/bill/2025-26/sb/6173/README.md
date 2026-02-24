@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington State Standard](/org/washington_state_standard/) - [WA Democrats drop push for business tax to cover Medicaid costs • Washington State Standard](https://washingtonstatestandard.com/2026/02/23/wa-democrats-drop-push-for-business-tax-to-cover-medicaid-costs/#:~:text=Senate%20Bill%206173)
 * 02/13/2026 [The Washington Observer](/org/the_washington_observer/) - [The Walmart tax](https://washingtonobserver.substack.com/p/the-walmart-tax#:~:text=SB%206173)
 
 ## Meetings

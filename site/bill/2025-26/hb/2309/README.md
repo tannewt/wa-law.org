@@ -11,10 +11,11 @@
 
 ## Meetings
 ### Mon 02/16 08:30 AM - State Government & Elections (SGE): HB 2309 Postgrad degree requirements
-#### 123 👍 - Pro
+#### 199 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 * Jamie Bird
+* Ben Asbury
 * Ben Asbury
 
 #### 0 👎 - Con

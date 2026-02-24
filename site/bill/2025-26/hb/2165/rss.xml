@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2165/</link>
 		<description>Updates about HB 2165</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 16 Feb 2026 00:24:13 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Feb 2026 11:52:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -156,6 +156,22 @@
 			<pubDate>Mon, 16 Feb 2026 00:24:13 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=ESHB%202165</guid>
+		</item>
+		<item>
+			<title>👍Nathan Olson - Governor's Office</title>
+			<description>Nathan Olson signed up to testify Pro. They are signed up to represent Governor's Office.</description>
+			<pubDate>Mon, 16 Feb 2026 11:49:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nathan/Olson/2026-02-16 11:49:12</guid>
+		</item>
+		<item>
+			<title>👍Joe Vinson - SeaTac City Council Member</title>
+			<description>Joe Vinson signed up to testify Pro. They are signed up to represent SeaTac City Council Member.</description>
+			<pubDate>Tue, 17 Feb 2026 11:52:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Vinson/2026-02-17 11:52:27</guid>
 		</item>
 	</channel>
 </rss>

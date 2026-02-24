@@ -16,13 +16,24 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SSB 5346 Student mobile device use
-#### 0 👍 - Pro
+#### 122 👍 - Pro
+Testifying:
+* Paula Fillmore-Sardinas - FMSGS/WBBA
+* Taka Yoshida
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
-#### 1 ❓ - Other
+#### 30 ❓ - Other
 Testifying:
 * Danica Noble - Coalition for a Media-Safe Childhood
+* Danica Noble - UW Tech Law and Public Policy Clinic Project
+* MD MPH, Dr. Dimitri Christakis - Professor, Seattle Children's Hospital; Editor in Chief, JAMA Pediatrics
+* Zac Stowell - Principal, Robert Eagles Staff Middle School
+* Ashley Gross - Distraction-Free Schools WA
+* Grace Kaste
+* Preston Tucker
+* Payton Drader - Student
+* John Warren
 
 ### Thu 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 5346 Student mobile device use
 #### 143 👍 - Pro

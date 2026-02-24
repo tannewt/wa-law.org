@@ -11,9 +11,13 @@
 ### Tue 02/24 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 6097 Conservation futures/tribes
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 30 👍 - Pro
+Testifying:
+* Joe Sambataro - [Tulalip Tribes of Washington](/org/tulalip_tribes_of_washington/)
+* Mo McBroom - [King County](/org/king_county/)
+* Kristi England - [Forterra](/org/forterra/)
 
-#### 0 👎 - Con
+#### 792 👎 - Con
 
 #### 0 ❓ - Other
 

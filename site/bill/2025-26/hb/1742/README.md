@@ -11,11 +11,16 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1742 Urban design/environment
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* 💵Alexandra Johnson - Duwamish River Community Coalition
+* Sue Lani Madsen - The Madsen Group
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Samantha Weinstein - Department of Ecology
 
 ### Mon 02/03 01:30 PM - Environment & Energy (ENVI): HB 1742 Urban design/environment
 #### 21 👍 - Pro

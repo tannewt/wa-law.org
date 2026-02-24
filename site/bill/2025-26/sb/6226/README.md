@@ -11,11 +11,20 @@
 ### Tue 02/24 01:30 PM - Health Care & Wellness (HCW): SSB 6226 Audiologist autonomy
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 64 👍 - Pro
+Testifying:
+* Melanie Hecker
+* Leela Cleary - BLUEMOTH Hearing
+* 💵Melissa Johnson - Washington Speech-Language-Hearing Association
+* Stephanie Czuhajewski - Academy of Doctors of Audiology
+* 💵Abbey Smelcer - [Hear.com](/org/hear.com/)
+* John DeSimone - VirtuHear
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* RICHARD GILES - [Washington Hearing Society](/org/washington_hearing_society/)
 
 ### Fri 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 6226 Audiologist autonomy
 #### 54 👍 - Pro

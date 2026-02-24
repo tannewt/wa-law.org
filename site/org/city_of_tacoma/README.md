@@ -37,6 +37,8 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
+### [HB 1687](/bill/2025-26/hb/1687/) - Social housing authorities 👍1  
+
 ### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍3  
@@ -55,6 +57,8 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
+### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
+
 ### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍2  
 * 👍 Steve Victor
 * 👍 Jennifer Kammerzell
@@ -70,9 +74,9 @@
 
 ### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy 👍1  
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍2  
 
-### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍2  
 
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
 
@@ -138,12 +142,18 @@
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
+
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
 * 👍 Preston Peck
 
 ### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 
@@ -155,13 +165,18 @@
 
 ### [SB 6175](/bill/2025-26/sb/6175/) - Ticket sales   ❓1
 
-## [SB 6271](/bill/2025-26/sb/6271/) - Mattress producer resp. 👍1  
+### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍1  
+
+### [SB 6271](/bill/2025-26/sb/6271/) - Mattress producer resp. 👍1  
 * 👍 Preston Peck
+
+## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources   ❓1
+* ❓ Jennifer Kammerzell
 
 ## 2023-24
 
-### [SB 6271](/bill/2023-24/sb/6271/) - Mattress producer resp. 👍1  
-* 👍 Preston Peck
+### [SB 6352](/bill/2023-24/sb/6352/) - Transportation resources   ❓1
+* ❓ Jennifer Kammerzell
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

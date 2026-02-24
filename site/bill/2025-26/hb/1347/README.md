@@ -11,11 +11,21 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): HB 1347 Cannabis testing labs
-#### 3 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Robert Dandy
+* 💵Ezra Eickmeyer - Producers NW
+* Bonny Jo Peterson
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Marc Webster - Washington State Liquor and Cannabis Board
+* Amber Vaughn - Washington CannaBusiness Association
+* Bethany Rondeaux - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
+* Nick Mosely - Confidence Analytics, Inc.
 
 ### Mon 03/31 10:30 AM - Labor & Commerce (LC): HB 1347 Cannabis testing labs
 #### 5 👍 - Pro

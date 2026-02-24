@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SB%205906)
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%205906)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=ESSB%205906)
 * 02/17/2026 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers want to restrict ICE access to schools, health facilities](https://www.kuow.org/stories/washington-lawmakers-want-to-restrict-ice-access-to-schools-health-facilities#:~:text=Senate%20Bill%205906)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SB%205906)
@@ -39,11 +41,36 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 5906 Data and personal safety
-#### 0 👍 - Pro
+#### 878 👍 - Pro
+Testifying:
+* 💵Jean Hill - Washington State Catholic Conference
+* Natalya Yudkovsky - Washington State PTA
+* Daniel Emiliano Zamora - Communities for Our College
+* Angelita Cervantes - Communities for Our College
+* Ryan Bikdash
+* Adan Rodriguez - President of the Associated Students of the University of Washington Bothell
+* 💵Kristin Wiggins - OneAmerica
+* 💵Vanessa Hernandez - ACLU of Washington
+* 💵Mahmood Alkhazraji - ASCWU
+* Matthew Altman - CWU Faculty Legislative Representative
+* Callidora Liapakis - Associated Students of Tacoma Community College
+* Jamie Eymann
+* Christina Staebler
+* Faith Flaherty
+* Nandana Jaideep - Associated Students of the University of Washington
 
-#### 0 👎 - Con
+#### 1667 👎 - Con
+Testifying:
+* Anthony Mixer - Citizen Volunteer Lobbyist
 
-#### 0 ❓ - Other
+#### 8 ❓ - Other
+Testifying:
+* Shawn Merchant - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
+* Lee Che Leong - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* 💵Melissa Johnson - Washington State Nurses Association
+* 💵Zosia Stanley - Washington State Hospital Association
+* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
+* 💵Amina Teouri - [Adult Family Home Council](/org/adult_family_home_council/)
 
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5906 Data and personal safety
 #### 1233 👍 - Pro

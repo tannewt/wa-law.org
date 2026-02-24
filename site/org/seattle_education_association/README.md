@@ -7,6 +7,8 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎1 
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
@@ -26,17 +28,19 @@
 ### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  
 * 👍 Elizabeth Ward Robertson
 
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+
 ### [SB 6125](/bill/2025-26/sb/6125/) - School stabilization funding 👍1  
 
 ### [SB 6192](/bill/2025-26/sb/6192/) - Reading and math instruction  👎1 
 
 ### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎2 
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍11  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍16 👎38 
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍11  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍16 👎38 
 
 ### [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍1  
 

@@ -18,6 +18,9 @@
 * 👎💵 Alex Hamasaki
 * 👎💵 Alex Hamasaki
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Alex Hamasaki
+
 ### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes 👍1  
 * 👍💵 Alex Hamasaki
 
@@ -33,6 +36,9 @@
 ### [SB 5183](/bill/2025-26/sb/5183/) - Tobacco & nicotine products 👍2  
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes   ❓1
+* ❓💵 Alex Hamasaki
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Alex Hamasaki
 
 ### [SB 6116](/bill/2025-26/sb/6116/) - Vapor products/tax  👎1 

@@ -26,7 +26,10 @@
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use   ❓1
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  ❓1
+* 👍 Regan Bolli
+
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎2 
 

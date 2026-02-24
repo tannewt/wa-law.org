@@ -15,6 +15,9 @@
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍3  
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Lance Morehouse
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 * 👍💵 Lance Morehouse
 
@@ -23,15 +26,17 @@
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍6  
 
-## [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍8  
+### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍8  
 * 👍💵 Lance Morehouse
 * 👍💵 Lance Morehouse
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Lance Morehouse
 
 ## 2023-24
 
-### [SB 5681](/bill/2023-24/sb/5681/) - DDA employment services age 👍8  
-* 👍💵 Lance Morehouse
-* 👍💵 Lance Morehouse
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Lance Morehouse
 
 ### [HB 1506](/bill/2023-24/hb/1506/) - DSHS leases  👎1 
 

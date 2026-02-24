@@ -10,13 +10,16 @@
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 * 👍 Michael DeCramer
 
-## [SB 5390](/bill/2025-26/sb/5390/) - Access to recreation sites 👍2  
+### [SB 5390](/bill/2025-26/sb/5390/) - Access to recreation sites 👍2  
 * 👍 Michael DeCramer
+
+### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍1  
+
+## [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
 
 ## 2023-24
 
-### [SB 5390](/bill/2023-24/sb/5390/) - Access to recreation sites 👍2  
-* 👍 Michael DeCramer
+### [SB 6097](/bill/2023-24/sb/6097/) - Conservation futures/tribes 👍1  
 
 ### [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍2  
 

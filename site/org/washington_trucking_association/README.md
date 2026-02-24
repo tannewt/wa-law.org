@@ -1,6 +1,9 @@
 # Washington Trucking Association
 ## 2025-26
 
+### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users    ❓1
+* ❓ Paul Graves
+
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions 👍1  
 * 👍💵 Sheri Call
 

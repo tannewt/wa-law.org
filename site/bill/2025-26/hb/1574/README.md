@@ -8,11 +8,19 @@
 
 ## Meetings
 ### Fri 02/20 02:00 PM - Law & Justice (LAW): EHB 1574 Substance use/care, services
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Caleb Banta-Green - University of Washington, School of Medicine
 
-#### 0 👎 - Con
+#### 246 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
+* Tristan Seikel - VOCAL WA
 
 ### Mon 03/24 10:30 AM - Law & Justice (LAW): EHB 1574 Substance use/care, services
 #### 12 👍 - Pro

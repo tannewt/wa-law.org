@@ -15,11 +15,20 @@
 #### 0 ❓ - Other
 
 ### Wed 02/18 10:30 AM - Housing (HSG): HB 2664 Unlawful detainer notices
-#### 0 👍 - Pro
+#### 465 👍 - Pro
+Testifying:
+* 💵Jake Mayson - Washington Multi-Family Housing Association
+* Trinity Padilla - Country Estates
+* George Adams
+* Daniel Bannon - RHAWA
+* Scott Christensen - Sundance MHC LLP
+* rose Sanderson - IPG
+* Lee Hinds
+* TAVIA Doffing
 
-#### 0 👎 - Con
+#### 7 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/27 04:00 PM - Housing (HOUS): HB 2664 Unlawful detainer notices
 #### 986 👍 - Pro

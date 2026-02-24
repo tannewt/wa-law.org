@@ -17,7 +17,7 @@
 
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍2  
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍2  
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍3  
 
 ### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
 
@@ -27,9 +27,11 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
+### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements 👍1  
+
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍3  
 
-### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices 👍1  
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices 👍2  
 
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages 👍1  
 
@@ -43,7 +45,7 @@
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
 
-### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍1  
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍2  
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
@@ -100,6 +102,8 @@
 
 ### [HB 1363](/bill/2025-26/hb/1363/) - Child care licensing  👎1 
 
+### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  
+
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
 
 ### [HB 1395](/bill/2025-26/hb/1395/) - Home care worker background 👍1  
@@ -108,7 +112,7 @@
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license 👍1  
 
-### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍1  
+### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍2  
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍3  
 
@@ -214,7 +218,7 @@
 
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍3  
 
-### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍2  
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍3  
 
 ### [HB 1804](/bill/2025-26/hb/1804/) - Community solar projects 👍1  
 
@@ -250,6 +254,8 @@
 
 ### [HB 1864](/bill/2025-26/hb/1864/) - Ambulances/transport options 👍1  
 
+### [HB 1873](/bill/2025-26/hb/1873/) - WC child care/grad. students 👍1  
+
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍2  
 
 ### [HB 1879](/bill/2025-26/hb/1879/) - Hospital worker breaks 👍2  
@@ -262,7 +268,7 @@
 
 ### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation 👍1  
 
-### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍3  
 
 ### [HB 1927](/bill/2025-26/hb/1927/) - Rent payment reporting 👍1  
 
@@ -292,11 +298,11 @@
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍2  
 
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
-### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍1  
+### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍2  
 
 ### [HB 2092](/bill/2025-26/hb/2092/) - Passenger rail adv. comm. 👍1  
 
@@ -316,13 +322,13 @@
 
 ### [HB 2155](/bill/2025-26/hb/2155/) - Use of nursing titles 👍1  
 
-### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority 👍1  
+### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority 👍2  
 
 ### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍2  
 
 ### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers 👍1  
 
-### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍1  
+### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍2  
 
 ### [HB 2182](/bill/2025-26/hb/2182/) - Abortion medications 👍1  
 
@@ -338,21 +344,21 @@
 
 ### [HB 2207](/bill/2025-26/hb/2207/) - Warehousing of alcohol  👎1 
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍2  
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍3  
 
 ### [HB 2218](/bill/2025-26/hb/2218/) - Workers' comp. medical care 👍1  
 
-### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍1  
+### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍2  
 
 ### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍2  
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
-### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍1  
+### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍2  
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍1  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍2  
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 
@@ -360,21 +366,21 @@
 
 ### [HB 2260](/bill/2025-26/hb/2260/) - Ballot measure petitions 👍1  
 
-### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
+### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍2  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍3  
 
 ### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎1 
 
 ### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention 👍1  
 
-### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
+### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍2  
 
 ### [HB 2317](/bill/2025-26/hb/2317/) - Concerning early learning program licensing requirements. 👍1  
 
 ### [HB 2337](/bill/2025-26/hb/2337/) - Concerning training requirements for individual providers caring for a family member.  👎1 
 
-### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍2  
 
 ### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  
 
@@ -388,21 +394,27 @@
 
 ### [HB 2401](/bill/2025-26/hb/2401/) - Boys and men commission 👍1  
 
-### [HB 2405](/bill/2025-26/hb/2405/) - PTSD treatment and research 👍2  
+### [HB 2405](/bill/2025-26/hb/2405/) - PTSD treatment and research 👍3  
 
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+### [HB 2411](/bill/2025-26/hb/2411/) - Shared leave 👍1  
+
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍2  
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 
 ### [HB 2422](/bill/2025-26/hb/2422/) - Private security guards 👍1  
 
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
 ### [HB 2471](/bill/2025-26/hb/2471/) - Collective bargaining 👍1  
 
-### [HB 2472](/bill/2025-26/hb/2472/) - Fire sprinkler work 👍1  
+### [HB 2472](/bill/2025-26/hb/2472/) - Fire sprinkler work 👍2  
 
-### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍2  
+### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍1  
+
+### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍3  
 
 ### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing 👍1  
 
@@ -412,27 +424,33 @@
 
 ### [HB 2513](/bill/2025-26/hb/2513/) - Plumbing contractors 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎2 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1 👎2 
 
 ### [HB 2517](/bill/2025-26/hb/2517/) - High cap. transit permits 👍1  
 
 ### [HB 2524](/bill/2025-26/hb/2524/) - Security guards board 👍1  
 
+### [HB 2540](/bill/2025-26/hb/2540/) - EMT recertification 👍1  
+
 ### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports  👎2 
 
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+
+### [HB 2600](/bill/2025-26/hb/2600/) - Supported living cost report 👍1  
 
 ### [HB 2605](/bill/2025-26/hb/2605/) - Fibrous silicate materials 👍1  
 
 ### [HB 2611](/bill/2025-26/hb/2611/) - 32 hour workweek 👍1  
 
-### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍1  
+### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍2  
 
 ### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 
-### [HB 2730](/bill/2025-26/hb/2730/) - Aerospace tax preferences 👍1  
+### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care  👎1 
+
+### [HB 2730](/bill/2025-26/hb/2730/) - Aerospace tax preferences 👍2  
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
@@ -446,9 +464,11 @@
 
 ### [SB 5059](/bill/2025-26/sb/5059/) - Ferry captains 👍1  
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍2  
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍3  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
+
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍2  
 
@@ -466,7 +486,7 @@
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍3  
 
-### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments  👎1 
+### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1 👎1 
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 
@@ -496,7 +516,7 @@
 
 ### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍2  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍5  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍6  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 
@@ -512,7 +532,7 @@
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes   ❓1
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 ❓1
 
 ### [SB 5379](/bill/2025-26/sb/5379/) - Parks & rec./interest arb. 👍2  
 
@@ -553,6 +573,8 @@
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
 
 ### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍2  
+
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
 
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍2  
 
@@ -598,7 +620,7 @@
 
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍3  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍4  
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍2  
 
@@ -638,17 +660,19 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-### [SB 5820](/bill/2025-26/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍1  
+### [SB 5820](/bill/2025-26/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍2  
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
 ### [SB 5842](/bill/2025-26/sb/5842/) - Campaign memorabilia  👎1 
 
-### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍2  
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍3  
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
 ### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍1  
+
+### [SB 5862](/bill/2025-26/sb/5862/) - TRS & PERS plan 1 COLA 👍1  
 
 ### [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍1  
 
@@ -660,51 +684,63 @@
 
 ### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
 
-### [SB 5886](/bill/2025-26/sb/5886/) - Personality rights  👎1 
+### [SB 5886](/bill/2025-26/sb/5886/) - Personality rights  👎2 
 
-### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
+### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍2  
 
 ### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
 
-### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
+### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍2  
 
 ### [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍1  
 
+### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍1  
+
 ### [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments  👎1 
+
+### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍1  
 
 ### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy  👎2 
 
-### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍1  
+### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍2  
 
 ### [SB 5951](/bill/2025-26/sb/5951/) - Albuterol access in schools 👍1  
 
+### [SB 5956](/bill/2025-26/sb/5956/) - AI use/student discipline 👍1  
+
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍3  
 
-### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍1  
+### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍2  
 
-### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb. 👍1  
+### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb. 👍2  
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
 
-### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots 👍1  
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
 
-### [SB 5995](/bill/2025-26/sb/5995/) - Zero emission cargo handling 👍1  
+### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots 👍2  
+
+### [SB 5988](/bill/2025-26/sb/5988/) - Opioid treatment prg. fees 👍1  
+
+### [SB 5995](/bill/2025-26/sb/5995/) - Zero emission cargo handling 👍2  
+
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
 ### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 
-### [SB 6014](/bill/2025-26/sb/6014/) - Pregnancy accommodations 👍1  
+### [SB 6014](/bill/2025-26/sb/6014/) - Pregnancy accommodations 👍2  
 
-### [SB 6019](/bill/2025-26/sb/6019/) - Home care rates 👍1  
+### [SB 6019](/bill/2025-26/sb/6019/) - Home care rates 👍2  
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
 
-### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
+### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍2  
 
 ### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
-### [SB 6058](/bill/2025-26/sb/6058/) - Wage enforcement discretion 👍1  
+### [SB 6058](/bill/2025-26/sb/6058/) - Wage enforcement discretion 👍2  
 
 ### [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation 👍2  
 
@@ -713,6 +749,8 @@
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
+
+### [SB 6106](/bill/2025-26/sb/6106/) - Laid-off employees 👍1  
 
 ### [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining 👍2  
 
@@ -724,13 +762,19 @@
 
 ### [SB 6135](/bill/2025-26/sb/6135/) - Interest arbitration factors  👎1 
 
+### [SB 6136](/bill/2025-26/sb/6136/) - Industrial insurance rates  👎1 
+
 ### [SB 6152](/bill/2025-26/sb/6152/) - Workers' comp./PTs & OTs 👍1  
 
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 
 ### [SB 6180](/bill/2025-26/sb/6180/) - Occupational disease/heart 👍1  
 
-### [SB 6197](/bill/2025-26/sb/6197/) - Plumbing contractors 👍1  
+### [SB 6188](/bill/2025-26/sb/6188/) - Asbestos training rules 👍1  
+
+### [SB 6197](/bill/2025-26/sb/6197/) - Plumbing contractors 👍2  
+
+### [SB 6225](/bill/2025-26/sb/6225/) - Transportation funding bonds 👍1  
 
 ### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes  👎1 
 
@@ -738,11 +782,13 @@
 
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎2 
 
-### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed  👎1 
+### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed  👎2 
 
 ### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
 
 ### [SB 6253](/bill/2025-26/sb/6253/) - PTBA governing bodies 👍1  
+
+### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎1 
 
 ### [SB 6279](/bill/2025-26/sb/6279/) - Wildland urban interface 👍1  
 
@@ -750,11 +796,13 @@
 
 ### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections 👍2  
 
-### [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
+### [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍2  
 
-### [SB 6302](/bill/2025-26/sb/6302/) - Public works/finishing trade 👍1  
+### [SB 6302](/bill/2025-26/sb/6302/) - Public works/finishing trade 👍2  
 
 ### [SB 6309](/bill/2025-26/sb/6309/) - High cap. transit permits 👍1  
+
+### [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍1  
 
 ### [SB 6312](/bill/2025-26/sb/6312/) - Retail pricing 👍1  
 
@@ -762,7 +810,9 @@
 
 ### [SB 6324](/bill/2025-26/sb/6324/) - LEOFF 2/standby pay 👍1  
 
-### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+
+### [SB 6353](/bill/2025-26/sb/6353/) - Working conn. child care  👎1 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  
 

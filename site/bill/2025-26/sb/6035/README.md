@@ -18,11 +18,22 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): 2SSB 6035 Voting services
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Julie Wise - King County Director of Elections
+* Shawn Merchant - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 
-#### 0 👎 - Con
+#### 1025 👎 - Con
+Testifying:
+* Josh Benaloh
+* Sharon Damoff
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Susan Greenhalgh - Free Speech For People
+* 💵Aquene Freechild - [Public Citizen](/org/public_citizen/)
+* Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* C Jay Coles - [Verified Voting](/org/verified_voting/)
 
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6035 Voting services
 #### 24 👍 - Pro

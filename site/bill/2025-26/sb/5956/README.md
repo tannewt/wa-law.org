@@ -27,11 +27,17 @@
 #### 0 ❓ - Other
 
 ### Wed 02/18 10:30 AM - Education (ED): SSB 5956 AI use/student discipline
-#### 0 👍 - Pro
+#### 238 👍 - Pro
+Testifying:
+* Derick Harris - Black Education Strategy Roundtable
+* Esq., Jarad Legard - Black Education Strategy Roundtable
+* Elias Ng
 
-#### 0 👎 - Con
+#### 122 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Colby Williams - Security Industry Association
 
 ### Wed 01/14 10:30 AM - Early Learning & K-12 Education (EDU): SB 5956 AI use/student discipline
 #### 339 👍 - Pro

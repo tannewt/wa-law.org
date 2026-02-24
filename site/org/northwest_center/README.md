@@ -3,6 +3,8 @@
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
 
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+
 ### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍1  
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎2 

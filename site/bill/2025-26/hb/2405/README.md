@@ -9,11 +9,11 @@
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Labor & Commerce (LC): SHB 2405 PTSD treatment and research
-Sign up to testify:
+#### 208 👍 - Pro
+Testifying:
+* Tammy Fellin - Department of Labor & Industries
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

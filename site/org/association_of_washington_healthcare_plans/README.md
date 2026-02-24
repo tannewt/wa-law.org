@@ -11,7 +11,7 @@
 ### [HB 2196](/bill/2025-26/hb/2196/) - PANDAS, pediatric treatment   ❓1
 * ❓💵 Marissa Ingalls
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍2  
 * 👍💵 Marissa Ingalls
 
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio  👎1 
@@ -36,7 +36,7 @@
 ### [SB 5916](/bill/2025-26/sb/5916/) - Nonopioid drugs for pain  👎1 
 * 👎💵 Marissa Ingalls
 
-### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
+### [SB 5949](/bill/2025-26/sb/5949/) - Insurer taxes  👎1 
 * 👎 Dave Foster
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
@@ -55,6 +55,9 @@
 
 ### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program   ❓3
 * ❓💵 Marissa Ingalls
+
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification  👎1 
+* 👎💵 Marissa Ingalls
 
 ### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
 

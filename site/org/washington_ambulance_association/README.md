@@ -13,6 +13,8 @@
 ### [SB 5764](/bill/2025-26/sb/5764/) - Ambulance transport fund 👍1  
 * 👍 Mike Battis
 
+### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
+
 ## [SB 6102](/bill/2025-26/sb/6102/) - Quality assurance fee 👍1  
 * 👍 Mike Battis
 

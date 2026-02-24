@@ -28,6 +28,8 @@
 
 ### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
 
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍1  
+
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
 
 ### [HB 1950](/bill/2025-26/hb/1950/) - Subcontractors, indemnifying 👍2  
@@ -37,6 +39,10 @@
 ### [HB 2040](/bill/2025-26/hb/2040/) - ABD assistance recovery  👎1 
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
 
@@ -79,6 +85,8 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
 
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍1  
+
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
@@ -86,6 +94,8 @@
 ### [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍1  
 
 ### [SB 6167](/bill/2025-26/sb/6167/) - Down payment assistance 👍1  
+
+### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍1  
 
 ### [SB 6212](/bill/2025-26/sb/6212/) - Children benefit pilot prg. 👍1  
 

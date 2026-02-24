@@ -52,7 +52,8 @@
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎3 
+* 👎 Daniel Himebaugh
 * 👎 Daniel Himebaugh
 
 ### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use  👎1 
@@ -64,7 +65,7 @@
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 * 👍 Greg Cullen
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍3  
 
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 * 👍 Daniel Himebaugh

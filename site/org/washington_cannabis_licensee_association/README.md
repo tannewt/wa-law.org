@@ -9,7 +9,8 @@
 ### [HB 1346](/bill/2025-26/hb/1346/) - Cannabis industry  👎1 
 * 👎💵 Trent Matson
 
-### [HB 1347](/bill/2025-26/hb/1347/) - Cannabis testing labs 👍1  
+### [HB 1347](/bill/2025-26/hb/1347/) - Cannabis testing labs 👍1  ❓1
+* ❓ Bethany Rondeaux
 
 ### [HB 1348](/bill/2025-26/hb/1348/) - Cannabis/employee ownership  👎1 
 * 👎💵 Trent Matson
@@ -17,10 +18,14 @@
 ### [HB 1410](/bill/2025-26/hb/1410/) - Inactive cannabis producers 👍1  
 * 👍💵 Trent Matson
 
+### [HB 1941](/bill/2025-26/hb/1941/) - Agricultural coops/cannabis   ❓1
+* ❓ Bethany Rondeaux
+
 ### [HB 2037](/bill/2025-26/hb/2037/) - Cannabis  👎1 
 * 👎💵 Trent Matson
 
-### [HB 2152](/bill/2025-26/hb/2152/) - Cannabis/health facilities 👍1  
+### [HB 2152](/bill/2025-26/hb/2152/) - Cannabis/health facilities 👍3  
+* 👍 Bethany Rondeaux
 * 👍 Bethany Rondeaux
 
 ### [HB 2639](/bill/2025-26/hb/2639/) - Complimentary cannabis 👍1  

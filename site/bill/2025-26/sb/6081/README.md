@@ -15,9 +15,19 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SSB 6081 Government record privacy
-#### 0 👍 - Pro
+#### 1153 👍 - Pro
+Testifying:
+* Tanya Leslie
+* LINDEN JORDAN - PFLAG Washington Chapters
+* Amasai Jeke - UTOPIA WA
+* Dana Savage - Association of Washington Assistant Attorneys General
+* Danni Askini - Gender Justice League
+* Jenna Comstock - QLAW Bar Association
+* 💵Oliver Miska
 
-#### 0 👎 - Con
+#### 343 👎 - Con
+Testifying:
+* Sharon Damoff
 
 #### 0 ❓ - Other
 

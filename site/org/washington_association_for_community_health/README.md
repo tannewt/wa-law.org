@@ -44,11 +44,12 @@
 
 ### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍2  
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1 👎1 ❓1
+* ❓💵 Alyssa Patrick
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 
@@ -97,17 +98,20 @@
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍2  
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍3  
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1 👎1 ❓1
+* ❓💵 Alyssa Patrick
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
-## [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
+### [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6292](/bill/2023-24/sb/6292/) - Health care financing 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
 

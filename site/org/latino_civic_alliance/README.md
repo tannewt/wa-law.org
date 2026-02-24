@@ -38,7 +38,11 @@
 * 👍 Nina Martinez
 * 👍 Nina Martinez
 
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍1  
+
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
+
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
 
 ### [HB 1919](/bill/2025-26/hb/1919/) - Working conn. child care 👍1  
 
@@ -48,9 +52,13 @@
 
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
 
-### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍2  
+
+### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍1  
 
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
@@ -79,7 +87,11 @@
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
-### [SB 6019](/bill/2025-26/sb/6019/) - Home care rates 👍1  
+### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking 👍1  
+
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
+
+### [SB 6019](/bill/2025-26/sb/6019/) - Home care rates 👍2  
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
 
@@ -87,11 +99,11 @@
 
 ### [SB 6078](/bill/2025-26/sb/6078/) - Child care provider supports 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

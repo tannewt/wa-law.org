@@ -17,9 +17,15 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 1974 Land banking authorities
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 37 👍 - Pro
+Testifying:
+* Ami Manning - Spokane Regional Land Bank/Spokane Low Income Housing Consortium
+* Chris Collier - Housing Authority of Snohomish County/Assoc. of WA Housing Authorities
+* 💵Jason Gano - 1DROP
+* Matt Hoffman - Starter Home Production Plan/BHI Land Strategy Team
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 👎 - Con
+#### 32 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -18,7 +18,7 @@
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 
-### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍1  
+### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍2  
 * 👍💵 John Seng
 
 ## [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍2  

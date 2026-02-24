@@ -14,11 +14,27 @@
 ### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): SSB 6079 Wildfire risk
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 183 👍 - Pro
+Testifying:
+* David Forte - Office of the Insurance Commissioner
+* Lauren Burnes - Office of the Insurance Commissioner
+* Kate Telis - [City of Spokane](/org/city_of_spokane/)
+* Mayor Terri Cooper - [City of Medical Lake](/org/city_of_medical_lake/)
+* 💵Steve Brooks - Washington Fire Chiefs
+* Karen Grove - WA State Association of Fire Marshals
+* Karen Mulcahy
+* 💵Ryan Spiller - WA Fire Commissioners Association
+* 💵Bruce Chattin
 
-#### 0 👎 - Con
+#### 58 👎 - Con
+Testifying:
+* MIKE BUCY - Stevens County Fire Protection District 1
+* 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Kenton BRINE - NW Insurance Council
+* Kris Tefft - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
 
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6079 Wildfire mitigation grants
 #### 81 👍 - Pro

@@ -8,7 +8,10 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): HB 2254 Partnership access line
-#### 0 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* Shawn O'Neill - Health Care Authority (HCA)
+* Dr. Evan Taniguchi - Seattle Children's
 
 #### 1 👎 - Con
 

@@ -21,14 +21,25 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): 2ESSB 5105 Sexually explicit depictions
-#### 4 👍 - Pro
+#### 299 👍 - Pro
 Testifying:
 * Stefan Gubarev - Legislative Youth Advisory Council (LYAC)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Lilah Wakefield - Legislative Youth Advisory Board
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* John Hillman - Attorney General Office
+* Kai Bjordahl - Legislative Youth Advisory Council
+* Laura Harmon - King County Prosecutor's Office
+* Aadya Syal
+* Leah Hong
 
-#### 0 👎 - Con
+#### 69 👎 - Con
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Sonja Hardenbrook - WDA and WACDL
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
+* Joanne Smieja
+* Priscilla Hannon
 
 #### 0 ❓ - Other
 

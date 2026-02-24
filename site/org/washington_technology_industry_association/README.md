@@ -3,6 +3,9 @@
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎1 
+* 👎💵 Amy Harris
+
 ### [HB 1268](/bill/2025-26/hb/1268/) - Virtual currency kiosks 👍1  
 
 ### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies  👎2 
@@ -43,6 +46,9 @@
 * 👎💵 Amy Harris
 
 ### [HB 2579](/bill/2025-26/hb/2579/) - Public media grants  👎1 
+
+### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks  👎1 
+* 👎💵 Amy Harris
 
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  
 

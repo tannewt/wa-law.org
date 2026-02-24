@@ -9,7 +9,9 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Postsecondary Education & Workforce (PEW): SSB 5931 Workforce board admin.
-#### 0 👍 - Pro
+#### 42 👍 - Pro
+Testifying:
+* 💵Joel Anderson - Washington Student Achievement Council
 
 #### 1 👎 - Con
 

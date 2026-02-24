@@ -12,7 +12,12 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): SB 6178 Prop. insurance assignments
-#### 1 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Marian Smith - [National Insurance Crime Bureau](/org/national_insurance_crime_bureau/)
+* Kathryn Knudsen - Washington State Association for Justice
+* David Forte - Office of the Insurance Commissioner
+* Rory Paine-Donovan - Office of the Insurance Commissioner
 
 #### 1 👎 - Con
 

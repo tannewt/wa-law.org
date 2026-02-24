@@ -25,12 +25,13 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
 * ❓ PAULA REED
+* ❓ Paula Reed
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
 
-### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍2  
+### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍3  
 
 ### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍2  
 
@@ -40,6 +41,8 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Paula Reed
 
+### [SB 5169](/bill/2025-26/sb/5169/) - Testimony of children 👍1  
+
 ### [SB 5227](/bill/2025-26/sb/5227/) - Child sex dolls 👍1  
 
 ### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings 👍1  
@@ -47,6 +50,13 @@
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍3  
 
 ### [SB 5375](/bill/2025-26/sb/5375/) - Clergy, duty to report abuse 👍3  
+
+### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking 👍1  
+* 👍 PAULA REED
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  ❓1
+* 👍 PAULA REED
+* ❓💵 Jessica Johnson
 
 ## [SB 6017](/bill/2025-26/sb/6017/) - Crime victims & witnesses 👍1  
 * 👍 PAULA REED

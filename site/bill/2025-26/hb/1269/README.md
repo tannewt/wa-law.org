@@ -8,11 +8,14 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 1269 Pawnbroker fees, int. rates
-#### 24 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * 💵Karen Strickland - Pawn 1 Inc
+* 💵Michael Transue - Cash America Pawn
+* 💵Tamara Rancore - WA St Pawnbrokers Association
+* Nika Mihailov - Kittitas County Trading Co.
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -14,9 +14,11 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Labor & Workplace Standards (LAWS): SSB 6014 Pregnancy accommodations
-#### 0 👍 - Pro
+#### 41 👍 - Pro
+Testifying:
+* 💵Maggie Humphreys - MomsRising
 
-#### 0 👎 - Con
+#### 115 👎 - Con
 
 #### 0 ❓ - Other
 

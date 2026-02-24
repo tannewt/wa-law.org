@@ -3,13 +3,15 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
-## [SB 5820](/bill/2025-26/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍1  
+## [SB 5820](/bill/2025-26/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍2  
 * 👍 Eric Overholser
+* 👍 Councilmember Troy McCoy
 
 ## 2023-24
 
-### [SB 5820](/bill/2023-24/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍1  
+### [SB 5820](/bill/2023-24/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍2  
 * 👍 Eric Overholser
+* 👍 Councilmember Troy McCoy
 
 ### [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
 

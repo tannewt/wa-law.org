@@ -28,17 +28,29 @@
 
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 
+### [HB 2088](/bill/2025-26/hb/2088/) - Dietitian licensure compact 👍1  
+
 ### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  ❓1
 * ❓ Steve DuPont
+* 👍 Steve DuPont
 
-### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍2  
+* 👍 Steve DuPont
 * 👍 Steve DuPont
 
 ### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍2  
 
+### [HB 2353](/bill/2025-26/hb/2353/) - Capital predesign thresholds 👍1  
+* 👍 Steve DuPont
+
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+* 👍 Steve DuPont
+
 ### [HB 2474](/bill/2025-26/hb/2474/) - Postsecondary closures 👍2  
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  
 
 ### [HB 2586](/bill/2025-26/hb/2586/) - Passport to careers program 👍1  
 
@@ -74,18 +86,19 @@
 
 ### [SB 5886](/bill/2025-26/sb/5886/) - Personality rights 👍4  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍5 👎1 
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍6 👎1 
 
 ### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎3 
 
 ### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍1  
 
-### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
+### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍2  
 
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍2  
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  ❓1
 * ❓ Steve DuPont
+* 👍 Steve DuPont
 
 ### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
 * 👍 Steve DuPont
@@ -98,11 +111,11 @@
 
 ### [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
 
 ### [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access   ❓1
 * ❓ Steve DuPont

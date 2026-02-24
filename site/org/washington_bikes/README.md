@@ -15,10 +15,14 @@
 ### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat. 👍2  
 * 👍 Vicky Clarke
 
-### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users  👍2  
+### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users  👍4  
+* 👍 Vicky Clarke
 * 👍 Vicky Clarke
 
 ### [HB 2192](/bill/2025-26/hb/2192/) - Roadway fatalities 👍1  
+
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
+* ❓ Vicky Clarke
 
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 
@@ -32,22 +36,32 @@
 
 ### [SB 5374](/bill/2025-26/sb/5374/) - Transportation/tribal rep. 👍1  
 
-### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍3  
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍4  
 * 👍 Lee Lambert
+* 👍 Vicky Clarke
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
 
 ### [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources 👍1  
 * 👍 Vicky Clarke
 
-### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍4  
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍2  
+* 👍 Vicky Clarke
+* 👍 Vicky Clarke
+
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍5  
+* 👍 Lee Lambert
 * 👍 Lee Lambert
 
-## [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍1  
+### [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍2  
+
+## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍2  
+* 👍 Lee Lambert
 
 ## 2023-24
 
-### [SB 6311](/bill/2023-24/sb/6311/) - Pedestrian passage 👍1  
+### [SB 6352](/bill/2023-24/sb/6352/) - Transportation resources 👍2  
+* 👍 Lee Lambert
 
 ### [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use 👍1  
 

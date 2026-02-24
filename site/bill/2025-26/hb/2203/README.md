@@ -11,12 +11,23 @@
 * 01/08/2026 [FOX13](/org/fox13/) - [New laws proposed for WA's 2026 legislative session | FOX 13 Seattle](https://www.fox13seattle.com/news/taxes-spending-2026-legislative-session#:~:text=HB%202203)
 
 ## Meetings
-### Mon 02/23 10:30 AM - Law & Justice (LAW): SHB 2203 Interference with emergency
+### Fri 02/27 01:30 PM - Transportation (TRAN): SHB 2203 Interference with emergency
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/23 10:30 AM - Law & Justice (LAW): SHB 2203 Interference with emergency
+#### 249 👍 - Pro
+Testifying:
+* Jeff Faucett - Washington Fire Chiefs
+
+#### 5 👎 - Con
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 
 #### 0 ❓ - Other
 

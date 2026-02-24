@@ -6,7 +6,7 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍2  
 
-### [HB 2363](/bill/2025-26/hb/2363/) - Music therapy exemptions 👍3  
+### [HB 2363](/bill/2025-26/hb/2363/) - Music therapy exemptions 👍14  
 * 👍 Megumi Azekawa
 
 ### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍15  

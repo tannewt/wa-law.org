@@ -8,8 +8,46 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SB 6353 Working conn. child care
-#### 0 👍 - Pro
+#### 116 👍 - Pro
 
-#### 0 👎 - Con
+#### 1559 👎 - Con
+Testifying:
+* Rob Colombini - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* Soleil Boyd - [Children's Alliance](/org/children's_alliance/)
+* Cindy Elizalde - SEIU 925
+* Lupita Suarez
+* Maria de Jesus Marin
+* Gloria Vasquez
+* Jeannette Obelcz - Washington Federation of State Employees (WFSE)
+* Queyli Rodriguez
+* Tamara Rivera
+* Kathy Yasi
+* Maria Arellano-Smith
+* Maria Sosa
+* Vee Tausili - SEIU 775
+* 💵Adam Glickman - SEIU 775
+* Ayan Mohamed
+* Oliva Camarena
+* Teresa Camarena
+* Diana Llanes
+* Marie Neumayer - SEIU 1199NW
+* 💵Erin Haick - SEIU 925
+* Ed Washington
+* Brendan Impson
+* Erika Currier
+* Binah Palmer
+* 💵John Traynor - Washington State Labor Council (WSLC)
+* Sofia Wageman
+* Aun Bloom
+* Jim Liner
+* Nikkie Lee
+* Kristen Sharp
+* Shareatha Escobar
+* Karyn Pierre-Louis
+* Randy Heath - Washington State Alliance of YMCAs
+* Amber Marusak - Parent
+* Bronti Lemke - MomsRising
+* Lexi Hughes - Child Care Provider
+* Reshonna Booker - Early Educator Design Team
 
-#### 0 ❓ - Other
+#### 21 ❓ - Other

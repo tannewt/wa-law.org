@@ -7,13 +7,14 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/22/2026 [The Center Square](/org/the_center_square/) - [WATCH: Bill to reduce stress & regulations on WA ag community advancing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1f4e3285-d9fd-410b-975c-e59ec4aa631c.html#:~:text=House%20Bill%202619)
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202619)
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 2619 Agriculture regulations
-#### 0 👍 - Pro
+#### 5 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

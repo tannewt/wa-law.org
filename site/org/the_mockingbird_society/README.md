@@ -53,9 +53,11 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓3
+* ❓ Susie Zhang
+* ❓ Rachel Khoo
 
 ### [HB 2297](/bill/2025-26/hb/2297/) - Grocery store incentives 👍1  
 
@@ -128,7 +130,7 @@
 ### [SB 5849](/bill/2025-26/sb/5849/) - Financial education 👍2  
 * 👍 Susie Zhang
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍3  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍4  
 * 👍💵 Charles Smith
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍15  
@@ -145,8 +147,9 @@
 
 ### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
 * ❓💵 Charles Smith
+* ❓💵 Samuel Martin
 
 ### [SB 6036](/bill/2025-26/sb/6036/) - Adult family home licensure 👍1  
 

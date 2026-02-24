@@ -184,7 +184,12 @@
 ### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices  👎1 
 * 👎💵 Crystal Leatherman
 
+### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority 👍1  
+* 👍💵 Crystal Leatherman
+
 ### [HB 2157](/bill/2025-26/hb/2157/) - High-risk AI  👎1 
+
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 * 👍💵 Crystal Leatherman
@@ -199,12 +204,16 @@
 
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎3 
 
-### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
+### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍2  
+* 👍💵 Crystal Leatherman
 * 👍💵 Crystal Leatherman
 
 ### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction 👍2  
 * 👍💵 Crystal Leatherman
 * 👍💵 Crystal Leatherman
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Crystal Leatherman
 
 ### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores  👎1 
 
@@ -215,6 +224,8 @@
 
 ### [HB 2334](/bill/2025-26/hb/2334/) - Cash transactions/pennies 👍1  
 * 👍💵 Amber Carter
+
+### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍1  
 
 ### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy  👎2 
 * 👎💵 Crystal Leatherman
@@ -272,6 +283,9 @@
 ### [SB 5201](/bill/2025-26/sb/5201/) - Psychedelic substances 👍2  
 * 👍💵 Mark Johnson
 
+### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks   ❓1
+* ❓💵 Crystal Leatherman
+
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍2  
 * 👍💵 Mark Johnson
 
@@ -290,7 +304,7 @@
 
 ### [SB 5333](/bill/2025-26/sb/5333/) - Eluding & resisting arrest 👍1  
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎3 
 * 👎💵 Mark Johnson
 
 ### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
@@ -337,7 +351,8 @@
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 
-### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍2  
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍3  
+* 👍💵 Crystal Leatherman
 * 👍💵 Crystal Leatherman
 * 👍💵 Crystal Leatherman
 
@@ -366,6 +381,8 @@
 * 👍💵 Amber Carter
 
 ### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
+
+### [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
 
 ### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
 

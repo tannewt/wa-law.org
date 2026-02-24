@@ -11,7 +11,7 @@
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SSB 5827 Veterans/discharge def.
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 38 👍 - Pro
 
 #### 0 👎 - Con
 

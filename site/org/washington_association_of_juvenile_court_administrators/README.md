@@ -10,9 +10,11 @@
 * 👍 George Moya
 * 👍 Linnea Anderson
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍2  
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍2  ❓2
 * 👍 Linnea Anderson
 * 👍 Linnea Anderson
+* ❓ Linnea Anderson
+* ❓ Meagan Cordova
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18   ❓3
 * ❓ Jack Murphy
@@ -29,8 +31,10 @@
 ### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS   ❓1
 * ❓ George Moya
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  ❓2
 * 👍 Linnea Anderson
+* ❓ Candi Shute
+* ❓ Christine Simonsmeier
 
 ## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18   ❓3
 * ❓ Jack Murphy

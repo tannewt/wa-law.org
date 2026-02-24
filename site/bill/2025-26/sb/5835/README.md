@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Appropriations (APP): SB 5835 Lump sum retirement payments
-#### 0 👍 - Pro
+#### 8 👍 - Pro
 
 #### 0 👎 - Con
 

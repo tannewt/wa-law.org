@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/21/2026 [House Republicans](/org/house_republicans/) - [Let your voice be heard on the state income tax bill | Washington State House Republicans](https://houserepublicans.wa.gov/current/let-your-voice-be-heard-on-the-state-income-tax-bill/#:~:text=House%20Bill%201125)
 * 01/28/2026 [House Democrats](/org/house_democrats/) - [Members of Color Caucus Announce 2026 Legislative Priorities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/members-of-color-caucus-announce-2026-legislative-priorities/#:~:text=HB%201125)
 * 01/22/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington can't afford to keep wasting money on extreme sentences • Washington State Standard](https://washingtonstatestandard.com/2026/01/21/washington-cant-afford-to-keep-wasting-money-on-extreme-sentences/#:~:text=House%20Bill%201125)
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=HB%201125)

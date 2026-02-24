@@ -13,6 +13,15 @@
 * 12/19/2025 [The Center Square](/org/the_center_square/) - [Republican proposes near-real-time overdose dashboard ahead of 2026 session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0a5e912e-156a-45c3-ba14-28198882c137.html#:~:text=House%20Bill%202168)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Ways & Means (WM): ESHB 2168 Overdose mapping information
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - Health Care & Wellness (HCW): HB 2168 Overdose mapping information
 #### 114 👍 - Pro
 Testifying:

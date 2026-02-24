@@ -20,13 +20,15 @@
 
 ### [SB 6076](/bill/2025-26/sb/6076/) - Utility procurement 👍1  
 
-## [SB 6132](/bill/2025-26/sb/6132/) - Inland port district debt 👍1  
+## [SB 6132](/bill/2025-26/sb/6132/) - Inland port district debt 👍3  
 * 👍 Roman Daniels-Brown
+* 👍 Dan Roach
 
 ## 2023-24
 
-### [SB 6132](/bill/2023-24/sb/6132/) - Inland port district debt 👍1  
+### [SB 6132](/bill/2023-24/sb/6132/) - Inland port district debt 👍3  
 * 👍 Roman Daniels-Brown
+* 👍 Dan Roach
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 

@@ -14,9 +14,9 @@
 ### Tue 02/24 01:30 PM - Health Care & Wellness (HCW): SSB 6183 HIV antiviral drug coverage
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 134 👍 - Pro
 
-#### 0 👎 - Con
+#### 119 👎 - Con
 
 #### 0 ❓ - Other
 

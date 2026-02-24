@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=ESSB%206113)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SSB%206113)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=SB%206113)
 
@@ -16,11 +17,20 @@
 ### Fri 02/27 08:00 AM - Finance (FIN): ESSB 6113 Tax administration
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 32 👍 - Pro
+Testifying:
+* John Fleckenstein - Student Orchestras of Greater Olympia
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Hunter George - Washington Recreation and Park Association
+* Jessi Roberts - WA State Independent Auto Dealer Association
+* Danielle Duvall - CREDAWA, The Commercial Real Estate Development Association (Formally NAIOPWA)
+* Patty Belmonte - Hands On Children's Museum
+* Lars Myren - Columbia Choirs of Metropolitan Seattle
 
 ### Thu 01/22 04:00 PM - Ways & Means (WM): SB 6113 Tax administration
 #### 7 👍 - Pro

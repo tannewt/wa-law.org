@@ -15,13 +15,14 @@
 
 ### [SB 5574](/bill/2025-26/sb/5574/) - History instruction 👍2  
 
-## [SB 6047](/bill/2025-26/sb/6047/) - State capital projects 👍1  
+### [SB 6047](/bill/2025-26/sb/6047/) - State capital projects 👍1  
 * 👍 Lua Pritchard
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6047](/bill/2023-24/sb/6047/) - State capital projects 👍1  
-* 👍 Lua Pritchard
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
 * 👍 Faaluaina Pritchard

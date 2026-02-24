@@ -19,7 +19,10 @@
 ### [HB 2122](/bill/2025-26/hb/2122/) - Hospital influenza imm.  👎2 
 * 👎 Bob Runnells
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services  👎2 
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services  👎4 
+* 👎💵 Robert Runnells
+
+### [HB 2735](/bill/2025-26/hb/2735/) - Family law cases 👍1  
 
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education  👎5 
 * 👎 Bob Runnells

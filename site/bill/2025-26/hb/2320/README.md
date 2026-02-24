@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=HB%202320)
 * 02/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More bills falter as time dwindles for Washington Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/19/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=prohibit%20the%20use%20of%203D%20printers%20to%20manufacture%20certain%20firearms)
 * 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills falter as time dwindles for Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=prohibit%20the%20use%20of%203D%20printers%20to%20manufacture%20certain%20firearms)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=HB%202320)
@@ -23,11 +24,30 @@
 
 ## Meetings
 ### Fri 02/20 02:00 PM - Law & Justice (LAW): ESHB 2320 Firearm manufacturing
-#### 0 👍 - Pro
+#### 771 👍 - Pro
+Testifying:
+* Beth Ebel - Washington Chapter, American Academy of Pediatrics
+* Brooke Gardner
+* Jenine Hoffa Lewis - Mom who lost a son to gun violence and is Founder of Solace
+* Shannon Mayo - Washington State PTA
+* Anika Mallett
+* Sanika Kabbur
+* Abby Wu - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
+* Bryan Crutchfield - Materialise
+* Margy Heldring - Grandmothers for Gun Responsibility
+* Muna Jaylaani
+* Manuela Nakashima - Students Demand Action
 
-#### 0 👎 - Con
+#### 576 👎 - Con
+Testifying:
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* Aaron Bianchi
+* Dan Atlas - \
+* Robert Farber
+* Eric Pratt - America
+* Brandon Toomey
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/21 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2320 Firearm manufacturing
 #### 912 👍 - Pro

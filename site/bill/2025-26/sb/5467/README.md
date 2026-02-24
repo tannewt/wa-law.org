@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Local Government (LG): SB 5467 Water-sewer district surplus
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Devin Gombosky - Washington Association of Sewer and Water Districts
 

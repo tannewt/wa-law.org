@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=ESHB%202442)
+* 02/21/2026 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Why HB 2442 is a Lifeline for Cash-Strapped King County » The Urbanist](https://www.theurbanist.org/2026/02/21/op-ed-why-hb-2442-is-a-lifeline-for-cash-strapped-king-county/#:~:text=House%20Bill%202442)
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202442)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202442)
 
@@ -16,11 +18,22 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): ESHB 2442 Local government fund use
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 221 👍 - Pro
+Testifying:
+* Anita Gallagher - [Pierce County](/org/pierce_county/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Regan Bolli - [City of Covington](/org/city_of_covington/)
+* Executive Girmay Zahilay - King County Executive
+* Toshiko Hasegawa
+* 💵Jorge Baron - King County Councilmember
 
-#### 0 👎 - Con
+#### 131 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* WEI CHEN
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2442 Local government fund use
 #### 193 👍 - Pro

@@ -22,7 +22,7 @@
 
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.  👎1 
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎1 
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎2 
 
 ## [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎2 
 * 👎 Mindy Brooks

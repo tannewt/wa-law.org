@@ -13,11 +13,15 @@
 
 ## Meetings
 ### Mon 02/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): SSB 5936 Human trafficking
-Sign up to testify:
+#### 37 👍 - Pro
+Testifying:
+* PAULA REED - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
+* Paula Fillmore-Sardinas - FMSGS/WBBA
+* Noel Gomez - Washington against sexual exploitation (WASE Forward)
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 199 👎 - Con
+Testifying:
+* Eric Lundberg
 
 #### 0 ❓ - Other
 

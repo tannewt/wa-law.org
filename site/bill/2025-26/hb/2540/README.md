@@ -8,7 +8,9 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): HB 2540 EMT recertification
-#### 0 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵Nicholas Gullickson - Washington State Council of Firefighters
 
 #### 0 👎 - Con
 

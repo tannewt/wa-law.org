@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SHB%201795)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SHB%201795)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=SHB%201795)
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SHB%201795)
@@ -23,11 +24,32 @@
 
 ## Meetings
 ### Thu 02/19 10:30 AM - Early Learning & K-12 Education (EDU): ESHB 1795 Student restraint, isolation
-#### 0 👍 - Pro
+#### 342 👍 - Pro
+Testifying:
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Tasha Le - Parent advocate and UW Bothell graduate student
+* Jill McCormick - Director, Parent Training and Information Center at PAVE
+* Jen Chong Jewell - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* Sarah Butcher - Roots of Inclusion
+* Misha Cherniske - Office of Superintendent of Public Instruction
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Samantha Fogg - Washington Special Education Advisory Council
+* 💵Andrea Kadlec - [Disability Rights Washington](/org/disability_rights_washington/)
+* Patrick Mulick - Auburn School District Director of Student Engagement, Student Special Services
+* 💵Karen Pillar - TeamChild
+* Logan Noel-Endres - Washington State School Directors’ Association (WSSDA)
+* Amy Cannava - Washington State Association of School Psychologists
 
-#### 0 👎 - Con
+#### 957 👎 - Con
+Testifying:
+* Vita Lusty
+* Preston Dwoskin
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Rick Chisa - Public School Employees of Washington (PSE)
+* Rachel Agamalian - Central Kitsap EA
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 
 ### Mon 01/12 01:30 PM - Education (ED): HB 1795 Student restraint, isolation
 #### 193 👍 - Pro

@@ -9,7 +9,9 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): SHB 2577 Hospital inspections
-#### 0 👍 - Pro
+#### 116 👍 - Pro
+Testifying:
+* Ramiro Cantu - Washington State Department of Health
 
 #### 0 👎 - Con
 

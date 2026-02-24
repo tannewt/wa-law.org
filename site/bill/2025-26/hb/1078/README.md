@@ -15,7 +15,9 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 1078 Pet insurance
-#### 10 👍 - Pro
+#### 48 👍 - Pro
+Testifying:
+* David Forte - Office of the Insurance Commissioner
 
 #### 0 👎 - Con
 

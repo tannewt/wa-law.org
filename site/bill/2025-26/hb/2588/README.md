@@ -10,9 +10,11 @@
 ### Fri 02/27 01:30 PM - Transportation (TRAN): EHB 2588 County ferry districts
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 85 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other
 

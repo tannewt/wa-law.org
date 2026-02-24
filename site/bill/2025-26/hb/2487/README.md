@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington State Standard](/org/washington_state_standard/) - [WA Democrats drop push for business tax to cover Medicaid costs • Washington State Standard](https://washingtonstatestandard.com/2026/02/23/wa-democrats-drop-push-for-business-tax-to-cover-medicaid-costs/#:~:text=House%20version%20of%20this%20bill)
 * 02/06/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead (February 9 – 15, 2026) | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-9-15-2026/#:~:text=HB%202487)
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202487)
 

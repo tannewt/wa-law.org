@@ -15,11 +15,17 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Housing (HOUS): SSB 6054 Wildfire home hardening/CICs
-#### 0 👍 - Pro
+#### 137 👍 - Pro
+Testifying:
+* Hilary Bublitz - Washington State Community Association Legislative Action Committee
+* David Forte - Office of the Insurance Commissioner
+* Steve Horvath - HOA United
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Brandon Houskeeper - [American Wood Council](/org/american_wood_council/)
 
 ### Wed 01/21 10:30 AM - Housing (HSG): SB 6054 Wildfire home hardening/CICs
 #### 6 👍 - Pro

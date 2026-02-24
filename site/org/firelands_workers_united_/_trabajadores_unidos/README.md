@@ -41,6 +41,8 @@
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
+
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍2  
 
 ### [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
@@ -57,12 +59,16 @@
 
 ### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
+### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍1  
+
 ### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍4  
+* 👍 Lindsey Schromen-Wawrin
 * 👍 Lindsey Schromen-Wawrin
 
 ## 2023-24
 
-## [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
+## [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍4  
+* 👍 Lindsey Schromen-Wawrin
 * 👍 Lindsey Schromen-Wawrin

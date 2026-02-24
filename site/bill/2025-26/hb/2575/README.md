@@ -8,11 +8,13 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): EHB 2575 Environmental reporting
-#### 0 👍 - Pro
+#### 177 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Austin Scharff - Washington State Department of Commerce
 
 ### Mon 01/26 01:30 PM - Environment & Energy (ENVI): HB 2575 Environmental reporting
 #### 25 👍 - Pro

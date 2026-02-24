@@ -12,11 +12,15 @@
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 
-## [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources  👎1 
+### [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources  👎1 
+
+## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
+* 👍 Dana Debel
 
 ## 2023-24
 
-### [SB 5801](/bill/2023-24/sb/5801/) - Transportation resources  👎1 
+### [SB 6352](/bill/2023-24/sb/6352/) - Transportation resources 👍1  
+* 👍 Dana Debel
 
 ### [HB 1333](/bill/2023-24/hb/1333/) - Domestic violent extremism  👎1 
 

@@ -20,6 +20,9 @@
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍2  
 * 👍 Audrey Miller Garcia
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓ Audrey Miller Garcia
+
 ### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes 👍3  
 * 👍 Audrey Miller Garcia
 
@@ -36,6 +39,11 @@
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  ❓1
 * ❓ Audrey Miller Garcia
 * 👍 Audrey Miller Garcia
+
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Audrey Miller Garcia
 
 ### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
 

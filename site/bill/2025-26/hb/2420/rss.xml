@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2420/</link>
 		<description>Updates about HB 2420</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 16 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Feb 2026 20:39:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -125,6 +125,22 @@
 			<pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-16/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>👍Steve DuPont - Central Washington University</title>
+			<description>Steve DuPont signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/central_washington_university/"&gt;Central Washington University&lt;/a&gt;.</description>
+			<pubDate>Thu, 19 Feb 2026 11:42:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/DuPont/2026-02-19 11:42:35</guid>
+		</item>
+		<item>
+			<title>👍💵Michael Transue - Mechanical Contractors Association of Western Washington</title>
+			<description>Michael Transue signed up to testify Pro. They are signed up to represent Mechanical Contractors Association of Western Washington. They are a registered lobbyist.</description>
+			<pubDate>Thu, 19 Feb 2026 20:39:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Transue/2026-02-19 20:39:33</guid>
 		</item>
 	</channel>
 </rss>

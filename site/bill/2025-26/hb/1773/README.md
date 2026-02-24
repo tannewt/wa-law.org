@@ -20,7 +20,7 @@ Testifying:
 * Irvin E
 * Marcelo B
 * April Sims - Washington State Labor Council, AFL-CIO
-* Sasha Wasserstrom - [Washington Immigrant Solidarity Network](/org/washington_immigrant_solidarity_network/)
+* 💵Sasha Wasserstrom - [Washington Immigrant Solidarity Network](/org/washington_immigrant_solidarity_network/)
 * Matteah Davis
 
 #### 17 👎 - Con

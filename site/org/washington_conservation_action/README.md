@@ -66,10 +66,15 @@
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
 * 👍 Rachel Baker
 
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
+
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍2  
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍3  
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍5  
 * 👍 Julian Santos
+* 👍 Caitlin Krenn
+
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 * 👍 Julian Santos
@@ -98,17 +103,19 @@
 ### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍2  
 * 👍 Caitlin Krenn
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities  👎1 
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1 👎1 
 * 👎💵 Darcy Nonemacher
+* 👍💵 Darcy Nonemacher
 
-### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍1  
+### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍2  
 * 👍💵 Clifford Traisman
 
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 * 👍 Stephanie Masterman
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  
 * 👍💵 Clifford Traisman
+* 👍💵 Darcy Nonemacher
 
 ### [HB 2537](/bill/2025-26/hb/2537/) - Emissions/trade-exposed 👍1  
 * 👍 Caitlin Krenn
@@ -142,7 +149,7 @@
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍2  
 * 👍 Caitlin Krenn
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍1  
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍2  
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
 * 👍💵 Darcy Nonemacher
@@ -174,7 +181,9 @@
 ### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎4 
 * 👎💵 Darcy Nonemacher
 
-### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍1  
+### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍2  
+
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍1  
 
 ### [SB 5898](/bill/2025-26/sb/5898/) - Aircraft fuel tax proceeds  👎1 
 
@@ -183,16 +192,19 @@
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
 * 👍 Cliff Traisman
 
-### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎2 
 
-### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍2  
 * 👍 Julian Santos
+* 👍 Caitlin Krenn
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎💵 Darcy Nonemacher
 
 ### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 * 👍 Andrea Matheny
+
+### [SB 6054](/bill/2025-26/sb/6054/) - Wildfire home hardening/CICs 👍1  
 
 ### [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants 👍1  
 
@@ -207,7 +219,8 @@
 ### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍2  
 * 👍 Caitlin Krenn
 
-### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍2  
+### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍3  
+* 👍 Caitlin Krenn
 * 👍 Caitlin Krenn
 
 ## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  

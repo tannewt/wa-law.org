@@ -7,16 +7,61 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SSB%206260)
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SB%206260)
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%206260)
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SB 6260 Public education funding
-#### 0 👍 - Pro
+#### 8 👍 - Pro
 
-#### 0 👎 - Con
+#### 482 👎 - Con
+Testifying:
+* 💵Sienna Jarrard - Former Running Start Student
+* 💵Jacqui Cain - American Federation of Teachers (AFT-WA)
+* Jim Kowalkowski - Rural Education Center
+* Chemene Crawford - Everett Community College
+* Jamie Traugott - Washington's State Board for Community and Technical Colleges
+* Sara Thompson Tweedy - Big Bend Community College
+* Tim Stokes - South Puget Sound Community College
+* Abdi Battal
+* Jesus San German Cerritos
+* Pedro Lopez
+* Harmony Adams
+* James Everett - Meridian School District
+* 💵Katy Warren - WA St. Assn of Head Start and ECEAP
+* Kristine Wilson - Opportunity Council Early Learning & Family Services
+* Denise Tracy - Washington State School Directors' Association (WSSDA)
+* Tom Spellman - Lake Washington School District
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Tyler Muench - Office of Superintendent of Public Instruction
+* KENNEDY GARRISON - Cordata Elementary
+* 💵Marissa Rathbone - WA Assoc of School Admin (WASA) & WA Assoc of School Business Officials (WASBO)
+* Charlie Brown - Puget Sound School Coalition and South Sound Superintendents
+* Carli Schiffner - Grays Harbor College
+* Haley Rodriguez-Flores
+* Nimi Oladosu - C4C
+* Alex Beliakov
+* Luly Mai
+* Candace Harris - Valley Early Learning Center
+* Ruffaro Guzha - WA State Board for Community & Technical Colleges
+* Lisa Lowary
+* Elise Almeda - Communities for our Colleges
+* Holly Muenchow - Washington State PTA
+* Rebecca Clifford - South Whidbey School District
+* Dawnett Wright - [Washington Association for Pupil Transportation](/org/washington_association_for_pupil_transportation/)
+* Cassidy Miller
+* Nathaniel Gullett
+* Kimberly Ortiz Ortiz
+* Chevelle Bussart
+* Terri Holley
+* Colleen Frerks - Quincy School District
+* Bowen Mitchell - Entiat School District #127
+* Callidora Liapakis - Associated of Tacoma Community College
+* Jaiden Greco-Peterson
+* Chad Prewitt - Davenport School District - Superintendent
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/27 08:00 AM - Early Learning & K-12 Education (EDU): SB 6260 Public education funding
 #### 12 👍 - Pro

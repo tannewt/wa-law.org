@@ -13,11 +13,17 @@
 
 ## Meetings
 ### Thu 02/19 10:30 AM - Law & Justice (LAW): SHB 2239 Family burial grounds
-#### 0 👍 - Pro
+#### 182 👍 - Pro
+Testifying:
+* Ewing Stringfellow - Stringfellow Family Farm
+* 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
+* Tacee Lamb
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Heather Lindstrom - Washington State Department of Transportation
 
 ### Fri 01/23 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2239 Family burial grounds
 #### 277 👍 - Pro

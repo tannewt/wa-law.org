@@ -1,6 +1,8 @@
 # Northwest Consumer Law Center
 ## 2025-26
 
+### [HB 1269](/bill/2025-26/hb/1269/) - Pawnbroker fees, int. rates  👎1 
+
 ### [HB 1464](/bill/2025-26/hb/1464/) - Home equity sharing  👎1 
 * 👎 Amanda Martin
 
@@ -14,13 +16,23 @@
 
 ### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎1 
 
+### [HB 2445](/bill/2025-26/hb/2445/) - Probate 👍1  
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 * 👍 Amanda Martin
 * 👍 Amanda Martin
 
 ### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
 
+### [SB 5720](/bill/2025-26/sb/5720/) - Uniform debt default act 👍1  
+
+### [SB 5865](/bill/2025-26/sb/5865/) - Garnishment forms 👍1  
+
+### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
+
 ### [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail  👎1 
+
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 
 ### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
 

@@ -15,9 +15,9 @@
 ### Thu 02/26 08:00 AM - Finance (FIN): SSB 6343 Atmospheric river/tax relief
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 308 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

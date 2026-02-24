@@ -118,6 +118,8 @@
 
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍2  
 
+### [HB 2070](/bill/2025-26/hb/2070/) - WWU state funding parity 👍1  
+
 ### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍2  
 * 👍 Kati Durkin
 
@@ -139,16 +141,18 @@
 
 ### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
 
-### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍1  
+### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍2  
 * 👍 Tim Tharp
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+* ❓ Kati Durkin
 * ❓ Kati Durkin
 
 ### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
 
-### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓2
 * ❓ Kati Durkin
+* ❓💵 Dennis Eagle
 
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 
@@ -168,7 +172,7 @@
 
 ### [HB 2492](/bill/2025-26/hb/2492/) - Apprenticeships/wellness 👍1  
 
-### [HB 2510](/bill/2025-26/hb/2510/) - Community cust. supervision 👍1  
+### [HB 2510](/bill/2025-26/hb/2510/) - Community cust. supervision 👍2  
 
 ### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child 👍2  
 * 👍 Allison Rogers
@@ -177,7 +181,9 @@
 ### [HB 2529](/bill/2025-26/hb/2529/) - DCYF accountability board   ❓1
 * ❓ Kati Durkin
 
-### [HB 2532](/bill/2025-26/hb/2532/) - Nitrous oxide sale 👍1  
+### [HB 2532](/bill/2025-26/hb/2532/) - Nitrous oxide sale 👍2  
+
+### [HB 2554](/bill/2025-26/hb/2554/) - Tribal fishing rights 👍1  
 
 ### [HB 2611](/bill/2025-26/hb/2611/) - 32 hour workweek 👍1  
 * 👍 Ashley Fueston
@@ -187,13 +193,16 @@
 * ❓ Jeanette Obelcz
 * ❓ Kati Durkin
 
+### [HB 2711](/bill/2025-26/hb/2711/) - Transportation resources 👍1  
+* 👍💵 Dennis Eagle
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍2  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍3  
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍2  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍3  
 
@@ -273,6 +282,8 @@
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
 * 👍 Ashley Fueston
 
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍1  
+
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
 ### [SB 5862](/bill/2025-26/sb/5862/) - TRS & PERS plan 1 COLA 👍1  
@@ -283,18 +294,22 @@
 
 ### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
 
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
+
 ### [SB 5942](/bill/2025-26/sb/5942/) - DCYF accountability board   ❓1
 * ❓ Jeanette Oblecz
 
-### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍1  
+### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍2  
+* 👍 Kati Durkin
 * 👍 Kati Durkin
 
-### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb. 👍1  
+### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb. 👍2  
 
-### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍2  
 
-### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  ❓1
 * ❓ Kati Durkin
+* 👍 Kati Durkin
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
 
@@ -306,19 +321,20 @@
 ### [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
 * 👍 Ashley Fueston
 
-## [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders   ❓4
+### [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders   ❓4
 * ❓ Jeanette Obelcz
 * ❓ Michele Anslow
 * ❓ Michelle Sety
 * ❓ Kati Durkin
+
+### [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
+* 👍 Kati Durkin
+
+## [SB 6353](/bill/2025-26/sb/6353/) - Working conn. child care  👎1 
 
 ## 2023-24
 
-### [SB 6308](/bill/2023-24/sb/6308/) - Child shelter care orders   ❓4
-* ❓ Jeanette Obelcz
-* ❓ Michele Anslow
-* ❓ Michelle Sety
-* ❓ Kati Durkin
+### [SB 6353](/bill/2023-24/sb/6353/) - Working conn. child care  👎1 
 
 ### [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 

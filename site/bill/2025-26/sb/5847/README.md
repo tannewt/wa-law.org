@@ -15,11 +15,20 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5847 Workers' comp. medical care
-#### 0 👍 - Pro
+#### 108 👍 - Pro
+Testifying:
+* 💵Daniel Goodman - Washington State Association for Justice
+* David Lauman - Washington State Association for Justice
+* 💵Nicole Gomez - AFSCME Council 28/Washington Federation of State Employees
 
-#### 0 👎 - Con
+#### 160 👎 - Con
+Testifying:
+* Mike Ennis - Building Industry Association of Washington (BIAW)
+* 💵Rose Gundersen - WA Retail Association
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Tammy Fellin - Department of Labor & Industries
 
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5847 Workers' comp. medical care
 #### 84 👍 - Pro

@@ -13,13 +13,20 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): ESSB 5436 Worship/access interference
-#### 0 👍 - Pro
+#### 426 👍 - Pro
+Testifying:
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
+* Yuval Berenstein - ADL
+* Jasmit Singh - Sikh Coalition
+* 💵Maxima Patashnik - Jewish Community Relations Council
+* Joe Kunzler
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 ### Wed 03/26 04:00 PM - Community Safety, Justice, & Reentry (CSJR): SSB 5436 Worship/access interference
 #### 207 👍 - Pro

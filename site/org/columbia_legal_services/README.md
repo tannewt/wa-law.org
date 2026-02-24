@@ -80,7 +80,7 @@
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
 
-### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍2  
+### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍3  
 
 ### [HB 1915](/bill/2025-26/hb/1915/) - Tenant protections 👍1  
 
@@ -122,8 +122,11 @@
 ### [HB 2457](/bill/2025-26/hb/2457/) - Crime victim penalty assess.  👎1 
 * 👎💵 Hannah Woerner
 
-### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍2  
 * 👍💵 Hannah Woerner
+* 👍💵 Hannah Woerner
+
+### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍1  
 
 ### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍1  
 
@@ -136,6 +139,8 @@
 
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
 * 👍💵 Antonio Ginatta
+
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
 
 ### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction   ❓1
 
@@ -215,7 +220,7 @@
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍3  
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍3  
 * 👍💵 Andrea Schmitt
@@ -224,7 +229,7 @@
 * 👍💵 Sarah Nagy
 * 👍💵 Sarah Nagy
 
-### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍2  
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍3  
 
 ### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
 * 👍💵 Hannah Woerner
@@ -234,11 +239,13 @@
 
 ### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
 
-## [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
+### [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6304](/bill/2023-24/sb/6304/) - WSIB investing principles 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

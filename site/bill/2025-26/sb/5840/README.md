@@ -11,11 +11,21 @@
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SSB 5840 Campaign finance schedule
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 89 👍 - Pro
+Testifying:
+* Kim Bradford
+* Sean Flynn - Public Disclosure Commission
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Conner Edwards - Professional Campaign Treasurer, CG Edwards PLLC
+* Abbot Taylor
+* Jason Michaud - Professional Campaign Treasurer
+* Tim Eyman - Intiative Activist
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sharon Hanek - Professional compliance
 
 ### Tue 01/13 01:30 PM - State Government & Elections (SGE): SB 5840 Campaign finance schedule
 #### 37 👍 - Pro

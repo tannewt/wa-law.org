@@ -26,7 +26,7 @@
 
 ### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
 
-### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍2  
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍3  
 
 ### [HB 1782](/bill/2025-26/hb/1782/) - Campaign reporting timeline  👎1 
 
@@ -62,7 +62,7 @@
 
 ### [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed. 👍1  
 
-### [SB 5840](/bill/2025-26/sb/5840/) - Campaign finance schedule 👍1  
+### [SB 5840](/bill/2025-26/sb/5840/) - Campaign finance schedule 👍2  
 
 ### [SB 5853](/bill/2025-26/sb/5853/) - Public official notification 👍1  
 

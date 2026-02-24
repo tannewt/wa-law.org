@@ -17,9 +17,11 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SB 6084 Voting more than once
-#### 0 👍 - Pro
+#### 127 👍 - Pro
+Testifying:
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -53,7 +53,7 @@
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
 * 👍 Skippy Shaw
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍3  
 
 ### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍3  ❓1
 * ❓💵 David Mendoza
@@ -66,16 +66,22 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓💵 David Mendoza
 
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
+* 👍 Skippy Shaw
+
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
 
 ### [HB 2183](/bill/2025-26/hb/2183/) - Heat response plans 👍1  
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍1  
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍2  
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍2  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍3  
 * 👍💵 Justin Allegro
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍2  
+
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
+* ❓ Skippy Shaw
 
 ### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍1  
 
@@ -86,17 +92,18 @@
 
 ### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
 
-### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍1  
+### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍2  
 
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍3  
+* 👍💵 Justin Allegro
 * 👍💵 Justin Allegro
 
 ### [HB 2537](/bill/2025-26/hb/2537/) - Emissions/trade-exposed 👍1  
 * 👍💵 David Mendoza
 
-### [HB 2624](/bill/2025-26/hb/2624/) - Unsolicited real estate tx. 👍1  
+### [HB 2624](/bill/2025-26/hb/2624/) - Unsolicited real estate tx. 👍2  
 
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍2  
 
@@ -114,7 +121,7 @@
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ Scott Richards
 
-### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍3  
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓2
 * ❓💵 Justin Allegro
@@ -152,26 +159,33 @@
 ### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
 * ❓💵 David Mendoza
 
+### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍1  
+
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓ Skippy Shaw
+
 ### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 
 ### [SB 6054](/bill/2025-26/sb/6054/) - Wildfire home hardening/CICs 👍1  
 
-### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍2  
 
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
 
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍1  
 * 👍💵 Justin Allegro
 
-## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍2  
+## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍3  
 * 👍💵 David Mendoza
 * 👍💵 Justin Allegro
+* 👍💵 David Mendoza
 
 ## 2023-24
 
-### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed 👍2  
+### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed 👍3  
 * 👍💵 David Mendoza
 * 👍💵 Justin Allegro
+* 👍💵 David Mendoza
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍5  
 

@@ -51,6 +51,8 @@
 
 ### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
 
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍 Jennifer Gregerson
 
@@ -59,6 +61,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 * 👍 Jennifer Gregerson
+
+### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users   👎1 
 
 ### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
 
@@ -74,6 +78,8 @@
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing   ❓1
 * ❓ Jennifer Gregerson
 
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+
 ### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
 
 ### [HB 2349](/bill/2025-26/hb/2349/) - Sexually violent predators 👍1  
@@ -83,7 +89,7 @@
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18  👎1 
 * 👎 Jennifer Gregerson
 
-### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍2  
 
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍2  
 * 👍 Jennifer Gregerson
@@ -117,6 +123,8 @@
 * 👍 Dave DeMarco
 * ❓ Dave DeMarco
 
+### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
+
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍3  
@@ -149,7 +157,7 @@
 
 ### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍1  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  
 * 👍 Jennifer Gregerson
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
@@ -168,11 +176,11 @@
 
 ### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
 
-## [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
+## [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍2  
 
 ## 2023-24
 
-### [SB 6148](/bill/2023-24/sb/6148/) - RTA bond issues maximum term 👍1  
+### [SB 6148](/bill/2023-24/sb/6148/) - RTA bond issues maximum term 👍2  
 
 ### [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍3  
 * 👍 Jennifer Gregerson

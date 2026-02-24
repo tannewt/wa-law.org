@@ -74,8 +74,9 @@
 
 ### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care  👎1 
 
-### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health  👎1 
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health  👎1 ❓1
 * 👎 Dr. Romilla Batra
+* ❓💵 Christine Brewer
 
 ### [SB 5579](/bill/2025-26/sb/5579/) - Health/contract terminations 👍2  
 * 👍💵 Christine Brewer
@@ -85,10 +86,11 @@
 
 ### [SB 5712](/bill/2025-26/sb/5712/) - Industrial stormwater permit  👎1 
 
-### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments  👎1 
+### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments  👎1 ❓1
 * 👎💵 Christine Brewer
+* ❓💵 Christine Brewer
 
-### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
+### [SB 5949](/bill/2025-26/sb/5949/) - Insurer taxes  👎1 
 * 👎💵 Gary Strannigan
 
 ### [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  

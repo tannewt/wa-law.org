@@ -19,7 +19,7 @@
 #### 1076 👍 - Pro
 Testifying:
 * 💵Kaitie Dong - Washington State Budget and Policy Center
-* Sasha Wasserstrom - Washington Immigrant Solidarity Network (WAISN)
+* 💵Sasha Wasserstrom - Washington Immigrant Solidarity Network (WAISN)
 * Duaa-Rahemaah Hunter
 
 #### 1654 👎 - Con

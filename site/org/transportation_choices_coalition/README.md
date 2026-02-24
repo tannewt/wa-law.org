@@ -27,6 +27,9 @@
 ### [HB 2134](/bill/2025-26/hb/2134/) - Regional transp. plans 👍1  
 * 👍 Katy Ricchiuto
 
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
+* ❓💵 Kirk Hovenkotter
+
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 * 👍 Holden Ringer
 
@@ -44,11 +47,12 @@
 * 👍💵 Kirk Hovenkotter
 * 👍💵 Kirk Hovenkotter
 
-### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
 
-### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍2  
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍3  
 * 👍 Katy Ricchiuto
 * 👍 Katy Ricchiuto
+* 👍💵 Bryce Yadon
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
 
@@ -62,13 +66,19 @@
 ### [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources   ❓1
 * ❓💵 Bryce Yadon
 
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
+* 👍💵 Kirk Hovenkotter
+
 ### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
 
-### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
+### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍2  
 * 👍💵 Kirk Hovenkotter
+* 👍 Katy Ricchiuto
 
 ### [SB 6252](/bill/2025-26/sb/6252/) - Free transit/CTC students 👍1  
 * 👍 Holden Ringer
+
+### [SB 6309](/bill/2025-26/sb/6309/) - High cap. transit permits 👍1  
 
 ## [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍1  
 * 👍 Katy Ricchiuto

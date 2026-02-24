@@ -9,7 +9,7 @@
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍2  
 * 👍💵 Kelly Campbell
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
 
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
 * 👎💵 James Moschella
@@ -18,7 +18,7 @@
 
 ### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  
 
 ### [HB 2608](/bill/2025-26/hb/2608/) - Nuclear facilities/tax pref.  👎1 
 
@@ -28,6 +28,8 @@
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
 * 👎💵 James Moschella
+
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
 
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts  👎1 
 

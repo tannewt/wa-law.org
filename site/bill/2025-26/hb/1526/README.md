@@ -11,13 +11,13 @@
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Labor & Commerce (LC): HB 1526 Snack bar liquor licenses
-Sign up to testify:
+#### 2 👍 - Pro
 
-#### 0 👍 - Pro
+#### 2 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Marc Webster - Washington State Liquor and Cannabis Board
 
 ### Wed 01/29 01:30 PM - Consumer Protection & Business (CPB): HB 1526 Snack bar liquor licenses
 #### 0 👍 - Pro

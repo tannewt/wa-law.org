@@ -12,9 +12,11 @@
 ### Thu 02/26 01:30 PM - Transportation (TR): ESSB 6262 Vehicle fees/maximum weight
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Mark Trenary - City of Port Orchard Councilmember
 
-#### 0 👎 - Con
+#### 24 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -33,11 +33,15 @@
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters 👍2  
 * 👍 Sarah Dickmeyer
 
-## [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
+### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
+
+## [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+* 👍 Sarah Dickmeyer
 
 ## 2023-24
 
-### [SB 5591](/bill/2023-24/sb/5591/) - Affordable housing/sales tax 👍1  
+### [SB 6027](/bill/2023-24/sb/6027/) - Affordable housing funding 👍1  
+* 👍 Sarah Dickmeyer
 
 ### [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 

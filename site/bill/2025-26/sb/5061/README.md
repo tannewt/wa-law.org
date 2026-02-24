@@ -13,12 +13,34 @@
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205061)
 
 ## Meetings
-### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5061 Public works wages
-#### 1 👍 - Pro
+### Thu 02/26 08:00 AM - Capital Budget (CB): E2SSB 5061 Public works wages
+Sign up to testify:
 
-#### 0 👎 - Con
+#### 5 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 
 #### 0 ❓ - Other
+
+### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5061 Public works wages
+#### 181 👍 - Pro
+Testifying:
+* Clint Bryson - IBEW Local 76
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* Pete Butler - NECA Southwest Washington Chapter
+* 💵Christopher Ellis - Bricklayers & Allied Craftworkers
+
+#### 160 👎 - Con
+Testifying:
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* Jerry VanderWood - Associated General Contractors (AGC)
+* 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors - Western WA
+
+#### 5 ❓ - Other
+Testifying:
+* Tammy Fellin - Department of Labor & Industry
 
 ### Tue 03/25 10:30 AM - Labor & Workplace Standards (LAWS): E2SSB 5061 Public works wages
 #### 576 👍 - Pro

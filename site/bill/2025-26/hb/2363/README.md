@@ -9,7 +9,11 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): SHB 2363 Music therapy exemptions
-#### 0 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* John Heckel - Washington Music Therapy Task Force
+* Megumi Azekawa
+* Tanesha Ross - Washington Music Therapy Task Force
 
 #### 0 👎 - Con
 

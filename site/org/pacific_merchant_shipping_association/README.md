@@ -21,12 +21,15 @@
 
 ### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍3  
 
-## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+* 👎💵 Scott Hazlegrove
+
+## [SB 5995](/bill/2025-26/sb/5995/) - Zero emission cargo handling  👎1 
 * 👎💵 Scott Hazlegrove
 
 ## 2023-24
 
-### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
+### [SB 5995](/bill/2023-24/sb/5995/) - Zero emission cargo handling  👎1 
 * 👎💵 Scott Hazlegrove
 
 ### [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 

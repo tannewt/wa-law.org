@@ -125,7 +125,7 @@ async def main():
         item_cur.execute("SELECT agenda_items.rowid, caId FROM agenda_items, meetings WHERE caId IS NOT NULL AND agenda_items.meeting_rowid = meetings.rowid AND meetings.start_time > '2025-01-01'")
         position_cache = {}
         for agenda_item_rowid, caId in item_cur:
-            url = csi_root_url + f"/Home/GetOtherTestifiers/?agendaItemId={caId}"
+            url = csi_root_url + f"/Home/GetOtherTestifiers/?agendaItemId={caId}&print=true"
             testifiers = await session.get(url, fetch_again=FORCE_FETCH)
             if not testifiers:
                 print("failed to load", url)
@@ -141,12 +141,13 @@ async def main():
                     cols = [c.text for c in row.find_all("td")]
                     if not cols:
                         continue
-                    last_name, first_name = cols[1].split(", ", maxsplit=1)
+                    # print(cols)
+                    last_name, first_name = cols[0].split(", ", maxsplit=1)
                     last_name = last_name.strip()
                     first_name = first_name.strip()
-                    organization = cols[2].strip()
-                    position = cols[3]
-                    sign_in_time = datetime.datetime.strptime(cols[4], "%m/%d/%Y %I:%M:%S %p")
+                    organization = cols[1].strip()
+                    position = cols[2]
+                    sign_in_time = datetime.datetime.strptime(cols[3], "%m/%d/%Y %I:%M:%S %p")
                     if position not in position_cache:
                         cur.execute("INSERT OR IGNORE INTO positions VALUES (?)", (position,))
                         cur.execute("SELECT rowid FROM positions WHERE position = ?;", (position,))

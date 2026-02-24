@@ -13,7 +13,18 @@
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SB 5325 State cactus
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 45 👍 - Pro
+Testifying:
+* Adam J. Fyall - Benton County
+* Averie Conley - Discovery Lab of Ellensburg
+* Beckett Clayton - Discovery Lab of Ellensburg
+* Ben Nethero - Discovery Lab of Ellensburg
+* Braeden Conley - Discovery Lab of Ellensburg
+* Ian Fowler - Discovery Lab of Ellensburg
+* Jack Gunderson - Discovery Lab of Ellensburg
+* Kalina Bodkin-Jones - Discovery Lab of Ellensburg
+* Killian McDevitt - Discovery Lab of Ellensburg
+* Vienna Borquez - Discovery Lab of Ellensburg
 
 #### 0 👎 - Con
 

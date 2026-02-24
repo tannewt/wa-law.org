@@ -30,6 +30,9 @@
 ### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings  👎1 
 * 👎 Colette Weeks
 
+### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information  👎1 
+* 👎 ROBERT McCLURE
+
 ### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force  👎4 
 * 👎 Michael Fancher
 * 👎 George Erb
@@ -55,11 +58,13 @@
 
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎2 
 
-## [SB 6268](/bill/2025-26/sb/6268/) - Special ed. complaint record 👍1  
+## [SB 6268](/bill/2025-26/sb/6268/) - Special ed. complaint record 👍2  
+* 👍 Colette Weeks
 
 ## 2023-24
 
-### [SB 6268](/bill/2023-24/sb/6268/) - Special ed. complaint record 👍1  
+### [SB 6268](/bill/2023-24/sb/6268/) - Special ed. complaint record 👍2  
+* 👍 Colette Weeks
 
 ### [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information  👎2 
 * 👎 Michael Fancher

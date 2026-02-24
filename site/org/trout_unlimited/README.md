@@ -23,11 +23,16 @@
 * 👍💵 Alexei Calambokidis
 * 👍💵 Alexei Calambokidis
 
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
+
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 
 ### [SB 5390](/bill/2025-26/sb/5390/) - Access to recreation sites 👍1  
 
 ### [SB 5583](/bill/2025-26/sb/5583/) - Fishing and hunting licenses 👍1  
+
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓💵 Alexei Calambokidis
 
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
 * 👍 Alexei Calombikidis

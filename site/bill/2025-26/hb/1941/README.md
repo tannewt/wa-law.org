@@ -11,13 +11,17 @@
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Labor & Commerce (LC): EHB 1941 Agricultural coops/cannabis
-Sign up to testify:
+#### 2 👍 - Pro
 
-#### 0 👍 - Pro
+#### 140 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Micah Sherman
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* 💵Ezra Eickmeyer - Producers NW
+* Bethany Rondeaux - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
+* Marc Webster - LCB
 
 ### Tue 02/18 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1941 Agricultural coops/cannabis
 #### 10 👍 - Pro

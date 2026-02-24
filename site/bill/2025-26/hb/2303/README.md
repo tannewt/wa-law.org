@@ -14,11 +14,9 @@
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Labor & Commerce (LC): ESHB 2303 Employee microchipping
-Sign up to testify:
+#### 221 👍 - Pro
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other
 

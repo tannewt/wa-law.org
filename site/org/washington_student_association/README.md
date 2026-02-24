@@ -26,6 +26,8 @@
 * 👍 Fernanda Armas
 * 👍💵 Heba Qatrani
 
+### [HB 1873](/bill/2025-26/hb/1873/) - WC child care/grad. students 👍1  
+
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 * 👍💵 Isela Bonilla
 
@@ -61,20 +63,21 @@
 * 👎💵 Heba Qatrani
 * 👍💵 Isela Bonilla
 
-### [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications 👍3  
+### [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications 👍4  
 * 👍💵 Sienna Jarrard
 * 👍💵 Collin Bannister
 
 ### [SB 5886](/bill/2025-26/sb/5886/) - Personality rights 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍8  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍9  
 * 👍💵 Sienna Jarrard
 
 ### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎1 
 
 ### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍2  
 
-### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍4  
+### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍5  
+* 👍💵 Sienna Jarrard
 
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍3  
 * 👍💵 Sienna Jarrard

@@ -13,9 +13,13 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): SSB 5185 International med. pathways
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
+* Micah Matthews - Washington Medical Commission (WMC)
+* Mohamed Khalif - The International Medical Graduates Academy (TIMGA)
 
-#### 1 👎 - Con
+#### 102 👎 - Con
 
 #### 0 ❓ - Other
 

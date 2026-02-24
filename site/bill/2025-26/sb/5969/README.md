@@ -19,9 +19,9 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Education (ED): 2SSB 5969 IEP transition plans
-#### 0 👍 - Pro
+#### 24 👍 - Pro
 
-#### 1 👎 - Con
+#### 188 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -12,7 +12,7 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Appropriations (APP): SSB 5834 Retirement funds/expenses
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 1 👎 - Con
 

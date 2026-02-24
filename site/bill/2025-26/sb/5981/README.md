@@ -15,11 +15,35 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): 2SSB 5981 340B drug pricing program
-#### 6 👍 - Pro
+#### 242 👍 - Pro
+Testifying:
+* Eric Moll - Mason Health
+* Rhonda Hauff - [Yakima Neighborhood Health Services](/org/yakima_neighborhood_health_services/)
+* Sumona Das Gupta - UW Medicine
+* Lisa Nelson - Unity Care Northwest
+* Shawn Ottley - Lake Chelan Health
 
-#### 0 👎 - Con
+#### 388 👎 - Con
+Testifying:
+* 💵Logan Dozier - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
+* Jennifer Kent - The Kent Group
+* 💵Lee Newgent - Pharmaceutical Industry Labor Management Association
+* Dharia McGrew - Pharmaceutical Research and Manufacturers of America
+* Perry Knight - Johnson & Johnson Innovative Medicine
+* Primo Castro - Biotechnology Innovation Organization (BIO)
+* Clayton Ruley - Community Liver Alliance
+* 💵Curtis Knapp - [Life Science Washington](/org/life_science_washington/)
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Lizzie Wittig - TigerLily Foundation (patient advocate)
+* 💵Anne Murray - Bristol Myers Squibb
+* Shari Beagelman - BlackDoctor
+* 💵Brian Henderson - AbbVie
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Robert Popovian
 
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5981 340B drug pricing program
 #### 350 👍 - Pro

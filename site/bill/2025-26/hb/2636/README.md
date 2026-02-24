@@ -19,7 +19,9 @@
 ### Tue 02/24 08:00 AM - Early Learning & K-12 Education (EDU): E2SHB 2636 Public education reviews
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 96 👍 - Pro
+Testifying:
+* Logan Noel-Endres - Washington State School Directors’ Association (WSSDA)
 
 #### 0 👎 - Con
 

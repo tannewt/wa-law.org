@@ -14,7 +14,7 @@
 ### Tue 02/24 04:00 PM - Ways & Means (WM): SHB 2133 Senior citizen centers/tax
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
 
 #### 0 👎 - Con
 

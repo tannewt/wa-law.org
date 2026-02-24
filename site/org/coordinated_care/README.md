@@ -122,9 +122,11 @@
 
 ### [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
 
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
+
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍2  
 
-### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
+### [SB 5949](/bill/2025-26/sb/5949/) - Insurer taxes  👎2 
 * 👎💵 Bill Stauffacher
 
 ### [SB 6071](/bill/2025-26/sb/6071/) - Health carrier overpayments  👎1 
@@ -133,7 +135,8 @@
 
 ### [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals  👎1 
 
-### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification  👎1 
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification  👎2 
+* 👎 Andrea Davis
 * 👎 Andrea Davis
 
 ## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍3  

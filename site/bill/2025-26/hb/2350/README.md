@@ -12,7 +12,12 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Human Services (HS): SHB 2350 DD RHC federal compliance
-#### 0 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Cathy Murahashi - The Arc of Washington
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+* SHAWN LATHAM - Self Advocates In Leadership
+* 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 
 #### 0 👎 - Con
 

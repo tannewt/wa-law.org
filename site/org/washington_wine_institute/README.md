@@ -42,7 +42,8 @@
 * ❓ Josh McDonald
 * ❓ Josh McDonald
 
-### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎5 
+* 👎 Josh McDonald
 * 👎 Josh McDonald
 * 👎 Josh McDonald
 

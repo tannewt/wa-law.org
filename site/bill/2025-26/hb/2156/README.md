@@ -12,9 +12,14 @@
 
 ## Meetings
 ### Fri 02/20 02:00 PM - Law & Justice (LAW): EHB 2156 AGO investigator authority
-#### 0 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Tienney Milnor - Attorney General Office
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 0 👎 - Con
+#### 839 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other
 

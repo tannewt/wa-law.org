@@ -12,9 +12,12 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5977 Child near fatality reviews
-#### 2 👍 - Pro
+#### 259 👍 - Pro
 Testifying:
 * Sarah Akey - Keeping Kids SAFE
+* Kristina Lynn - Keeping Kids Safe
+* Kim Justice - Partners for Our Children
+* Angela Kraemer
 
 #### 0 👎 - Con
 

@@ -9,21 +9,29 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/21/2026 [PubliCola](/org/publicola/) - [Mayor Katie Wilson: "If We Turned Off the Cameras, It Would Become More Difficult to Solve Many Crimes" - PubliCola](https://publicola.com/2026/02/20/mayor-katie-wilson-if-we-turned-off-the-cameras-it-would-become-more-difficult-to-solve-many-crimes/#:~:text=from%20the%20Seattle%20Police%20Department)
 * 02/19/2026 [MyNorthwest](/org/mynorthwest/) - [Senate-passed bill to expand DUI testing clears first hurdle in House - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/bill-dui-testing/4205188#:~:text=Senate%20Bill%205880)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=SB%205880)
 * 01/13/2026 [MyNorthwest](/org/mynorthwest/) - [WA bill aims to speed up DUI cases by allowing more labs to perform toxicology tests - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/wa-bill-toxicology-dui/4186993#:~:text=Senate%20Bill%205880)
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): 2SSB 5880 Toxicology testing
-#### 0 👍 - Pro
+#### 195 👍 - Pro
+Testifying:
+* Erika Evans - [City of Seattle](/org/city_of_seattle/)
+* Frank Harris - Mothers Against Drunk Driving
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Karlie Valdez - Washington Association of Criminal Defense Lawyers and the Washington Defender Association
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Bradley Lane - State Traffic Safety Resource Prosecutor
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Amy Freedheim - King County Prosecuting Attorney's Office
+* Teagan Levine - Okanogan County Prosecutor's Office
 
 ### Mon 01/26 04:00 PM - Ways & Means (WM): SSB 5880 Toxicology testing
 #### 55 👍 - Pro

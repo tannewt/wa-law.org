@@ -13,11 +13,14 @@
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Labor & Commerce (LC): 2SHB 2479 Unpaid wage recovery
-Sign up to testify:
+#### 271 👍 - Pro
+Testifying:
+* Emily Seely
+* Ross Colebrook
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

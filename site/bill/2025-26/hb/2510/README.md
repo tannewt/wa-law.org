@@ -8,12 +8,15 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Human Services (HS): HB 2510 Community cust. supervision
-#### 3 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Christopher Bonnington
 * Linden Rhoads
+* Anna Nasset - Victim
+* Shyann Ross
+* Desseret Doane - Community victims.
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

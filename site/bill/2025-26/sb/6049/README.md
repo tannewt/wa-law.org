@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SSB%206049)
 * 02/02/2026 [The Center Square](/org/the_center_square/) - [WA bill to protect students would also exempt some gov employee info from disclosure | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8cccbac8-b656-408e-b611-ad419d8df91d.html#:~:text=Senate%20Bill%206049)
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%206049)
 
@@ -15,11 +16,13 @@
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SSB 6049 PRA/students & employees
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Sheri Sawyer - Office of Financial Management
 
-#### 0 👎 - Con
+#### 957 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 6049 PRA/students & employees
 #### 40 👍 - Pro

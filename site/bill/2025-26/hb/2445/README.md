@@ -11,11 +11,17 @@
 
 ## Meetings
 ### Thu 02/19 10:30 AM - Law & Justice (LAW): EHB 2445 Probate
-#### 0 👍 - Pro
+#### 90 👍 - Pro
+Testifying:
+* Ben Carr - Washington State Attorney General's Office
+* Robert Miller - [Northwest Justice Project](/org/northwest_justice_project/)
 
-#### 0 👎 - Con
+#### 860 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Seth Dawson
+* Mitch Cory - Stokes Lawrence
 
 ### Tue 01/27 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2445 Probate
 #### 149 👍 - Pro

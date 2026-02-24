@@ -13,12 +13,28 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202215)
 
 ## Meetings
-### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 2215 Fuels/climate commitment act
-#### 1 👍 - Pro
+### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2215 Fuels/climate commitment act
+Sign up to testify:
 
-#### 6 👎 - Con
+#### 0 👍 - Pro
+
+#### 29 👎 - Con
 
 #### 0 ❓ - Other
+
+### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 2215 Fuels/climate commitment act
+#### 187 👍 - Pro
+Testifying:
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Caitlin Krenn - [Washington Conservation Action](/org/washington_conservation_action/)
+
+#### 393 👎 - Con
+
+#### 4 ❓ - Other
+Testifying:
+* Jim Hedrick - Pacific Propane Gas Association (PPGA)
+* Joel Creswell - Washington Department of Ecology
+* 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
 
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2215 Fuels/climate commitment act
 #### 32 👍 - Pro

@@ -32,6 +32,8 @@
 
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
+
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎2 
 * 👎 Michelle Hennings
 * 👎 Michelle Hennings

@@ -10,13 +10,15 @@
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Labor & Commerce (LC): ESHB 2476 Theater licenses/alcohol
-Sign up to testify:
+#### 60 👍 - Pro
+Testifying:
+* Matt Dunne - Cinemark
 
-#### 0 👍 - Pro
+#### 2 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Marc Webster - LCB
 
 ### Wed 01/21 01:30 PM - Consumer Protection & Business (CPB): HB 2476 Theater licenses/alcohol
 #### 45 👍 - Pro

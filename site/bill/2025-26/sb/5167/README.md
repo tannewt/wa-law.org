@@ -89,7 +89,7 @@ Testifying:
 * 💵Emily Vyhnanek - Washington State Budget and Policy Center
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Malou Chávez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
-* Sasha Wasserstrom - Washington Immigrant Solidarity Network (WAISN)
+* 💵Sasha Wasserstrom - Washington Immigrant Solidarity Network (WAISN)
 * Soumyo Lahiri-Gupta - OneAmerica
 * 💵Scott Nelson - Office of the Washington State Auditor
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

@@ -13,13 +13,15 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Housing (HOUS): ESSB 5937 Smart access systems/tenants
-#### 1 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * Maddie Stoothoff
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Krystelle Purkey - Washington Multi-Family Housing Association
 
 ### Wed 01/14 10:30 AM - Housing (HSG): SB 5937 Smart access systems/tenants
 #### 86 👍 - Pro

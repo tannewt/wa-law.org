@@ -11,11 +11,12 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESB 5286 State hospitals/police costs
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Mayor Terri Cooper - [City of Medical Lake](/org/city_of_medical_lake/)
+* Paul Bocchi - City of Lakewood, Mayor
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

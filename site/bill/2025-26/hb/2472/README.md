@@ -9,9 +9,12 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): SHB 2472 Fire sprinkler work
-#### 2 👍 - Pro
+#### 113 👍 - Pro
+Testifying:
+* 💵Neil Hartman - Washington State Association Of UA Plumbers & Pipefitters
+* Suzanne Mayr - National Fire Sprinkler Association
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

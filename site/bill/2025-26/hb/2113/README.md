@@ -8,9 +8,15 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): HB 2113 Radiologic technologists
-#### 0 👍 - Pro
+#### 61 👍 - Pro
+Testifying:
+* Jim Hedrick - Washington State Radiological Society (WSRS)
+* Dee Bender - Washington Association of Nurse Anesthesiology
+* Troy Bender - Washington Academy of Physician Associates
+* Caylon Haggard - Docs Who Care
+* Katie Kolan - Washington State Hospital Association (WSHA)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

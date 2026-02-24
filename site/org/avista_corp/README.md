@@ -20,7 +20,8 @@
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.  👎1 
 * 👎💵 John Rothlin
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
+* 👍💵 John Rothlin
 * 👍💵 John Rothlin
 
 ### [HB 1913](/bill/2025-26/hb/1913/) - Public utility tax credit  👎1 
@@ -41,14 +42,15 @@
 ### [HB 2373](/bill/2025-26/hb/2373/) - Electric utility bill assist   ❓1
 * ❓💵 John Rothlin
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍2  
+* 👍💵 John Rothlin
 
 ### [HB 2486](/bill/2025-26/hb/2486/) - State energy code costs 👍1  
 
 ### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities   ❓1
 * ❓💵 Josie Cummings
 
-### [HB 2575](/bill/2025-26/hb/2575/) - Environmental reporting 👍1  
+### [HB 2575](/bill/2025-26/hb/2575/) - Environmental reporting 👍2  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
 

@@ -42,16 +42,20 @@
 * 👍 Sonia Joseph
 * 👍 Trishandra Pickup
 
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
+
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers   ❓1
 
-## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
+
+## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  ❓2
 * 👍 Sonia Joseph
 
 ## 2023-24
 
-### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍1  
+### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍1  ❓2
 * 👍 Sonia Joseph
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍4  

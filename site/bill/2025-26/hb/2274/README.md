@@ -10,11 +10,16 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): ESHB 2274 Commercial electronic mail
-#### 0 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* Beth Terrell - Board Chair, NW Consumer Law Center
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joe Wright - HKM Employment Attorneys, LLP
 
 ### Wed 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 2274 Commercial electronic mail
 #### 196 👍 - Pro

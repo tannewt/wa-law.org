@@ -15,11 +15,27 @@
 ### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): ESSB 5928 Wildfire risk models
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 277 👍 - Pro
+Testifying:
+* MIKE BUCY - Other
+* Michael DeLong - Consumer Federation of America
+* David Forte - Office of the Insurance Commissioner
+* Lauren Burnes
+* Mayor Terri Cooper - [City of Medical Lake](/org/city_of_medical_lake/)
+* Daniel Holst - Independent Insurance Agents & Brokers of Washington
+* Rachel Evey - Chelan-Douglas Coalition for Health Improvement
+* Summer Hess
+* Karen Mulcahy
+* 💵Bruce Chattin
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Kenton BRINE - NW Insurance Council
+* Kris Tefft - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
 
 ### Thu 01/15 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5928 Wildfire risk models
 #### 175 👍 - Pro

@@ -105,16 +105,18 @@
 
 ### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
 * 👍💵 Bryce Yadon
 
 ### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management 👍1  
 * 👍💵 Bryce Yadon
 
-### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
+### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
-### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
@@ -128,11 +130,12 @@
 ### [HB 2388](/bill/2025-26/hb/2388/) - Distributed energy/ag. lands   ❓1
 * ❓💵 Bryce Yadon
 
-### [HB 2418](/bill/2025-26/hb/2418/) - Permit review  👎2 
+### [HB 2418](/bill/2025-26/hb/2418/) - Permit review 👍1 👎2 
 * 👎💵 Bryce Yadon
 * 👎💵 Bryce Yadon
 
-### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍1  
+### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ### [HB 2459](/bill/2025-26/hb/2459/) - Schools outside UGAs  👎1 
@@ -148,6 +151,9 @@
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
+* 👍💵 Bryce Yadon
+
+### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
 * 👍💵 Bryce Yadon
 
 ### [SB 5173](/bill/2025-26/sb/5173/) - Concerning county comprehensive plans and development regulations.  👎1 
@@ -240,7 +246,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-### [SB 5820](/bill/2025-26/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍1  
+### [SB 5820](/bill/2025-26/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ### [SB 6001](/bill/2025-26/sb/6001/) - Scissor stairs 👍1  
@@ -249,8 +256,9 @@
 ### [SB 6016](/bill/2025-26/sb/6016/) - Aquifer recharge areas   ❓1
 * ❓💵 Bryce Yadon
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍1  ❓1
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  ❓1
 * ❓💵 Bryce Yadon
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
@@ -260,13 +268,14 @@
 
 ### [SB 6181](/bill/2025-26/sb/6181/) - City incorporation 👍1  
 
-## [SB 6274](/bill/2025-26/sb/6274/) - Street standards   ❓1
+### [SB 6274](/bill/2025-26/sb/6274/) - Street standards   ❓1
 * ❓💵 Bryce Yadon
+
+## [SB 6309](/bill/2025-26/sb/6309/) - High cap. transit permits 👍1  
 
 ## 2023-24
 
-### [SB 6274](/bill/2023-24/sb/6274/) - Street standards   ❓1
-* ❓💵 Bryce Yadon
+### [SB 6309](/bill/2023-24/sb/6309/) - High cap. transit permits 👍1  
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 

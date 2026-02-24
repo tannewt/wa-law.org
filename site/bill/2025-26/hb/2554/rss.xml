@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2554/</link>
 		<description>Updates about HB 2554</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Feb 2026 10:55:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,22 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-17/First reading, referred to Agriculture &amp; Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍Jim Woods - WDFW</title>
+			<description>Jim Woods signed up to testify Pro. They are signed up to represent WDFW.</description>
+			<pubDate>Wed, 18 Feb 2026 09:53:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jim/Woods/2026-02-18 09:53:42</guid>
+		</item>
+		<item>
+			<title>👍Joe Panesko - Washington State Office of the Attorney General</title>
+			<description>Joe Panesko signed up to testify Pro. They are signed up to represent Washington State Office of the Attorney General.</description>
+			<pubDate>Wed, 18 Feb 2026 10:55:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Panesko/2026-02-18 10:55:17</guid>
 		</item>
 	</channel>
 </rss>

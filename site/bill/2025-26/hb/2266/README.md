@@ -21,11 +21,33 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Housing (HSG): ESHB 2266 Supportive & emerg. housing
-#### 0 👍 - Pro
+#### 1101 👍 - Pro
+Testifying:
+* GREGORY STEEN - The Power of Testimony
+* Heather Gates
+* Amasai Jeke - UTOPIA WA
+* Joslyn LaMadrid - Bremerton Prayerwalk
+* Sarah Dickmeyer - Plymouth Housing
+* 💵Jenn Henderson - [Disability Rights Washington](/org/disability_rights_washington/)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Adam Eitmann - Washington State Attorney General's Office
+* Mary Reinbold - Washington State Department of Commerce
+* Council Member Kitty Klitzke - [City of Spokane](/org/city_of_spokane/)
+* Joe McDermott - State Relations Director | King County
+* Leslie Enzian
+* Colton LaMadrid - Bremerton Prayerwalk
 
-#### 0 👎 - Con
+#### 842 👎 - Con
+Testifying:
+* Virginia Clough - [City of Spokane Valley](/org/city_of_spokane_valley/)
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Blake Lyon - City of Bellingham, WA
+* Lynne Robinson - [City of Bellevue](/org/city_of_bellevue/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Michael Transue - [City of Fife](/org/city_of_fife/)
+* Kyle Moore - [City of Kent](/org/city_of_kent/)
 
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2266 Supportive & emerg. housing
 #### 665 👍 - Pro

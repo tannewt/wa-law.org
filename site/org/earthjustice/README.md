@@ -28,13 +28,18 @@
 
 ### [HB 1712](/bill/2025-26/hb/1712/) - Qualified biomass facilities  👎1 
 
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+
 ### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍1  
 
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  
+* 👍 Eric Gonzalez Alfaro
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
+
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 * ❓ Eric Gonzalez Alfaro
@@ -54,7 +59,9 @@
 
 ### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
 
-### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍2  
+
+### [SB 5995](/bill/2025-26/sb/5995/) - Zero emission cargo handling 👍1  
 
 ### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 

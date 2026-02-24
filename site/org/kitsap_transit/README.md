@@ -1,13 +1,19 @@
 # Kitsap Transit
 ## 2025-26
 
-## [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍3  
 * 👍 Dylan Doty
+* 👍 Dylan Doty
+
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
+
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
+
+## [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
 
 ## 2023-24
 
-### [HB 1923](/bill/2023-24/hb/1923/) - Passenger-only ferries 👍2  
-* 👍 Dylan Doty
+### [SB 6005](/bill/2023-24/sb/6005/) - Transportation budget, supp. 👍1  
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍2  
 

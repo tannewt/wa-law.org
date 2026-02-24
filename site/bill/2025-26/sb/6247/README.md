@@ -10,11 +10,17 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Education (ED): ESSB 6247 School financial management
-#### 2 👍 - Pro
+#### 137 👍 - Pro
+Testifying:
+* Flip Herndon - AESD
+* Misha Cherniske - Office of Superintendent of Public Instruction
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Logan Noel-Endres - Washington State School Directors' Association (WSSDA)
+* 💵Marissa Rathbone - WA Assoc of School Admin (WASA) & WA Assoc of School Business Officials (WASBO)
 
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6247 School financial management
 #### 13 👍 - Pro

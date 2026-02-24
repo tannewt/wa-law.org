@@ -8,11 +8,12 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SB 6046 Civil air patrol
-#### 11 👍 - Pro
+#### 119 👍 - Pro
 Testifying:
 * Paul Sellars - Washington Military Department
 * Robert Ezelle - Emergency Management Division
 * Sid Wiggs - Washington Civil Air Patrol
+* Charles Wharton - Veterans Legislative Coalition
 
 #### 0 👎 - Con
 

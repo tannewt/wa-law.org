@@ -12,9 +12,12 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 6184 Office of homeless youth
-#### 2 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* Cacey Hanauer-Sutton - Dept of Commerce
+* 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
 
-#### 0 👎 - Con
+#### 357 👎 - Con
 
 #### 0 ❓ - Other
 

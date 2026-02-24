@@ -8,12 +8,20 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SB 5808 Health carrier surpluses
-#### 9 👍 - Pro
+#### 342 👍 - Pro
 Testifying:
 * Consuelo Echeverria
 * MSLS,BSN, RN, Kathryn Lewandowsky
 * Lonnie Johns-Brown - Health Care For All Washington
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Jim Freeburg - Patient Coalition of Washington
 
-#### 1 👎 - Con
+#### 867 👎 - Con
+Testifying:
+* 💵Amber Ulvenes - Kaiser
+* 💵Carrie Tellefson - Regence BlueShield
+* 💵Christine Brewer - Premera
+* 💵David Foster - Assoc of WA Healthcare Plans
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

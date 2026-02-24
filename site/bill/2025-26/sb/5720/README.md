@@ -9,9 +9,11 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 5720 Uniform debt default act
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Kelsi Hamilton - NW Collectors Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

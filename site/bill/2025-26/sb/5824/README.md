@@ -11,9 +11,11 @@
 ### Thu 02/26 01:30 PM - Transportation (TR): SSB 5824 Fifth-wheel travel trailers
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* Michael Ochs - RV Industry Association
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

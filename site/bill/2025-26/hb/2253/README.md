@@ -10,11 +10,13 @@
 
 ## Meetings
 ### Mon 02/23 01:30 PM - Human Services (HS): ESHB 2253 DCYF licensing division
-Sign up to testify:
+#### 77 👍 - Pro
+Testifying:
+* Santosh Pavan Kumar Alla - Gmail
+* Jarel Sanders - Washington State Department of Children, Youth & Families
+* Derek Harris - Community Youth Services
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

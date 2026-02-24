@@ -22,11 +22,13 @@
 
 ### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
 
-## [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍2  
+### [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍2  
+
+## [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎1 
 
 ## 2023-24
 
-### [SB 5918](/bill/2023-24/sb/5918/) - School operating costs 👍2  
+### [SB 6260](/bill/2023-24/sb/6260/) - Public education funding  👎1 
 
 ### [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten  👎1 ❓1
 * 👎 Melissa Spencer

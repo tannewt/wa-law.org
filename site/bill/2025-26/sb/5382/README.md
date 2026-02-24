@@ -23,6 +23,7 @@
 * 02/05/2025 [The Center Square](/org/the_center_square/) - [Controversial initiative bill gets mixed testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8b506c58-e3e4-11ef-ad15-f35b88b3a556.html#:~:text=Senate%20Bill%205382)
 * 02/05/2025 [MyNorthwest](/org/mynorthwest/) - [WA Senate Democrats seek stricter rules for initiatives](https://mynorthwest.com/mynorthwest-politics/wa-democrats-initiatives/4040423#:~:text=Senate%20Bill%205382)
 * 01/23/2025 [The Center Square](/org/the_center_square/) - [Washington bill would ‘kill the initiative process,’ critic warns | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9a67bd2c-d9c1-11ef-9720-1f185c87f765.html#:~:text=Senate%20Bill%205382%20,)
+* [Senate Republicans](/org/senate_republicans/) - [Bills Washington Can't Afford - Senate Republican Caucus](https://src.wastateleg.org/worst-bills-2026/#:~:text=Learn%20more%20about%20SB%205382.)
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5382 Ballot measure petitions

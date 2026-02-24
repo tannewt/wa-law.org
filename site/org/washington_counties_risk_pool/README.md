@@ -5,8 +5,9 @@
 * ❓💵 Brad Tower
 * 👍💵 Brad Tower
 
-### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  ❓1
+### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍2  ❓1
 * ❓💵 Brad Tower
+* 👍💵 Brad Tower
 * 👍💵 Brad Tower
 
 ## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍2  

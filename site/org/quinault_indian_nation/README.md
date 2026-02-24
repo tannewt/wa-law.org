@@ -22,7 +22,7 @@
 
 ### [HB 2532](/bill/2025-26/hb/2532/) - Nitrous oxide sale 👍1  
 
-### [HB 2554](/bill/2025-26/hb/2554/) - Tribal fishing rights 👍1  
+### [HB 2554](/bill/2025-26/hb/2554/) - Tribal fishing rights 👍2  
 
 ### [HB 2555](/bill/2025-26/hb/2555/) - Traditional health/medicaid 👍1  
 
@@ -38,9 +38,13 @@
 
 ### [SB 5988](/bill/2025-26/sb/5988/) - Opioid treatment prg. fees 👍1  
 
-### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
+### [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍1  
 
-### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
+### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍2  
+
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍2  
+
+### [SB 6137](/bill/2025-26/sb/6137/) - Regulated sports wagering 👍1  
 
 ## [SB 6241](/bill/2025-26/sb/6241/) - Steelhead populations  👎1 
 

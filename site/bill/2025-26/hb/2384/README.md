@@ -10,11 +10,18 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): 2SHB 2384 Continuing care retirement
-#### 0 👍 - Pro
+#### 315 👍 - Pro
+Testifying:
+* Tyler Langford - Office of the Insurance Commissioner
+* Jim Knoll - The Kenney Home Residents Council
+* Kim Hickman - WACCRA
+* Laura Saunders - WACCRA
 
-#### 0 👎 - Con
+#### 95 👎 - Con
+Testifying:
+* 💵Alyssa Odegaard - LeadingAge Washington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2384 Continuing care retirement
 #### 195 👍 - Pro

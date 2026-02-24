@@ -38,13 +38,17 @@
 * 👍 Casey MacLean
 * 👍 Casey MacLean
 
-## [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
 * 👍 Casey MacLean
+
+### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
+* 👍 Casey MacLean
+
+## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
 
 ## 2023-24
 
-### [SB 6010](/bill/2023-24/sb/6010/) - EFSEC tribal consultation 👍1  
-* 👍 Casey MacLean
+### [SB 6352](/bill/2023-24/sb/6352/) - Transportation resources 👍1  
 
 ### [HB 1173](/bill/2023-24/hb/1173/) - Light pollution  👎1 
 * 👎 Jeff Gombosky

@@ -15,9 +15,26 @@
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): ESSJM 8014 Aysenur Ezgi Eygi death
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 506 👍 - Pro
+Testifying:
+* Hamid Ali
+* Brandon Elliott - Associated Students of the University of Washington
+* 💵Heba Qatrani - Associated Students of the University of Washington Tacoma
+* Hiro Hirano-Holcomb - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* 💵Nathan Tippmann - Geoduck Student Union
+* Michael Sims - Veterans for Peace
+* Ozden Bennett
+* Elisabetta Valenti
+* Cindy Corrie - [Rachel Corrie Foundation for Peace and Justice](/org/rachel_corrie_foundation_for_peace_and_justice/)
+* Craig Corrie - [Rachel Corrie Foundation for Peace and Justice](/org/rachel_corrie_foundation_for_peace_and_justice/)
+* Laila Saliba
+* Juliette Majid
+* Rae Levine
+* Aria Fani
 
-#### 0 👎 - Con
+#### 138 👎 - Con
+Testifying:
+* Joe Kunzler
 
 #### 0 ❓ - Other
 

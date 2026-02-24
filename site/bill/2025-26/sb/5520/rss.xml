@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5520/</link>
 		<description>Updates about SB 5520</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Feb 2026 21:07:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -107,6 +107,38 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-17/First reading, referred to Civil Rights &amp; Judiciary.</guid>
+		</item>
+		<item>
+			<title>❓Jordan Coleman - Washington Innocence Project</title>
+			<description>Jordan Coleman signed up to testify Other.</description>
+			<pubDate>Fri, 20 Feb 2026 08:45:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jordan/Coleman/2026-02-20 08:45:04</guid>
+		</item>
+		<item>
+			<title>👍💵Lara Zarowsky - Washington Innocence Project</title>
+			<description>Lara Zarowsky signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_innocence_project/"&gt;Washington Innocence Project&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sat, 21 Feb 2026 21:16:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lara/Zarowsky/2026-02-21 21:16:53</guid>
+		</item>
+		<item>
+			<title>👍Ted Bradford - Washington Innocence Project</title>
+			<description>Ted Bradford signed up to testify Pro.</description>
+			<pubDate>Mon, 23 Feb 2026 10:45:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ted/Bradford/2026-02-23 10:45:37</guid>
+		</item>
+		<item>
+			<title>👎Jaime Taft - Washington Innocence Project</title>
+			<description>Jaime Taft signed up to testify Con.</description>
+			<pubDate>Mon, 23 Feb 2026 21:07:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jaime/Taft/2026-02-23 21:07:39</guid>
 		</item>
 	</channel>
 </rss>

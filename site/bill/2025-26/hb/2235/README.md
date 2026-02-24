@@ -13,11 +13,11 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): HB 2235 PRA firearm exemptions
-#### 8 👍 - Pro
+#### 226 👍 - Pro
 Testifying:
 * Michael McKinley
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -37,9 +37,10 @@
 
 ### [HB 2536](/bill/2025-26/hb/2536/) - Wineries/restaurant license 👍1  
 
-### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎3 
 * 👎💵 Daniel Olson
 * 👎 Daniel Olsen
+* 👎💵 Daniel Olson
 
 ### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study  👎2 ❓1
 * ❓💵 Daniel Olson

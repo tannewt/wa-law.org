@@ -8,15 +8,24 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%206031)
+
 ## Meetings
 ### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): ESSB 6031 Insurance crimes
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Dory Nicpon - Office of the Insurance Commissioner
+* Brent Walker - Coalition Against Insurance Fraud
+* Marian Smith - [National Insurance Crime Bureau](/org/national_insurance_crime_bureau/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 ### Wed 01/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6031 Insurance crimes
 #### 22 👍 - Pro

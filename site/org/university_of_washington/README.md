@@ -78,16 +78,19 @@
 
 ### [HB 2243](/bill/2025-26/hb/2243/) - Including physical and occupational therapists as attending providers for workers' compensation. 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1 👎2 ❓1
 * ❓💵 Morgan Hickel
+* 👎 Valerie Ketcham
+* 👍 Kevin Chang
 
-### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental  👎1 
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1 👎1 
 * 👎 Kevin Chang
+* 👍💵 Morgan Hickel
 
 ### [HB 2330](/bill/2025-26/hb/2330/) - Establishing a prioritization process for capital funding for state campus district energy systems. 👍1  
 * 👍 Kevin Chang
 
-### [HB 2353](/bill/2025-26/hb/2353/) - Capital predesign thresholds 👍1  
+### [HB 2353](/bill/2025-26/hb/2353/) - Capital predesign thresholds 👍2  
 
 ### [HB 2384](/bill/2025-26/hb/2384/) - Continuing care retirement 👍1  
 
@@ -103,6 +106,9 @@
 ### [HB 2586](/bill/2025-26/hb/2586/) - Passport to careers program 👍1  
 
 ### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+
+### [HB 2617](/bill/2025-26/hb/2617/) - Higher education procedures 👍1  
+* 👍💵 Morgan Hickel
 
 ### [SB 5106](/bill/2025-26/sb/5106/) - Eid al-Fitr & Eid al-Adha 👍1  
 
@@ -123,6 +129,8 @@
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍2  
 * 👍 Joe Dacca
 * 👍💵 Morgan Hickel
+
+### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
 
 ### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍2  
 
@@ -151,15 +159,17 @@
 ### [SB 5985](/bill/2025-26/sb/5985/) - Endometriosis 👍1  
 * 👍 Aparna Ramanathan
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Morgan Hickel
+* 👍💵 Morgan Hickel
 
 ### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental  👎1 
 * 👎 Kevin Chang
 
 ### [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage 👍1  
 
-### [SB 6137](/bill/2025-26/sb/6137/) - Regulated sports wagering   ❓1
+### [SB 6137](/bill/2025-26/sb/6137/) - Regulated sports wagering   ❓2
+* ❓💵 Morgan Hickel
 * ❓💵 Morgan Hickel
 
 ### [SB 6138](/bill/2025-26/sb/6138/) - Dental deep sedation  👎2 
@@ -169,13 +179,15 @@
 
 ### [SB 6259](/bill/2025-26/sb/6259/) - Higher ed./damage by student  👎2 
 
+### [SB 6321](/bill/2025-26/sb/6321/) - Scientific research 👍22  ❓1
+
 ### [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1 👎2 
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1 👎2 
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

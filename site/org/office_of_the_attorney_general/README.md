@@ -18,6 +18,10 @@
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
 * 👍 Maureen Johnston
 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍2  
+* 👍 Adam Eitmann
+* 👍 Bill Sherman
+
 ### [SB 5522](/bill/2025-26/sb/5522/) - State capitol campus 👍1  
 
 ## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍1  

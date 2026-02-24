@@ -41,7 +41,7 @@
 ### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement 👍2  
 * 👍 Jared Mason-Gere
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍2  
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍3  
 
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 
@@ -53,6 +53,8 @@
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
+
+### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements 👍1  
 
 ### [HB 1161](/bill/2025-26/hb/1161/) - Veteran employability 👍1  
 
@@ -117,7 +119,8 @@
 ### [HB 1289](/bill/2025-26/hb/1289/) - Public school survey info.   ❓1
 * ❓💵 Nasue Nishida
 
-### [HB 1295](/bill/2025-26/hb/1295/) - Reading and writing literacy 👍1  
+### [HB 1295](/bill/2025-26/hb/1295/) - Reading and writing literacy 👍2  
+* 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍5  
@@ -154,6 +157,8 @@
 
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding   ❓1
 * ❓💵 Julie Salvi
+
+### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  
 
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
 
@@ -227,7 +232,7 @@
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍1  
 
-### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
@@ -265,11 +270,12 @@
 
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍2  
 
-### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  ❓1
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍2  ❓1
 * ❓ Jared Mason-Gere
 * 👍💵 Nasue Nishida
+* 👍💵 Nasue Nishida
 
-### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍3  
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍4  
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
@@ -332,7 +338,7 @@
 
 ### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
 
-### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍1  
+### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍2  
 
 ### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍1  
 
@@ -374,7 +380,9 @@
 
 ### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
+
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
@@ -388,22 +396,23 @@
 ### [HB 2260](/bill/2025-26/hb/2260/) - Ballot measure petitions 👍1  
 * 👍💵 Simone Boe
 
-### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
+### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍2  
 
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎2 
+* 👎💵 Larry Delaney
 * 👎💵 Larry Delaney
 
-### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
+### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍2  
 
 ### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍1  
 
-### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
+### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍2  
 
 ### [HB 2337](/bill/2025-26/hb/2337/) - Concerning training requirements for individual providers caring for a family member.  👎1 
 
-### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍2  
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍4  
 
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍2  
 
@@ -416,6 +425,8 @@
 ### [HB 2401](/bill/2025-26/hb/2401/) - Boys and men commission 👍1  
 
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
+
+### [HB 2411](/bill/2025-26/hb/2411/) - Shared leave 👍1  
 
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
 
@@ -430,6 +441,8 @@
 ### [HB 2470](/bill/2025-26/hb/2470/) - On-base school construction 👍1  
 
 ### [HB 2471](/bill/2025-26/hb/2471/) - Collective bargaining 👍1  
+
+### [HB 2472](/bill/2025-26/hb/2472/) - Fire sprinkler work 👍1  
 
 ### [HB 2474](/bill/2025-26/hb/2474/) - Postsecondary closures 👍1  
 
@@ -448,13 +461,14 @@
 
 ### [HB 2538](/bill/2025-26/hb/2538/) - Part-time faculty pay 👍2 👎1 
 
-### [HB 2548](/bill/2025-26/hb/2548/) - Health care market standards 👍1  
+### [HB 2548](/bill/2025-26/hb/2548/) - Health care market standards 👍2  
 
 ### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍1  
 
 ### [HB 2551](/bill/2025-26/hb/2551/) - School district solvency 👍1  
 
-### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports  👎1 
+### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports  👎1 ❓1
+* ❓ Jared Mason-Gere
 
 ### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
 
@@ -463,7 +477,11 @@
 ### [HB 2593](/bill/2025-26/hb/2593/) - School district accounting  👎2 
 * 👎💵 Julie Salvi
 
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+
+### [HB 2617](/bill/2025-26/hb/2617/) - Higher education procedures 👍1  
 
 ### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
 
@@ -474,6 +492,8 @@
 ### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  
 
 ### [HB 2685](/bill/2025-26/hb/2685/) - Tribal data 👍1  
+
+### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care  👎1 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -499,7 +519,7 @@
 
 ### [SB 5059](/bill/2025-26/sb/5059/) - Ferry captains 👍1  
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍2  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍4  
 
@@ -612,7 +632,7 @@
 
 ### [SB 5235](/bill/2025-26/sb/5235/) - Public school statutes 👍1  
 
-### [SB 5240](/bill/2025-26/sb/5240/) - Anaphylaxis med. in schools   ❓2
+### [SB 5240](/bill/2025-26/sb/5240/) - Anaphylaxis med. in schools   ❓3
 
 ### [SB 5241](/bill/2025-26/sb/5241/) - Fusion energy facilities 👍1  
 
@@ -634,7 +654,7 @@
 
 ### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍2  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍3  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍4  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍3  
 
@@ -657,7 +677,7 @@
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
-### [SB 5346](/bill/2025-26/sb/5346/) - Student mobile device use 👍1  
+### [SB 5346](/bill/2025-26/sb/5346/) - Student mobile device use 👍2  
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍2  
 * 👍💵 Simone Boe
@@ -831,11 +851,11 @@
 
 ### [SB 5835](/bill/2025-26/sb/5835/) - Lump sum retirement payments 👍1  
 
-### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍1  
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍2  
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
-### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍3  
 
 ### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍1  
 
@@ -843,13 +863,15 @@
 
 ### [SB 5861](/bill/2025-26/sb/5861/) - Education/community rep. 👍1  
 
-### [SB 5862](/bill/2025-26/sb/5862/) - TRS & PERS plan 1 COLA 👍3  
+### [SB 5862](/bill/2025-26/sb/5862/) - TRS & PERS plan 1 COLA 👍4  
 * 👍 Jared Mason-Gere
 
 ### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍2  
 * 👍 Jared Mason-Gere
 
-### [SB 5901](/bill/2025-26/sb/5901/) - On-base school construction 👍1  
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍1  
+
+### [SB 5901](/bill/2025-26/sb/5901/) - On-base school construction 👍2  
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 
@@ -863,9 +885,9 @@
 
 ### [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments  👎1 
 
-### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍1  
+### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍2  
 
-### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍1  
+### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍3  
 
 ### [SB 5950](/bill/2025-26/sb/5950/) - Celebrating Rosh Hashanah, Yom Kippur, Guru Nanak, Guru Gobind Singh, and Vaisakhi. 👍1  
 
@@ -873,14 +895,16 @@
 
 ### [SB 5952](/bill/2025-26/sb/5952/) - High school PE waivers  👎1 
 
-### [SB 5956](/bill/2025-26/sb/5956/) - AI use/student discipline 👍1  
+### [SB 5956](/bill/2025-26/sb/5956/) - AI use/student discipline 👍2  
 
-### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍2  
+### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍3  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍4  
+### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍5  
 * 👍💵 Nasue Nishida
+
+### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb. 👍1  
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍3  
 * 👍 DJ Brimmer
@@ -891,12 +915,19 @@
 
 ### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
 
-### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots 👍1  
+### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots 👍1  ❓1
 
-### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍2  
+### [SB 5988](/bill/2025-26/sb/5988/) - Opioid treatment prg. fees 👍1  
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍3  
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎2 
 * 👎💵 Larry Delaney
+* 👎💵 Larry Delaney
+
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+
+### [SB 6019](/bill/2025-26/sb/6019/) - Home care rates 👍1  
 
 ### [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍1  
 
@@ -913,7 +944,7 @@
 
 ### [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation 👍1  
 
-### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍2  
 
 ### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system   ❓1
 * ❓💵 Simone Boe
@@ -935,12 +966,12 @@
 
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 
-### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍1  
+### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍2  
 
 ### [SB 6192](/bill/2025-26/sb/6192/) - Reading and math instruction  👎3 
 * 👎💵 Nasue Nishida
 
-### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍3  
 
 ### [SB 6212](/bill/2025-26/sb/6212/) - Children benefit pilot prg. 👍1  
 
@@ -955,11 +986,14 @@
 
 ### [SB 6259](/bill/2025-26/sb/6259/) - Higher ed./damage by student  👎1 
 
-### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎2 
+### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎3 
+* 👎💵 Nasue Nishida
 
-### [SB 6278](/bill/2025-26/sb/6278/) - Teacher & principal programs 👍1  
+### [SB 6278](/bill/2025-26/sb/6278/) - Teacher & principal programs 👍2  
 
 ### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections 👍2  
+
+### [SB 6302](/bill/2025-26/sb/6302/) - Public works/finishing trade 👍1  
 
 ### [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
 
@@ -969,7 +1003,11 @@
 ### [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍2  
 * 👍💵 Simone Boe
 
-### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍20 👎2 
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍33 👎43 
+
+### [SB 6347](/bill/2025-26/sb/6347/) - Estate tax rates  👎1 
+
+### [SB 6353](/bill/2025-26/sb/6353/) - Working conn. child care  👎1 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi

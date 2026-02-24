@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5868/</link>
 		<description>Updates about SB 5868</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Feb 2026 21:01:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -188,6 +188,54 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-17/First reading, referred to Civil Rights &amp; Judiciary.</guid>
+		</item>
+		<item>
+			<title>👍LaDon Linde - Yakima County Commissioner</title>
+			<description>LaDon Linde signed up to testify Pro. They are signed up to represent Yakima County Commissioner.</description>
+			<pubDate>Thu, 19 Feb 2026 09:34:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/LaDon/Linde/2026-02-19 09:34:50</guid>
+		</item>
+		<item>
+			<title>👍J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration</title>
+			<description>J. Lee Schultz signed up to testify Pro. They are signed up to represent Administrative Office of the Courts, Board for Judicial Administration.</description>
+			<pubDate>Fri, 20 Feb 2026 14:02:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/J. Lee/Schultz/2026-02-20 14:02:53</guid>
+		</item>
+		<item>
+			<title>👍Jessica Humphreys - Yakima County Superior Court</title>
+			<description>Jessica Humphreys signed up to testify Pro. They are signed up to represent Yakima County Superior Court.</description>
+			<pubDate>Fri, 20 Feb 2026 16:16:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jessica/Humphreys/2026-02-20 16:16:52</guid>
+		</item>
+		<item>
+			<title>👍Judge Elisabeth Tutsch - Yakima County Superior Court</title>
+			<description>Judge Elisabeth Tutsch signed up to testify Pro. They are signed up to represent Yakima County Superior Court.</description>
+			<pubDate>Fri, 20 Feb 2026 16:16:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Judge Elisabeth/Tutsch/2026-02-20 16:16:52</guid>
+		</item>
+		<item>
+			<title>👍Judge Laura Riquelme - Skagit County Superior Court</title>
+			<description>Judge Laura Riquelme signed up to testify Pro. They are signed up to represent Skagit County Superior Court.</description>
+			<pubDate>Mon, 23 Feb 2026 10:26:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Judge Laura/Riquelme/2026-02-23 10:26:18</guid>
+		</item>
+		<item>
+			<title>👍💵Josh Weiss - Skagit County</title>
+			<description>Josh Weiss signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/skagit_county/"&gt;Skagit County&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 23 Feb 2026 21:01:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Josh/Weiss/2026-02-23 21:01:16</guid>
 		</item>
 	</channel>
 </rss>

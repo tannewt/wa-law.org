@@ -15,11 +15,23 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Transportation (TR): SB 6148 RTA bond issues maximum term
-#### 1 👍 - Pro
+#### 35 👍 - Pro
+Testifying:
+* Paul Sweum
+* Kelly Jiang - City of Issaquah Council Member
+* Brian McCartan
+* Dave Somers
+* Ryan Mello
+* 💵Nicole Grant - IBEW 46
+* Katy Ricchiuto - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 
-#### 1 👎 - Con
+#### 1096 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
+* Charles Prestrud - Washington Policy Center
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
 
 ### Mon 01/19 04:00 PM - Transportation (TRAN): SB 6148 RTA bond issues maximum term
 #### 237 👍 - Pro

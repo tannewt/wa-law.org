@@ -71,7 +71,8 @@
 
 ### [HB 1496](/bill/2025-26/hb/1496/) - Health care information 👍1  
 
-### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍2  
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍3  
+* 👍💵 Andrea Kadlec
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
 * 👍💵 Cecelia Black
@@ -83,19 +84,22 @@
 
 ### [HB 2246](/bill/2025-26/hb/2246/) - Updating policies for elementary and secondary school students with firearm violations.  👎1 
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍3  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍4  
 * 👍 Jenn Hendersen
 * 👍 Jenn Hendersen
+* 👍💵 Jenn Henderson
 * 👍💵 Jenn Henderson
 
 ### [HB 2314](/bill/2025-26/hb/2314/) - Concerning dental care services at residential habilitation centers.   ❓1
 
-### [HB 2319](/bill/2025-26/hb/2319/) - DD RHC facilities renaming 👍1  
+### [HB 2319](/bill/2025-26/hb/2319/) - DD RHC facilities renaming 👍2  
+* 👍💵 Chloe Merino
 * 👍💵 Chloe Merino
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 
-### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍1  
+### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍2  
+* 👍💵 Chloe Merino
 * 👍💵 Chloe Merino
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
@@ -104,6 +108,8 @@
 * 👎💵 Kimberly Mosolf
 
 ### [HB 2415](/bill/2025-26/hb/2415/) - DSHS unexpected fatalities 👍1  
+
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
 
 ### [HB 2490](/bill/2025-26/hb/2490/) - Ex. medical placement 👍2  
 * 👍💵 Rachael Seevers
@@ -140,17 +146,20 @@
 * 👍 cecelia black
 * 👍 cecelia black
 
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
 ### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍2  
 * 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
 
-### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍1  
+### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍1  ❓1
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍3  
+* 👍 Kim Mosolf
 
-### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  ❓1
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
 * 👍💵 Kimberly Mosolf

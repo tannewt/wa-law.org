@@ -16,7 +16,7 @@
 * 👎 Tom Salzer
 * 👎 Amy McKay
 
-### [HB 2619](/bill/2025-26/hb/2619/) - Agriculture regulations 👍1  
+### [HB 2619](/bill/2025-26/hb/2619/) - Agriculture regulations 👍2  
 
 ### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making 👍1  
 

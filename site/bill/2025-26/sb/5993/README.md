@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%205993)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [What we’re doing on affordability - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/20/what-were-doing-on-affordability/#:~:text=Senate%20Bill%205993)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [We're halfway there - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/10/were-halfway-there/#:~:text=SB%205993:)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [What’s happening at the Capitol - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/10/3156/#:~:text=Senate%20Bill%205993)
@@ -18,13 +19,24 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 5993 Medical debt interest
-#### 118 👍 - Pro
+#### 518 👍 - Pro
 Testifying:
 * 💵Adam Zarrin - Blood Cancer United, formerly the Leukemia & Lymphoma Society
 * Kris Shook
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
+* 💵Anne Burkland - AARP Washington
 
-#### 50 👎 - Con
+#### 377 👎 - Con
+Testifying:
+* Elizabeth New - Washington Policy Center
+* Diana Hernandez - NW Collectors Assoc.
+* 💵Kelsi Hamilton - NW Collectors Assoc.
+* Mindy Chumbley - NW Collectors Assoc.
+* Katerina LaMarche - Washington State Hospital Association
+* 💵Kevin Schilling - Washington State Dental Association
+* 💵Malorie Toman - WA State Medical Association
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other
 

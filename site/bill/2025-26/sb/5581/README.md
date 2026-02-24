@@ -12,14 +12,19 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Transportation (TR): ESB 5581 Safe system approach strat.
-#### 17 👍 - Pro
+#### 135 👍 - Pro
 Testifying:
 * Council Member Kitty Klitzke - [City of Spokane](/org/city_of_spokane/)
 * Larry Leveen - ForeverGreen Trails
+* Tim Hohmann - [City of Bellingham](/org/city_of_bellingham/)
+* 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
 
-#### 1 👎 - Con
+#### 390 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Tracy Furutani - City of Lake Forest Park Councilmember
 
 ### Thu 04/03 01:30 PM - Transportation (TR): SB 5581 Safe system approach strat.
 #### 139 👍 - Pro

@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=ESSB%205984)
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%205984)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=ESSB%205984)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=ESSB%205984)
 * 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Join me for a town hall next Saturday - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2026/02/13/join-me-for-a-town-hall-next-saturday/#:~:text=SB%205894)
@@ -22,11 +24,27 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): ESSB 5984 AI companion chatbots
-#### 0 👍 - Pro
+#### 147 👍 - Pro
+Testifying:
+* Danica Noble - Washington State PTA
+* William Agnew
+* Mansur Khan
+* Emma Chow
+* Annika Lal
+* Autumn Palumbo - The Overlake School Public Policy Club
+* Beau Perschbacher - Governor's Office
+* Jai Jaisimha - Transparency Coalition.ai
+* Nick Fielden - Washington State Attorney General's Office
+* Jared Moore
+* Eric Lin
 
-#### 0 👎 - Con
+#### 117 👎 - Con
 
-#### 0 ❓ - Other
+#### 50 ❓ - Other
+Testifying:
+* 💵Rose Feliciano - TechNet
+* Jonathan Pincus - The Nexus of Privacy
+* Ameer Yarbrough - Jovial Diplomats
 
 ### Tue 01/20 01:30 PM - Environment, Energy & Technology (ENET): SB 5984 AI companion chatbots
 #### 232 👍 - Pro

@@ -19,13 +19,14 @@
 ### [HB 2092](/bill/2025-26/hb/2092/) - Passenger rail adv. comm. 👍1  ❓1
 * 👍💵 Trevor Sandison
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓4
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓5
 * ❓ Jason Peterson
 * ❓ Jason Peterson
+* ❓💵 Darcy Huffman
 
-### [HB 2319](/bill/2025-26/hb/2319/) - DD RHC facilities renaming 👍2  
+### [HB 2319](/bill/2025-26/hb/2319/) - DD RHC facilities renaming 👍4  
 
-### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍2  
+### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍3  
 
 ### [HB 2658](/bill/2025-26/hb/2658/) - Mental health coverage 👍1  
 
@@ -53,15 +54,17 @@
 * 👍💵 Aaron Dickson
 * 👍 DARCY HUFFMAN
 
-### [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍2  
+### [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍3  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
 * ❓ Jason Peterson
+* ❓💵 Darcy Huffman
+
+## [SB 6024](/bill/2025-26/sb/6024/) - DD res. service providers 👍1  
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
-* ❓ Jason Peterson
+### [SB 6024](/bill/2023-24/sb/6024/) - DD res. service providers 👍1  
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓ karen Williams

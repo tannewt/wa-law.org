@@ -1,7 +1,7 @@
 # Akin
 ## 2025-26
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍2  
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
 
@@ -41,9 +41,11 @@
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
+
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 
-### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
+### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍2  
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 

@@ -11,11 +11,17 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2737 Commercial shellfish fees
-#### 3 👍 - Pro
+#### 207 👍 - Pro
 Testifying:
 * Evie Fagergren - Calm Cove Oyster Company
 * Kyle Lentz - Chelsea Farms
+* Annie Herrold - Chetlo Harbor Shellfish
+* Marilyn Sheldon - Northern Oyster Company, Inc.
+* 💵Justin Stang - [Pacific Coast Shellfish Growers Association](/org/pacific_coast_shellfish_growers_association/)
 
-#### 0 👎 - Con
+#### 49 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kristin Bettridge - Washington State Department of Health (AVAILABLE FOR QUESTIONS)
+* Lauren Jenks - Washington State Department of Health (AVAILABLE FOR QUESTIONS)

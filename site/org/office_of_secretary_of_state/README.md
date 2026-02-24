@@ -90,6 +90,8 @@
 ### [HB 2572](/bill/2025-26/hb/2572/) - Voting services   ❓1
 * ❓ Shawn Merchant
 
+### [HB 2574](/bill/2025-26/hb/2574/) - Deceased candidates 👍1  
+
 ### [HB 2631](/bill/2025-26/hb/2631/) - Agency customer service   ❓1
 * ❓ Brian Hatfield
 
@@ -132,9 +134,11 @@
 * ❓ Brian Hatfield
 * ❓ Shawn Merchant
 
-### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍2  
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍4  
 * 👍 Sam Reed
 * 👍 Steve Hobbs
+* 👍 Steve Hobbs
+* 👍 Stuart Holmes
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda  👎1 
 * 👎 Steve Hobbs
@@ -145,7 +149,8 @@
 ### [SB 6035](/bill/2025-26/sb/6035/) - Voting services  👎1 
 * 👎 Steve Hobbs
 
-### [SB 6084](/bill/2025-26/sb/6084/) - Voting more than once 👍1  
+### [SB 6084](/bill/2025-26/sb/6084/) - Voting more than once 👍2  
+* 👍 Brian Hatfield
 * 👍 Brian Hatfield
 
 ## [SB 6130](/bill/2025-26/sb/6130/) - National voter reg. day 👍1  

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=ESHB%201295)
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=HB%201295)
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%201295)
 
@@ -16,9 +17,32 @@
 ### Tue 02/24 08:00 AM - Early Learning & K-12 Education (EDU): ESHB 1295 Reading and writing literacy
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 447 👍 - Pro
+Testifying:
+* Julie Wolter
+* Sara Buetow - Decoding Dyslexia WA
+* Gena Vincent - Puyallup School Diatrict
+* Ava Schwesinger - Student
+* Kristi Schwesinger - Washington State PTA
+* Cindy Dupuy
+* Misha Cherniske - Office of Superintendent of Public Instruction
+* Michele Campbell - Seattle Council PTSA
+* Jerome Stephanie Mayoral Armond - Decoding Dyslexia WA
+* Andrew Schwindt - Student Advocate
+* Heather Schwindt - Dyslexia Tutor & Advocate
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Eleanor Valaas
+* Lilah Malik
+* Madeline Edgar
+* Balvina Cortez
+* Jessica Hendrick
+* Pauline Olson
 
-#### 0 👎 - Con
+#### 721 👎 - Con
+Testifying:
+* CRRT, Jennifer Miller - Retired, 40-year Title 1 Reading, LAP & Gen Ed Teacher
+* MPA, CRRT, Rhonda S Stone - Semi-Retired, Part-Time Reading Tutor
+* Ph.D., Dolores "Dee" Tadlock
 
 #### 0 ❓ - Other
 

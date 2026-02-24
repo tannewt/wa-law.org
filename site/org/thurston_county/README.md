@@ -16,6 +16,12 @@
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍2  
 * 👍 Commissioner Carolina Mejia
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
+* 👍 Commissioner Carolina Mejia
+
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
+* ❓ Commissioner Tye Menser
+
 ### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  
 
 ### [HB 2530](/bill/2025-26/hb/2530/) - Aquatics/sports PFD deadline 👍1  
@@ -30,6 +36,12 @@
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍 Commissioner Carolina Mejia
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+* 👍 Commissioner Carolina Mejia
+
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓ Tye Menser
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 

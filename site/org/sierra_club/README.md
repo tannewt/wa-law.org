@@ -77,6 +77,8 @@
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍2  
 * 👍 Ben Avery
 
+### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍1  
+
 ## [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes 👍1  
 * 👍 Ben Avery
 

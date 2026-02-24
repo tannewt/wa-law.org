@@ -22,7 +22,7 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5067 Impaired driving
-#### 25 👍 - Pro
+#### 112 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Tao Sheng Kwan-Gett - Washington Department of Health
@@ -34,8 +34,12 @@ Testifying:
 * Nina Coury - In Memory of Gabriel Coury 2010 - 2023 Killed by an Impaired Driver
 * Shellie Coury - In Memory of Gabriel Coury 2010 - 2023 Killed by an Impaired Driver
 * Coryjo huntley
+* Nathan Olson - Governor's Office
+* Captain Deion Glover - Washington State Patrol
+* Joshua Jackman
+* Karen Messmer
 
-#### 100 👎 - Con
+#### 900 👎 - Con
 Testifying:
 * Karlie Valdez - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * Avery Cesarano
@@ -45,8 +49,16 @@ Testifying:
 * Lena Pond
 * Emily Bourne - Server
 * Hudson Holley - Bartender
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* Tirzah Morrison - Server
+* Sam DeWitt - Brewers Association
+* Destiny Moreno - [Civil Survival](/org/civil_survival/)
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Christa (Teagan) Levine - Okanogan County Prosecutor's Office
+* Teagan Levine - Okanogan County Prosecutor's Office
 
 ### Thu 01/30 04:00 PM - Transportation (TRAN): SSB 5067 Impaired driving
 #### 91 👍 - Pro

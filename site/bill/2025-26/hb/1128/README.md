@@ -17,11 +17,30 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): 2SHB 1128 Child care workforce board
-#### 26 👍 - Pro
+#### 947 👍 - Pro
+Testifying:
+* Amy Tucker
+* Jessica Davis Murillo-Ros
+* Raychel James
+* Sumaiya Iman
+* 💵Erin Haick
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
+* Dora Poqui
+* Jessica Davis Murillo-Ros
 
-#### 0 👎 - Con
+#### 584 👎 - Con
+Testifying:
+* Erin Hayden - Learning Care Group
+* Torrie Amaratunge
+* Margot Gould - KinderCare
+* Laura Murphey - Taylor Tots Childcare Center Inc
+* Elsa Jacobsen - Early Care and Education Consortium (ECEC)
+* 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
+* Annastasia Hunt - ECEAP lead at Taylor Tots Childcare
+* Jenifer Orr
+* Andrea Kolacz - Journey School Lynnwood
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
 
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 1128 Child care workforce board
 #### 1055 👍 - Pro

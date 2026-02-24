@@ -10,9 +10,13 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Transportation (TR): 2SSB 5690 Utility relocation
-#### 0 👍 - Pro
+#### 211 👍 - Pro
+Testifying:
+* Kevin Van De Wege - Thurston PUD
+* Ian Cope - Grays Harbor PUD
+* 💵Bill Clarke - WA PUD Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

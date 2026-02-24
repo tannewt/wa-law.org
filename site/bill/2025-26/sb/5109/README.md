@@ -15,11 +15,12 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Appropriations (APP): SB 5109 Mortgage lending fraud acc.
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Patrick Hinds - King County Prosecuting Attorney's Office
 
-#### 2 👎 - Con
+#### 61 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -4,7 +4,8 @@
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
 * 👎 Patrick Gallagher
 
-### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍4  
+* 👍 Patrick Gallagher
 
 ### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
 

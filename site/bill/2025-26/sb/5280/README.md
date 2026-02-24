@@ -18,11 +18,27 @@
 ### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): ESB 5280 Virtual currency kiosks
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* 💵Paul Dillon
+* Dan Maul
+* Marguerite Ro
+* Tim Schwering - Spokane Policy Department, Criminal Intelligence Unit
+* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
+* Drew Bouton - Washington State Department of Financial Institutions
+* Noel Le - MindCast AI
+* Ben Brysacz - Washington Attorney General's Office
 
-#### 0 👎 - Con
+#### 52 👎 - Con
+Testifying:
+* Christopher Edwards - [Bitcoin Depot](/org/bitcoin_depot/)
+* 💵Amy Harris
+* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Larry Lipka - Coinflip
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): ESB 5280 Virtual currency kiosks
 #### 8 👍 - Pro

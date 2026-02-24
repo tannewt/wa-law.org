@@ -63,7 +63,7 @@
 
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 
-### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍3  
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
@@ -75,7 +75,8 @@
 
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
 
-### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍2  
+* 👍 Lynne Robinson
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
@@ -89,17 +90,18 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing   ❓1
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing   ❓2
+* ❓ Lynne Robinson
 
 ### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
 
-### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍2  
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍2  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
@@ -146,7 +148,7 @@
 
 ### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
 
-### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍2  
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
 
@@ -172,14 +174,17 @@
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
 
-### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
+### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍2  
 
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 ❓1
 * ❓ Diana Hart
+* 👎 Mo Malakoutian
 
-### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍2  
 
 ## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 

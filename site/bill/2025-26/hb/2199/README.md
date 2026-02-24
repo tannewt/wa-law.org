@@ -9,9 +9,14 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 2199 Derelict vessels
-#### 5 👍 - Pro
+#### 199 👍 - Pro
+Testifying:
+* James Weaver - Port of Poulsbo
+* 💵James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Mark Trenary - City of Port Orchard Council Member
+* Commissioner Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

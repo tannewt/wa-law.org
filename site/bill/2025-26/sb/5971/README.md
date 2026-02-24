@@ -14,11 +14,19 @@
 ### Tue 02/24 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5971 Green fertilizer incentives
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 293 👍 - Pro
+Testifying:
+* 💵Seth Worley - Government Affairs Director, UA Plumbers & Steamfitters Local 598
+* Erik Kamrath - Natural Resources Defense Council
+* Dan Holmes - [Atlas Agro](/org/atlas_agro/)
+* Karl Dye - TRIDEC
 
-#### 0 👎 - Con
+#### 77 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Joel Creswell - Washington Department of Ecology
+* Kelly McLain - Washington State Dept. of Agriculture
 
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5971 Green fertilizer incentives
 #### 58 👍 - Pro

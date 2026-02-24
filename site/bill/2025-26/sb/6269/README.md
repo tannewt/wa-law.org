@@ -9,11 +9,15 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Environment & Energy (ENVI): SSB 6269 Definition of motor fuel
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* 💵Kelsey Hulse - Douglas County Public Utility District
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Alison Halpern - Washington State Department of Agriculture
 
 ### Fri 01/30 10:30 AM - Environment, Energy & Technology (ENET): SB 6269 Definition of motor fuel
 #### 10 👍 - Pro

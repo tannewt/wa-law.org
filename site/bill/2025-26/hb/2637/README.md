@@ -11,11 +11,15 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): E2SHB 2637 PRA/personal information
-#### 0 👍 - Pro
+#### 29 👍 - Pro
 
-#### 0 👎 - Con
+#### 820 👎 - Con
+Testifying:
+* Richard Varn - Coalition for Sensible Public Records Access
+* ROBERT McCLURE - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
 
 ### Fri 01/30 08:00 AM - State Government & Tribal Relations (SGOV): HB 2637 PRA/personal information
 #### 55 👍 - Pro

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%206002)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%206002)
 * 02/18/2026 [FOX13](/org/fox13/) - [Lynnwood considers ending contract with Flock cameras | FOX 13 Seattle](https://www.fox13seattle.com/news/lynnwood-ending-contract-flock-cameras#:~:text=Senate%20Bill%206002)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=ESSB%206002)
@@ -43,19 +44,55 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 6002 Driver privacy
-#### 32 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * Genevieve Fain
+* Ann Qazi - None
+* Consuelo Echeverria
+* Chalia Stallings-Ala'ilima - Attorney General Office
+* Nica Rondinelli
+* Genevieve Fain
+* Ted Weinberg - Mercer Island City Council
+* 💵Chester Baldwin - National Parking Association
+* Victor Njogu - FMSGS/WBBA
 
-#### 9 👎 - Con
+#### 361 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Greg Smith
+* Mark McAvoy - [City of Liberty Lake](/org/city_of_liberty_lake/)
 
-#### 4 ❓ - Other
+#### 198 ❓ - Other
 Testifying:
 * LaDon Linde - Yakima County Commissioner
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Meaghan Driscoll
+* Andy Caldwell - Centralia Police Department
+* Jake Parker - Security Industry Association
+* Robert Goetz - Chief of Police, City of Everett
+* Dustin Baunsgard - Spokane County Real Time Crime Center Manager
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* Melissa Beard - Council of Presidents
+* Joe Vinson - City of SeaTac, Councilmember
+* 💵Crystal Leatherman
+* Kyle Moore - [City of Kent](/org/city_of_kent/)
+* Oleksandra Shyshova
+* Trevor Chandler - Flock Safety
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
+* 💵Alasdair Whitney - [Institute for Justice](/org/institute_for_justice/)
+* 💵Alizeh Bhojani - [Legal Voice](/org/legal_voice/)
+* 💵Jaelynn Scott
+* Tee Sannon - ACLU-WA (American Civil Liberties Union of Washington)
+* Adam Schwartz - Electronic Frontier Foundation
+* Aidé Villalobos - OneAmerica
+* 💵Courtney Normand - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* 💵Kaitie Dong - Budget and Policy Center
+* Gabbi Nazari - ProChoice WA
+* 💵Rebekah Gardea - QLaw Foundation of Washington
+* Aide Villalobos - OneAmerica
+* Maya Morales - WA People's Privacy
+* Jonathan Pincus - The Nexus of Privacy
+* Quinn Van Order - DeFlock Lynnwood
 
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 6002 Driver privacy
 #### 2149 👍 - Pro

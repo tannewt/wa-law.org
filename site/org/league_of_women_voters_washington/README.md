@@ -14,6 +14,9 @@
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 * 👍 Lydia Zepeda
 
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+* 👍 Karen Peacey
+
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 * 👍 Lydia Zepeda
 

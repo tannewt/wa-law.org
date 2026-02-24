@@ -19,6 +19,8 @@
 
 ### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
 
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+
 ### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍9  
 * 👍 Stephan Blanford
 * 👍 Stephan Blanford
@@ -43,6 +45,9 @@
 ### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots 👍2  
 * 👍 Max Lau
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓ Soleil Boyd
+
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
 
 ### [HB 2438](/bill/2025-26/hb/2438/) - Early education scholarship 👍1  
@@ -61,6 +66,8 @@
 
 ### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
 
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
+
 ### [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍7  
 * 👍 Stephan Blanford
 * 👍💵 Reid Saaris
@@ -77,19 +84,30 @@
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍2  
 
+### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
+
+### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots 👍1  
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Soleil Boyd
+
 ### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system 👍1  
 * 👍 Soleil Boyd
 
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍2  
 * 👍 Max Lau
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍3  
 * 👍 Anni-Michele Jean-Pierre
+* 👍 Anni-Michele Jean-Pierre
+
+## [SB 6353](/bill/2025-26/sb/6353/) - Working conn. child care  👎1 
+* 👎 Soleil Boyd
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
-* 👍 Anni-Michele Jean-Pierre
+### [SB 6353](/bill/2023-24/sb/6353/) - Working conn. child care  👎1 
+* 👎 Soleil Boyd
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

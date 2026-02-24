@@ -10,9 +10,13 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 6302 Public works/finishing trade
-#### 0 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
+* 💵Jerry Vanderwood - Associated General Contractors
+* 💵Neil Hartman - Washington State Association Of UA Plumbers & Pipefitters
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

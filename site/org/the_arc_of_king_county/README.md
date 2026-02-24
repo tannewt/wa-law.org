@@ -32,7 +32,7 @@
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍2  
 
-### [HB 1295](/bill/2025-26/hb/1295/) - Reading and writing literacy 👍1  
+### [HB 1295](/bill/2025-26/hb/1295/) - Reading and writing literacy 👍2  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
@@ -52,9 +52,10 @@
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
 
-### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
 
-### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍2  
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍4  
+* 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
@@ -67,22 +68,27 @@
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍2  
 
+### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍1  
+
 ### [HB 2227](/bill/2025-26/hb/2227/) - Providing a real estate excise tax exemption for the sale of qualified affordable housing.   ❓1
 
 ### [HB 2230](/bill/2025-26/hb/2230/) - DD res. service providers 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+* ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 
-### [HB 2319](/bill/2025-26/hb/2319/) - DD RHC facilities renaming 👍1  
+### [HB 2319](/bill/2025-26/hb/2319/) - DD RHC facilities renaming 👍2  
 
 ### [HB 2323](/bill/2025-26/hb/2323/) - Traffic stops/blue envelope 👍1  
 
 ### [HB 2337](/bill/2025-26/hb/2337/) - Concerning training requirements for individual providers caring for a family member. 👍1  
 
-### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍1  
+### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍2  
 
 ### [HB 2364](/bill/2025-26/hb/2364/) - Poverty reduction task force   ❓1
 
@@ -100,9 +106,16 @@
 
 ### [HB 2505](/bill/2025-26/hb/2505/) - Adult family home licensure 👍1  
 
-### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports 👍2  
+### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports 👍4  
+* 👍💵 Ramona Hattendorf
+
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
+
+### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care  👎1 
+
+### [HB 2714](/bill/2025-26/hb/2714/) - Food assistance caseload 👍1  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
@@ -173,6 +186,8 @@
 
 ### [SB 5486](/bill/2025-26/sb/5486/) - Motion picture captioning 👍1  
 
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
+
 ### [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍1  
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
@@ -199,24 +214,29 @@
 
 ### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍2  
 
-### [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍1  
+### [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍2  
 
-### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
+### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍2  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 
 ### [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
 
-### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍1 👎2 
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
+
+### [SB 5956](/bill/2025-26/sb/5956/) - AI use/student discipline 👍1  
+
+### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍2 👎2 
 * 👎💵 Ramona Hattendorf
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Ramona Hattendorf
+* 👍💵 Ramona Hattendorf
 
 ### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
 * ❓💵 Ramona Hattendorf
 
-### [SB 6024](/bill/2025-26/sb/6024/) - DD res. service providers 👍1  
+### [SB 6024](/bill/2025-26/sb/6024/) - DD res. service providers 👍2  
 
 ### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
 
@@ -224,7 +244,7 @@
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
 
-### [SB 6070](/bill/2025-26/sb/6070/) - Recovery of missing persons 👍1  
+### [SB 6070](/bill/2025-26/sb/6070/) - Recovery of missing persons 👍2  
 
 ### [SB 6163](/bill/2025-26/sb/6163/) - DD services waiver/budget 👍3  
 * 👍💵 Ramona Hattendorf
@@ -235,13 +255,17 @@
 
 ### [SB 6255](/bill/2025-26/sb/6255/) - Poverty reduction task force   ❓1
 
-### [SB 6268](/bill/2025-26/sb/6268/) - Special ed. complaint record 👍1  
+### [SB 6268](/bill/2025-26/sb/6268/) - Special ed. complaint record 👍2  
 
-## [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment  👎2 
+### [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment  👎2 
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+* 👍💵 Ramona Hattendorf
 
 ## 2023-24
 
-### [SB 6296](/bill/2023-24/sb/6296/) - Involuntary treatment  👎2 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
+* 👍💵 Ramona Hattendorf
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

@@ -11,6 +11,8 @@
 ### [SB 5054](/bill/2025-26/sb/5054/) - Winery tax exemption   ❓1
 * ❓💵 Rowland Thompson
 
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
 
 ### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study  👎1 

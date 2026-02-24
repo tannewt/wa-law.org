@@ -12,7 +12,10 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): SHB 2420 Small works roster limits
-#### 0 👍 - Pro
+#### 29 👍 - Pro
+Testifying:
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* 💵Michael Transue - Mechanical Contractors Association of Western Washington
 
 #### 0 👎 - Con
 

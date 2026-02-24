@@ -3,9 +3,10 @@
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍2  
 
-### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍2  
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍3  
 * 👍 Joe Schiessl
 * 👍 Joe Schiessl
+* 👍 Michael Rizzitiello
 
 ### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission. 👍1  
 
@@ -41,11 +42,13 @@
 
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 
-## [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  
+### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
 
 ## 2023-24
 
-### [SB 6066](/bill/2023-24/sb/6066/) - Crash prevention zones 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
 
 ### [HB 1173](/bill/2023-24/hb/1173/) - Light pollution 👍1  
 

@@ -9,11 +9,11 @@
 
 ## Meetings
 ### Mon 02/23 04:00 PM - Transportation (TRAN): SHB 1823 Transp. improvement board
-Sign up to testify:
+#### 7 👍 - Pro
+Testifying:
+* Ashley Probart - Transportation Improvement Board
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -9,6 +9,12 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SB%206346)
+* 02/23/2026 [The Center Square](/org/the_center_square/) - [WATCH: Former WA AG Rob McKenna says income tax bill 'doesn't pass laugh test' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d436f300-c981-4de4-845c-2c4c6c882abd.html#:~:text=SB%206346)
+* 02/23/2026 [Senate Republicans](/org/senate_republicans/) - [BREAKING: Income tax sets another state record for most unpopular bill ahead of hearing in House Finance Committee - Senate Republican Caucus](https://src.wastateleg.org/blog/breaking-income-tax-sets-another-state-record-unpopular-bill-ahead-hearing-house-finance-committee/#:~:text=Senate%20Bill%206346)
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%206346)
+* 02/22/2026 [The Spokesman-Review](/org/the_spokesman-review/) - [State lawmakers work to keep bipartisan public defense proposals alive](https://www.spokesman.com/stories/2026/feb/22/state-lawmakers-work-to-keep-bipartisan-public-def/#:~:text=proposed%20income%20tax)
+* 02/21/2026 [House Republicans](/org/house_republicans/) - [Let your voice be heard on the state income tax bill | Washington State House Republicans](https://houserepublicans.wa.gov/current/let-your-voice-be-heard-on-the-state-income-tax-bill/#:~:text=Senate%20Bill%206346)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%206346)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 7: Budgets revealed, another cutoff arrives as session hits its stretch run - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/20/this-week-in-the-senate-week-7-budgets-revealed-another-cutoff-arrives-as-session-hits-its-stretch-run/#:~:text=Senate%20Bill%206346)
 * 02/20/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers work to keep bipartisan public defense proposals alive • Washington State Standard](https://washingtonstatestandard.com/2026/02/20/wa-lawmakers-work-to-keep-bipartisan-public-defense-proposals-alive/#:~:text=proposed%20income%20tax)
@@ -58,11 +64,287 @@
 ### Tue 02/24 08:00 AM - Finance (FIN): ESSB 6346 Tax on millionaires
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 12430 👍 - Pro
+Testifying:
+* 💵Kelly Edens - Children's Campaign Fund Action
+* Karen Crowley - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* 💵Giovanni Severino
+* 💵Radu Smintina - School’s Out Washington
+* Fatema Boxwala - Tech4Taxes
+* Eugene Goldman
+* Alan Goodman
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Sarita Loya
+* Shannon Malone
+* MSLS,BSN, RN, Kathryn Lewandowsky
+* 💵Nicole Gomez - AFSCME Council 28/Washington Federation of State Employees
+* Joseph Lachman - Asian Counseling and Referral Service
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
+* Desirée Toliver
+* Celeste Levy
+* Deborah Nissen - WEA-Retired
+* April Sims - [Washington State Labor Council](/org/washington_state_labor_council/)
+* Gleb Psych - Washington Physicians for Social Responsibility
+* 💵Rian Watt - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Hans Mulders - Chelan Hospitality Inc
+* Jabe Blumenthal
+* Maria-Elena Valasquez
+* Alina Swart
+* Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Nathaniel Witherow
+* Ayan Mohamed
+* Gwen Goodfellow
+* Julia Perez
+* David Carney
+* Guadalupe Paredes
+* Tim Mackey
+* Filma Fontanilla
+* Josie Tracy - Washington Physicians for Social Responsibility
+* Yulia Goncharova
+* 💵Courtney Normand - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Gabbi Nazari - Pro Choice Washington
+* 💵Vanessa Saavedra - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* Po Leapai - Washington Low Income Housing Alliance
+* Shaena Garberick
+* Melissa Russell
+* 💵Radu Smintina
+* Silvia Santana Alvarez
+* C'zar Carter-Alexander
+* Ivon Lopez
+* Sam McVeety
+* Ayde Stephanie Torres
+* Lilliane Ballesteros - [Latino Community Fund](/org/latino_community_fund/)
+* Rev Bob Feeny
+* Deb Wilson
+* Erica Hall
+* Lupita Suarez
+* 💵Emily Vyhnanek - Washington State Budget and Policy Center
+* Felipe Rodriguez-Flores
+* Nancy Torres-Corona
+* 💵Joel Ryan
+* Matt Loschen
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* 💵Alex Galeana - [Childrens Campaign Fund](/org/childrens_campaign_fund/)
+* Steven Horn - American Federation of Teachers
+* Theresa Uyeno
+* Alexis Tran
+* Anni-Michele Jean-Pierre - [Children's Alliance](/org/children's_alliance/)
+* Dr. Joyce Del Rosario - [Faith Action Network](/org/faith_action_network/)
+* Amy Roark
+* Diane Evans
+* Jessica Silver
+* Girard Montejo-Thompson
+* 💵Mia Shigemura - Washington State Budget & Policy Center
+* Tatiana Fisenko
+* Debby Nissen
+* Natalie Tinejero
+* Ziukov Roman
+* Anya Lewin - Washington Physicians for Social Responsibility
+* 💵Jacqui Cain - AFT Washington
+* Martha Delgado
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Genevieve Stokes - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* Jill Rock
+* Joshua Moore
+* Nora Quan
+* Shelly Robbins - Parents Organizing for Welfare and Economic Rights
+* Interpreter - Elena Interpreter - McGivern - Russian Interpreter
+* Lindsey Schromen-Wawrin - [Firelands Workers United / Trabajadores Unidos](/org/firelands_workers_united_/_trabajadores_unidos/)
+* Bennett Haselton
 
-#### 0 👎 - Con
+#### 115671 👎 - Con
+Testifying:
+* Anthony Mixer - Citizen Volunteer Lobbyist
+* Anna Burt
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* Josh Johnson
+* Britney Inglis
+* Eric Lundberg
+* Tim Eyman - Initiative Activist
+* Carla Wehrmann
+* Eric Pratt - America
+* Laurie Layne
+* Victoria Gibson-Creach
+* Constance Nelson
+* Steve Gordon - Concerned Taxpayers of WA State
+* randy berry
+* Jeffrey Pittman
+* Sam Spiegelman - Citizen Action Defense Fund
+* Ryan Frost - Washington Policy Center
+* jami lyle
+* Sarah Akey
+* Rob McKenna - Orrick
+* DANIEL PHILPOTT
+* Michael McKinley
+* Amy Grassman
+* Russell Leach
+* Ron Arp - Identity Clark County
+* Scott Arnone
+* Brent Frei - TerraClear
+* Lois Cook - Phone Guys LLC
+* Lisa Hoffman
+* Bill Burris
+* Wallace Kost
+* Rhonda Haupt
+* Daniel Haupt
+* Claude Pierret
+* Claude Pierret
+* Joshua Robinson
+* Jeff Perrault - Perrault Farms Inc.
+* Joseph Brucker
+* Brett Ferullo - Northwest Construction, Inc. (Member)
+* 💵Michele Willms - Associated General Contractors (AGC)
+* Ryan Likkel - WRS
+* Sherry Harris - Ergosync Engineering
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Jessica Xie
+* John Reginato
+* Lisa Olson
+* Saad Alkhuri
+* Mary Ziegler
+* Michael Woody - Visit Seattle
+* Thomas Davy
+* Mark Bender - Concerned citizens of Steilacoom
+* Kim Buonocore
+* Gloria Spino
+* Corey Mattis
+* Patty Goodrich
+* Katie Kettenton
+* Hanna StewartLonghurst
+* Mike Norris - 19629 10th dr se
+* Jonathan Lawton - Valley Fireplace
+* Amy Gelinas
+* John P Mullally III
+* Arthur Crum
+* Patricia Clark
+* Janell Johns
+* Len Zarelli
+* David Honsinger
+* Matthew Harbst
+* Tim McMonigle
+* Richard Graham
+* Michael Weatherman
+* Richard Lobbestael
+* Erin Smith
+* Daniel Smith
+* Colleen Wise
+* Tammy Smith
+* Dawn White
+* Wyntr Close
+* Russell Duvall - 118 Monte Brady Rd
+* SERGIU NICHIFOREAC
+* Richard O’Neill
+* Denise Ogee
+* Katherine Heitzman
+* Jerry Heitzman
+* Mary Frances King
+* Sunil Srivastava
+* Allen Aplass
+* Ashley Passino
+* Elisabeth Pyper
+* Michelle B
+* Karen Pooley - Washington Homeowners, LLC
+* Vikki Dawes
+* Galina Keller
+* Kevin Berdan
+* Dan Jennings
+* Marlys Bedlington
+* Linda Dunaway
+* Steve Hanson
+* Carol Beatty - N/A
+* Carol Beatty - N/A
+* Gordon Patterson
+* Todd Myers - Washington Policy Center
+* Katie Day
+* Tim Linquist
+* Carl Conn
+* Constance Martin
+* XIN HAO TIAN
+* Ronald "Doc" Halliday - Owner of Preferred Craftsman LLC
+* Shawndi Jurgens
+* Andrew Metcalfe
+* Liman Zhuang
+* Cheng Zhang
+* June Kline
+* ralph kline - investor
+* Xiaopei Zhang
+* Karl Rufener
+* Dan Farrer
+* Todd Snarr
+* Melissa Rodriguez
+* Jessie Chen
+* Arteom Pisarchuk
+* Sarah Garriott
+* Stephen Spencer
+* Jason Weber
+* Dianne Espenson
+* Nanning Cao
+* Adrianne Jones
+* Christopher Elder - A concerned, citizen
+* Gordon McLean - n/a
+* Donald Weaver
+* Anita Sanders
+* Richard Sanders
+* Sergey Chub
+* Danielle Abraham - Independent
+* Matthew Dekerrie
+* Rebecca Serrano
+* James Chu
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Reese Copeland
+* Zak Kubin - [Americans for Prosperity](/org/americans_for_prosperity/)
+* Tim Eyman - Initiative Activist
+* Rick McGuire
+* Ian Hunter
+* Tracy Kaptein
+* TIM KAPTEIN
+* yan shen
+* MARCUS CARTER - Puget Sound Patriots
+* Wayne Lonngren - None.
+* Xiuhua Xia
+* Linda HISEY
+* Hanzhi Wang
+* Hohenheim Rackham
+* Dean Shriner
+* Mike Sotelo - Ethnic Chamber of Commerce Coalition
+* Clyde E Sonnenberg - Sonnenbergs Market
+* Lawrence Gu - 10902 177th Ave CT E
+* George Moyer
+* David Mirous
+* Zhiming Yu
+* Kan Qiu - American Coalition for Equality
+* Li Lowry
+* Yinghong Song
+* Liping Xu
+* Wenming Huang
+* Joanna Morefield
+* Gabby Sun
+* Yingzhang Chen
+* Feng Guo
+* Linda Yang
+* Richard Vermeers
+* Jay Wang
+* Changhua Wu
+* Flora Fei
+* Jian Feng
+* Zhou Fang
+* Yu Chen
+* Xin Li
+* Linda Aplass
 
-#### 0 ❓ - Other
+#### 389 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Sean Graham - Washington State Medical Association
+* Megan Larkin - Adv Director, Washington State PTA
+* 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Andrew Morris - NFL Players Association
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Gary M. Busch
+* Xiaojian Chen
+* Albert Tripp - [City of Airway Heights](/org/city_of_airway_heights/)
 
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SB 6346 Tax on millionaires
 #### 19169 👍 - Pro

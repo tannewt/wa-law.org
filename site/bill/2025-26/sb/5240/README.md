@@ -12,14 +12,15 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SSB 5240 Anaphylaxis med. in schools
-#### 0 👍 - Pro
+#### 172 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Erica Hallock - School Nurse Organization of Washington
 * Taylor Mason - School Nurse Organization of Washington
+* Suzie Hanson - WA Federation of Independent Schools
 
 ### Wed 02/11 08:00 AM - Education (ED): SSB 5240 Anaphylaxis med. in schools
 #### 1 👍 - Pro

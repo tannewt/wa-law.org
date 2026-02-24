@@ -15,11 +15,20 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 2416 Waste to energy facilities
-#### 0 👍 - Pro
+#### 212 👍 - Pro
+Testifying:
+* Chris Averyt - [City of Spokane](/org/city_of_spokane/)
+* James Tieken - AFSCME Council 2 County and City Employees Vice President
+* Lisa Brown - Mayor, City of Spokane
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
+* Taylor Birdtail - The Lands Council
 
-#### 0 👎 - Con
+#### 552 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joel Creswell - Washington Department of Ecology
 
 ### Tue 01/20 04:00 PM - Environment & Energy (ENVI): HB 2416 Waste to energy facilities
 #### 278 👍 - Pro

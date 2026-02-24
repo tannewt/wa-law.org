@@ -9,9 +9,11 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 6009 Administrative appeals
-#### 0 👍 - Pro
+#### 58 👍 - Pro
+Testifying:
+* Bill Bowman - Court of Appeals
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

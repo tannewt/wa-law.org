@@ -67,8 +67,9 @@
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  
 * 👍 Andrew Villeneuve
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
 * ❓ Andrew Villeneuve
+* ❓ Seth Boun
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 * 👍 Andrew Villeneuve
@@ -132,6 +133,9 @@
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
 * 👍 Andrew Villeneuve
 
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+* 👍 Cassie Clayton
+
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Andrew Villeneuve
 
@@ -146,12 +150,14 @@
 ### [SB 6101](/bill/2025-26/sb/6101/) - Coroner appointment 👍1  
 * 👍 Cassie Clayton
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍3  
+* 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍3  
+* 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  

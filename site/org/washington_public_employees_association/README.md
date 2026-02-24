@@ -8,7 +8,7 @@
 
 ### [HB 1068](/bill/2025-26/hb/1068/) - DOC WMS employee arbitration 👍1  
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍2  
 
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers 👍2  
 
@@ -52,10 +52,11 @@
 
 ### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍3  
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍4  
+* 👍💵 Seamus Petrie
 * 👍💵 Seamus Petrie
 
-### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍2  
+### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍4  
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
 
@@ -90,20 +91,23 @@
 ### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention 👍1  
 * 👍💵 Seamus Petrie
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Seamus Petrie
+* 👍💵 Sam Tinsley
 
 ### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
 
 ### [HB 2309](/bill/2025-26/hb/2309/) - Reducing barriers to state employment by eliminating postgraduate degree requirements that are unnecessary. 👍1  
 
-### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍3  
 
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
 
 ### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation 👍1  
 
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
+
+### [HB 2472](/bill/2025-26/hb/2472/) - Fire sprinkler work 👍2  
 
 ### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing 👍1  
 
@@ -186,8 +190,10 @@
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  ❓2
 * ❓💵 Seamus Petrie
+* ❓ Brady Dier
+* 👍💵 Seamus Petrie
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
 
@@ -202,11 +208,13 @@
 
 ### [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍3  
+
+## [SB 6353](/bill/2025-26/sb/6353/) - Working conn. child care  👎2 
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6353](/bill/2023-24/sb/6353/) - Working conn. child care  👎2 
 
 ### [HB 1007](/bill/2023-24/hb/1007/) - Military service credit 👍1  
 

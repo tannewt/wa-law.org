@@ -15,9 +15,11 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SSB 5841 Financial aid applications
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* 💵Sienna Jarrard
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

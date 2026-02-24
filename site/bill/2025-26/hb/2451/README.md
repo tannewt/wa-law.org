@@ -11,9 +11,14 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 2451 Local tax increment fin.
-#### 0 👍 - Pro
+#### 82 👍 - Pro
+Testifying:
+* Sean Eagan - The Port of Tacoma
+* Dylan Doty - Washington Fire Chiefs Association
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Travis Dutton - Washington State Association of Counties / Policy Coordinator
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

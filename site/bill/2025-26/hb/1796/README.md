@@ -14,15 +14,19 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Early Learning & K-12 Education (EDU): HB 1796 School construction debt
-#### 89 👍 - Pro
+#### 172 👍 - Pro
 Testifying:
 * Jon Holmen - Lake Washington School District
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 * 💵Grace Yuan - [School Alliance](/org/school_alliance/)
+* Lisa Guthrie - Lake Washington School District Board of Directors
+* Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 1 👎 - Con
+#### 1276 👎 - Con
+Testifying:
+* Eric Lundberg
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Fri 04/04 01:30 PM - Ways & Means (WM): HB 1796 School construction debt
 #### 11 👍 - Pro

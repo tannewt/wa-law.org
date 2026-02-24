@@ -8,7 +8,9 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): SB 5988 Opioid treatment prg. fees
-#### 1 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* 💵Megan Veith - Washington State Department of Health
 
 #### 0 👎 - Con
 

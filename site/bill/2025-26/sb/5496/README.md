@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=E2SSB%205496)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate%20Bill%205496)
 * 10/05/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Legislature’s housing leaders outline vision for 2026](https://gorgenewscenter.com/2025/10/05/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=prohibit%20businesses%20that%20have%20an%20interest%20in%20more%20than%2050%20single-family%20homes)
 * 10/03/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature’s housing leaders outline vision for 2026 • Washington State Standard](https://washingtonstatestandard.com/2025/10/03/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=prohibit%20businesses%20that%20have%20an%20interest%20in%20more%20than%2050%20single-family%20homes)
@@ -24,13 +25,28 @@
 
 ## Meetings
 ### Mon 02/23 01:30 PM - Housing (HOUS): E2SSB 5496 Home buying by entities
-Sign up to testify:
+#### 268 👍 - Pro
+Testifying:
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Kathleen Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
+* 💵Elizabeth Perez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
+* Joe Kunzler - I Love Housing and Senator Bateman Rocks
+* Steve Schaefer
+* Lauren McGowan - LISC Puget Sound
+* Matt Hoffman
 
-#### 0 👍 - Pro
+#### 209 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Adrianne Todman - National Rental Home Council
+* 💵Katherine Mahoney - Tricon Residential
+* Ralph Kline - investor
+* 💵Morgan Irwin - AWB
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Blake Lyon - City of Bellingham, WA
 
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5496 Home buying by entities
 #### 329 👍 - Pro

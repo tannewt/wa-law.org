@@ -13,8 +13,23 @@
 ### Wed 02/25 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2735 Family law cases
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 188 👍 - Pro
+Testifying:
+* Bogdan Lendel
+* Jack Loop
+* Sean Kuhlmeyer
+* Geoffrey Thomas
+* Lauren Ryan
+* Darci Adams
+* Jim Clark - National Parents Organization
+* Daniel Sturtevant - The Due Process Project
+* Shannon Draughon - The Due Process Project
+* Jennifer Solis
+* Cyndy Lystad
+* Kyle Spencer - Military Father's/Mens's Rights Advocate
+* David Zager
+* Alan Adams
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

@@ -27,10 +27,11 @@
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍3  
 * 👍💵 Guillermo Rogel
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍7  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍11  
 * 👍 Cameron Steinback
 * 👍💵 Guillermo Rogel
 * 👍 Aqsa Mengal
+* 👍💵 Guillermo Rogel
 * 👍💵 Guillermo Rogel
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍2  
@@ -42,7 +43,8 @@
 
 ### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓3
+* ❓ Nancy Canales
 * ❓ Nancy Canales
 * ❓ Nancy Canales
 
@@ -51,8 +53,9 @@
 
 ### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  ❓1
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  ❓1
 * ❓ Cameron Steinback
+* 👍💵 Guillermo Rogel
 
 ### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍1  
 
@@ -88,6 +91,8 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
+
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Guillermo Rogel
 
@@ -97,15 +102,18 @@
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities   ❓1
 * ❓💵 Guillermo Rogel
 
-### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍2  
+### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍4  
 
 ### [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed   ❓1
+* ❓💵 Guillermo Rogel
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

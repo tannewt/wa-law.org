@@ -38,9 +38,12 @@
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
 
-### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍1  
+### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍2  
 
-### [HB 2317](/bill/2025-26/hb/2317/) - Concerning early learning program licensing requirements. 👍1  
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓ Rob Colombini
+
+### [HB 2317](/bill/2025-26/hb/2317/) - Concerning early learning program licensing requirements. 👍2  
 
 ### [HB 2318](/bill/2025-26/hb/2318/) - Adjusting the early achievers quality improvement awards. 👍1  
 
@@ -63,7 +66,8 @@
 
 ### [SB 5310](/bill/2025-26/sb/5310/) - Child care subsidy rates  👎1 
 
-### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍2  
+* 👍💵 Jennifer Ziegler
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍4  
 
@@ -92,15 +96,23 @@
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍2  
 
-### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
+### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍2  
 
 ### [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Rob Colombini
+
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+* 👍 Genevieve Stokes
+
+## [SB 6353](/bill/2025-26/sb/6353/) - Working conn. child care  👎1 
+* 👎 Rob Colombini
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6353](/bill/2023-24/sb/6353/) - Working conn. child care  👎1 
+* 👎 Rob Colombini
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 

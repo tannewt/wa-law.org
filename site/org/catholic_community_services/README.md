@@ -31,6 +31,8 @@
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  
 * 👍 Peter Nazzal
 
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
+
 ### [HB 1897](/bill/2025-26/hb/1897/) - Community safety/liability 👍2  
 * 👍💵 Donna Christensen
 
@@ -46,8 +48,13 @@
 
 ### [HB 2133](/bill/2025-26/hb/2133/) - Senior citizen centers/tax 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍11  
+### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍15  
 * 👍 Dan Wise
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
+* 👎 Neil Calmjoy
 
 ### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  
 
@@ -91,6 +98,10 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
+### [SB 6019](/bill/2025-26/sb/6019/) - Home care rates 👍2  
+
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
@@ -98,11 +109,13 @@
 
 ### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍2  
 
-## [SB 6220](/bill/2025-26/sb/6220/) - Nonprofit housing providers 👍2  
+### [SB 6220](/bill/2025-26/sb/6220/) - Nonprofit housing providers 👍2  
+
+## [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍2  
 
 ## 2023-24
 
-### [SB 6220](/bill/2023-24/sb/6220/) - Nonprofit housing providers 👍2  
+### [SB 6286](/bill/2023-24/sb/6286/) - Detention facility fines/DOH 👍2  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

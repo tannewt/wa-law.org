@@ -22,7 +22,12 @@
 ### Fri 02/27 01:30 PM - Transportation (TRAN): 2SHB 1923 Passenger-only ferries
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 167 👍 - Pro
+Testifying:
+* Dylan Doty - [Kitsap Transit](/org/kitsap_transit/)
+* Patrick Gallagher - [Marine Exchange of Puget Sound](/org/marine_exchange_of_puget_sound/)
+* Glen Bachman - [Port of Everett](/org/port_of_everett/)
+* Anthony Mixer - Citizen Volunteer Lobbyist
 
 #### 0 👎 - Con
 

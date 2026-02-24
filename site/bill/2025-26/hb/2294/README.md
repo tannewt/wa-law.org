@@ -18,11 +18,15 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): EHB 2294 Use restrictions/food, med. 
-#### 0 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 
-#### 0 👎 - Con
+#### 126 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Brandon Houskeeper - NW Grocery Retail Association
 
 ### Wed 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 2294 Use restrictions/food, med. 
 #### 11 👍 - Pro

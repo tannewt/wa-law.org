@@ -78,10 +78,13 @@
 
 ### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍1  
 
-### [SB 6222](/bill/2025-26/sb/6222/) - Students/surplus technology 👍1  
+### [SB 6222](/bill/2025-26/sb/6222/) - Students/surplus technology 👍2  
 * 👍 Jason Golec
+* 👍 Martin Turney
 
 ### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+
+### [SB 6351](/bill/2025-26/sb/6351/) - School sales tax exemptions 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  ❓1
 * ❓ Harlan Gallinger

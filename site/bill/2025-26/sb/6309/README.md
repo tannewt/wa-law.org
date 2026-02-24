@@ -14,11 +14,13 @@
 ### Tue 02/24 10:30 AM - Local Government (LG): SSB 6309 High cap. transit permits
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 67 👍 - Pro
+Testifying:
+* Kristina Walker - Sound Transit
 
-#### 0 👎 - Con
+#### 945 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6309 High cap. transit permits
 #### 9 👍 - Pro

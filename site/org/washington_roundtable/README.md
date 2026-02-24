@@ -61,11 +61,13 @@
 * 👍💵 Neil Strege
 * 👍💵 Neil Strege
 
-## [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
+### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍2  
+
+## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
 
 ## 2023-24
 
-### [SB 6148](/bill/2023-24/sb/6148/) - RTA bond issues maximum term 👍1  
+### [SB 6352](/bill/2023-24/sb/6352/) - Transportation resources 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 

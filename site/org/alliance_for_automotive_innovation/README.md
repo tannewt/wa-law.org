@@ -26,13 +26,16 @@
 
 ### [SB 5721](/bill/2025-26/sb/5721/) - Automobile insurance 👍1  
 
-## [SB 5811](/bill/2025-26/sb/5811/) - Zero-emission vehicle prg.   ❓1
+### [SB 5811](/bill/2025-26/sb/5811/) - Zero-emission vehicle prg.   ❓1
 * ❓💵 Brandon Houskeeper
+
+## [SB 6354](/bill/2025-26/sb/6354/) - Electric vehicles  👎1 
+* 👎 Curt Augustine
 
 ## 2023-24
 
-### [SB 5811](/bill/2023-24/sb/5811/) - Zero-emission vehicle prg.   ❓1
-* ❓💵 Brandon Houskeeper
+### [SB 6354](/bill/2023-24/sb/6354/) - Electric vehicles  👎1 
+* 👎 Curt Augustine
 
 ### [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
 

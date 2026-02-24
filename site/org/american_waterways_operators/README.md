@@ -7,7 +7,7 @@
 * 👎 Peter Schrappen
 * 👎 Peter Schrappen
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
 
 ## [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
 

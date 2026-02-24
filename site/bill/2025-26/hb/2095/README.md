@@ -14,13 +14,26 @@
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Law & Justice (LAW): ESHB 2095 Public way vulnerable users 
-Sign up to testify:
+#### 319 👍 - Pro
+Testifying:
+* Holden Ringer
+* Bob Anderton - Washington Bike Law
+* Rita Hulsman
+* Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
+* Tanya English
+* Annemarie Dooley - WA Physicians for Social Responsibility
 
-#### 0 👍 - Pro
+#### 241 👎 - Con
+Testifying:
+* Kyle Moore - [City of Kent](/org/city_of_kent/)
+* Kris Tefft - Washington Liability Reform Coalition
+* Michael Rhodes - Washington Defense Trial Lawyers Association
+* Alison Turnbull
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Paul Graves - [Washington Trucking Association](/org/washington_trucking_association/)
 
 ### Wed 01/14 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2095 Public way vulnerable users 
 #### 386 👍 - Pro

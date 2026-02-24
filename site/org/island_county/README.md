@@ -31,11 +31,15 @@
 
 ### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
 
-## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
+
+## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
 
 ## 2023-24
 
-### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍1  
+### [SB 6352](/bill/2023-24/sb/6352/) - Transportation resources 👍1  
 
 ### [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 

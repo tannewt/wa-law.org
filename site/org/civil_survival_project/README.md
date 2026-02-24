@@ -31,6 +31,10 @@
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍1  
+
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
@@ -39,7 +43,9 @@
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍3  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
+
+### [HB 2333](/bill/2025-26/hb/2333/) - Political violence 👍1  
 
 ### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎1 
 

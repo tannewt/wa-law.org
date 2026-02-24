@@ -8,9 +8,14 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Labor & Workplace Standards (LAWS): SB 6136 Industrial insurance rates
-#### 0 👍 - Pro
+#### 155 👍 - Pro
+Testifying:
+* 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Mike Ennis - Building Industry Association of Washington (BIAW)
+* Jerry VanderWood - Associated General Contractors
+* Kris Tefft - Washington Self-Insurers Association
 
-#### 0 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other
 

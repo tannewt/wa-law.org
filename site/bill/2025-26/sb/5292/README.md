@@ -19,11 +19,16 @@
 ### Tue 02/24 10:30 AM - Labor & Workplace Standards (LAWS): 2SSB 5292 Family & medical leave rates
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 57 👍 - Pro
+Testifying:
+* 💵Maggie Humphreys - MomsRising
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 👎 - Con
+#### 119 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Elizabeth New - Washington Policy Center
 
 ### Mon 02/02 04:00 PM - Ways & Means (WM): 2SSB 5292 Family & medical leave rates
 #### 96 👍 - Pro

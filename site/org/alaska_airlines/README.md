@@ -20,11 +20,15 @@
 ### [SB 5652](/bill/2025-26/sb/5652/) - Environment/port districts  👎2 
 * 👎 Alethia Miller
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
+
+## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources   ❓1
+* ❓ Alethia Miller
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
+### [SB 6352](/bill/2023-24/sb/6352/) - Transportation resources   ❓1
+* ❓ Alethia Miller
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 

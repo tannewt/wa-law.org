@@ -28,7 +28,9 @@
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
-### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
+
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍2  
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 
@@ -44,15 +46,20 @@
 
 ### [HB 2376](/bill/2025-26/hb/2376/) - Property tax 👍1  
 
+### [HB 2445](/bill/2025-26/hb/2445/) - Probate 👍1  
+
 ### [HB 2512](/bill/2025-26/hb/2512/) - Real estate/exclusive market 👍1  
+
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍💵 Denise Rodriguez
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 
-### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍5  
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍7  
 * 👍💵 Denise Rodriguez
+* 👍💵 Elizabeth Perez
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
@@ -79,7 +86,7 @@
 
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍2  
 
-### [SB 6091](/bill/2025-26/sb/6091/) - Real estate/exclusive market 👍1  
+### [SB 6091](/bill/2025-26/sb/6091/) - Real estate/exclusive market 👍3  
 
 ### [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍2  
 

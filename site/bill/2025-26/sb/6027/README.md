@@ -17,11 +17,18 @@
 ### Thu 02/26 08:00 AM - Finance (FIN): E2SSB 6027 Affordable housing funding
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 216 👍 - Pro
+Testifying:
+* 💵Jason Gauthier - Pierce County and the South Sound Housing Affordability Partners
+* Joe McDermott - State Relations Director | King County
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Sarah Dickmeyer - [Plymouth Housing Group](/org/plymouth_housing_group/)
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Councilmember Megan Dunn - Snohomish County
 
-#### 0 👎 - Con
+#### 40 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 6027 Affordable housing funding
 #### 255 👍 - Pro

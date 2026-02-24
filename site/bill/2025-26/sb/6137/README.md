@@ -11,11 +11,17 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SB 6137 Regulated sports wagering
-#### 0 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* Yale Rowe - Emerald Queen Casino, GM
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Connor Haggerty - Washington State University
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
 
 ### Thu 01/22 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6137 Regulated sports wagering
 #### 113 👍 - Pro

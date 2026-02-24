@@ -9,7 +9,12 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SSB 6268 Special ed. complaint record
-#### 0 👍 - Pro
+#### 39 👍 - Pro
+Testifying:
+* Julie Gunter
+* Katherine George
+* Colette Weeks - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
+* Amara Oden
 
 #### 0 👎 - Con
 

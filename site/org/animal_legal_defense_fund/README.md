@@ -39,7 +39,8 @@
 ### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍2  
 * 👍 Cat Kelly
 
-### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍4  
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍5  
+* 👍 Cat Kelly
 * 👍 Cat Kelly
 
 ## [SB 5960](/bill/2025-26/sb/5960/) - Ungulate populations  👎1 

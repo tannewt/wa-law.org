@@ -28,7 +28,7 @@
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences  👎1 
 * 👎💵 Brad Tower
 
-### [HB 2452](/bill/2025-26/hb/2452/) - Rent increase notice service 👍1  
+### [HB 2452](/bill/2025-26/hb/2452/) - Rent increase notice service 👍2  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎1 
 * 👎💵 Brad Tower

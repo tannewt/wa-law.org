@@ -11,9 +11,14 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5957 Homeless youth committee
-#### 16 👍 - Pro
+#### 247 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
+* Erica Limon-Trefielo
+* 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
+* Kerra Bower - Raze Early Learning Development Center
+* Stephaine Courtney - Shades of Motherhood Network
+* Betsy Williams - Take Up the Cause NW
 
 #### 0 👎 - Con
 

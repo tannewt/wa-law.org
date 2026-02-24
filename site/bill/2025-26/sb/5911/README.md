@@ -12,11 +12,19 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5911 DCYF/financial stability
-#### 2 👍 - Pro
+#### 74 👍 - Pro
+Testifying:
+* Kim Justice - Partners for Our Children
+* Zanyah Coleman - Youth-Action Coalition
+* 💵Arthur Longworth - TeamChild
+* Kat Lohman - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Miranda Calmjoy - WA State Board of Health
 
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5911 DCYF/financial stability
 #### 70 👍 - Pro

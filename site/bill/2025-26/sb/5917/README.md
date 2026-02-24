@@ -18,9 +18,18 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): SSB 5917 Abortion medications
-#### 1 👍 - Pro
+#### 379 👍 - Pro
+Testifying:
+* Samantha Grono - Washington State Women's Commission
+* Gabbi Nazari - Pro-Choice Washington
+* Dr. Zoe Taylor
 
-#### 6 👎 - Con
+#### 1544 👎 - Con
+Testifying:
+* Raquel Mendoza
+* Eric Lundberg
+* Theresa Schrempp
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 0 ❓ - Other
 

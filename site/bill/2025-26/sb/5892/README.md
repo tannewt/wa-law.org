@@ -22,9 +22,12 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - State Government & Tribal Relations (SGOV): SB 5892 Voter registration database
-#### 272 👍 - Pro
+#### 462 👍 - Pro
+Testifying:
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 6 👎 - Con
+#### 1259 👎 - Con
 Testifying:
 * Laurie Layne
 

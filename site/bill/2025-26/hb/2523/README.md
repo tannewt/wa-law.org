@@ -17,11 +17,14 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2523 Community reinvestment prg.
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 34 👍 - Pro
+Testifying:
+* Paula Fillmore-Sardinas - WBBA (WA Build Black Alliance)
+* Caitlein Ryan - THE CANNABIS ALLIANCE
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2523 Community reinvestment prg.
 #### 87 👍 - Pro

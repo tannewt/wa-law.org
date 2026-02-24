@@ -9,7 +9,7 @@
 
 ## Meetings
 ### Mon 02/16 08:30 AM - State Government & Elections (SGE): SHB 2411 Shared leave
-#### 184 👍 - Pro
+#### 226 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 * Jonathan Peebles - Union Member SEIU 925
@@ -18,9 +18,11 @@ Testifying:
 * Mike Yestramski - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Patrick Stickney - WA Office of Equity
 
-#### 678 👎 - Con
+#### 1070 👎 - Con
+Testifying:
+* Eric Lundberg
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2411 Shared leave
 #### 44 👍 - Pro

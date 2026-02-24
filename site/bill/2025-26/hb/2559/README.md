@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/21/2026 [House Republicans](/org/house_republicans/) - [Let your voice be heard on the state income tax bill | Washington State House Republicans](https://houserepublicans.wa.gov/current/let-your-voice-be-heard-on-the-state-income-tax-bill/#:~:text=House%20Bill%202559)
 * 02/11/2026 [Washington State Standard](/org/washington_state_standard/) - [More dead bills stack up in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/10/more-dead-bills-stack-up-in-wa-legislature/#:~:text=House%20Bill%202559)
 * 01/23/2026 [KUOW](/org/kuow/) - [KUOW - Tax on short-term rentals like Airbnb again under discussion in WA](https://www.kuow.org/stories/tax-on-short-term-rentals-like-airbnb-again-under-discussion-in-wa#:~:text=House%20Bill%202559)
 * 01/21/2026 [The Washington Observer](/org/the_washington_observer/) - [A progressive bid to limit a less-useful initiative process](https://washingtonobserver.substack.com/p/a-progressive-bid-to-limit-a-less#:~:text=House%20Bill%202559)

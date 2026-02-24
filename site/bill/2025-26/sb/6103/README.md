@@ -11,7 +11,10 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Appropriations (APP): SB 6103 Rural hospital payments
-#### 28 👍 - Pro
+#### 222 👍 - Pro
+Testifying:
+* Todd Nida - East Adams Rural Health
+* 💵Lisa Thatcher - Washington State Hospital Association
 
 #### 0 👎 - Con
 

@@ -20,21 +20,27 @@
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
 
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
+
 ### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍5  
 
-### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
+### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍2  
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍3  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍4  
+* 👍 Council Member Kitty Klitzke
 * 👍 Council Member Kitty Klitzke
 
 ### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍2  
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍4  
+* 👍 Chris Averyt
 * 👍 Chris Averyt
 
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
+### [HB 2532](/bill/2025-26/hb/2532/) - Nitrous oxide sale 👍1  
 
 ### [HB 2722](/bill/2025-26/hb/2722/) - Vehicle fees/maximum weight 👍1  
 * 👍 Jon Snyder
@@ -80,6 +86,9 @@
 * 👍💵 Paul Dillon
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
+
+### [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants 👍1  
+* 👍 Kate Telis
 
 ### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
 * 👍 Jon Snyder

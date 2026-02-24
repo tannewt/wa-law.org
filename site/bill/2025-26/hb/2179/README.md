@@ -10,7 +10,9 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): EHB 2179 Port workers PERS membership
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* 💵James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 0 👎 - Con
 

@@ -79,7 +79,7 @@
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
-### [HB 1823](/bill/2025-26/hb/1823/) - Transp. improvement board 👍1  
+### [HB 1823](/bill/2025-26/hb/1823/) - Transp. improvement board 👍2  
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
@@ -101,7 +101,7 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  ❓1
 
-### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users   👎1 
+### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users   👎2 
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 
@@ -109,13 +109,13 @@
 
 ### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority  👎2 
 
-### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
+### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍2  
 
 ### [HB 2168](/bill/2025-26/hb/2168/) - Overdose mapping information 👍1  
 
 ### [HB 2192](/bill/2025-26/hb/2192/) - Roadway fatalities 👍1  
 
-### [HB 2203](/bill/2025-26/hb/2203/) - Interference with emergency  👎1 
+### [HB 2203](/bill/2025-26/hb/2203/) - Interference with emergency 👍1 👎1 
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
@@ -123,12 +123,15 @@
 
 ### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎2 
 * 👎 Gloria Mantz
+* 👎 Virginia Clough
 
 ### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
 
-### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍2  
+
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
 
 ### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving 👍1  
 
@@ -150,15 +153,17 @@
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎3 
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎4 
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎2 
 
-### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍2  
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger. 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎2 
+
+### [SB 5169](/bill/2025-26/sb/5169/) - Testimony of children 👍1  
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎1 ❓1
 
@@ -175,9 +180,11 @@
 
 ### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍2  
 
+### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
+
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎3 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎4 
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 
@@ -199,13 +206,15 @@
 
 ### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave  👎1 
 
+### [SB 5552](/bill/2025-26/sb/5552/) - Kit homes/building codes 👍1  
+
 ### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
 
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management plans 👍2  
 
 ### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
 
-### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.   ❓2
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.   ❓3
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development   ❓1
 
@@ -213,7 +222,7 @@
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓2
 
-### [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
+### [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍2  
 
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎2 
 
@@ -223,17 +232,19 @@
 
 ### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. 👍1  
 
-### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
+### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍2  
 
-### [SB 5890](/bill/2025-26/sb/5890/) - Reckless driving, speed 👍1  
+### [SB 5890](/bill/2025-26/sb/5890/) - Reckless driving, speed 👍2  
 
-### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍2  
 
-### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍1  
+### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers  👎1 
+
+### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍2  
 
 ### [SB 5934](/bill/2025-26/sb/5934/) - Postconviction DNA testing  👎1 
 
-### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
+### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍2  
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
@@ -241,9 +252,9 @@
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders  👎1 
 
-### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍2  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎2 
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎3 
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓1
 
@@ -251,7 +262,7 @@
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓1
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎2 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎3 
 
 ### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18  👎1 
 
@@ -260,7 +271,7 @@
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
 * 👎 Gloria Mantz
 
-### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍2  
 
 ### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
 
@@ -274,11 +285,11 @@
 
 ### [SB 6345](/bill/2025-26/sb/6345/) - Transportation contracting 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎2 
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎2 
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

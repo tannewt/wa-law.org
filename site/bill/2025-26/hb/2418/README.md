@@ -14,11 +14,22 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 2418 Permit review
-#### 0 👍 - Pro
+#### 194 👍 - Pro
+Testifying:
+* Jesse Simpson - Housing Development Consortium
+* Mayor Ryan Walters - [City of Anacortes](/org/city_of_anacortes/)
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Andrea Smiley - Building Industry Association of WA
+* Josh Friedmann
+* Sam Spiegelman - Citizen Action Defense Fund
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Devin Gombosky - Washington Association of Sewer and Water Districts
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2418 Permit review
 #### 156 👍 - Pro

@@ -13,7 +13,7 @@
 * ❓ Lori Larsen
 * ❓💵 Michael Shaw
 
-### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎2 
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎3 
 * 👎💵 Michael Shaw
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections   ❓1
@@ -41,6 +41,9 @@
 
 ### [SB 5902](/bill/2025-26/sb/5902/) - Voter notifications & forms 👍1  
 * 👍💵 Michael Shaw
+
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety   ❓1
+* ❓💵 Michael Shaw
 
 ### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
 

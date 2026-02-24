@@ -26,7 +26,7 @@
 
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda  👎1 
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎1 
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎2 
 
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions  👎1 
 
@@ -54,11 +54,11 @@
 
 ### [SB 6205](/bill/2025-26/sb/6205/) - Grant distribution 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎2 
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎2 
 
 ### [HB 1067](/bill/2023-24/hb/1067/) - High-hazard facility wages  👎2 
 * 👎 Ryan Likkel

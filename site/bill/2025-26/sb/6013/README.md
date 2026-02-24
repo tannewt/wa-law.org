@@ -8,9 +8,11 @@
 
 ## Meetings
 ### Wed 02/18 10:00 AM - Environment & Energy (ENVI): SB 6013 Ski areas and winter sports
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Brian Considine - State Parks, Policy & Gov't Affairs Director
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

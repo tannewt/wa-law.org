@@ -8,9 +8,11 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): HB 2606 Office of privacy and data
-#### 1 👍 - Pro
+#### 194 👍 - Pro
+Testifying:
+* Katy Ruckle - WaTech
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

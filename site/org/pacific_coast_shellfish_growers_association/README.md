@@ -7,9 +7,14 @@
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍3  
 
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
+
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC  👎1 
 
 ### [HB 2619](/bill/2025-26/hb/2619/) - Agriculture regulations 👍1  
+
+### [HB 2737](/bill/2025-26/hb/2737/) - Commercial shellfish fees 👍1  
+* 👍💵 Justin Stang
 
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
