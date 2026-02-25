@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Tue 02/24 04:00 PM - Transportation (TRAN): SB 6354 Electric vehicles
-Sign up to testify:
-
-#### 396 👍 - Pro
+#### 603 👍 - Pro
 Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Mike Carroll - Washington State Auto Dealers Association
@@ -25,9 +23,9 @@ Testifying:
 * Abigail Ramsden - Rivian
 * Daniel Witt
 
-#### 71 👎 - Con
+#### 99 👎 - Con
 Testifying:
 * Craig Orlan - American Honda Motor Co, Inc.
 * Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

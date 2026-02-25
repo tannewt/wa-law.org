@@ -350,7 +350,7 @@
 
 ### [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation  👎1 
 
-### [SB 6106](/bill/2025-26/sb/6106/) - Laid-off employees 👍1  
+### [SB 6106](/bill/2025-26/sb/6106/) - Laid-off employees 👍2  
 
 ### [SB 6136](/bill/2025-26/sb/6136/) - Industrial insurance rates 👍2  
 * 👍💵 Andrea Reay

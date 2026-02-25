@@ -10,9 +10,7 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1906 Water system rates
-Sign up to testify:
-
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Bill Clarke - WA PUD Association
 * Kevin Van De Wege - Thurston PUD

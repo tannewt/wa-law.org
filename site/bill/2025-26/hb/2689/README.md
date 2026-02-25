@@ -13,9 +13,9 @@
 ### Thu 02/26 01:30 PM - Appropriations (APP): HB 2689 Working connect. child care
 Sign up to testify:
 
-#### 35 👍 - Pro
+#### 38 👍 - Pro
 
-#### 399 👎 - Con
+#### 426 👎 - Con
 Testifying:
 * Candace Harris - Valley Early Learning Center
 * MARISSA SALEE

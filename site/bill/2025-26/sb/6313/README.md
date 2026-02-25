@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SB 6313 Capitol centennial account
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 2 👎 - Con

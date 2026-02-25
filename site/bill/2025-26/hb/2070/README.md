@@ -14,7 +14,7 @@
 ### Wed 02/25 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2070 WWU state funding parity
 Sign up to testify:
 
-#### 276 👍 - Pro
+#### 293 👍 - Pro
 Testifying:
 * Faith Pettis - Chair, Board of Trustees, Western Washington University
 * 💵Nora Selander - Western Washington University
@@ -24,6 +24,6 @@ Testifying:
 * 💵Christopher Rosenquist - Associated Students of Western Washington University
 * Sophia Maynard - Vice President of Gov Affairs, Associated Students of Western Washington University
 
-#### 625 👎 - Con
+#### 874 👎 - Con
 
 #### 1 ❓ - Other

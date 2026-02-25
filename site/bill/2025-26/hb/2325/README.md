@@ -10,6 +10,15 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2325 Tourism assessment
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 6 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 08:00 AM - Finance (FIN): SHB 2325 Tourism assessment
 #### 92 👍 - Pro
 Testifying:

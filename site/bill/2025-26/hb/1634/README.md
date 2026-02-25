@@ -24,9 +24,7 @@
 
 ## Meetings
 ### Tue 02/24 08:00 AM - Early Learning & K-12 Education (EDU): E3SHB 1634 Behavioral health/schools
-Sign up to testify:
-
-#### 509 👍 - Pro
+#### 522 👍 - Pro
 Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction
 * Mabel Thackeray - [Washington School Counselor Association](/org/washington_school_counselor_association/)
@@ -35,7 +33,7 @@ Testifying:
 * Jayna Muneta
 * Nese Yildirim
 
-#### 197 👎 - Con
+#### 214 👎 - Con
 Testifying:
 * Steven Pearce - Citizens Commission on Human Rights
 

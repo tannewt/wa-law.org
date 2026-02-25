@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* [Senate Republicans](/org/senate_republicans/) - [Affordable Solutions for Washington - Senate Republican Caucus](https://src.wastateleg.org/bills-protect-washington/#:~:text=FOLLOW%20SB%206247)
+
 ## Meetings
 ### Thu 02/19 08:00 AM - Education (ED): ESSB 6247 School financial management
 #### 137 👍 - Pro

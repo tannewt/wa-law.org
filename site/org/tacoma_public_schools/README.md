@@ -16,6 +16,9 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
 * 👍 Doug Hostetter
 
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+* 👍 Charlie Brown
+
 ### [HB 2551](/bill/2025-26/hb/2551/) - School district solvency 👍1  
 * 👍 Charlie Brown
 

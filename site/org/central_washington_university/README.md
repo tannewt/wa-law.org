@@ -26,6 +26,8 @@
 
 ### [HB 1762](/bill/2025-26/hb/1762/) - Higher ed./residence req.  👎1 
 
+### [HB 1873](/bill/2025-26/hb/1873/) - WC child care/grad. students 👍1  
+
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 
 ### [HB 2088](/bill/2025-26/hb/2088/) - Dietitian licensure compact 👍1  

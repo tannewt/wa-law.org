@@ -13,7 +13,7 @@
 ### Wed 02/25 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2735 Family law cases
 Sign up to testify:
 
-#### 188 👍 - Pro
+#### 634 👍 - Pro
 Testifying:
 * Bogdan Lendel
 * Jack Loop
@@ -29,7 +29,9 @@ Testifying:
 * Kyle Spencer - Military Father's/Mens's Rights Advocate
 * David Zager
 * Alan Adams
+* Andrew Ranson
+* Richard Hassett
 
-#### 5 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other

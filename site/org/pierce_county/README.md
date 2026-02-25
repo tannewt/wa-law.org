@@ -49,7 +49,7 @@
 
 ### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍2  
 
-### [HB 2203](/bill/2025-26/hb/2203/) - Interference with emergency 👍1  
+### [HB 2203](/bill/2025-26/hb/2203/) - Interference with emergency 👍2  
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
 * 👍 Bryan Yambe

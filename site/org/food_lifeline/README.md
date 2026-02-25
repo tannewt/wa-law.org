@@ -103,12 +103,12 @@
 ### [SB 6006](/bill/2025-26/sb/6006/) - Food banks/sales tax 👍1  
 * 👍💵 Aaron Czyzewski
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 * 👍💵 Aaron Czyzewski
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
 * 👍💵 Aaron Czyzewski
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  

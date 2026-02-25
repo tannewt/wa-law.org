@@ -14,9 +14,7 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SSB 6160 Reports by state agencies
-Sign up to testify:
-
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 

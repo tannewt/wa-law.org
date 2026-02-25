@@ -9,6 +9,19 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Appropriations (APP): ESSB 6302 Public works/finishing trade
+Sign up to testify:
+
+#### 12 👍 - Pro
+Testifying:
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* 💵Jerry Vanderwood - AGC Washington
+* 💵Neil Hartman - WA Association of UA Plumbers and Pipefitters
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 6302 Public works/finishing trade
 #### 23 👍 - Pro
 Testifying:

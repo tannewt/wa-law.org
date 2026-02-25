@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Appropriations (APP): ESSB 5124 SNF & rehab network adequacy
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/10 08:30 AM - Health Care & Wellness (HCW): ESSB 5124 SNF & rehab network adequacy
 #### 13 👍 - Pro
 Testifying:

@@ -8,13 +8,17 @@
 
 ## Meetings
 ### Tue 02/24 10:30 AM - Labor & Workplace Standards (LAWS): ESB 6106 Laid-off employees
-Sign up to testify:
-
-#### 12 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Josh Dye - Employment Security Department
+* 💵James Crandall - AWB
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
+* 💵Scott Dilley - Worker and Farmer Labor Association
 
 ### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 6106 Laid-off employees
 #### 10 👍 - Pro

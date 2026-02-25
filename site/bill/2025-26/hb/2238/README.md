@@ -15,6 +15,15 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202238)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): ESHB 2238 Statewide food security
+Sign up to testify:
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): ESHB 2238 Statewide food security
 #### 986 👍 - Pro
 Testifying:

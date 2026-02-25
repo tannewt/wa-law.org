@@ -12,16 +12,14 @@
 
 ## Meetings
 ### Tue 02/24 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5971 Green fertilizer incentives
-Sign up to testify:
-
-#### 293 👍 - Pro
+#### 321 👍 - Pro
 Testifying:
 * 💵Seth Worley - Government Affairs Director, UA Plumbers & Steamfitters Local 598
 * Erik Kamrath - Natural Resources Defense Council
 * Dan Holmes - [Atlas Agro](/org/atlas_agro/)
 * Karl Dye - TRIDEC
 
-#### 77 👎 - Con
+#### 87 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

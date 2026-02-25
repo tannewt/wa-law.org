@@ -12,9 +12,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 36 👎 - Con
+#### 522 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/22 04:00 PM - Ways & Means (WM): SB 6114 Excise tax/fixture defined
 #### 2 👍 - Pro

@@ -11,7 +11,7 @@
 ### Thu 02/26 01:30 PM - Appropriations (APP): SSB 5862 TRS & PERS plan 1 COLA
 Sign up to testify:
 
-#### 855 👍 - Pro
+#### 902 👍 - Pro
 Testifying:
 * NEVA LUKE - WEA-Retired
 * Phyllis Farrell

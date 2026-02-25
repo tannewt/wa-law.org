@@ -27,7 +27,7 @@
 
 ### [HB 2211](/bill/2025-26/hb/2211/) - Concerning medically tailored meals. 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍11  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍12  
 * 👍💵 Anna Nepomuceno
 * 👍💵 Anna Nepomuceno
 

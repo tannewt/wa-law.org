@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* [Senate Republicans](/org/senate_republicans/) - [Affordable Solutions for Washington - Senate Republican Caucus](https://src.wastateleg.org/bills-protect-washington/#:~:text=REVIEW%20SB%205893)
+
 ## Meetings
 ### Tue 01/27 04:00 PM - Ways & Means (WM): SB 5893 Forest health appropriation
 #### 67 👍 - Pro

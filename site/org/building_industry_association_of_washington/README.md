@@ -490,7 +490,7 @@
 ### [SB 6096](/bill/2025-26/sb/6096/) - Delayed utility conn. fees 👍1  
 * 👍💵 Andrea Smiley
 
-### [SB 6114](/bill/2025-26/sb/6114/) - Excise tax/fixture defined  👎1 
+### [SB 6114](/bill/2025-26/sb/6114/) - Excise tax/fixture defined  👎1 ❓1
 * 👎💵 Brent Ludeman
 
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes  👎1 

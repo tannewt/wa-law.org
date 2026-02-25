@@ -18,7 +18,7 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): ESHB 2442 Local government fund use
 Sign up to testify:
 
-#### 221 👍 - Pro
+#### 290 👍 - Pro
 Testifying:
 * Anita Gallagher - [Pierce County](/org/pierce_county/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
@@ -27,8 +27,12 @@ Testifying:
 * Executive Girmay Zahilay - King County Executive
 * Toshiko Hasegawa
 * 💵Jorge Baron - King County Councilmember
+* Charlie Brown - [Tacoma Public Schools](/org/tacoma_public_schools/)
+* Jennifer Gregerson - City of Everett, Government Affairs Director
+* Chantell Harmon Reed - Tacoma Pierce County Health Department
+* Matt Mauer - Metropolitan Park District of Tacoma
 
-#### 131 👎 - Con
+#### 685 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * WEI CHEN

@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/25/2026 [Washington State Standard](/org/washington_state_standard/) - [Clear standard needed to keep unsafe cookware out of kitchens in WA • Washington State Standard](https://washingtonstatestandard.com/2026/02/24/clear-standard-needed-to-keep-unsafe-cookware-out-of-kitchens-in-wa/#:~:text=Senate%20Bill%205975)
+
 ## Meetings
 ### Mon 02/23 01:30 PM - Environment & Energy (ENVI): ESSB 5975 Safe cookware
 #### 12 👍 - Pro

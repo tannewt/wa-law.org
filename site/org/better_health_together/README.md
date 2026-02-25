@@ -8,6 +8,8 @@
 
 ### [HB 2587](/bill/2025-26/hb/2587/) - Nonprofit grant advances 👍1  
 
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+
 ## [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
 * 👍 Sara Abbott
 

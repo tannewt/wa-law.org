@@ -131,6 +131,9 @@
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
+* ❓ Eric ffitch
+
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
 * 👍 Eric ffitch
 
@@ -260,7 +263,7 @@
 ### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍3  
 * 👍 Eric ffitch
 
-### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍2  
+### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍3  
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities   ❓2
 * ❓💵 Carly Michiels
@@ -272,7 +275,8 @@
 
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 
-### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍2  
+* 👍 Eric ffitch
 * 👍 Eric ffitch
 
 ### [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  

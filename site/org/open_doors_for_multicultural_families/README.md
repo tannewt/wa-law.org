@@ -24,6 +24,9 @@
 
 ### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍1  
 
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍2  
+* 👍 Ginger Kwan
+
 ## [SB 6256](/bill/2025-26/sb/6256/) - Unoccupied housing/tax 👍1  
 
 ## 2023-24

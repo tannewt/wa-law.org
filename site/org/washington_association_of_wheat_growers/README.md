@@ -40,11 +40,13 @@
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎2 
 
-## [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining  👎1 
+### [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining  👎1 
+
+## [SB 6244](/bill/2025-26/sb/6244/) - Ag. crop products/tax ex. 👍1  
 
 ## 2023-24
 
-### [SB 6117](/bill/2023-24/sb/6117/) - Collective bargaining  👎1 
+### [SB 6244](/bill/2023-24/sb/6244/) - Ag. crop products/tax ex. 👍1  
 
 ### [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board 👍1  
 

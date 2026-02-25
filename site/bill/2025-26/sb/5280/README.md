@@ -16,9 +16,7 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): ESB 5280 Virtual currency kiosks
-Sign up to testify:
-
-#### 59 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * 💵Paul Dillon
 * Dan Maul
@@ -28,15 +26,17 @@ Testifying:
 * Drew Bouton - Washington State Department of Financial Institutions
 * Noel Le - MindCast AI
 * Ben Brysacz - Washington Attorney General's Office
+* Andy Caldwell - Centralia Police Department
+* Ben Brysacz - Washington Attorney General's Office
 
-#### 52 👎 - Con
+#### 77 👎 - Con
 Testifying:
 * Christopher Edwards - [Bitcoin Depot](/org/bitcoin_depot/)
 * 💵Amy Harris
 * 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * Larry Lipka - Coinflip
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 

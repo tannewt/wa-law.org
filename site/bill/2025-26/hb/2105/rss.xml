@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2105/</link>
 		<description>Updates about HB 2105</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 23 Feb 2026 19:31:26 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 24 Feb 2026 15:59:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -764,6 +764,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Carolyn/Logue/2026-02-23 19:31:26</guid>
+		</item>
+		<item>
+			<title>👎💵Molly Pfaffenroth - Washington Food Industry Association</title>
+			<description>Molly Pfaffenroth signed up to testify Con. They are signed up to represent Washington Food Industry Association. They are a registered lobbyist.</description>
+			<pubDate>Tue, 24 Feb 2026 14:35:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Molly/Pfaffenroth/2026-02-24 14:35:32</guid>
+		</item>
+		<item>
+			<title>👍💵Jean Hill - Washington State Catholic Conference</title>
+			<description>Jean Hill signed up to testify Pro. They are signed up to represent Washington State Catholic Conference. They are a registered lobbyist.</description>
+			<pubDate>Tue, 24 Feb 2026 15:59:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jean/Hill/2026-02-24 15:59:17</guid>
 		</item>
 	</channel>
 </rss>

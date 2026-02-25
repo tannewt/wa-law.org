@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* [Senate Republicans](/org/senate_republicans/) - [Affordable Solutions for Washington - Senate Republican Caucus](https://src.wastateleg.org/bills-protect-washington/#:~:text=FOLLOW%20SB%206268)
+
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SSB 6268 Special ed. complaint record
 #### 39 👍 - Pro

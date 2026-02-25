@@ -9,14 +9,12 @@
 
 ## Meetings
 ### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5520 Wrongly convicted persons
-Sign up to testify:
-
-#### 54 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
 * Ted Bradford
 
-#### 257 👎 - Con
+#### 300 👎 - Con
 Testifying:
 * Jaime Taft
 

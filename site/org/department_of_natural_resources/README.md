@@ -63,10 +63,12 @@
 * ❓ Pat Sullivan
 * ❓ Pat Sullivan
 
-### [HB 1983](/bill/2025-26/hb/1983/) - Timberland definition/REET 👍1  
+### [HB 1983](/bill/2025-26/hb/1983/) - Timberland definition/REET 👍2  
+* 👍 Duane Emmons
 * 👍 Duane Emmons
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍2  
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍3  
+* 👍 Pat Sullivan
 * 👍 Pat Sullivan
 * 👍 Pat Sullivan
 

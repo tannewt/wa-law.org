@@ -19,7 +19,9 @@
 ### Fri 02/27 01:30 PM - Transportation (TRAN): SHB 2334 Cash transactions/pennies
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 
 #### 0 👎 - Con
 

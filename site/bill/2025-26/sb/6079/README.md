@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): SSB 6079 Wildfire risk
-Sign up to testify:
-
-#### 183 👍 - Pro
+#### 239 👍 - Pro
 Testifying:
 * David Forte - Office of the Insurance Commissioner
 * Lauren Burnes - Office of the Insurance Commissioner
@@ -25,8 +23,10 @@ Testifying:
 * Karen Mulcahy
 * 💵Ryan Spiller - WA Fire Commissioners Association
 * 💵Bruce Chattin
+* Adam Marshall
+* Cathy MacCaul - AARP
 
-#### 58 👎 - Con
+#### 63 👎 - Con
 Testifying:
 * MIKE BUCY - Stevens County Fire Protection District 1
 * 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)

@@ -15,9 +15,7 @@
 
 ## Meetings
 ### Tue 02/24 08:00 AM - Early Learning & K-12 Education (EDU): ESHB 1295 Reading and writing literacy
-Sign up to testify:
-
-#### 447 👍 - Pro
+#### 477 👍 - Pro
 Testifying:
 * Julie Wolter
 * Sara Buetow - Decoding Dyslexia WA
@@ -38,7 +36,7 @@ Testifying:
 * Jessica Hendrick
 * Pauline Olson
 
-#### 721 👎 - Con
+#### 726 👎 - Con
 Testifying:
 * CRRT, Jennifer Miller - Retired, 40-year Title 1 Reading, LAP & Gen Ed Teacher
 * MPA, CRRT, Rhonda S Stone - Semi-Retired, Part-Time Reading Tutor

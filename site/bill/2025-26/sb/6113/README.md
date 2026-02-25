@@ -17,13 +17,13 @@
 ### Fri 02/27 08:00 AM - Finance (FIN): ESSB 6113 Tax administration
 Sign up to testify:
 
-#### 32 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * John Fleckenstein - Student Orchestras of Greater Olympia
 
 #### 5 👎 - Con
 
-#### 6 ❓ - Other
+#### 32 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Hunter George - Washington Recreation and Park Association
@@ -31,6 +31,7 @@ Testifying:
 * Danielle Duvall - CREDAWA, The Commercial Real Estate Development Association (Formally NAIOPWA)
 * Patty Belmonte - Hands On Children's Museum
 * Lars Myren - Columbia Choirs of Metropolitan Seattle
+* Jessi Wasson - Inspire Washington
 
 ### Thu 01/22 04:00 PM - Ways & Means (WM): SB 6113 Tax administration
 #### 7 👍 - Pro

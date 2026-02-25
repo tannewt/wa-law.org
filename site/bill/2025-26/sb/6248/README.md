@@ -9,16 +9,14 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): SSB 6248 Travel insurance
-Sign up to testify:
-
-#### 78 👍 - Pro
+#### 113 👍 - Pro
 Testifying:
 * 💵Jean Leonard - US Travel Insurance Association: USTIA
 * Duke de Haas - US Travel Insurance Association: USTIA
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 
 ### Wed 01/28 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6248 Travel insurance
 #### 77 👍 - Pro

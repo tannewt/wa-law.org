@@ -11,6 +11,15 @@
 * [Engrossed Third Substitute](S3.E/)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): E3SHB 1960 Renewable energy
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/06 10:30 AM - Appropriations (APP): 3SHB 1960 Renewable energy
 #### 17 👍 - Pro
 Testifying:

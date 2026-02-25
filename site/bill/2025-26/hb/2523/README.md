@@ -17,12 +17,14 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2523 Community reinvestment prg.
 Sign up to testify:
 
-#### 34 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * Paula Fillmore-Sardinas - WBBA (WA Build Black Alliance)
 * Caitlein Ryan - THE CANNABIS ALLIANCE
+* 💵Amanda Sandoval - United Way of King County
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 

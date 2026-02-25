@@ -5,6 +5,8 @@
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+
 ## [SB 6256](/bill/2025-26/sb/6256/) - Unoccupied housing/tax 👍3  
 * 👍 Colin Morgan-Cross
 

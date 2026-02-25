@@ -186,7 +186,7 @@
 
 ### [HB 2730](/bill/2025-26/hb/2730/) - Aerospace tax preferences 👍2  
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍2  
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 

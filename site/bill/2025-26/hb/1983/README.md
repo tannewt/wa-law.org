@@ -8,12 +8,11 @@
 
 ## Meetings
 ### Tue 02/24 04:00 PM - Ways & Means (WM): HB 1983 Timberland definition/REET
-Sign up to testify:
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 46 👎 - Con
+#### 74 👎 - Con
 
 #### 0 ❓ - Other

@@ -28,7 +28,8 @@
 * 👎 Glen Simecek
 * 👎 Glen Simecek
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest   ❓1
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest   ❓2
+* ❓💵 Megan Managan
 * ❓💵 Megan Managan
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 

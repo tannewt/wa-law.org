@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2104/</link>
 		<description>Updates about HB 2104</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 18 Feb 2026 10:20:26 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 24 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -144,6 +144,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Noel/Hardin/2026-02-18 10:20:26</guid>
+		</item>
+		<item>
+			<title>ANR - Majority; do pass.</title>
+			<description>ANR - Majority; do pass.</description>
+			<pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-23/ANR - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-23/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

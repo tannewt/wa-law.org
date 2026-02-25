@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Tue 02/24 10:30 AM - Local Government (LG): SSB 5729 Housing permitting
-Sign up to testify:
-
-#### 276 👍 - Pro
+#### 302 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

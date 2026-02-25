@@ -12,13 +12,15 @@
 ### Thu 02/26 01:30 PM - Transportation (TR): ESSB 6262 Vehicle fees/maximum weight
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Mark Trenary - City of Port Orchard Councilmember
+* Jon Snyder - [City of Spokane](/org/city_of_spokane/)
+* John Hines - Councilmember, City of Tacoma
 
-#### 24 👎 - Con
+#### 513 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/02 04:00 PM - Transportation (TRAN): SB 6262 Vehicle fees/maximum weight
 #### 14 👍 - Pro

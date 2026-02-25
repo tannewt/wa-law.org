@@ -9,9 +9,7 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SSB 5840 Campaign finance schedule
-Sign up to testify:
-
-#### 89 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * Kim Bradford
 * Sean Flynn - Public Disclosure Commission

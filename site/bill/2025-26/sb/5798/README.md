@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/23/2026 [KUOW](/org/kuow/) - [KUOW - Supporters claim fraudulent sign-ins made Washington's proposed 'millionaire's tax' look unpopular](https://www.kuow.org/stories/supporters-claim-fraudulent-sign-ins-made-washington-s-proposed-millionaire-s-tax-look-unpopular#:~:text=property%20tax%20bill)
 * 08/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Remote participation now firmly embedded in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/08/21/remote-participation-now-firmly-embedded-in-wa-legislature/#:~:text=to%20repeal%20a%20voter-approved%20limit)
 * 04/22/2025 [The Center Square](/org/the_center_square/) - [Economist: Washington's property tax cap is holding the state back | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2c4b8752-c9e6-40b1-9da5-6be347d9ba78.html#:~:text=Senate%20Bill%205798)
 * 04/18/2025 [The Center Square](/org/the_center_square/) - [Wealth tax resurrected as WA Dems advance several revenue bills out of executive session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_be854af8-92b3-406d-80a6-40dd0717b824.html#:~:text=Senate%20Bill%205798)

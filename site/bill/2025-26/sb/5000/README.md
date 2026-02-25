@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SB 5000 State nickname
-Sign up to testify:
-
-#### 62 👍 - Pro
+#### 78 👍 - Pro
 
 #### 1 👎 - Con
 Testifying:

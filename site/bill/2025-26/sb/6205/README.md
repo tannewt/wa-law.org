@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* [Senate Republicans](/org/senate_republicans/) - [Affordable Solutions for Washington - Senate Republican Caucus](https://src.wastateleg.org/bills-protect-washington/#:~:text=REVIEW%20SB%206205)
+
 ## Meetings
 ### Wed 01/28 10:30 AM - Housing (HSG): SB 6205 Grant distribution
 #### 3867 👍 - Pro

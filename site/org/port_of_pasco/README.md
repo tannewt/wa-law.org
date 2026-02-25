@@ -5,6 +5,8 @@
 
 ### [HB 1058](/bill/2025-26/hb/1058/) - Freight railroad infra. 👍1  
 
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍1  
+
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
 ### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍2  

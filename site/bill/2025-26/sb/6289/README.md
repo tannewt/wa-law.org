@@ -12,13 +12,11 @@
 
 ## Meetings
 ### Tue 02/24 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 6289 Economic dev. strategic plan
-Sign up to testify:
-
-#### 32 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 
-#### 1053 👎 - Con
+#### 1101 👎 - Con
 
 #### 5 ❓ - Other
 Testifying:

@@ -20,7 +20,7 @@
 ### [HB 2401](/bill/2025-26/hb/2401/) - Boys and men commission 👍2  
 * 👍💵 Billy Hetherington
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍2  
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍3  
 
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation 👍1  
 

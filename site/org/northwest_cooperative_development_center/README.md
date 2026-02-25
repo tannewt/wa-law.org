@@ -34,7 +34,7 @@
 ### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍2  
 * 👍 Victoria OBanion
 
-### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍3  
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍4  
 
 ### [HB 2047](/bill/2025-26/hb/2047/) - Employee ownership program  👎2 
 * 👎 John McNamara

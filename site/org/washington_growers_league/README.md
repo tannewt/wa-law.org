@@ -27,6 +27,9 @@
 * 👎💵 Michael Gempler
 * 👎💵 Michael Gempler
 
+### [SB 6106](/bill/2025-26/sb/6106/) - Laid-off employees   ❓1
+* ❓💵 Michael Gempler
+
 ## [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining   ❓1
 * ❓💵 Michael Gempler
 

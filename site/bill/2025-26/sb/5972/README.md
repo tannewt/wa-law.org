@@ -11,6 +11,17 @@
 * 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=SSB%205972)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Appropriations (APP): SSB 5972 Correctional officers/arb.
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+
+#### 0 ❓ - Other
+
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5972 Correctional officers/arb.
 #### 23 👍 - Pro
 Testifying:

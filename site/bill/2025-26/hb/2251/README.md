@@ -18,18 +18,18 @@
 ### Fri 02/27 01:30 PM - Transportation (TRAN): E2SHB 2251 Climate commit. act accounts
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 33 👎 - Con
 
 #### 0 ❓ - Other
 
 ### Tue 02/24 04:00 PM - Ways & Means (WM): E2SHB 2251 Climate commit. act accounts
-Sign up to testify:
+#### 63 👍 - Pro
+Testifying:
+* Martin Gibbins - League of Women Voters of WA
 
-#### 52 👍 - Pro
-
-#### 977 👎 - Con
+#### 1049 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

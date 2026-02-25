@@ -78,7 +78,8 @@
 ### [HB 2141](/bill/2025-26/hb/2141/) - Building codes  👎1 
 * 👎 Deepa Sivarajan
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍3  
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍4  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
@@ -86,7 +87,7 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍2  
 * 👍💵 Leah Missik
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍2  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍3  
 * 👍💵 Leah Missik
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
@@ -95,6 +96,9 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎2 ❓1
 * 👎💵 Leah Missik
 * 👎💵 Leah Missik
+* ❓💵 Leah Missik
+
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
 * ❓💵 Leah Missik
 
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
@@ -192,6 +196,9 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 ❓1
 * 👎💵 Leah Missik
 * ❓💵 Altinay Karasapan
+
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓💵 James Hove
 
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
 * ❓💵 Leah Missik

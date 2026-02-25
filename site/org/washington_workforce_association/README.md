@@ -17,7 +17,7 @@
 
 ### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
 
-### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍6  
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍7  
 * 👍 John Traugott
 * 👍 John Traugott
 

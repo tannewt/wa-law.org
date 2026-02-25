@@ -90,7 +90,8 @@
 ### [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants 👍1  
 * 👍 Kate Telis
 
-### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍2  
+* 👍 Jon Snyder
 * 👍 Jon Snyder
 
 ## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  

@@ -59,6 +59,8 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓ Caitlin Krenn
 
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
+
 ### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍1  
 
 ### [HB 2141](/bill/2025-26/hb/2141/) - Building codes  👎1 
@@ -79,7 +81,7 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 * 👍 Julian Santos
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍2  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍3  
 * 👍💵 Darcy Nonemacher
 
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  

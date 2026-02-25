@@ -9,9 +9,7 @@
 
 ## Meetings
 ### Tue 02/24 04:00 PM - Ways & Means (WM): SHB 2714 Food assistance caseload
-Sign up to testify:
-
-#### 10 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 * 💵Michael Moran - [Second Harvest Inland Northwest](/org/second_harvest_inland_northwest/)

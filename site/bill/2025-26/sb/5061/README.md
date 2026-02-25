@@ -16,9 +16,9 @@
 ### Thu 02/26 08:00 AM - Capital Budget (CB): E2SSB 5061 Public works wages
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 125 👍 - Pro
 
-#### 2 👎 - Con
+#### 50 👎 - Con
 Testifying:
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 

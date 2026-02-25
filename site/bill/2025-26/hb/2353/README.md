@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 02/24 04:00 PM - Ways & Means (WM): HB 2353 Capital predesign thresholds
-Sign up to testify:
-
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 

@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* [Senate Republicans](/org/senate_republicans/) - [Affordable Solutions for Washington - Senate Republican Caucus](https://src.wastateleg.org/bills-protect-washington/#:~:text=FOLLOW%20SB%205916)
+
 ## Meetings
 ### Tue 01/20 10:30 AM - Health & Long Term Care (HLTC): SB 5916 Nonopioid drugs for pain
 #### 8 👍 - Pro

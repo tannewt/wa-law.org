@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/25/2026 [Washington State Standard](/org/washington_state_standard/) - [Attempt to rein in surging lawsuit costs stalls in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/24/attempt-to-rein-in-surging-lawsuit-costs-stalls-in-wa-legislature/#:~:text=Senate%20Bill%206239)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=E2SSB%206239)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%206239)
 * 02/10/2026 [The Center Square](/org/the_center_square/) - [WA bill would limit tort claim options for child victims against state, local governments | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1c4acec7-291d-4d8d-95e7-e83d18d2f44c.html#:~:text=Senate%20Bill%206239)
@@ -20,8 +21,6 @@
 
 ## Meetings
 ### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): 2SSB 6239 State tort claims
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

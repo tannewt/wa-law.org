@@ -17,6 +17,12 @@
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍2  
 * 👍 Ben Bakkenta
 
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
+* 👍 Robin Koskey
+
+### [SB 6225](/bill/2025-26/sb/6225/) - Transportation funding bonds 👍1  
+* 👍 Robin Koskey
+
 ## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
 * 👍 Robin Koskey
 

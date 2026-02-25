@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): SB 5868 Superior court judges
-Sign up to testify:
-
-#### 83 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * LaDon Linde - Yakima County Commissioner
 * J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration

@@ -22,13 +22,15 @@
 * ❓💵 Gary Rowe
 * ❓💵 Gary Rowe
 
-## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  ❓1
 * ❓ Vince McGowan
+* 👍💵 Gary Rowe
 
 ## 2023-24
 
-### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental   ❓1
+### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental 👍1  ❓1
 * ❓ Vince McGowan
+* 👍💵 Gary Rowe
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
 * 👍 Kathryn Gardow

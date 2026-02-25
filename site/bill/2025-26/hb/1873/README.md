@@ -8,13 +8,12 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1873 WC child care/grad. students
-Sign up to testify:
-
-#### 20 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Ali Maleki - WSU Graduate & Professional Student Association
 * 💵Annika Peterson - UW Graduate & Professional Student Senate
+* Desmond Aboagye - Graduate and Professional Students Association (GPSA), Washington State University (WSU)
 
-#### 121 👎 - Con
+#### 151 👎 - Con
 
 #### 0 ❓ - Other

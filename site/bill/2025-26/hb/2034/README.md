@@ -19,17 +19,20 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2034 LEOFF 1 restatement
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Clair Olivers - Retired Public Employees Council of WA
 
-#### 1522 👎 - Con
+#### 2028 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Peter Diedrick - WA State School Retirees' Association
 
 ### Thu 03/13 04:00 PM - Appropriations (APP): HB 2034 LEOFF 1 restatement
 #### 22 👍 - Pro

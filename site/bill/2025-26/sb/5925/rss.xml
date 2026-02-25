@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5925/</link>
 		<description>Updates about SB 5925</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 23 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 24 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -218,6 +218,13 @@
 			<pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%205925</guid>
+		</item>
+		<item>
+			<title>CRJ - Executive action taken by committee.</title>
+			<description>CRJ - Executive action taken by committee.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/CRJ - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

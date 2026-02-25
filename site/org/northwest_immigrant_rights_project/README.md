@@ -36,7 +36,7 @@
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍3  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍4  
 * 👍💵 Malou Chavez
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍2  

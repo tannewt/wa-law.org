@@ -22,7 +22,7 @@
 
 ### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍2  
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍3  
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍4  
 
 ### [HB 2579](/bill/2025-26/hb/2579/) - Public media grants   ❓1
 * ❓ Eryn Duffee

@@ -10,16 +10,18 @@
 
 ## Meetings
 ### Tue 02/24 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 6197 Plumbing contractors
-Sign up to testify:
-
-#### 20 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Jason Hewitt - WA State Association of UA Plumbers, Pipefitters, HVAC/R Service Technicians
 * 💵Michael Transue - Mechanical Contractors Association of Western Washington
+* 💵Chester Baldwin - Plumbing heating cooling contractors assn (PHCC)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Todd Allred - Plumbing Heating Cooling Contractors Assn (PHCC)
+* 💵Chester Baldwin - Plumbing heating cooling contractors assn (PHCC)
 
 ### Fri 01/30 08:00 AM - Labor & Commerce (LC): SB 6197 Plumbing contractors
 #### 23 👍 - Pro

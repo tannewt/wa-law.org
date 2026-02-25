@@ -10,6 +10,15 @@
 * 02/07/2025 [House Democrats](/org/house_democrats/) - [House Passes Bipartisan Bill to Help Public Employees Retire  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/07/house-passes-bipartisan-bill-to-help-public-employees-retire/#:~:text=House%20Bill%201069)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Ways & Means (WM): HB 1069 Supp. retirement bargaining
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 04/05 12:00 PM - Ways & Means (WM): HB 1069 Supp. retirement bargaining
 #### 16 👍 - Pro
 Testifying:

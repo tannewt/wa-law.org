@@ -54,7 +54,8 @@
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
 * 👍💵 Neil Strege
 
-### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍2  
+* 👍💵 Neil Strege
 * 👍💵 Neil Strege
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  
@@ -62,6 +63,9 @@
 * 👍💵 Neil Strege
 
 ### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍2  
+
+### [SB 6225](/bill/2025-26/sb/6225/) - Transportation funding bonds 👍2  
+* 👍💵 Neil Strege
 
 ## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
 

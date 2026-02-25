@@ -15,9 +15,7 @@
 
 ## Meetings
 ### Tue 02/24 04:00 PM - Transportation (TRAN): SB 6005 Transportation budget, supp.
-Sign up to testify:
-
-#### 9 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
 * 💵Lyset Cadena - WSTA
@@ -25,15 +23,32 @@ Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
 * 💵Isaac Kastama - Clean & Prosperous Washington
+* Dania Otto - Sakura 39ers
+* Robin Koskey - [Puget Sound Regional Council](/org/puget_sound_regional_council/)
+* 💵Billy Wallace - Washington & Northern Idaho District Council of Laborers
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* Jerry VanderWood - Associated General Contractors (AGC)
+* Renee Jensen - Snoqualmie Valley Health
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Lily Wilson-Codega - Inland Boatmen's Union & International Association of Masters, Mates & Pilots
+* Mike Ennis - Washington Asphalt Pavement Association (WAPA)
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 83 👎 - Con
+#### 115 👎 - Con
 
-#### 6 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Lara Lant - City of Bainbridge Island, City Manager
 * Kyle Moore - [City of Kent](/org/city_of_kent/)
+* George Hurst - City of Lynnwood Mayor
+* Kyle Twohig - Spokane Regional Transportation Management Center Executive Board
+* Mary Paterson
+* Lael White - Climate Rail Alliance
+* 💵Mike Elliott
+* Tim Gould
 
 ### Tue 01/13 04:00 PM - Transportation (TRAN): SB 6005 Transportation budget, supp.
 #### 12 👍 - Pro

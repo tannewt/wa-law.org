@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/24/2026 [The Center Square](/org/the_center_square/) - [WA committee narrows bill’s expansion of AGO investigative powers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1fd440db-946e-4f5a-ace7-5c38e8ecdbf8.html#:~:text=House%20Bill%202156)
 * 02/04/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: The dangers of AG Nick Brown's agency request bills | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_15741b7a-9a99-433d-99dd-912daead2d40.html#:~:text=HB-2156)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202156)
 

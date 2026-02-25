@@ -17,11 +17,10 @@
 
 ## Meetings
 ### Tue 02/24 08:00 AM - Early Learning & K-12 Education (EDU): E2SHB 2636 Public education reviews
-Sign up to testify:
-
-#### 96 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Logan Noel-Endres - Washington State School Directors’ Association (WSSDA)
+* Gerry Pollet - Washington State Representative
 
 #### 0 👎 - Con
 

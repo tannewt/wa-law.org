@@ -52,7 +52,7 @@
 
 ### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 

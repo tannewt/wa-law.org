@@ -608,7 +608,8 @@
 * ❓💵 Curtis Steinhauer
 * 👍💵 Travis Dutton
 
-### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍2  
+* 👍💵 Axel Swanson
 * 👍💵 Axel Swanson
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓2

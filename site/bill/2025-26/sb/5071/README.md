@@ -10,6 +10,7 @@
 
 ## 📰 Articles
 * 02/18/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA child welfare policy stalls as parties clash over parental drug abuse | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f24e0c8f-9eef-437b-8ae4-b7ed4b337a22.html#:~:text=SB%205071.)
+* [Senate Republicans](/org/senate_republicans/) - [Affordable Solutions for Washington - Senate Republican Caucus](https://src.wastateleg.org/bills-protect-washington/#:~:text=FOLLOW%20SB%205071)
 
 ## Meetings
 ### Mon 01/20 10:30 AM - Law & Justice (LAW): SB 5071 Controlled sub. endangerment

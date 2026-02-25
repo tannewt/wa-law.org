@@ -9,7 +9,7 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
-### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍3  
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
 

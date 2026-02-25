@@ -14,6 +14,6 @@ Sign up to testify:
 Testifying:
 * Dave Thurman - Northeastern University Seattle
 
-#### 93 👎 - Con
+#### 229 👎 - Con
 
 #### 0 ❓ - Other

@@ -8,12 +8,12 @@
 
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍3  
 
-## [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+## [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍2  
 * 👍 Katherine Hollis
 
 ## 2023-24
 
-### [SB 6110](/bill/2023-24/sb/6110/) - Electric bicycle, motorcycle 👍1  
+### [SB 6110](/bill/2023-24/sb/6110/) - Electric bicycle, motorcycle 👍2  
 * 👍 Katherine Hollis
 
 ### [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  

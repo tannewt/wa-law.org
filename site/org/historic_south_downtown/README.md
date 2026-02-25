@@ -1,7 +1,7 @@
 # Historic South Downtown
 ## 2025-26
 
-### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍15  
+### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍16  
 * 👍 Kathleen Barry Johnson
 * 👍 Kathleen Barry Johnson
 * 👍 Amy Chen Lozano

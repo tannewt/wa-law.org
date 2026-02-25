@@ -10,9 +10,7 @@
 
 ## Meetings
 ### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 6086 Judicial security
-Sign up to testify:
-
-#### 52 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration
 * Judge Sean O'Donnell - BJA Court Security Committee
@@ -20,7 +18,7 @@ Testifying:
 * Bob Battles - BIIA Business Board Member
 * Judge Rebecca Robertson - District & Municipal Court Judges' Association
 
-#### 184 👎 - Con
+#### 203 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/24/2026 [The Center Square](/org/the_center_square/) - [Critics says WA bill to dissolve, reinstate pension plan would 'set a precedent' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_77108d67-a56b-4cc6-a3e7-2f6746707f93.html#:~:text=5085)
 * 10/09/2025 [The Center Square](/org/the_center_square/) - [How WA's public pension system planning could cost taxpayers down the road | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5c7e0578-7b42-4e1d-aa68-a3232d3f6066.html#:~:text=Senate%20Bill%205085)
 * 03/03/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Robinson bill to merge existing, closed retirement systems - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/03/03/senate-passes-robinson-bill-to-merge-existing-closed-retirement-systems/#:~:text=Senate%20Bill%205085)
 * 02/07/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=SB%205085)

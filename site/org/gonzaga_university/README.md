@@ -15,13 +15,14 @@
 
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
-## [SB 5828](/bill/2025-26/sb/5828/) - College scholarships/private 👍78  
+### [SB 5828](/bill/2025-26/sb/5828/) - College scholarships/private 👍78  
 * 👍 Maelyn Carlsisle
+
+## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
 
 ## 2023-24
 
-### [SB 5828](/bill/2023-24/sb/5828/) - College scholarships/private 👍78  
-* 👍 Maelyn Carlsisle
+### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental 👍1  
 
 ### [HB 1256](/bill/2023-24/hb/1256/) - Higher ed. matching grants 👍1  
 * 👍 Joseph Smith

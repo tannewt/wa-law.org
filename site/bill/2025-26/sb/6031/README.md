@@ -13,13 +13,12 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): ESSB 6031 Insurance crimes
-Sign up to testify:
-
-#### 14 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Dory Nicpon - Office of the Insurance Commissioner
 * Brent Walker - Coalition Against Insurance Fraud
 * Marian Smith - [National Insurance Crime Bureau](/org/national_insurance_crime_bureau/)
+* Cathy Maccaul - AARP
 
 #### 0 👎 - Con
 

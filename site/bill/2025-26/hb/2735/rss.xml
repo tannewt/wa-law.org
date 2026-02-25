@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2735/</link>
 		<description>Updates about HB 2735</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 23 Feb 2026 15:09:40 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 24 Feb 2026 16:05:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -133,6 +133,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alan/Adams/2026-02-23 15:09:40</guid>
+		</item>
+		<item>
+			<title>👍Andrew Ranson - Military Father's/Mens's Rights Advocate</title>
+			<description>Andrew Ranson signed up to testify Pro.</description>
+			<pubDate>Tue, 24 Feb 2026 09:40:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrew/Ranson/2026-02-24 09:40:44</guid>
+		</item>
+		<item>
+			<title>👍Richard Hassett - Military Father's/Mens's Rights Advocate</title>
+			<description>Richard Hassett signed up to testify Pro.</description>
+			<pubDate>Tue, 24 Feb 2026 16:05:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Richard/Hassett/2026-02-24 16:05:53</guid>
 		</item>
 	</channel>
 </rss>

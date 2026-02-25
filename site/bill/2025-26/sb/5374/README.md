@@ -16,9 +16,7 @@
 
 ## Meetings
 ### Tue 02/24 10:30 AM - Local Government (LG): ESSB 5374 Transportation/tribal rep.
-Sign up to testify:
-
-#### 10 👍 - Pro
+#### 15 👍 - Pro
 
 #### 3 👎 - Con
 

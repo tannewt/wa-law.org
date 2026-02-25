@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2600 Supported living cost report
-Sign up to testify:
-
-#### 12 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Demas Nesterenko - SEIU775
 * Catherine Kamau - Direct Service Provider
 * Dakota Bartosch - Direct Service Provider
 * Trent Mulder - Direct Service Provider
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
 * Randy Hauck - [Community Residential Services Association](/org/community_residential_services_association/)

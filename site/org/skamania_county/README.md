@@ -1,6 +1,8 @@
 # Skamania County
 ## 2025-26
 
+### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍1  
+
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services.  👎1 
 * 👎 Katie Whittier
 
@@ -15,6 +17,8 @@
 ### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  
 
 ### [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants 👍1  
+
+### [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍1  
 
 ## [SB 6242](/bill/2025-26/sb/6242/) - County shared stewardship 👍1  
 

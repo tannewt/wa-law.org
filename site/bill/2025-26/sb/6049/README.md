@@ -14,13 +14,13 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SSB 6049 PRA/students & employees
-Sign up to testify:
-
-#### 18 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
-#### 957 👎 - Con
+#### 1085 👎 - Con
+Testifying:
+* Joe Kunzler
 
 #### 1 ❓ - Other
 

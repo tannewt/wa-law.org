@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2251/</link>
 		<description>Updates about HB 2251</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 23 Feb 2026 18:58:50 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 24 Feb 2026 09:18:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -250,6 +250,14 @@
 			<pubDate>Mon, 23 Feb 2026 18:58:50 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=E2SHB%202251</guid>
+		</item>
+		<item>
+			<title>👍Martin Gibbins - League of Women Voters of WA</title>
+			<description>Martin Gibbins signed up to testify Pro. They are signed up to represent League of Women Voters of WA.</description>
+			<pubDate>Tue, 24 Feb 2026 09:18:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Martin/Gibbins/2026-02-24 09:18:00</guid>
 		</item>
 	</channel>
 </rss>

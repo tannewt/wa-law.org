@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Appropriations (APP): SB 5988 Opioid treatment prg. fees
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): SB 5988 Opioid treatment prg. fees
 #### 18 👍 - Pro
 Testifying:

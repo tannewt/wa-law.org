@@ -13,37 +13,42 @@
 
 ## Meetings
 ### Tue 02/24 04:00 PM - Ways & Means (WM): SB 6003: All other. (Remote Testimony Available).
-Sign up to testify:
-
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Courtney Normand - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Katrina Brown - Terrain Spokane
+* 💵Gary Rowe - [Public Works Board](/org/public_works_board/)
+* Lincoln Ferris - Seattle Chinese Garden
+* Hoda Abdullahi - Living Well Kent
 
-#### 72 👎 - Con
+#### 96 👎 - Con
 
-#### 15 ❓ - Other
+#### 23 ❓ - Other
 Testifying:
 * Tye Menser - [Thurston County](/org/thurston_county/)
 * Kevin Haggerty - Snoqualmie Valley Food Bank
 * Terry Pottmeyer - Snoqualmie Valley Food Bank
 * Elaine Oneil - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* Elpidia Saavedra - [City of Toppenish](/org/city_of_toppenish/)
+* Dave Zabell - Yakima Valley COG
+* Chairman Nino Maltos - Sauk-Suiattle Indian Tribe
+* 💵James Hove - [Climate Solutions](/org/climate_solutions/)
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Tue 02/24 04:00 PM - Ways & Means (WM): SB 6003: Higher education. (Remote Testimony Available).
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Arlen Harris - WA State Board for Community & Technical Colleges
 * Eric Murray - Cascadia College
+* 💵Christopher Rosenquist - Associated Students of Western Washington University
+* 💵Connor Haggerty - Washington State University
 
-#### 72 👎 - Con
+#### 98 👎 - Con
 
 #### 0 ❓ - Other
 
 ### Tue 02/24 04:00 PM - Ways & Means (WM): SB 6003: Housing and Human services. (Remote Testimony Available).
-Sign up to testify:
-
-#### 10 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Joan Penney - [Housing Hope](/org/housing_hope/)
 * Mary Munjua - United CCO
@@ -53,10 +58,15 @@ Testifying:
 * Kathleen Hosfeld - Homestead Community Land Trust / Washington State CLTs
 * Safa Aldib - MAPS Redmond
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Karen Stratton - [American Indian Community Center](/org/american_indian_community_center/)
+* Sebastian Ruiz - Mujares in Action
+* Angela Ngiangi Diansasila - Congolese Integration Network
+* Mark Finney - [Thrive International](/org/thrive_international/)
+* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 
-#### 83 👎 - Con
+#### 111 👎 - Con
 
-#### 15 ❓ - Other
+#### 22 ❓ - Other
 Testifying:
 * 💵Erica Hallock - Start Early WA
 * AyeNay Abye - The Tubman Center for Health and Freedom
@@ -71,31 +81,38 @@ Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Jesse Simpson - Housing Development Consortium
 * Leona Colegrove - Tribal Court Judge, Quinault Indian Nation
+* David Lieberman - African Community Housing and Development
+* SAMETH MELL
+* Grace Kim - Schemata Workshop
+* Sarah Dickmeyer - Plymouth Housing
+* Francoise Milinganyo - Congolese Integration Network
 
 ### Tue 02/24 04:00 PM - Ways & Means (WM): SB 6003: K-12 public schools. (Remote Testimony Available).
-Sign up to testify:
+#### 1 👍 - Pro
+Testifying:
+* 💵Mitch Denning - Alliance of Educational Associations
 
-#### 0 👍 - Pro
-
-#### 75 👎 - Con
+#### 102 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 
 ### Tue 02/24 04:00 PM - Ways & Means (WM): SB 6003: Natural resources. (Remote Testimony Available).
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
+* w. Jay Gordon - Washington state dairy federation
+* 💵Rose Gundersen - WA Retail Association
+* 💵Mark Streuli - WA Cattlemen, WA Wheat Growers, WA Potato and Onion Assoc.
+* 💵Isaac Kastama - Clean & Prosperous Washington
 
-#### 50 👎 - Con
+#### 64 👎 - Con
 Testifying:
 * Ryan Elting - Whidbey Camano Land Trust
 * David Troutt - [Nisqually Indian Tribe](/org/nisqually_indian_tribe/)
 
-#### 9 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Dave Herrera - [Skokomish Indian Tribe](/org/skokomish_indian_tribe/)
 * 💵Jason Callahan - [Green Diamond Resource Company](/org/green_diamond_resource_company/)
@@ -106,6 +123,9 @@ Testifying:
 * Scott Richards - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 * Cole Baldino - South Puget Sound Salmon Enhancement Group
 * Rebecca Springer - [City of Ellensburg](/org/city_of_ellensburg/)
+* Jim Freeburg - [Stewards of Washington State Lands](/org/stewards_of_washington_state_lands/)
+* Daniel Whelan - Sustainable Northwest
+* Daniel Hoult - Outdoor Discovery Project
 
 ### Mon 01/12 04:00 PM - Ways & Means (WM): SB 6003: All other. (Remote Testimony Available).
 #### 1 👍 - Pro

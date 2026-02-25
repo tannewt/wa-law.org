@@ -402,7 +402,8 @@
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍3  
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍4  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
@@ -686,6 +687,9 @@
 ### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers   ❓1
 * ❓💵 Derrick Nunnally
 
+### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb.  👎1 
+* 👎💵 Candice Bock
+
 ### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement   ❓4
 * ❓💵 Derrick Nunnally
 * ❓💵 Derrick Nunnally
@@ -700,11 +704,13 @@
 * ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
-### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓2
+* ❓💵 Steven Ellis
 * ❓💵 Steven Ellis
 
-### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  ❓1
 * ❓💵 Steven Ellis
+* 👍💵 Steven Ellis
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓1
 * ❓💵 Carl Schroeder

@@ -7,16 +7,20 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓ Jim CastroLang
 
-### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓2
+* ❓ Mark Finney
 * ❓ Mark Finney
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Anna Bondarenko
 
-## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ Kyla Shkerich Blair
+
+## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍 Mark Finney
 
 ## 2023-24
 
-## [SB 5195](/bill/2023-24/sb/5195/) - Capital budget   ❓1
-* ❓ Kyla Shkerich Blair
+## [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍 Mark Finney

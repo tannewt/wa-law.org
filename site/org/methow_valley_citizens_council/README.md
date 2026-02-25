@@ -46,7 +46,7 @@
 
 ### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍2  
 
-### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍2  
+### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍3  
 
 ### [HB 2141](/bill/2025-26/hb/2141/) - Building codes  👎1 
 
@@ -102,11 +102,13 @@
 
 ### [SB 5749](/bill/2025-26/sb/5749/) - Housing opportunity zones 👍1  
 
-## [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍1  
+### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍2  
+
+## [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants 👍1  
 
 ## 2023-24
 
-### [SB 5928](/bill/2023-24/sb/5928/) - Wildfire risk models 👍1  
+### [SB 6079](/bill/2023-24/sb/6079/) - Wildfire mitigation grants 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
 

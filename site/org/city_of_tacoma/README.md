@@ -59,7 +59,9 @@
 
 ### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
 
-### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍2  
+### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍4  
+* 👍 Steve Victor
+* 👍 Jennifer Kammerzell
 * 👍 Steve Victor
 * 👍 Jennifer Kammerzell
 
@@ -158,6 +160,8 @@
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 
 ### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
+
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
 
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
 

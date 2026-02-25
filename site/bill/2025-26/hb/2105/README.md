@@ -29,11 +29,14 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): 2SHB 2105 Immigrant workers
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* 💵Jean Hill - Washington State Catholic Conference
 
-#### 34 👎 - Con
+#### 587 👎 - Con
 Testifying:
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 
 #### 1 ❓ - Other
 Testifying:

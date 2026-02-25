@@ -12,7 +12,7 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 85 👎 - Con
+#### 121 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

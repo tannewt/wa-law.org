@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 02/24 10:30 AM - Local Government (LG): SB 6132 Inland port district debt
-Sign up to testify:
-
-#### 51 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Dan Roach - [Port of Moses Lake](/org/port_of_moses_lake/)
 * Brant Mayo - Grant County Ecomonic Development Council

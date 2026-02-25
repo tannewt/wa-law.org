@@ -93,7 +93,7 @@
 ### [SB 5949](/bill/2025-26/sb/5949/) - Insurer taxes  👎1 
 * 👎💵 Gary Strannigan
 
-### [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  
+### [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍2  
 
 ### [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals  👎1 
 * 👎💵 Christine Brewer

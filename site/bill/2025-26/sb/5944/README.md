@@ -10,6 +10,17 @@
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February update from Olympia - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/02/20/february-update/#:~:text=Senate%20Bill%205944)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Appropriations (APP): SB 5944 Language access providers
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): SB 5944 Language access providers
 #### 12 👍 - Pro
 Testifying:

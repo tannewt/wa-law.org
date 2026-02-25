@@ -15,6 +15,8 @@
 * 👍💵 Ben Stuckart
 * 👍💵 Ben Stuckart
 
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+
 ## [SB 6214](/bill/2025-26/sb/6214/) - Land banking authorities 👍1  
 
 ## 2023-24

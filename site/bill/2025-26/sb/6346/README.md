@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/24/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA income tax proposal sparks more heated debate in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f8f30f64-2be8-4b78-afde-8f65c379330d.html#:~:text=Senate%20Bill%206346)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SB%206346)
 * 02/23/2026 [The Center Square](/org/the_center_square/) - [WATCH: Former WA AG Rob McKenna says income tax bill 'doesn't pass laugh test' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d436f300-c981-4de4-845c-2c4c6c882abd.html#:~:text=SB%206346)
 * 02/23/2026 [Senate Republicans](/org/senate_republicans/) - [BREAKING: Income tax sets another state record for most unpopular bill ahead of hearing in House Finance Committee - Senate Republican Caucus](https://src.wastateleg.org/blog/breaking-income-tax-sets-another-state-record-unpopular-bill-ahead-hearing-house-finance-committee/#:~:text=Senate%20Bill%206346)
@@ -62,9 +63,7 @@
 
 ## Meetings
 ### Tue 02/24 08:00 AM - Finance (FIN): ESSB 6346 Tax on millionaires
-Sign up to testify:
-
-#### 12430 👍 - Pro
+#### 12705 👍 - Pro
 Testifying:
 * 💵Kelly Edens - Children's Campaign Fund Action
 * Karen Crowley - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
@@ -99,6 +98,7 @@ Testifying:
 * David Carney
 * Guadalupe Paredes
 * Tim Mackey
+* Tim Mackie
 * Filma Fontanilla
 * Josie Tracy - Washington Physicians for Social Responsibility
 * Yulia Goncharova
@@ -154,7 +154,7 @@ Testifying:
 * Lindsey Schromen-Wawrin - [Firelands Workers United / Trabajadores Unidos](/org/firelands_workers_united_/_trabajadores_unidos/)
 * Bennett Haselton
 
-#### 115671 👎 - Con
+#### 116875 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Anna Burt
@@ -333,8 +333,20 @@ Testifying:
 * Yu Chen
 * Xin Li
 * Linda Aplass
+* Jiahui Yan
+* Lifei Xu
+* Wei Wang
+* Peizhen Yan
+* Fusheng Yan
+* Jason Matson - Cascade view fruit
+* Elizabeth Roe
+* Lei Chen
+* Caishi Wang
+* Zhujun Wang
+* Ryan Jewell
+* Diana Benoit
 
-#### 389 ❓ - Other
+#### 393 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Sean Graham - Washington State Medical Association

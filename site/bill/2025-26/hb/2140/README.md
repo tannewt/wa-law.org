@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): SHB 2140 Current use land/sale to gov
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2140 Current use land/sale to gov
 #### 4 👍 - Pro
 

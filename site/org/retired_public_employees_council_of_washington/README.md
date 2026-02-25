@@ -52,7 +52,7 @@
 
 ### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
 
-### [SB 5862](/bill/2025-26/sb/5862/) - TRS & PERS plan 1 COLA 👍112 👎1 
+### [SB 5862](/bill/2025-26/sb/5862/) - TRS & PERS plan 1 COLA 👍115 👎1 
 
 ### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎1 
 

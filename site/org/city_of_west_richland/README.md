@@ -12,8 +12,10 @@
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 
-## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+
+## [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
 
 ## 2023-24
 
-## [SB 5195](/bill/2023-24/sb/5195/) - Capital budget 👍1  
+## [SB 6005](/bill/2023-24/sb/6005/) - Transportation budget, supp. 👍1  

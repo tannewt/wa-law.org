@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): HB 2521 Firearms background checks
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 87 👎 - Con
+Testifying:
+* Jane Milhans
+* Elizabeth Bienas
+* Anderson Kim
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 04:00 PM - Appropriations (APP): HB 2521 Firearms background checks
 #### 5 👍 - Pro
 Testifying:

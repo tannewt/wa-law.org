@@ -17,9 +17,7 @@
 
 ## Meetings
 ### Tue 02/24 08:00 AM - Capital Budget (CB): PSHB 2295 - Concerning the capital budget. (Remote Testimony Available).
-Sign up to testify:
-
-#### 33 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Michael Pugsley - [Ashley House](/org/ashley_house/)
 * Joan Penney - [Housing Hope](/org/housing_hope/)
@@ -46,12 +44,16 @@ Testifying:
 * 💵Mitch Denning - Alliance of Educational Associations
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* Karen Stratton - [American Indian Community Center](/org/american_indian_community_center/)
+* Elpidia Saavedra - [City of Toppenish](/org/city_of_toppenish/)
+* Dave Zabell - Yakima Valley COG
+* Charlie Brown - South Sound Superintendents
 
-#### 881 👎 - Con
+#### 901 👎 - Con
 Testifying:
 * 💵Connor Haggerty - Washington State University
 
-#### 21 ❓ - Other
+#### 27 ❓ - Other
 Testifying:
 * AyeNay Abye - The Tubman Center for Health and Freedom
 * 💵Karina Patel - The Tubman Center for Health and Freedom
@@ -74,6 +76,11 @@ Testifying:
 * Sean Eagan - The Port of Tacoma
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Kyle Moore - [City of Kent](/org/city_of_kent/)
+* Katrina Brown
+* Mark Finney - [Thrive International](/org/thrive_international/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* David Lieberman - African Community Housing and Development
 
 ### Thu 01/15 01:30 PM - Capital Budget (CB): HB 2295 Capital budget, supplemental
 #### 28 👍 - Pro

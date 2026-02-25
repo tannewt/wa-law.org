@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): ESSJM 8014 Aysenur Ezgi Eygi death
-Sign up to testify:
-
-#### 506 👍 - Pro
+#### 544 👍 - Pro
 Testifying:
 * Hamid Ali
 * Brandon Elliott - Associated Students of the University of Washington
@@ -31,8 +29,10 @@ Testifying:
 * Juliette Majid
 * Rae Levine
 * Aria Fani
+* Suzanne Downey
+* Isaac Olson
 
-#### 138 👎 - Con
+#### 199 👎 - Con
 Testifying:
 * Joe Kunzler
 

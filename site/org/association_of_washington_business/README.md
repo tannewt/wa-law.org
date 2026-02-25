@@ -1035,13 +1035,14 @@
 
 ### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎2 
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
 * 👎 Max Martin
+
+## [SB 6347](/bill/2025-26/sb/6347/) - Estate tax rates 👍1  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
-* 👎 Max Martin
+### [SB 6347](/bill/2023-24/sb/6347/) - Estate tax rates 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

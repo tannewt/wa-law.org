@@ -16,6 +16,9 @@
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Kirk Hovenkotter
 
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍3  
+* 👍 Holden Ringer
+
 ### [HB 1984](/bill/2025-26/hb/1984/) - Autonomous vehicles 👍1  
 
 ### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat. 👍1  

@@ -14,7 +14,9 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): SHB 2152 Cannabis/health facilities
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Caitlein Ryan - THE CANNABIS ALLIANCE
 
 #### 0 👎 - Con
 

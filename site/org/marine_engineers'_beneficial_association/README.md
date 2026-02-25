@@ -464,7 +464,7 @@
 
 ### [SB 5059](/bill/2025-26/sb/5059/) - Ferry captains 👍1  
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍3  
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍4  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 

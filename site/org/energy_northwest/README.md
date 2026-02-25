@@ -3,7 +3,7 @@
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 
-### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍2  
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍3  
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 

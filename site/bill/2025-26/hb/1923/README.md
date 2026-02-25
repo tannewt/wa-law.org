@@ -22,14 +22,20 @@
 ### Fri 02/27 01:30 PM - Transportation (TRAN): 2SHB 1923 Passenger-only ferries
 Sign up to testify:
 
-#### 167 👍 - Pro
+#### 317 👍 - Pro
 Testifying:
 * Dylan Doty - [Kitsap Transit](/org/kitsap_transit/)
 * Patrick Gallagher - [Marine Exchange of Puget Sound](/org/marine_exchange_of_puget_sound/)
 * Glen Bachman - [Port of Everett](/org/port_of_everett/)
 * Anthony Mixer - Citizen Volunteer Lobbyist
+* Zackary Shoemaker
+* Ashley Mathews - City of Bainbridge Island, Councilmember
+* Holden Ringer - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Ron Wille - All American Marine Inc.
+* Evan Perrollaz - Town of Friday Harbor
+* Greg Wheeler - Mayor of Bremerton
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 
