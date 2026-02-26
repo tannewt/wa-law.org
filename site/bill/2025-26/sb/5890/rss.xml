@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5890/</link>
 		<description>Updates about SB 5890</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 23 Feb 2026 11:40:07 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 14:25:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -170,6 +170,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jerry/VanderWood/2026-02-23 11:40:07</guid>
+		</item>
+		<item>
+			<title>CS - Executive action taken by committee.</title>
+			<description>CS - Executive action taken by committee.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/CS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CS - Majority; do pass with amendment(s).</title>
+			<description>CS - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/CS - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Washington state eyes tougher penalties for 30+ mph speeding - Axios Seattle</title>
+			<description>News article "Washington state eyes tougher penalties for 30+ mph speeding - Axios Seattle" from Axios.</description>
+			<pubDate>Wed, 25 Feb 2026 14:25:07 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2026/02/25/washington-reckless-driving-bill-30-mph-over-speed-limit-fatal-crashes#:~:text=Senate%20Bill%205890</guid>
 		</item>
 	</channel>
 </rss>

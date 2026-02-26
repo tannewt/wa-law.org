@@ -13,6 +13,15 @@
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%206034)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): SSB 6034 Office of Indian affairs
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SSB 6034 Office of Indian affairs
 #### 14 👍 - Pro
 Testifying:

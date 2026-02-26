@@ -73,13 +73,16 @@
 * ❓💵 Matt Doumit
 * ❓💵 Matt Doumit
 
-## [SB 6216](/bill/2025-26/sb/6216/) - Timber sale process 👍1  
+### [SB 6216](/bill/2025-26/sb/6216/) - Timber sale process 👍1  
 * 👍💵 Matt Doumit
+
+## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system  👎1 
+* 👎💵 Matt Doumit
 
 ## 2023-24
 
-### [SB 6216](/bill/2023-24/sb/6216/) - Timber sale process 👍1  
-* 👍💵 Matt Doumit
+### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system  👎1 
+* 👎💵 Matt Doumit
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

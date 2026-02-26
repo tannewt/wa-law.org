@@ -32,10 +32,12 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  ❓1
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍4  ❓1
 * ❓💵 Linda Garcia
 * 👍 Jeff DeLuca
 * 👍💵 Linda Garcia
+* 👍💵 Linda Garcia
+* 👍 Jeff DeLuca
 
 ### [HB 2039](/bill/2025-26/hb/2039/) - Child support pass through  👎1 
 
@@ -48,6 +50,8 @@
 * 👍💵 Linda Garcia
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
 

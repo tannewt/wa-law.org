@@ -15,11 +15,11 @@
 ### Thu 02/26 01:30 PM - Transportation (TR): SSB 5833 Pets in unattended vehicles
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 70 👍 - Pro
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

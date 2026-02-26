@@ -15,7 +15,7 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Elizabeth New - Washington Policy Center
 

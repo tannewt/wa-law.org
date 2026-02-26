@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 02/25 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2617 Higher education procedures
-Sign up to testify:
-
-#### 22 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Melissa Beard - Council of Presidents
 * 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
@@ -27,7 +25,9 @@ Testifying:
 * John Carmichael - President, The Evergreen State College
 * 💵Seamus Petrie - Wa Public Employees Association
 * Bidisha Biswas - WWU Faculty Legislative Rep
+* Stephen Bollens - Washngton State University Faculty Senate
+* 💵Emily Myers - UAW Region 6
 
-#### 837 👎 - Con
+#### 862 👎 - Con
 
 #### 0 ❓ - Other

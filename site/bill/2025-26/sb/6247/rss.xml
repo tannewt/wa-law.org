@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6247/</link>
 		<description>Updates about SB 6247</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 18 Feb 2026 16:12:23 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 24 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -155,6 +155,34 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Misha/Cherniske/2026-02-18 16:12:23</guid>
+		</item>
+		<item>
+			<title>ED - Executive action taken by committee.</title>
+			<description>ED - Executive action taken by committee.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/ED - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>ED - Majority; do pass with amendment(s).</title>
+			<description>ED - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/ED - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

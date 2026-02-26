@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1210/</link>
 		<description>Updates about HB 1210</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Feb 2026 15:25:30 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 10:31:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -413,6 +413,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Austin/Hicks/2026-02-24 15:25:30</guid>
+		</item>
+		<item>
+			<title>👎💵Suellen Mele - 350 Washington Civic Action Team</title>
+			<description>Suellen Mele signed up to testify Con. They are signed up to represent 350 Washington Civic Action Team. They are a registered lobbyist.</description>
+			<pubDate>Tue, 24 Feb 2026 23:26:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Suellen/Mele/2026-02-24 23:26:13</guid>
+		</item>
+		<item>
+			<title>👍Joe Schiessl - City of Richland</title>
+			<description>Joe Schiessl signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_richland/"&gt;City of Richland&lt;/a&gt;.</description>
+			<pubDate>Wed, 25 Feb 2026 10:31:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Schiessl/2026-02-25 10:31:21</guid>
 		</item>
 	</channel>
 </rss>

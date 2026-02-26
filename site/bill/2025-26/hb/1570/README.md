@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): SHB 1570 Academic employee bargaining
+Sign up to testify:
+
+#### 44 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 04:00 PM - Appropriations (APP): HB 1570 Academic employee bargaining
 #### 754 👍 - Pro
 Testifying:

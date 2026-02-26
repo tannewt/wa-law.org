@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/25/2026 [Axios](/org/axios/) - [Washington state eyes tougher penalties for 30+ mph speeding - Axios Seattle](https://www.axios.com/local/seattle/2026/02/25/washington-reckless-driving-bill-30-mph-over-speed-limit-fatal-crashes#:~:text=Senate%20Bill%205890)
 * 01/14/2026 [The Washington Observer](/org/the_washington_observer/) - [A different sort of speech entirely](https://washingtonobserver.substack.com/p/a-different-sort-of-speech-entirely#:~:text=Senate%20Bill%205890)
 * 01/08/2026 [FOX13](/org/fox13/) - [New laws proposed for WA's 2026 legislative session | FOX 13 Seattle](https://www.fox13seattle.com/news/taxes-spending-2026-legislative-session#:~:text=SB%205890)
 

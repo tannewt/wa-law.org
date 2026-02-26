@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6210/</link>
 		<description>Updates about SB 6210</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 20 Feb 2026 02:18:49 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -284,6 +284,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kyle/Davies/2026-02-20 02:18:49</guid>
+		</item>
+		<item>
+			<title>HCW - Executive action taken by committee.</title>
+			<description>HCW - Executive action taken by committee.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/HCW - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>HCW - Majority; do pass with amendment(s).</title>
+			<description>HCW - Majority; do pass with amendment(s).</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/HCW - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2134/</link>
 		<description>Updates about HB 2134</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 19 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 21:29:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -116,6 +116,13 @@
 			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-19/Returned to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Op-Ed: Nobody Wants to Live Next to a Highway » The Urbanist</title>
+			<description>News article "Op-Ed: Nobody Wants to Live Next to a Highway » The Urbanist" from The Urbanist.</description>
+			<pubDate>Wed, 25 Feb 2026 21:29:22 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2026/02/25/op-ed-nobody-wants-to-live-next-to-a-highway/#:~:text=HB%202134</guid>
 		</item>
 	</channel>
 </rss>

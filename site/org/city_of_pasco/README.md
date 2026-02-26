@@ -34,11 +34,15 @@
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
-## [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
+## [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  
+* 👍💵 Briahna Murray
 
 ## 2023-24
 
-### [SB 5912](/bill/2023-24/sb/5912/) - Indigent defense task force 👍1  
+### [SB 6066](/bill/2023-24/sb/6066/) - Crash prevention zones 👍1  
+* 👍💵 Briahna Murray
 
 ### [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act   ❓1
 

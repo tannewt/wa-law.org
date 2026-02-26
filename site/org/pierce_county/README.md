@@ -55,6 +55,8 @@
 * 👍 Bryan Yambe
 * 👍 Bryan Yambe
 
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts  👎1 
+
 ### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎1 
 
 ### [HB 2376](/bill/2025-26/hb/2376/) - Property tax  👎1 
@@ -67,7 +69,7 @@
 
 ### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings 👍1  
 
-### [HB 2588](/bill/2025-26/hb/2588/) - County ferry districts 👍1  
+### [HB 2588](/bill/2025-26/hb/2588/) - County ferry districts 👍1 👎1 
 
 ### [HB 2720](/bill/2025-26/hb/2720/) - Behavioral health services 👍1  
 

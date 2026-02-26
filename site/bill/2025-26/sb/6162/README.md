@@ -24,12 +24,12 @@
 ### Fri 02/27 08:00 AM - Finance (FIN): ESSB 6162 Property tax
 Sign up to testify:
 
-#### 22 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Marty Campbell - Pierce County Assessor-Treasurer
 * Steven Drew - Thurston County Assessor & co chair of the Assessor org’s legislative committee
 
-#### 24 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * Laurie Layne
 * Jeff Pack - Washington Citizens Against Unfair Taxes

@@ -27,10 +27,11 @@
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍3  
 * 👍💵 Guillermo Rogel
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍11  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍12  
 * 👍 Cameron Steinback
 * 👍💵 Guillermo Rogel
 * 👍 Aqsa Mengal
+* 👍💵 Guillermo Rogel
 * 👍💵 Guillermo Rogel
 * 👍💵 Guillermo Rogel
 

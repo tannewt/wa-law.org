@@ -28,7 +28,8 @@
 
 ### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
 
-### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍2  
+### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍3  
+* 👍 Josh McDonald
 * 👍 Josh McDonald
 * 👍 Josh McDonald
 

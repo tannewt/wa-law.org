@@ -8,6 +8,8 @@
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍3  
 * 👍 Mayor Chris Roberts
 
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+
 ### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
 
 ### [SB 6154](/bill/2025-26/sb/6154/) - Culvert replacement permits 👍1  

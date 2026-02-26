@@ -26,7 +26,7 @@
 
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
 
-### [SB 6194](/bill/2025-26/sb/6194/) - Allowable costs/hospital 👍1  
+### [SB 6194](/bill/2025-26/sb/6194/) - Allowable costs/hospital 👍4  
 
 ## [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification  👎1 
 

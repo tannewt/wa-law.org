@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2034/</link>
 		<description>Updates about HB 2034</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Feb 2026 19:19:24 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 20:22:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -312,6 +312,46 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Clair/Olivers/2026-02-24 19:19:24</guid>
+		</item>
+		<item>
+			<title>❓Steve Nelsen - LEOFF Plan 2 Retirement Board</title>
+			<description>Steve Nelsen signed up to testify Other. They are signed up to represent LEOFF Plan 2 Retirement Board.</description>
+			<pubDate>Wed, 25 Feb 2026 11:20:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Steve/Nelsen/2026-02-25 11:20:48</guid>
+		</item>
+		<item>
+			<title>👎💵Joyce Willms - LEOFF1 Coalition</title>
+			<description>Joyce Willms signed up to testify Con. They are signed up to represent LEOFF1 Coalition. They are a registered lobbyist.</description>
+			<pubDate>Wed, 25 Feb 2026 13:37:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Joyce/Willms/2026-02-25 13:37:25</guid>
+		</item>
+		<item>
+			<title>👎Kenneth Torno - LEOFF1 Coalition</title>
+			<description>Kenneth Torno signed up to testify Con.</description>
+			<pubDate>Wed, 25 Feb 2026 16:01:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kenneth/Torno/2026-02-25 16:01:04</guid>
+		</item>
+		<item>
+			<title>❓David Myers - WSFF-JATC - Washington State Fire Fighters Joint Apprenticeship Training Committee</title>
+			<description>David Myers signed up to testify Other. They are signed up to represent WSFF-JATC - Washington State Fire Fighters Joint Apprenticeship Training Committee.</description>
+			<pubDate>Wed, 25 Feb 2026 16:07:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/David/Myers/2026-02-25 16:07:32</guid>
+		</item>
+		<item>
+			<title>👎Patti Mann - LEOFF1 Coalition</title>
+			<description>Patti Mann signed up to testify Con.</description>
+			<pubDate>Wed, 25 Feb 2026 20:22:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Patti/Mann/2026-02-25 20:22:31</guid>
 		</item>
 	</channel>
 </rss>

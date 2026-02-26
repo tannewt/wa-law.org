@@ -13,10 +13,11 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2451 Local tax increment fin.
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Dylan Doty - WA Fire Chiefs Association
+* Sean Eagan - [Port of Tacoma](/org/port_of_tacoma/)
 
 #### 0 👎 - Con
 

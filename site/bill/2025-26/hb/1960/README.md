@@ -14,9 +14,11 @@
 ### Fri 02/27 01:30 PM - Ways & Means (WM): E3SHB 1960 Renewable energy
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* David Funk - Zero Emissions Northwest, LLC
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

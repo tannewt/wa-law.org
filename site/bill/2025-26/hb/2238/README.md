@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/26/2026 [Food Lifeline](/org/food_lifeline/) - [Historic Win: Statewide Food Security Strategy Bill Passes House on Hunger Action Day | Food Lifeline](https://foodlifeline.org/article/historic-win-statewide-food-security-strategy-bill-passes-house-on-hunger-action-day#:~:text=Statewide%20Food%20Security%20Strategy%20Bill%20(HB%202238))
 * 01/28/2026 [House Democrats](/org/house_democrats/) - [Members of Color Caucus Announce 2026 Legislative Priorities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/members-of-color-caucus-announce-2026-legislative-priorities/#:~:text=HB%202238)
 * 01/15/2026 [Food Lifeline](/org/food_lifeline/) - [2026 Washington State Legislative Session Update: Statewide Food Security Strategy | Food Lifeline](https://foodlifeline.org/article/2026-washington-state-legislative-session-update-statewide-food-security-strategy#:~:text=HB%202238)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202238)
@@ -18,9 +19,14 @@
 ### Fri 02/27 01:30 PM - Ways & Means (WM): ESHB 2238 Statewide food security
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* 💵Molly Pfaffenroth - Washington Food Industry Association
+* 💵Anna Nepomuceno - [Northwest Harvest](/org/northwest_harvest/)
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
+* Jennifer Antos - Seattle Neighborhood Farmers Markets
 
-#### 0 👎 - Con
+#### 27 👎 - Con
 
 #### 0 ❓ - Other
 

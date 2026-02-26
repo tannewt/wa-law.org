@@ -16,11 +16,13 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2215 Fuels/climate commitment act
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 559 👎 - Con
+#### 891 👎 - Con
+Testifying:
+* John Roskelley
 
 #### 0 ❓ - Other
 

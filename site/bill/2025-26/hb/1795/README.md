@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/25/2026 [The Washington Observer](/org/the_washington_observer/) - [No brakes on runaway liability costs](https://washingtonobserver.substack.com/p/no-brakes-on-runaway-liability-costs#:~:text=HB%201795,)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SHB%201795)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SHB%201795)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=SHB%201795)
@@ -70,7 +71,7 @@ Testifying:
 * Preston Dwoskin
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Tracy Turner - Sail   and people first
-* Peter Musante - Open Doors For Multicultural Families
+* 💵Peter Musante - Open Doors For Multicultural Families
 
 #### 736 👎 - Con
 Testifying:

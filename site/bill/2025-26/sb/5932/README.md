@@ -8,6 +8,17 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): SSB 5932 Alternative jet fuel
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Dave Warren - Twelve Benefit Corp
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/28 08:00 AM - Environment, Energy & Technology (ENET): SB 5932 Alternative jet fuel
 #### 205 👍 - Pro
 Testifying:

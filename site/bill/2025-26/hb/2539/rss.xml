@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2539/</link>
 		<description>Updates about HB 2539</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 18 Feb 2026 06:35:18 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -141,6 +141,34 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kelly/Olson/2026-02-18 06:35:18</guid>
+		</item>
+		<item>
+			<title>HS - Majority; do pass with amendment(s).</title>
+			<description>HS - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/HS - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

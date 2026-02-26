@@ -84,7 +84,7 @@
 
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
 
-### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍1  
+### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍2  
 
 ### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes 👍1  
 

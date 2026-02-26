@@ -30,6 +30,9 @@
 
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 
+### [HB 2070](/bill/2025-26/hb/2070/) - WWU state funding parity 👍1  
+* 👍 Steve DuPont
+
 ### [HB 2088](/bill/2025-26/hb/2088/) - Dietitian licensure compact 👍1  
 
 ### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍1  

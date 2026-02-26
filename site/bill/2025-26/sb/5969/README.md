@@ -18,6 +18,15 @@
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%205969)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): 2SSB 5969 IEP transition plans
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/19 08:00 AM - Education (ED): 2SSB 5969 IEP transition plans
 #### 24 👍 - Pro
 

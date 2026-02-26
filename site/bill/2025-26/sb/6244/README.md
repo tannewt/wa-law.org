@@ -10,7 +10,7 @@
 ### Thu 02/26 08:00 AM - Finance (FIN): SB 6244 Ag. crop products/tax ex.
 Sign up to testify:
 
-#### 20 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Ben Buchholz - Far West Agribusiness Association, WA Friends of Farms and Forests, Northwest Grain Growers
 * Matthew Ewers - Self - IEDS Logistics

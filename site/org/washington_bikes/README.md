@@ -49,7 +49,7 @@
 * 👍 Vicky Clarke
 * 👍 Vicky Clarke
 
-### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍5  
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍6  
 * 👍 Lee Lambert
 * 👍 Lee Lambert
 

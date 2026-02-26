@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/25/2026 [Washington State Standard](/org/washington_state_standard/) - [Unpopular aircraft tax taxis toward rollback in Olympia • Washington State Standard](https://washingtonstatestandard.com/2026/02/25/unpopular-aircraft-tax-taxis-toward-rollback-in-olympia/#:~:text=bipartisan%20Senate%20version)
 * 02/23/2026 [Senate Democrats](/org/senate_democrats/) - [Senate unveils bipartisan supplemental transportation budget prioritizing preservation and maintenance, job creation - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/23/senate-unveils-bipartisan-supplemental-transportation-budget-prioritizing-preservation-and-maintenance-job-creation/#:~:text=SB%206352)
 
 ## Meetings

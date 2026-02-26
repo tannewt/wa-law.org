@@ -327,6 +327,8 @@
 * 👎💵 Julie Salvi
 * 👎💵 Julie Salvi
 
+### [HB 2070](/bill/2025-26/hb/2070/) - WWU state funding parity 👍1  
+
 ### [HB 2073](/bill/2025-26/hb/2073/) - Health carrier surpluses 👍1  
 
 ### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg. 👍2  

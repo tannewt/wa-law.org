@@ -3,10 +3,11 @@
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍2  
 
-### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍3  
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍4  
 * 👍 Joe Schiessl
 * 👍 Joe Schiessl
 * 👍 Michael Rizzitiello
+* 👍 Joe Schiessl
 
 ### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission. 👍1  
 

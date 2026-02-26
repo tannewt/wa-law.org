@@ -82,11 +82,15 @@
 * 👍💵 John Rothlin
 * 👍💵 John Rothlin
 
-## [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
+### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
+
+## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system   ❓1
+* ❓💵 John Rothlin
 
 ## 2023-24
 
-### [SB 6223](/bill/2023-24/sb/6223/) - Community weatherization 👍1  
+### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system   ❓1
+* ❓💵 John Rothlin
 
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 * 👍💵 John Rothlin

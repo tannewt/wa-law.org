@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2411/</link>
 		<description>Updates about HB 2411</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 15 Feb 2026 08:01:24 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -173,6 +173,27 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Eric/Lundberg/2026-02-15 08:01:24</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>SGTE - Majority; do pass.</title>
+			<description>SGTE - Majority; do pass.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/SGTE - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

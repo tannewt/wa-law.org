@@ -22,6 +22,17 @@
 * 02/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations/#:~:text=House%20Bill%201170)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): E2SHB 1170 AI content notices
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Yale Moon
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 1170 AI content notices
 #### 223 👍 - Pro
 Testifying:

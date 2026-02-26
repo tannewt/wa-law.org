@@ -18,12 +18,14 @@
 ### Thu 02/26 08:00 AM - Capital Budget (CB): SSB 5901 On-base school construction
 Sign up to testify:
 
-#### 103 👍 - Pro
+#### 231 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Kimberly Headrick - Medical Lake School District
+* Charlie Brown - [Clover Park School District](/org/clover_park_school_district/)
+* Terri Cooper
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

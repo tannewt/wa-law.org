@@ -206,9 +206,10 @@
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 * 👍💵 Carl Schroeder
 
-### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 ❓1
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 ❓2
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
+* ❓💵 Derrick Nunnally
 * ❓💵 Derrick Nunnally
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍3  
@@ -313,7 +314,8 @@
 ### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers   ❓1
 * ❓💵 Derrick Nunnally
 
-### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍1  
+### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍2  
+* 👍💵 Steven Ellis
 * 👍💵 Steven Ellis
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings   ❓1
@@ -729,7 +731,7 @@
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
-### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍2  
+### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍3  
 * 👍💵 Steven Ellis
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
@@ -738,7 +740,8 @@
 ### [SB 6096](/bill/2025-26/sb/6096/) - Delayed utility conn. fees   ❓1
 * ❓💵 Carl Schroeder
 
-### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍2  
+* 👍💵 Steven Ellis
 * 👍💵 Steven Ellis
 
 ### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
@@ -762,7 +765,8 @@
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
 * 👍💵 Candice Bock
 
-### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍2  
+* 👍💵 Steven Ellis
 * 👍💵 Steven Ellis
 
 ### [SB 6274](/bill/2025-26/sb/6274/) - Street standards   ❓1

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2249/</link>
 		<description>Updates about HB 2249</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 13:24:28 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -94,6 +94,41 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Joshua/Johnston/2026-02-13 13:24:28</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>SGTE - Majority; do pass.</title>
+			<description>SGTE - Majority; do pass.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/SGTE - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

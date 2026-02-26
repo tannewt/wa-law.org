@@ -17,7 +17,7 @@ Sign up to testify:
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 02/25 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2735 Family law cases
-Sign up to testify:
-
-#### 634 👍 - Pro
+#### 724 👍 - Pro
 Testifying:
 * Bogdan Lendel
 * Jack Loop

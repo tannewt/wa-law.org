@@ -177,9 +177,11 @@
 
 ### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction 👍1  
 
-### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍2  
+### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍4  
 * 👍 Anthony Anton
 * 👍 Anthony Anton
+* 👍 Sean DeWitz
+* 👍 Shawna Cormier
 
 ### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
 

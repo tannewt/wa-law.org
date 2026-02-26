@@ -10,13 +10,18 @@
 ### Fri 02/27 01:30 PM - Ways & Means (WM): HB 2521 Firearms background checks
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Kimberly Mathis - Washington State Patrol
 
-#### 87 👎 - Con
+#### 232 👎 - Con
 Testifying:
 * Jane Milhans
 * Elizabeth Bienas
 * Anderson Kim
+* Michael McKinley
+* Lisa Olson
+* brian keelean - Washington State Rife and Pistol Association
 
 #### 0 ❓ - Other
 

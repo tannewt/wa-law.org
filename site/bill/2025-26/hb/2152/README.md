@@ -14,9 +14,11 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): SHB 2152 Cannabis/health facilities
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
+* Mike Asai - Emerald City Collective
+* Dale Rogers - Green Cross Patient CO-OP
 
 #### 0 👎 - Con
 

@@ -10,9 +10,11 @@
 ### Fri 02/27 01:30 PM - Transportation (TRAN): EHB 2588 County ferry districts
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Satpal Sidhu - Whatcom County Executive
 
-#### 121 👎 - Con
+#### 637 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

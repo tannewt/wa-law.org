@@ -16,7 +16,10 @@
 ### Thu 02/26 08:00 AM - Finance (FIN): SSB 6343 Atmospheric river/tax relief
 Sign up to testify:
 
-#### 317 👍 - Pro
+#### 359 👍 - Pro
+Testifying:
+* Kyle Moore - [City of Kent](/org/city_of_kent/)
+* Troy Linnell - The City of Algona
 
 #### 1 👎 - Con
 

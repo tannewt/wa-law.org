@@ -18,7 +18,7 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): ESHB 2442 Local government fund use
 Sign up to testify:
 
-#### 290 👍 - Pro
+#### 502 👍 - Pro
 Testifying:
 * Anita Gallagher - [Pierce County](/org/pierce_county/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
@@ -32,12 +32,14 @@ Testifying:
 * Chantell Harmon Reed - Tacoma Pierce County Health Department
 * Matt Mauer - Metropolitan Park District of Tacoma
 
-#### 685 👎 - Con
+#### 1032 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * WEI CHEN
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Greg Gallagher - WSACT - WA State Association of County Treasurers
 
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2442 Local government fund use
 #### 193 👍 - Pro

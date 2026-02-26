@@ -7,7 +7,7 @@
 
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍2  
 
-### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍2  
 
 ### [HB 2151](/bill/2025-26/hb/2151/) - Factory built structures 👍1  
 

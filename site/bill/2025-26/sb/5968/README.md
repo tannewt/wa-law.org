@@ -17,6 +17,15 @@
 * 01/10/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Six Bills, One Direction: What Governor Ferguson’s 2026 Agenda Reveals About Power in Washington State - Conservative Ladies of Washington](https://conservativeladiesofwa.com/ferguson-2026-bills-centralized-power/#:~:text=SB%205968)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): 2SSB 5968 Permitting and licensing
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): 2SSB 5968 Permitting and licensing
 #### 47 👍 - Pro
 Testifying:

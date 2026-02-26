@@ -18,9 +18,9 @@
 ### Fri 02/27 01:30 PM - Transportation (TRAN): E2SHB 2251 Climate commit. act accounts
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
 
-#### 33 👎 - Con
+#### 628 👎 - Con
 
 #### 0 ❓ - Other
 

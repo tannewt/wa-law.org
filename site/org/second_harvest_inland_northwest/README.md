@@ -4,7 +4,7 @@
 ### [HB 1987](/bill/2025-26/hb/1987/) - Food security strategy 👍1  
 * 👍 Eric Williams
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
 * 👍 Eric Williams
 
 ### [HB 2714](/bill/2025-26/hb/2714/) - Food assistance caseload 👍1  

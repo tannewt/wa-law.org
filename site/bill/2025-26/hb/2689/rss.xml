@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2689/</link>
 		<description>Updates about HB 2689</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 23 Feb 2026 17:14:02 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 08:31:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Zamzam/Mohamed/2026-02-23 17:14:02</guid>
+		</item>
+		<item>
+			<title>👎Monique Dugaw - ESD 112</title>
+			<description>Monique Dugaw signed up to testify Con. They are signed up to represent ESD 112.</description>
+			<pubDate>Wed, 25 Feb 2026 05:15:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Monique/Dugaw/2026-02-25 05:15:28</guid>
+		</item>
+		<item>
+			<title>❓Lori Pittman - Puget Sound Educational Service District</title>
+			<description>Lori Pittman signed up to testify Other. They are signed up to represent Puget Sound Educational Service District.</description>
+			<pubDate>Wed, 25 Feb 2026 08:31:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lori/Pittman/2026-02-25 08:31:51</guid>
 		</item>
 	</channel>
 </rss>

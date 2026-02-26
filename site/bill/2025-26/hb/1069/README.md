@@ -13,11 +13,11 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): HB 1069 Supp. retirement bargaining
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 298 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
 
 ### Sat 04/05 12:00 PM - Ways & Means (WM): HB 1069 Supp. retirement bargaining
 #### 16 👍 - Pro

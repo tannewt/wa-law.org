@@ -14,6 +14,20 @@
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201903)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): E2SHB 1903 Low-income energy assistance
+Sign up to testify:
+
+#### 94 👍 - Pro
+Testifying:
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Charlie Brown - Cascade Natural Gas and NW Natural
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1903 Low-income energy assistance
 #### 228 👍 - Pro
 Testifying:

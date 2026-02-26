@@ -119,11 +119,25 @@
 			<guid isPermaLink="false">testifier/Joel/Anderson/2026-02-18 09:59:24</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>PEW - Executive action taken by committee.</title>
 			<description>PEW - Executive action taken by committee.</description>
 			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-24/PEW - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>PEW - Majority; do pass.</title>
+			<description>PEW - Majority; do pass.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/PEW - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

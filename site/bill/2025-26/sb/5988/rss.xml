@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5988/</link>
 		<description>Updates about SB 5988</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 23 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 16:45:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -114,6 +114,14 @@
 			<pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-23/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍💵Ian Corbridge - Washington State Department of Health</title>
+			<description>Ian Corbridge signed up to testify Pro. They are signed up to represent Washington State Department of Health. They are a registered lobbyist.</description>
+			<pubDate>Wed, 25 Feb 2026 16:45:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ian/Corbridge/2026-02-25 16:45:32</guid>
 		</item>
 	</channel>
 </rss>

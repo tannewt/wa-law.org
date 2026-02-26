@@ -48,6 +48,8 @@
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍2  
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍3  
@@ -60,7 +62,7 @@
 
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍4  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍4  
 
 ### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍2  
 

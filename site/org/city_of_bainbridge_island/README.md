@@ -10,8 +10,12 @@
 
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 
-## [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍2  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍2  
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
+## [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
 
 ## 2023-24
 
-## [HB 2199](/bill/2023-24/hb/2199/) - Derelict vessels 👍2  
+## [SB 6262](/bill/2023-24/sb/6262/) - Vehicle fees/maximum weight 👍1  

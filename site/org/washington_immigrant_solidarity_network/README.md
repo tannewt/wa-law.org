@@ -64,7 +64,7 @@
 
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍2  
 

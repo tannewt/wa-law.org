@@ -15,7 +15,9 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): HB 2104 Aviation assurance funding
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Noel Hardin - Asotin County Fire District 1/Washington State Fire Chief's
 
 #### 0 👎 - Con
 

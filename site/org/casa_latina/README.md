@@ -9,6 +9,8 @@
 
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
 
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓1
+
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍2  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍3  

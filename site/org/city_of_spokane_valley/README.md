@@ -283,6 +283,9 @@
 
 ### [SB 6204](/bill/2025-26/sb/6204/) - Home cultivation of cannabis  👎1 
 
+### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+* 👍 Virginia Clough
+
 ### [SB 6345](/bill/2025-26/sb/6345/) - Transportation contracting 👍1  
 
 ## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎2 

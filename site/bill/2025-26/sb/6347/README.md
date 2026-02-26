@@ -20,15 +20,16 @@
 ### Thu 02/26 08:00 AM - Finance (FIN): ESB 6347 Estate tax rates
 Sign up to testify:
 
-#### 754 👍 - Pro
+#### 1214 👍 - Pro
 Testifying:
 * Tim Overland - Nelson Legacy Group LLC
 
-#### 65 👎 - Con
+#### 146 👎 - Con
 Testifying:
 * 💵John Burbank
 * 💵Rian Watt - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * 💵Lily Storbeck
 * 💵Mia Shigemura - Washington State Budget and Policy Center
+* Greg Feiges
 
 #### 2 ❓ - Other

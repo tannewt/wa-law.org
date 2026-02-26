@@ -25,7 +25,7 @@
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍3  
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍4  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓2
 * ❓ Karl Almgren
@@ -53,9 +53,9 @@
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 
-### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍2  
 
 ## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 

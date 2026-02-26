@@ -80,6 +80,9 @@
 
 ### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍2  
 
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
+* 👍 Dierdre Patterson
+
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
 
 ### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  

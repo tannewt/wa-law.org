@@ -12,6 +12,17 @@
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202590)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): 2SHB 2590 Limited equity cooperatives
+Sign up to testify:
+
+#### 17 👍 - Pro
+Testifying:
+* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/20 10:30 AM - Housing (HSG): 2SHB 2590 Limited equity cooperatives
 #### 57 👍 - Pro
 Testifying:

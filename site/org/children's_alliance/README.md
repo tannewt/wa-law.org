@@ -48,7 +48,7 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Soleil Boyd
 
-### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍2  
 
 ### [HB 2438](/bill/2025-26/hb/2438/) - Early education scholarship 👍1  
 

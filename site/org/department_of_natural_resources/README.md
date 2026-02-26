@@ -72,7 +72,7 @@
 * 👍 Pat Sullivan
 * 👍 Pat Sullivan
 
-### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍2  
+### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍3  
 * 👍 George Geissler
 
 ### [HB 2139](/bill/2025-26/hb/2139/) - Snowmobile registration fees 👍1  

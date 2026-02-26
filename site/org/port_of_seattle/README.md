@@ -100,6 +100,8 @@
 * 👍 John Flanagan
 * 👍 John Flanagan
 
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍2  
+
 ### [HB 2608](/bill/2025-26/hb/2608/) - Nuclear facilities/tax pref. 👍1  
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  

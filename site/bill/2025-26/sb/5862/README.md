@@ -11,11 +11,12 @@
 ### Thu 02/26 01:30 PM - Appropriations (APP): SSB 5862 TRS & PERS plan 1 COLA
 Sign up to testify:
 
-#### 902 👍 - Pro
+#### 916 👍 - Pro
 Testifying:
 * NEVA LUKE - WEA-Retired
 * Phyllis Farrell
 * Lee Ann Prielipp - WEA Retired
+* Barb Church - Washington State School Retirees' Association
 
 #### 5 👎 - Con
 

@@ -14,13 +14,17 @@
 ### Thu 02/26 01:30 PM - Appropriations (APP): SSB 5972 Correctional officers/arb.
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 47 👍 - Pro
+Testifying:
+* Daron Smith - Teamsters Local 231
+* Rachid Bensultana - correction SGT
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jay Arnold - Council-Member, City of Kirkland
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5972 Correctional officers/arb.
 #### 23 👍 - Pro

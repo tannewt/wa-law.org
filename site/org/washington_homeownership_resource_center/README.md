@@ -88,7 +88,7 @@
 
 ### [SB 6091](/bill/2025-26/sb/6091/) - Real estate/exclusive market 👍3  
 
-### [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍2  
+### [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍3  
 
 ## [SB 6167](/bill/2025-26/sb/6167/) - Down payment assistance  👎2 
 * 👎💵 Elizabeth Perez

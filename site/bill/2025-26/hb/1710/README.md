@@ -11,6 +11,7 @@
 * [Engrossed Third Substitute](S3.E/)
 
 ## 📰 Articles
+* 02/25/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative update: Three-quarters through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/25/legislative-update-three-quarters-through-session/#:~:text=HB%201710)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/02/20/session-update-and-monday-town-hall/#:~:text=HB%201710)
 * 01/28/2026 [House Democrats](/org/house_democrats/) - [Members of Color Caucus Announce 2026 Legislative Priorities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/members-of-color-caucus-announce-2026-legislative-priorities/#:~:text=HB%201710)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201710)
@@ -18,6 +19,17 @@
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201710)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): E3SHB 1710 Voting rights act compliance
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): E3SHB 1710 Voting rights act compliance
 #### 554 👍 - Pro
 Testifying:

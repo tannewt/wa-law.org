@@ -5,7 +5,7 @@
 * 👍 Emani Donaldson
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
-* ❓ Ginger Kwan
+* ❓💵 Ginger Kwan
 
 ### [HB 1395](/bill/2025-26/hb/1395/) - Home care worker background 👍1  
 * 👍 Moses Perez
@@ -15,17 +15,19 @@
 
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
 
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
+
 ### [HB 2587](/bill/2025-26/hb/2587/) - Nonprofit grant advances 👍1  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
-* ❓ Ginger Kwan
+* ❓💵 Ginger Kwan
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍1  
 
 ### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍1  
 
 ### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍2  
-* 👍 Ginger Kwan
+* 👍💵 Ginger Kwan
 
 ## [SB 6256](/bill/2025-26/sb/6256/) - Unoccupied housing/tax 👍1  
 
@@ -42,7 +44,7 @@
 ### [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍6  
 
 ### [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍3  
-* 👍 Ginger Kwan
+* 👍💵 Ginger Kwan
 
 ### [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
@@ -51,9 +53,9 @@
 ### [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍9  
 
 ### [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍9  
-* 👍 Ginger Kwan
-* 👍 Ginger Kwan
-* 👍 Ginger Kwan
+* 👍💵 Ginger Kwan
+* 👍💵 Ginger Kwan
+* 👍💵 Ginger Kwan
 
 ### [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
 
@@ -85,7 +87,7 @@
 
 ### [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍2 👎2 
 * 👍 Khalid Sirad
-* 👍 Peter Musante
+* 👍💵 Peter Musante
 
 ### [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍3  
 * 👍 Khalid Sirad

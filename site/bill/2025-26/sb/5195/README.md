@@ -128,7 +128,7 @@ Testifying:
 * Rachel Downes - [Housing Hope](/org/housing_hope/)
 * Vicki Hammond - HealthPoint (Chief Finance & Administrative Officer)
 * Jim CastroLang
-* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
+* 💵Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * Jesse Simpson - Housing Development Consortium
 * 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * 💵Ian Goodhew - Airlift Northwest-UW Medicine

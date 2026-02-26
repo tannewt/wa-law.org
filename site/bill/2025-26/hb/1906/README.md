@@ -9,6 +9,18 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Ways & Means (WM): 2SHB 1906 Water system rates
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Bill Clarke - WA PUD Association
+* Charlie Brown - NW Natural
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/24 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1906 Water system rates
 #### 8 👍 - Pro
 Testifying:

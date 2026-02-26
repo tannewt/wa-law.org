@@ -12,6 +12,15 @@
 * 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201833)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): 2SHB 1833 AI grant program
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 04:00 PM - Appropriations (APP): SHB 1833 AI grant program
 #### 43 👍 - Pro
 Testifying:

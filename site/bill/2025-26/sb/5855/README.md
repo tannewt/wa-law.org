@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/25/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative update: Three-quarters through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/25/legislative-update-three-quarters-through-session/#:~:text=Senate%20Bill%205855)
 * 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=SSB%205855)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February legislative update - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/02/19/february-legislative-update/#:~:text=5855)
 * 02/18/2026 [KING5](/org/king5/) - [Bill banning masked law enforcement gets public hearing in Olympia | king5.com](https://www.king5.com/article/news/politics/masked-law-enforcement-bill-public-hearing-house/281-b902a2e9-5d46-4107-9b24-02bd8973595e#:~:text=Senate%20Bill%205855)

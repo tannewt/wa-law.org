@@ -13,9 +13,15 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2325 Tourism assessment
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 80 👍 - Pro
+Testifying:
+* Annie McGrath - State of Washington Tourism
+* David Blandford - State of Washington Tourism
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* Shawna Cormier - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 6 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -525,7 +525,7 @@
 
 ### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍1  
 
-### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍1  
+### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍2  
 
 ### [HB 2334](/bill/2025-26/hb/2334/) - Cash transactions/pennies 👍2  
 
@@ -553,7 +553,7 @@
 ### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy  👎2 
 * 👎 Max Martin
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use  👎2 
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use  👎3 
 
 ### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing  👎2 
 
@@ -986,10 +986,10 @@
 ### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services  👎1 
 * 👎 Max Martin
 
-### [SB 6113](/bill/2025-26/sb/6113/) - Tax administration   ❓2
+### [SB 6113](/bill/2025-26/sb/6113/) - Tax administration   ❓3
 * ❓ Max Martin
 
-### [SB 6114](/bill/2025-26/sb/6114/) - Excise tax/fixture defined  👎1 
+### [SB 6114](/bill/2025-26/sb/6114/) - Excise tax/fixture defined  👎1 ❓1
 * 👎 Max Martin
 
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes  👎1 

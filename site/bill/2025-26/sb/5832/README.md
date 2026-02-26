@@ -21,7 +21,7 @@ Testifying:
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * Nick Fielden - Washington State Attorney General’s Office
 
-#### 512 👎 - Con
+#### 806 👎 - Con
 
 #### 0 ❓ - Other
 

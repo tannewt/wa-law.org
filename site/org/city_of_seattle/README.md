@@ -53,7 +53,7 @@
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
-### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍2  
+### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍3  
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
 
@@ -144,7 +144,7 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍3  
 
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍2  
 
@@ -160,7 +160,7 @@
 
 ### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍2  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍3  
 
 ### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
 
@@ -193,6 +193,8 @@
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍2  
 
 ### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy 👍1  
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
 
 ### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
 
@@ -359,13 +361,13 @@
 
 ### [SB 6256](/bill/2025-26/sb/6256/) - Unoccupied housing/tax 👍1  
 
-### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍2  
 
 ### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 
 ### [SB 6309](/bill/2025-26/sb/6309/) - High cap. transit permits 👍1  
 
-### [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍1  
+### [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍2  
 
 ## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 

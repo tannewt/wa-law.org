@@ -77,7 +77,8 @@
 
 ### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
 
-### [SB 6343](/bill/2025-26/sb/6343/) - Atmospheric river/tax relief 👍1  
+### [SB 6343](/bill/2025-26/sb/6343/) - Atmospheric river/tax relief 👍2  
+* 👍 Kyle Moore
 * 👍 Kyle Moore
 
 ## [SJM 8000](/bill/2025-26/sjm/8000/) - Martin Luther King, Jr. Way 👍1  

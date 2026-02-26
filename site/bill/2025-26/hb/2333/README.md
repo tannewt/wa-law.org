@@ -14,6 +14,15 @@
 * 01/09/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: HB 2333 — A Sweeping Expansion of Secrecy and Special Protections for Government Officials - Conservative Ladies of Washington](https://conservativeladiesofwa.com/hb2333-protections-for-wa-officials/#:~:text=HB%202333%20Washington%20State%20Legislature)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): 2SHB 2333 Political violence
+Sign up to testify:
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/20 02:00 PM - Law & Justice (LAW): 2SHB 2333 Political violence
 #### 247 👍 - Pro
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5972/</link>
 		<description>Updates about SB 5972</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Feb 2026 16:03:55 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 20:37:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -199,6 +199,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Candice/Bock/2026-02-24 16:03:55</guid>
+		</item>
+		<item>
+			<title>👎Jay Arnold - Council-Member, City of Kirkland</title>
+			<description>Jay Arnold signed up to testify Con. They are signed up to represent Council-Member, City of Kirkland.</description>
+			<pubDate>Wed, 25 Feb 2026 10:54:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jay/Arnold/2026-02-25 10:54:00</guid>
+		</item>
+		<item>
+			<title>👍Daron Smith - Teamsters Local 231</title>
+			<description>Daron Smith signed up to testify Pro. They are signed up to represent Teamsters Local 231.</description>
+			<pubDate>Wed, 25 Feb 2026 13:35:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Daron/Smith/2026-02-25 13:35:00</guid>
+		</item>
+		<item>
+			<title>👍Rachid Bensultana - correction SGT</title>
+			<description>Rachid Bensultana signed up to testify Pro. They are signed up to represent correction SGT.</description>
+			<pubDate>Wed, 25 Feb 2026 20:37:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rachid/Bensultana/2026-02-25 20:37:54</guid>
 		</item>
 	</channel>
 </rss>

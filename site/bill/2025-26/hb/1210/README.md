@@ -13,7 +13,7 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): 2ESHB 1210 Urban area tax preferences
 Sign up to testify:
 
-#### 93 👍 - Pro
+#### 162 👍 - Pro
 Testifying:
 * Rael Candelaria - Framatome
 * Michael Rizzitiello - [City of Richland](/org/city_of_richland/)
@@ -22,13 +22,15 @@ Testifying:
 * KARL DYE - TRIDEC
 * Adam J. Fyall - Benton County
 * 💵Austin Hicks - Admiral Strategies
+* Joe Schiessl - [City of Richland](/org/city_of_richland/)
 
-#### 298 👎 - Con
+#### 472 👎 - Con
 Testifying:
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * Kathleen M. Saul - [Sierra Club](/org/sierra_club/)
 * Roger Lippman
 * Cathryn Chudy
+* 💵Suellen Mele - 350 Washington Civic Action Team
 
 #### 1 ❓ - Other
 

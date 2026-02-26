@@ -14,6 +14,15 @@
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=E2SSB%205847)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): E2SSB 5847 Workers' comp. medical care
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5847 Workers' comp. medical care
 #### 108 👍 - Pro
 Testifying:

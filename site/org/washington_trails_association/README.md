@@ -15,11 +15,13 @@
 
 ### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍1  
 
-## [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
+
+## [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
 
 ## 2023-24
 
-### [SB 6097](/bill/2023-24/sb/6097/) - Conservation futures/tribes 👍1  
+### [SB 6110](/bill/2023-24/sb/6110/) - Electric bicycle, motorcycle 👍1  
 
 ### [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍2  
 

@@ -62,7 +62,7 @@ Testifying:
 * Sebastian Ruiz - Mujares in Action
 * Angela Ngiangi Diansasila - Congolese Integration Network
 * Mark Finney - [Thrive International](/org/thrive_international/)
-* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
+* 💵Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 
 #### 111 👎 - Con
 

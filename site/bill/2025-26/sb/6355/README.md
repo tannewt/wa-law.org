@@ -10,8 +10,15 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): SB 6355 Electric transmission system
 Sign up to testify:
 
-#### 14 👍 - Pro
+#### 275 👍 - Pro
+Testifying:
+* Natalie Manitius - Clean Air Task Force
+* Kelly Jiang
 
-#### 1 👎 - Con
+#### 205 👎 - Con
+Testifying:
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)

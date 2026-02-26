@@ -152,11 +152,25 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/cortes/2026/02/20/february-update/#:~:text=Senate%20Bill%206137</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>SGOV - Executive action taken by committee.</title>
 			<description>SGOV - Executive action taken by committee.</description>
 			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-24/SGOV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>SGOV - Majority; do pass with amendment(s).</title>
+			<description>SGOV - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/SGOV - Majority; do pass with amendment(s).</guid>
 		</item>
 	</channel>
 </rss>

@@ -103,7 +103,7 @@
 ### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child  👎1 
 * 👎 Annie Chung
 
-### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍2  
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍3  
 
 ### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍2  
 * 👍 Chach Duarte White

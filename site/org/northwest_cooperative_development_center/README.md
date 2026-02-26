@@ -53,7 +53,8 @@
 
 ### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
 
-### [HB 2590](/bill/2025-26/hb/2590/) - Limited equity cooperatives 👍7  
+### [HB 2590](/bill/2025-26/hb/2590/) - Limited equity cooperatives 👍9  
+* 👍 Victoria OBanion
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion

@@ -101,7 +101,7 @@ Testifying:
 * Ginger Ewing - Terrain Spokane
 * Mike Gonzalez
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
-* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
+* 💵Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * Rachael Myers - Washington Low Income Housing Alliance
 * Drayton Jackson - The communities of Concern Commission
 * 💵Kenny Pittman - Communities of Concern Commission

@@ -449,11 +449,32 @@
 			<guid isPermaLink="true">https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=ESSB%205984</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>TEDV - Executive action taken by committee.</title>
 			<description>TEDV - Executive action taken by committee.</description>
 			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-24/TEDV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>TEDV - Majority; do pass with amendment(s).</title>
+			<description>TEDV - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/TEDV - Majority; do pass with amendment(s).</guid>
 		</item>
 	</channel>
 </rss>

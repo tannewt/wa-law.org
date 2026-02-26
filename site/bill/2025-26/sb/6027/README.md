@@ -17,7 +17,7 @@
 ### Thu 02/26 08:00 AM - Finance (FIN): E2SSB 6027 Affordable housing funding
 Sign up to testify:
 
-#### 270 👍 - Pro
+#### 292 👍 - Pro
 Testifying:
 * 💵Jason Gauthier - Pierce County and the South Sound Housing Affordability Partners
 * Joe McDermott - State Relations Director | King County
@@ -27,7 +27,7 @@ Testifying:
 * Councilmember Megan Dunn - Snohomish County
 * Em Stone - Governor's Office
 
-#### 623 👎 - Con
+#### 1052 👎 - Con
 
 #### 1 ❓ - Other
 

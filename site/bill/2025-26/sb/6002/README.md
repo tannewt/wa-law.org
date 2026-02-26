@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/24/2026 [MyNorthwest](/org/mynorthwest/) - [Bill to regulate automated license plate readers clears another hurdle](https://mynorthwest.com/mynorthwest-politics/automated-license/4208062#:~:text=Engrossed%20Substitute%20Senate%20Bill%206002)
 * 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%206002)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%206002)
 * 02/18/2026 [FOX13](/org/fox13/) - [Lynnwood considers ending contract with Flock cameras | FOX 13 Seattle](https://www.fox13seattle.com/news/lynnwood-ending-contract-flock-cameras#:~:text=Senate%20Bill%206002)

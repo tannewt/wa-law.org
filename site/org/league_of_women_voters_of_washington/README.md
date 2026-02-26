@@ -113,7 +113,7 @@
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
 * 👍 Ann Murphy
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
 * 👍 Phyllis Farrell
 
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍2  

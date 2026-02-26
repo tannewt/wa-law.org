@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): ESHB 2508 Office of independent inves.
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/23 10:30 AM - Law & Justice (LAW): ESHB 2508 Office of independent inves.
 #### 9 👍 - Pro
 Testifying:

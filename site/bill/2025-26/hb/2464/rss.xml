@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2464/</link>
 		<description>Updates about HB 2464</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 23 Feb 2026 10:48:40 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 20:53:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -201,6 +201,34 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Hannah/Woerner/2026-02-23 10:48:40</guid>
+		</item>
+		<item>
+			<title>HS - Majority; do pass.</title>
+			<description>HS - Majority; do pass.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/HS - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Legislative update: Three-quarters through session - Sen. Javier Valdez</title>
+			<description>News article "Legislative update: Three-quarters through session - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Wed, 25 Feb 2026 20:53:03 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2026/02/25/legislative-update-three-quarters-through-session/#:~:text=HB%202464</guid>
 		</item>
 	</channel>
 </rss>

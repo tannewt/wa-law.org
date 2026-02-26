@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/25/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative update: Three-quarters through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/25/legislative-update-three-quarters-through-session/#:~:text=HB%202294)
 * 02/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More bills falter as time dwindles for Washington Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/19/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=restrictions%20on%20where%20grocery%20stores%20or%20pharmacies%20can%20be%20located)
 * 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills falter as time dwindles for Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=restrictions%20on%20where%20grocery%20stores%20or%20pharmacies%20can%20be%20located)
 * 02/17/2026 [House Democrats](/org/house_democrats/) - [House Passes Rep. Farivar’s Bills to Expand Food Access, Update Disability Facility Names, & Strengthen Transparency in RHC’s – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/17/house-passes-rep-farivars-bills-to-expand-food-access-update-disability-facility-names-strengthen-transparency-in-rhcs/#:~:text=HB%202294)

@@ -69,7 +69,8 @@
 
 ### [HB 2490](/bill/2025-26/hb/2490/) - Ex. medical placement 👍1  
 
-### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍2  
+* 👍💵 Kelly Olson
 
 ### [HB 2539](/bill/2025-26/hb/2539/) - Inmate funds 👍2  
 * 👍💵 Kelly Olson

@@ -139,7 +139,7 @@
 
 ### [HB 2322](/bill/2025-26/hb/2322/) - Alternative jet fuel 👍1  
 
-### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍2  
+### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍3  
 
 ### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍2  
 

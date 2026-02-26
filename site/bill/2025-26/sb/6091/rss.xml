@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6091/</link>
 		<description>Updates about SB 6091</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 18 Feb 2026 12:23:15 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -365,6 +365,27 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Daniel/Bannon/2026-02-18 12:23:15</guid>
+		</item>
+		<item>
+			<title>CPB - Executive action taken by committee.</title>
+			<description>CPB - Executive action taken by committee.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/CPB - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CPB - Majority; do pass.</title>
+			<description>CPB - Majority; do pass.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/CPB - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

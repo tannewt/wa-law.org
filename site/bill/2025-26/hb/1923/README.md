@@ -22,7 +22,7 @@
 ### Fri 02/27 01:30 PM - Transportation (TRAN): 2SHB 1923 Passenger-only ferries
 Sign up to testify:
 
-#### 317 👍 - Pro
+#### 390 👍 - Pro
 Testifying:
 * Dylan Doty - [Kitsap Transit](/org/kitsap_transit/)
 * Patrick Gallagher - [Marine Exchange of Puget Sound](/org/marine_exchange_of_puget_sound/)
@@ -34,8 +34,21 @@ Testifying:
 * Ron Wille - All American Marine Inc.
 * Evan Perrollaz - Town of Friday Harbor
 * Greg Wheeler - Mayor of Bremerton
+* Gavin Higgins - Everett Ship Repair LLC
+* 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
+* Kal Rohde - Puget Sound Metal Trades
+* Marsha Cutting
+* Melissa Dingmon
+* Tuuli Snow
+* Amy Drayer - Islanders for Ferry Action
+* Ray Stephanson - Economic Alliance of Snohomish County
+* Justin Paulsen - San Juan County Council Chair
+* Greg Easton - Port of South Whidbey
+* Walt Elliott - Kingston North Kitsap Rotary
+* Bobbie Moore - self
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -9,6 +9,8 @@
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
 
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
 ### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  

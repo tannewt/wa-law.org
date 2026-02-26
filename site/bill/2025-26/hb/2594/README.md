@@ -15,6 +15,17 @@
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202594)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Ways & Means (WM): SHB 2594 Unhoused children/education
+Sign up to testify:
+
+#### 25 👍 - Pro
+Testifying:
+* 💵Aaron Yared - [Building Changes](/org/building_changes/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/18 10:30 AM - Early Learning & K-12 Education (EDU): SHB 2594 Unhoused children/education
 #### 260 👍 - Pro
 Testifying:

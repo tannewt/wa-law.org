@@ -5,6 +5,8 @@
 
 ### [HB 2376](/bill/2025-26/hb/2376/) - Property tax 👍1  
 
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Marc Cote
 
@@ -18,11 +20,11 @@
 
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍2  
 
-## [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍1  
+## [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍2  
 
 ## 2023-24
 
-### [SB 6162](/bill/2023-24/sb/6162/) - Property tax 👍1  
+### [SB 6162](/bill/2023-24/sb/6162/) - Property tax 👍2  
 
 ### [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍 Marc Cote

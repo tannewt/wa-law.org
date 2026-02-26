@@ -21,6 +21,15 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202515)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): E2SHB 2515 Large energy use facilities
+Sign up to testify:
+
+#### 18 👍 - Pro
+
+#### 28 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 2515 Large energy use facilities
 #### 624 👍 - Pro
 Testifying:

@@ -223,13 +223,14 @@
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
-## [SB 6354](/bill/2025-26/sb/6354/) - Electric vehicles 👍1  
+### [SB 6354](/bill/2025-26/sb/6354/) - Electric vehicles 👍1  
 * 👍💵 Leah Missik
+
+## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system 👍1  
 
 ## 2023-24
 
-### [SB 6354](/bill/2023-24/sb/6354/) - Electric vehicles 👍1  
-* 👍💵 Leah Missik
+### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system 👍1  
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍2  
 * 👍💵 Leah Missik

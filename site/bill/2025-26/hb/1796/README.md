@@ -13,6 +13,20 @@
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201796)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Ways & Means (WM): HB 1796 School construction debt
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* Jon Holmen - Lake Washington School District
+* 💵Grace Yuan - [School Alliance](/org/school_alliance/)
+
+#### 43 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+
+#### 0 ❓ - Other
+
 ### Wed 02/18 10:30 AM - Early Learning & K-12 Education (EDU): HB 1796 School construction debt
 #### 172 👍 - Pro
 Testifying:

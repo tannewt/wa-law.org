@@ -72,6 +72,8 @@
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
 
+### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb.  👎1 
+
 ### [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage 👍1  
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 

@@ -12,21 +12,34 @@
 ## 📰 Articles
 * 02/02/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/02/the-house-hot-sheet-for-week-4-of-the-2026-legislative-session/#:~:text=HB%202523)
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202523)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Key Week for Community Reinvestment Project & Imagination Library in Olympia - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02252026#:~:text=HB%202523%20Washington%20State%20Legislature)
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2523 Community reinvestment prg.
 Sign up to testify:
 
-#### 81 👍 - Pro
+#### 185 👍 - Pro
 Testifying:
 * Paula Fillmore-Sardinas - WBBA (WA Build Black Alliance)
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * 💵Amanda Sandoval - United Way of King County
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Dierdre Patterson - [City of Tacoma](/org/city_of_tacoma/)
+* Carol Willis - United Way of Pierce County
+* Mike Asai - Emerald City Collective
+* John Traugott - [Washington Workforce Association](/org/washington_workforce_association/)
+* Miriam Halliday - Workforce Southwest Washington
+* Nicholas DeCaro - Island Style Food & Barbecue
+* Shania Wright - Wrightway Beauty Supply
+* Joy Promise
+* Candice Baughman
+* Rosi Tavaiqia - PICA-WA
+* Estela Ortega - El Centro de la Raza
+* 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 
-#### 2 👎 - Con
+#### 81 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2523 Community reinvestment prg.
 #### 87 👍 - Pro

@@ -11,6 +11,15 @@
 * 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=ESB%206246)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): ESB 6246 Emissions/trade-exposed
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/18 10:00 AM - Environment & Energy (ENVI): ESB 6246 Emissions/trade-exposed
 #### 45 👍 - Pro
 Testifying:

@@ -98,7 +98,7 @@
 
 ### [HB 2415](/bill/2025-26/hb/2415/) - DSHS unexpected fatalities 👍1  
 
-### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍2  
 
 ### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
 
@@ -109,7 +109,7 @@
 ### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports 👍4  
 * 👍💵 Ramona Hattendorf
 
-### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍2  
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 

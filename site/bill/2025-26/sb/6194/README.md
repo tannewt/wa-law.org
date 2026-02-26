@@ -12,11 +12,15 @@
 ### Thu 02/26 01:30 PM - Appropriations (APP): ESSB 6194 Allowable costs/hospital
 Sign up to testify:
 
-#### 16 👍 - Pro
+#### 143 👍 - Pro
+Testifying:
+* Cathy Bambrick - Astria Toppenish Hospital
+* Raul Garcia - Astria Toppenish Hospital
+* Andy Alden
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 
 ### Tue 02/03 04:00 PM - Ways & Means (WM): SB 6194 Allowable costs/hospital
 #### 251 👍 - Pro

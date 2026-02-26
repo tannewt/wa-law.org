@@ -11,6 +11,15 @@
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%206184)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): SSB 6184 Office of homeless youth
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 6184 Office of homeless youth
 #### 24 👍 - Pro
 Testifying:

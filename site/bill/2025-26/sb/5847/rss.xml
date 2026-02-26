@@ -357,5 +357,19 @@
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-24/LAWS - Executive action taken by committee.</guid>
 		</item>
+		<item>
+			<title>LAWS - Majority; do pass with amendment(s).</title>
+			<description>LAWS - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/LAWS - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-24/Minority; without recommendation.</guid>
+		</item>
 	</channel>
 </rss>

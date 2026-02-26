@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/25/2026 [The Center Square](/org/the_center_square/) - [WATCH: 'Ludicrous': Former AG McKenna slams claim that income isn't property | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_354060da-28ae-468f-85b6-e299d0ec4906.html#:~:text=Senate%20Bill%206346)
 * 02/24/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA income tax proposal sparks more heated debate in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f8f30f64-2be8-4b78-afde-8f65c379330d.html#:~:text=Senate%20Bill%206346)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SB%206346)
 * 02/23/2026 [The Center Square](/org/the_center_square/) - [WATCH: Former WA AG Rob McKenna says income tax bill 'doesn't pass laugh test' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d436f300-c981-4de4-845c-2c4c6c882abd.html#:~:text=SB%206346)
@@ -27,6 +28,7 @@
 * 02/18/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: The rule of law takes a hit in Washington state with unconstitutional income tax vote | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_4b629ed3-5303-468d-89f6-6b4a791686cc.html#:~:text=Senate%20Bill%206346)
 * 02/17/2026 [The Center Square](/org/the_center_square/) - [Ferguson: Income tax bill needs 'significantly more' relief for families, small businesses | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b686d615-d4ff-411d-9826-fc2da4338476.html#:~:text=SB%206346)
 * 02/17/2026 [The Center Square](/org/the_center_square/) - [Former WA AG argues in legal memo proposed income tax is illegal | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_cd6c970a-6501-4f75-9c75-7bcd93b7a39f.html#:~:text=Senate%20Bill%206346)
+* 02/17/2026 [Axios](/org/axios/) - [Washington Senate OKs income tax on millionaires - Axios Seattle](https://www.axios.com/local/seattle/2026/02/17/washington-senate-oks-income-tax-on-millionaires#:~:text=millionaire%20tax%20bill)
 * 02/17/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington state Senate approves tax on personal income over $1M • Washington State Standard](https://washingtonstatestandard.com/2026/02/16/washington-state-senate-approves-tax-on-personal-income-over-1m/#:~:text=Senate%20Bill%206346)
 * 02/17/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes the Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/16/millionaires-tax-passes-the-senate/#:~:text=Senate%20Bill%206346)
 * 02/17/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes Millionaires Tax - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/02/16/senate-passes-millionaires-tax/#:~:text=SB%206346)

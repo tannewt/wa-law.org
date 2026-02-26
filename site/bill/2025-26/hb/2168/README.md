@@ -16,9 +16,9 @@
 ### Thu 02/26 01:30 PM - Ways & Means (WM): ESHB 2168 Overdose mapping information
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 83 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

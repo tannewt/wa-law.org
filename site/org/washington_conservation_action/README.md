@@ -72,7 +72,7 @@
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍2  
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍5  
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍6  
 * 👍 Julian Santos
 * 👍 Caitlin Krenn
 
@@ -225,11 +225,13 @@
 * 👍 Caitlin Krenn
 * 👍 Caitlin Krenn
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+
+## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system 👍1  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system 👍1  
 
 ### [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 

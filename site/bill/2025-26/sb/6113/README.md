@@ -17,13 +17,13 @@
 ### Fri 02/27 08:00 AM - Finance (FIN): ESSB 6113 Tax administration
 Sign up to testify:
 
-#### 46 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * John Fleckenstein - Student Orchestras of Greater Olympia
 
-#### 5 👎 - Con
+#### 55 👎 - Con
 
-#### 32 ❓ - Other
+#### 48 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Hunter George - Washington Recreation and Park Association
@@ -32,6 +32,11 @@ Testifying:
 * Patty Belmonte - Hands On Children's Museum
 * Lars Myren - Columbia Choirs of Metropolitan Seattle
 * Jessi Wasson - Inspire Washington
+* Suzie Hanson - WA Federation of Independent Schools
+* 💵Kevin Schilling - Washington State Dental Association
+* Michael Woody - Visit Seattle
+* Sammy Applegate - Pacific Northwest Film Scoring Program
+* 💵Lori Grassi - WA State Chiropractic Association
 
 ### Thu 01/22 04:00 PM - Ways & Means (WM): SB 6113 Tax administration
 #### 7 👍 - Pro

@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/25/2026 [The Washington Observer](/org/the_washington_observer/) - [No brakes on runaway liability costs](https://washingtonobserver.substack.com/p/no-brakes-on-runaway-liability-costs#:~:text=SB%206239)
+* 02/25/2026 [The Center Square](/org/the_center_square/) - [WATCH: Stalled tort reform bill would have further harmed victims, lawyer group says | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6f7769cf-93e2-406b-aa63-5ae0d90c6e2c.html#:~:text=Senate%20Bill%206239)
 * 02/25/2026 [Washington State Standard](/org/washington_state_standard/) - [Attempt to rein in surging lawsuit costs stalls in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/24/attempt-to-rein-in-surging-lawsuit-costs-stalls-in-wa-legislature/#:~:text=Senate%20Bill%206239)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=E2SSB%206239)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%206239)

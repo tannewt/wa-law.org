@@ -12,9 +12,11 @@
 ### Thu 02/26 01:30 PM - Transportation (TR): ESSB 6311 Pedestrian passage
 Sign up to testify:
 
-#### 12 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Kirk Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 
