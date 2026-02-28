@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers target immigrant detention center with tax, fine and oversight bills • Washington State Standard](https://washingtonstatestandard.com/2026/02/27/wa-lawmakers-target-immigrant-detention-center-with-tax-fine-and-oversight-bills/#:~:text=Senate%20Bill%206286)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February legislative update - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/02/19/february-legislative-update/#:~:text=6286)
 * 02/18/2026 [The Urbanist](/org/the_urbanist/) - [ICE’s Tacoma Detention Center Targeted in New Lawsuit Alleging Abuses » The Urbanist](https://www.theurbanist.org/2026/02/18/ice-tacoma-detention-center-targeted-in-lawsuit/#:~:text=SB%206286)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [We're halfway there - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/10/were-halfway-there/#:~:text=SB%206286:)

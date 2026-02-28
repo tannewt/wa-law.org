@@ -28,20 +28,21 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): 2SHB 2105 Immigrant workers
-Sign up to testify:
-
-#### 294 👍 - Pro
+#### 567 👍 - Pro
 Testifying:
 * 💵Jean Hill - Washington State Catholic Conference
 * Delaney Hewitt - Washington Attorney General's Office
+* 💵Mahmood Alkhazraji - ASCWU
+* Victor Rubio Rivera - United Farm Workers
 
-#### 941 👎 - Con
+#### 1043 👎 - Con
 Testifying:
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵James Crandall - AWB
 * 💵Rose Gundersen - WA Retail Association
 * 💵Patrick Connor - NFIB
+* Anthony Mixer - Citizen Volunteer Lobbyist
 
 #### 4 ❓ - Other
 Testifying:

@@ -107,8 +107,9 @@
 ### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
 * ❓💵 Peter Godlewski
 
-### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences  👎1 ❓1
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences  👎1 ❓2
 * ❓ Max Martin
+* ❓💵 Peter Godlewski
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
@@ -378,7 +379,7 @@
 ### [HB 1958](/bill/2025-26/hb/1958/) - Interstate bridge toll bonds 👍1  
 * 👍💵 Morgan Irwin
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎1 
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎2 
 * 👎💵 Peter Godlewski
 
 ### [HB 1965](/bill/2025-26/hb/1965/) - Bullion tax preference  👎1 
@@ -570,7 +571,7 @@
 
 ### [HB 2503](/bill/2025-26/hb/2503/) - AI training data  👎1 
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎3 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎4 
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
@@ -934,6 +935,9 @@
 ### [SB 5828](/bill/2025-26/sb/5828/) - College scholarships/private 👍2  
 * 👍💵 Emily Wittman
 
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care  👎1 
+* 👎💵 James Crandall
+
 ### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy 👍2  
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
@@ -946,7 +950,7 @@
 
 ### [SB 5966](/bill/2025-26/sb/5966/) - Medically tailored meals 👍1  
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍3  
 * 👍💵 Emily Wittman
 
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍4  
@@ -957,7 +961,7 @@
 ### [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail 👍1  
 * 👍 Max Martin
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎3 
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎4 
 * 👎💵 Emily Wittman
 * 👎💵 Emily Wittman
 * 👎💵 Emily Wittman
@@ -1038,11 +1042,15 @@
 ### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
 * 👎 Max Martin
 
-## [SB 6347](/bill/2025-26/sb/6347/) - Estate tax rates 👍1  
+### [SB 6347](/bill/2025-26/sb/6347/) - Estate tax rates 👍1  
+
+## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system   ❓1
+* ❓💵 Peter Godlewski
 
 ## 2023-24
 
-### [SB 6347](/bill/2023-24/sb/6347/) - Estate tax rates 👍1  
+### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system   ❓1
+* ❓💵 Peter Godlewski
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

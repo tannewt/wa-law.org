@@ -10,8 +10,10 @@
 ### Wed 03/04 08:00 AM - Environment & Energy (ENVI): HB 2741 Electric transmission system
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Katya Shur
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

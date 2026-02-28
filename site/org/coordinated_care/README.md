@@ -135,7 +135,7 @@
 
 ### [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals  👎1 
 
-### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification  👎2 
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification  👎3 
 * 👎 Andrea Davis
 * 👎 Andrea Davis
 

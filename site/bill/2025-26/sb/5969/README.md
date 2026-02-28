@@ -19,11 +19,9 @@
 
 ## Meetings
 ### Fri 02/27 10:30 AM - Appropriations (APP): 2SSB 5969 IEP transition plans
-Sign up to testify:
+#### 8 👍 - Pro
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 65 👎 - Con
 
 #### 0 ❓ - Other
 

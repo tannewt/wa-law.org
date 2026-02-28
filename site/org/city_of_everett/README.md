@@ -157,7 +157,7 @@
 
 ### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍3  
 * 👍 Jennifer Gregerson
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍3  

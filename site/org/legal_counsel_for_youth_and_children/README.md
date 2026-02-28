@@ -195,7 +195,8 @@
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍3  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍4  
+* 👍 Kat Lohman
 * 👍 Kat Lohman
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍2  
@@ -222,7 +223,7 @@
 ### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
 * 👍💵 Roxana Gomez
 
-### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍2  
+### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍3  
 
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 

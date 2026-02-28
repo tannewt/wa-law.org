@@ -19,7 +19,8 @@
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.  👎1 
 * 👎💵 Brandon Houskeeper
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1 👎1 
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1 👎2 
+* 👎💵 Brandon Houskeeper
 * 👎💵 Brandon Houskeeper
 
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎1 
@@ -37,7 +38,8 @@
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
 * 👎💵 Brandon Houskeeper
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎2 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎3 
+* 👎💵 Brandon Houskeeper
 * 👎💵 Brandon Houskeeper
 
 ### [HB 2537](/bill/2025-26/hb/2537/) - Emissions/trade-exposed  👎1 
@@ -67,16 +69,18 @@
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎1 
 * 👎💵 Brandon Houskeeper
 
-## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed  👎2 ❓1
+## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed  👎2 ❓2
 * 👎💵 Brandon Houskeeper
 * 👎💵 Brandon Houskeeper
+* ❓💵 Brandon Houskeeper
 * ❓💵 Brandon Houskeeper
 
 ## 2023-24
 
-### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed  👎2 ❓1
+### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed  👎2 ❓2
 * 👎💵 Brandon Houskeeper
 * 👎💵 Brandon Houskeeper
+* ❓💵 Brandon Houskeeper
 * ❓💵 Brandon Houskeeper
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  

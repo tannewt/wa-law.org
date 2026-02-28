@@ -13,14 +13,14 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): 2SHB 2479 Unpaid wage recovery
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 118 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * 💵Patrick Connor - NFIB
+* Emily Seely
+* Ross Colebrook
 
-#### 0 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other
 

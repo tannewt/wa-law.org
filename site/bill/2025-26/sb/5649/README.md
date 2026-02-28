@@ -11,6 +11,17 @@
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205649)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Transportation (TR): ESB 5649 Supply chain competitiveness
+#### 80 👍 - Pro
+Testifying:
+* Adam Lemieux - [Port of Everett](/org/port_of_everett/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Katharine Frazier - [Port of Port Angeles](/org/port_of_port_angeles/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/18 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): ESB 5649 Supply chain competitiveness
 #### 164 👍 - Pro
 Testifying:

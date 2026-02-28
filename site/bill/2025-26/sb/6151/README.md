@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): SB 6151 Env. programs/fee accounts
-Sign up to testify:
-
 #### 2 👍 - Pro
 Testifying:
 * Carrie Sessions - Department of Ecology

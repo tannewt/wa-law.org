@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sjm/8000/</link>
 		<description>Updates about SJM 8000</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Transportation.</guid>
 		</item>
 		<item>
-			<title>👍Gwen Allen-Carston - Avista Corp</title>
+			<title>👍Gwen Allen-Carston - Confederated Tribes and Bands of the Yakama Nation</title>
 			<description>Gwen Allen-Carston signed up to testify Pro.</description>
 			<pubDate>Mon, 20 Jan 2025 11:30:37 GMT</pubDate>
 			<category>testifier</category>
@@ -141,6 +141,13 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>Senate Rules "X" file.</title>
+			<description>Senate Rules "X" file.</description>
+			<pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-26/Senate Rules "X" file.</guid>
 		</item>
 	</channel>
 </rss>

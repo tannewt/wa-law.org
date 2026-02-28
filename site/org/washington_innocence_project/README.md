@@ -13,7 +13,8 @@
 ### [SB 5169](/bill/2025-26/sb/5169/) - Testimony of children  👎1 
 * 👎 John Marlow
 
-### [SB 5520](/bill/2025-26/sb/5520/) - Wrongly convicted persons 👍2  
+### [SB 5520](/bill/2025-26/sb/5520/) - Wrongly convicted persons 👍4  
+* 👍💵 Lara Zarowsky
 * 👍💵 Lara Zarowsky
 * 👍💵 Lara Zarowsky
 

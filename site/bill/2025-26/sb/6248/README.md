@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): SSB 6248 Travel insurance
+#### 2 👍 - Pro
+Testifying:
+* 💵Jean Leonard - US Travel Insurance Association: USTIA
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): SSB 6248 Travel insurance
 #### 113 👍 - Pro
 Testifying:

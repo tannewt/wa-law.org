@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/27/2026 [Senate Democrats](/org/senate_democrats/) - [Where the budget stands — and what comes next - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/27/where-the-budget-stands-and-what-comes-next/#:~:text=SB%205808)
+
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SB 5808 Health carrier surpluses
 #### 342 👍 - Pro

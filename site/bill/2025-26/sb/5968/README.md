@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/28/2026 [Senate Democrats](/org/senate_democrats/) - [Week Seven, Session coming to an end - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/02/27/week-seven-session-coming-to-an-end/#:~:text=SB%205968)
 * 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Week Five - Halfway there - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/02/13/week-five-halfway-there/#:~:text=SB%205968)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Week Three: Property tax relief and bills are moving!  - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/30/week-three-property-tax-relief-and-bills-are-moving/#:~:text=SB%205968)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=permitting%20and%20licensing%20processes)
@@ -18,9 +19,11 @@
 
 ## Meetings
 ### Fri 02/27 10:30 AM - Appropriations (APP): 2SSB 5968 Permitting and licensing
-Sign up to testify:
-
-#### 0 👍 - Pro
+#### 53 👍 - Pro
+Testifying:
+* Beau Perschbacher - Governor's Office
+* Sean DeWitz
+* 💵Neil Hartman - Washington State Association Of UA Plumbers & Pipefitters
 
 #### 0 👎 - Con
 

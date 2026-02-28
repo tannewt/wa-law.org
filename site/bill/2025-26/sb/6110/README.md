@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Transportation (TR): ESSB 6110 Electric bicycle, motorcycle
-Sign up to testify:
-
-#### 421 👍 - Pro
+#### 507 👍 - Pro
 Testifying:
 * Tod Petersen
 * Neal Black - Kirkland City Councilmember
@@ -23,10 +21,11 @@ Testifying:
 * Daniel Becker - Deputy Mayor, testifying on behalf of the city of Mercer Island
 * Jill Meis - Washington Recreation and Park Association (WRPA)
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jesse Cunningham - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
 
-#### 39 👎 - Con
+#### 71 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 
 ### Mon 01/26 04:00 PM - Transportation (TRAN): SB 6110 Electric bicycle, motorcycle
 #### 414 👍 - Pro

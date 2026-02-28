@@ -14,9 +14,10 @@
 
 ## Meetings
 ### Fri 02/27 10:30 AM - Appropriations (APP): ESSB 5845 Health carrier payments
-Sign up to testify:
-
-#### 0 👍 - Pro
+#### 117 👍 - Pro
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Sean Graham - Washington State Medical Association
 
 #### 0 👎 - Con
 

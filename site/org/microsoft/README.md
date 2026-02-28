@@ -48,6 +48,9 @@
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones 👍1  
 * 👍 Lauren McDonald
 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎1 
+* 👎 Lauren McDonald
+
 ### [HB 2636](/bill/2025-26/hb/2636/) - Public education reviews 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
@@ -95,7 +98,7 @@
 
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍3  
 * 👍 Lauren McDonald
 
 ### [SB 6106](/bill/2025-26/sb/6106/) - Laid-off employees 👍1  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2711/</link>
 		<description>Updates about HB 2711</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 25 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -47,6 +47,13 @@
 			<guid isPermaLink="false">2026-02-25/Minority; without recommendation.</guid>
 		</item>
 		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
 			<title>TR - Executive action taken by committee.</title>
 			<description>TR - Executive action taken by committee.</description>
 			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
@@ -59,6 +66,13 @@
 			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-25/TR - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-27/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 	</channel>
 </rss>

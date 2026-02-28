@@ -327,7 +327,7 @@
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
 * ❓💵 Carl Schroeder
 
-### [HB 2203](/bill/2025-26/hb/2203/) - Interference with emergency 👍1  
+### [HB 2203](/bill/2025-26/hb/2203/) - Interference with emergency 👍2  
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
@@ -389,7 +389,7 @@
 
 ### [HB 2405](/bill/2025-26/hb/2405/) - PTSD treatment and research 👍3  
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍2  
 
 ### [HB 2418](/bill/2025-26/hb/2418/) - Permit review   ❓1
 * ❓💵 Carl Schroeder
@@ -667,6 +667,9 @@
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings   ❓1
 * ❓💵 Derrick Nunnally
 
+### [SB 5862](/bill/2025-26/sb/5862/) - TRS & PERS plan 1 COLA   ❓1
+* ❓💵 Candice Bock
+
 ### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. 👍1  
 * 👍💵 Candice Bock
 
@@ -717,11 +720,12 @@
 ### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓1
 * ❓💵 Carl Schroeder
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎4 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎4 ❓1
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
+* ❓💵 Carl Schroeder
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 

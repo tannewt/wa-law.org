@@ -92,7 +92,7 @@
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍 Chris Herman
 
-### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
 * 👍 Eric ffitch
 
 ### [HB 1958](/bill/2025-26/hb/1958/) - Interstate bridge toll bonds 👍1  
@@ -143,9 +143,9 @@
 
 ### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍2  
 
-### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍1  
+### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍2  
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍2  
 * 👍💵 Carly Michiels
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍2  
@@ -226,9 +226,10 @@
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍2  
 * 👍 Chris Herman
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍3  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍4  
 * 👍 Chris Herman
 * 👍 Chris Herman
+* 👍 Eric ffitch
 * 👍 Eric ffitch
 
 ### [SB 5652](/bill/2025-26/sb/5652/) - Environment/port districts  👎1 
@@ -260,7 +261,7 @@
 
 ### [SB 5932](/bill/2025-26/sb/5932/) - Alternative jet fuel 👍1  
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍3  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍4  
 * 👍 Eric ffitch
 
 ### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍3  
@@ -285,7 +286,7 @@
 
 ### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
 
-### [SB 6132](/bill/2025-26/sb/6132/) - Inland port district debt 👍2  
+### [SB 6132](/bill/2025-26/sb/6132/) - Inland port district debt 👍3  
 
 ### [SB 6149](/bill/2025-26/sb/6149/) - Public facilities funding 👍1  
 
@@ -295,7 +296,7 @@
 ### [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants   ❓1
 * ❓ Eric ffitch
 
-### [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
+### [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍2  
 * 👍 Eric ffitch
 
 ## [SB 6335](/bill/2025-26/sb/6335/) - Transportation commission   ❓1

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/27/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers target immigrant detention center with tax, fine and oversight bills • Washington State Standard](https://washingtonstatestandard.com/2026/02/27/wa-lawmakers-target-immigrant-detention-center-with-tax-fine-and-oversight-bills/#:~:text=House%20Bill%202713)
 * 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=HB%202713)
 * 02/06/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead (February 9 – 15, 2026) | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-9-15-2026/#:~:text=HB%202713)
 

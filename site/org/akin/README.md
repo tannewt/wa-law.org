@@ -23,7 +23,7 @@
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
 
-### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍2  
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍3  
 
 ### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child  👎1 
 

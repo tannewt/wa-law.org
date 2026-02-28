@@ -15,13 +15,18 @@
 
 ## Meetings
 ### Fri 02/27 10:30 AM - Appropriations (APP): E2SSB 5847 Workers' comp. medical care
-Sign up to testify:
+#### 132 👍 - Pro
+Testifying:
+* 💵Daniel Goodman - Washington State Association for Justice
+* 💵Nicole Gomez - AFSCME Council 28, Washington Federation of State Employees
 
-#### 0 👍 - Pro
+#### 187 👎 - Con
+Testifying:
+* 💵James Crandall - [Association of Washington Business](/org/association_of_washington_business/)
+* Mike Ennis - BIAW
+* 💵Samantha Louderback - WA Hospitality Association
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5847 Workers' comp. medical care
 #### 108 👍 - Pro

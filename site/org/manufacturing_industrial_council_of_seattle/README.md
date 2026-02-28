@@ -10,13 +10,16 @@
 ### [HB 1414](/bill/2025-26/hb/1414/) - CTE careers work group 👍1  
 * 👍 Dave Gering
 
-## [HB 1814](/bill/2025-26/hb/1814/) - SEPA/trails and paths  👎1 
+### [HB 1814](/bill/2025-26/hb/1814/) - SEPA/trails and paths  👎1 
 * 👎 dave gering
+
+## [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+* 👍 dave gering
 
 ## 2023-24
 
-### [HB 1814](/bill/2023-24/hb/1814/) - SEPA/trails and paths  👎1 
-* 👎 dave gering
+### [HB 1923](/bill/2023-24/hb/1923/) - Passenger-only ferries 👍1  
+* 👍 dave gering
 
 ## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍2  
 * 👍 Dave Gering

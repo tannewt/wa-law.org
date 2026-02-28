@@ -31,7 +31,7 @@
 
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍3  
 
-### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices 👍2  
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices 👍3  
 
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages 👍1  
 
@@ -160,7 +160,7 @@
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
-### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍2  
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍3  
 
 ### [HB 1572](/bill/2025-26/hb/1572/) - Higher ed. accreditation 👍2  
 
@@ -218,7 +218,7 @@
 
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍3  
 
-### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍3  
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍4  
 
 ### [HB 1804](/bill/2025-26/hb/1804/) - Community solar projects 👍1  
 
@@ -276,7 +276,7 @@
 
 ### [HB 1958](/bill/2025-26/hb/1958/) - Interstate bridge toll bonds 👍1  
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎3 
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎4 
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
@@ -356,9 +356,9 @@
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
-### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍2  
+### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍3  
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍2  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍3  
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 
@@ -398,9 +398,11 @@
 
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
 
+### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍1  
+
 ### [HB 2411](/bill/2025-26/hb/2411/) - Shared leave 👍1  
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍2  
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍3  
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 
@@ -412,9 +414,9 @@
 
 ### [HB 2472](/bill/2025-26/hb/2472/) - Fire sprinkler work 👍2  
 
-### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍1  
+### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍2  
 
-### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍3  
+### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍4  
 
 ### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing 👍1  
 
@@ -424,7 +426,7 @@
 
 ### [HB 2513](/bill/2025-26/hb/2513/) - Plumbing contractors 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1 👎2 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1 👎3 
 
 ### [HB 2517](/bill/2025-26/hb/2517/) - High cap. transit permits 👍1  
 
@@ -451,6 +453,8 @@
 ### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care  👎1 
 
 ### [HB 2730](/bill/2025-26/hb/2730/) - Aerospace tax preferences 👍2  
+
+### [HB 2741](/bill/2025-26/hb/2741/) - Electric transmission system 👍1  
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
@@ -666,7 +670,7 @@
 
 ### [SB 5842](/bill/2025-26/sb/5842/) - Campaign memorabilia  👎1 
 
-### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍3  
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍4  
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
@@ -710,7 +714,7 @@
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍3  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍4  
 
 ### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍2  
 
@@ -782,7 +786,7 @@
 
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎2 
 
-### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed  👎2 
+### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍1 👎2 
 
 ### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
 

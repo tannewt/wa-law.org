@@ -72,9 +72,11 @@
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
 ### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍1  
 
-### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍2  
 
 ### [HB 2636](/bill/2025-26/hb/2636/) - Public education reviews 👍2  
 

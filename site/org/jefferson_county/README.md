@@ -13,7 +13,7 @@
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services.   ❓1
 * ❓ Heidi Eisenhour
 
-### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍1  
+### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍2  
 
 ### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍3  
 * 👍 Heidi Eisenhour

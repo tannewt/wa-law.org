@@ -80,6 +80,8 @@
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
 
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍1  
+
 ## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24

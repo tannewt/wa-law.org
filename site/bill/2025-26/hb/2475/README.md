@@ -12,11 +12,13 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): SHB 2475 Language access
-Sign up to testify:
+#### 26 👍 - Pro
+Testifying:
+* Andre Ferreira
+* Aaron Tulloch - FMSGS/WBBA
+* Natalie Hernandez - Progreso
 
-#### 1 👍 - Pro
-
-#### 34 👎 - Con
+#### 865 👎 - Con
 
 #### 0 ❓ - Other
 

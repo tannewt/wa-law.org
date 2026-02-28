@@ -12,6 +12,9 @@
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 * 👎💵 Devin Gombosky
 
+### [SB 6113](/bill/2025-26/sb/6113/) - Tax administration   ❓1
+* ❓💵 Devin Gombosky
+
 ## [SB 6209](/bill/2025-26/sb/6209/) - Financial aid awards/private   ❓1
 * ❓💵 Devin Gombosky
 

@@ -40,11 +40,11 @@
 ### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
 * ❓ Vanessa Kritzer
 
-## [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍2  
+## [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍3  
 
 ## 2023-24
 
-### [SB 6097](/bill/2023-24/sb/6097/) - Conservation futures/tribes 👍2  
+### [SB 6097](/bill/2023-24/sb/6097/) - Conservation futures/tribes 👍3  
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Vanessa Kritzer

@@ -53,7 +53,7 @@
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
 * 👍 Skippy Shaw
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍3  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍4  
 
 ### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍3  ❓1
 * ❓💵 David Mendoza
@@ -75,7 +75,7 @@
 
 ### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍2  
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍3  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍4  
 * 👍💵 Justin Allegro
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍2  
@@ -96,7 +96,8 @@
 
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍3  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍4  
+* 👍💵 Justin Allegro
 * 👍💵 Justin Allegro
 * 👍💵 Justin Allegro
 
@@ -175,17 +176,16 @@
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍1  
 * 👍💵 Justin Allegro
 
-## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍3  
+### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍3  
 * 👍💵 David Mendoza
 * 👍💵 Justin Allegro
 * 👍💵 David Mendoza
+
+## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system 👍1  
 
 ## 2023-24
 
-### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed 👍3  
-* 👍💵 David Mendoza
-* 👍💵 Justin Allegro
-* 👍💵 David Mendoza
+### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍5  
 

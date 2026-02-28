@@ -7,6 +7,18 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): SB 5868 Superior court judges
+#### 11 👍 - Pro
+Testifying:
+* J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration
+* 💵Josh Weiss - [Skagit County](/org/skagit_county/)
+* LaDon Linde - Yakima County Commissioner
+* Jessica Humphreys - Yakima County Superior Court
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): SB 5868 Superior court judges
 #### 99 👍 - Pro
 Testifying:

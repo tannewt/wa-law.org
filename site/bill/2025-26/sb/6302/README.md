@@ -10,9 +10,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): ESSB 6302 Public works/finishing trade
-Sign up to testify:
-
-#### 14 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * 💵Jerry Vanderwood - AGC Washington

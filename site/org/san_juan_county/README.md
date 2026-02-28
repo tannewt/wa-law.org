@@ -31,6 +31,8 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Councilmember Kari McVeigh
 
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
+
 ## [SB 6238](/bill/2025-26/sb/6238/) - Oil tanker escort 👍1  
 
 ## 2023-24

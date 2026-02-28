@@ -74,7 +74,7 @@
 
 ### [SB 5808](/bill/2025-26/sb/5808/) - Health carrier surpluses 👍1  
 
-### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
+### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍2  
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 

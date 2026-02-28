@@ -65,7 +65,7 @@
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 * 👍 Greg Cullen
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍3  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍4  
 
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 * 👍 Daniel Himebaugh

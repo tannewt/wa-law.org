@@ -8,11 +8,11 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): HB 2249 Civil service/WaTech
-Sign up to testify:
+#### 8 👍 - Pro
+Testifying:
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 76 👎 - Con
 
 #### 0 ❓ - Other
 

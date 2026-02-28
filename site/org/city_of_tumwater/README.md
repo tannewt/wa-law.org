@@ -6,6 +6,8 @@
 ### [HB 2530](/bill/2025-26/hb/2530/) - Aquatics/sports PFD deadline 👍1  
 * 👍 PAUL SIMMONS
 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
+
 ## [SB 6189](/bill/2025-26/sb/6189/) - Aquatics/sports PFD deadline 👍1  
 * 👍 Paul Simmons
 

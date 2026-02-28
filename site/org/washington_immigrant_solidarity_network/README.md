@@ -52,7 +52,7 @@
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 

@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): SSB 5520 Wrongly convicted persons
+#### 61 👍 - Pro
+Testifying:
+* 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
+* 💵Enoka Herat - Washington Attorney General's Office
+* Ted Bradford
+
+#### 41 👎 - Con
+Testifying:
+* Jaime Taft
+
+#### 0 ❓ - Other
+
 ### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5520 Wrongly convicted persons
 #### 60 👍 - Pro
 Testifying:

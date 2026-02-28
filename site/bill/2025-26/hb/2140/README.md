@@ -9,9 +9,7 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): SHB 2140 Current use land/sale to gov
-Sign up to testify:
-
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

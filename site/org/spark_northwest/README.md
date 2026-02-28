@@ -9,7 +9,7 @@
 
 ### [HB 1804](/bill/2025-26/hb/1804/) - Community solar projects 👍1  
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
 
 ### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
 * 👍💵 John Seng

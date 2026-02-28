@@ -11,14 +11,16 @@
 ### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍1  
 * 👍💵 Patrick Connor
 
-## [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎3 
+## [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎4 
+* 👎💵 Patrick Connor
 * 👎💵 Patrick Connor
 * 👎💵 Patrick Connor
 * 👎💵 Patrick Connor
 
 ## 2023-24
 
-### [SB 5981](/bill/2023-24/sb/5981/) - 340B drug pricing program  👎3 
+### [SB 5981](/bill/2023-24/sb/5981/) - 340B drug pricing program  👎4 
+* 👎💵 Patrick Connor
 * 👎💵 Patrick Connor
 * 👎💵 Patrick Connor
 * 👎💵 Patrick Connor

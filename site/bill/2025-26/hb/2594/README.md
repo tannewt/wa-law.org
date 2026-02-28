@@ -16,9 +16,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): SHB 2594 Unhoused children/education
-Sign up to testify:
-
-#### 25 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
 

@@ -7,6 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/27 09:00 AM - Capital Budget (CB): SB 6313 Capitol centennial account
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SB 6313 Capitol centennial account
 #### 0 👍 - Pro
 

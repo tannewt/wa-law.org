@@ -3,6 +3,9 @@
 
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
 
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍2  
+* 👍 Lance Goodpaster
+
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍1  

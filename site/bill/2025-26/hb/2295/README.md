@@ -5,8 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2026 [Wenatchee World](/org/wenatchee_world/) - [District 12 representatives propose $26M for projects | Local News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/local/district-12-representatives-propose-26m-for-projects/article_080dffc8-0f0d-4daa-a668-8f9b6ad46ed8.html#:~:text=moved%20House%20Bill%202295%20to%20the%20Rules%20Committee)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=HB%202295)
 * 02/23/2026 [MyNorthwest](/org/mynorthwest/) - [WA House and Senate release supplemental capital budget proposals](https://mynorthwest.com/mynorthwest-politics/supplemental-capital-budget/4207536#:~:text=measure)
 * 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=HB%202295)

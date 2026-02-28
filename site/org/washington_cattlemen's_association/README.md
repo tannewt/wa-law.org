@@ -60,6 +60,8 @@
 ### [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation 👍2  
 * 👍💵 Mark Streuli
 
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
+
 ### [SB 5960](/bill/2025-26/sb/5960/) - Ungulate populations   ❓1
 * ❓💵 Mark Streuli
 

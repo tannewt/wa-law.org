@@ -7,6 +7,9 @@
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
 * 👎💵 Matthew Hepner
 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎1 
+* 👎💵 Matthew Hepner
+
 ## [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
 * 👎💵 Matthew Hepner
 

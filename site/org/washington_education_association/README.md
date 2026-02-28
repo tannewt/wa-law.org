@@ -220,7 +220,7 @@
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
-### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍3  
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍4  
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart 👍1  
 
@@ -382,7 +382,7 @@
 
 ### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍3  
 
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
 
@@ -853,7 +853,7 @@
 
 ### [SB 5835](/bill/2025-26/sb/5835/) - Lump sum retirement payments 👍1  
 
-### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍2  
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍3  
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
@@ -884,6 +884,8 @@
 * 👍 Jared Mason-Gere
 
 ### [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍1  
+
+### [SB 5922](/bill/2025-26/sb/5922/) - Transportation vehicle fund 👍1  
 
 ### [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments  👎1 
 
@@ -931,7 +933,7 @@
 
 ### [SB 6019](/bill/2025-26/sb/6019/) - Home care rates 👍1  
 
-### [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍1  
+### [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍2  
 
 ### [SB 6044](/bill/2025-26/sb/6044/) - Diwali and Bandi Chhor Divas 👍1  
 
@@ -968,7 +970,7 @@
 
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 
-### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍2  
+### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍3  
 
 ### [SB 6192](/bill/2025-26/sb/6192/) - Reading and math instruction  👎3 
 * 👎💵 Nasue Nishida

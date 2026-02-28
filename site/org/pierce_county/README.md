@@ -51,7 +51,7 @@
 
 ### [HB 2203](/bill/2025-26/hb/2203/) - Interference with emergency 👍2  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍3  
 * 👍 Bryan Yambe
 * 👍 Bryan Yambe
 

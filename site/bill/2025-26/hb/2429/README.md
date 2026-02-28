@@ -18,13 +18,14 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): 2SHB 2429 Youth behavioral health
-Sign up to testify:
+#### 231 👍 - Pro
+Testifying:
+* 💵Ashley Jackson - Seattle Children’s
+* Sheryl Landstrom
 
-#### 62 👍 - Pro
+#### 43 👎 - Con
 
-#### 1 👎 - Con
-
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2429 Youth behavioral health
 #### 229 👍 - Pro

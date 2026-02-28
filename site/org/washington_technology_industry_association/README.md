@@ -3,8 +3,9 @@
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 
-### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎1 
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices 👍1 👎1 
 * 👎💵 Amy Harris
+* 👍💵 Amy Harris
 
 ### [HB 1268](/bill/2025-26/hb/1268/) - Virtual currency kiosks 👍1  
 
@@ -20,8 +21,9 @@
 
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
 
-### [HB 1833](/bill/2025-26/hb/1833/) - AI grant program 👍1  
+### [HB 1833](/bill/2025-26/hb/1833/) - AI grant program 👍2  
 * 👍💵 Kelly Fukai
+* 👍💵 Amy Harris
 
 ### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge  👎1 
 
@@ -42,7 +44,8 @@
 
 ### [HB 2503](/bill/2025-26/hb/2503/) - AI training data  👎1 
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎2 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎3 
+* 👎💵 Amy Harris
 * 👎💵 Amy Harris
 
 ### [HB 2579](/bill/2025-26/hb/2579/) - Public media grants  👎1 

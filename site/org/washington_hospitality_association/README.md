@@ -340,7 +340,8 @@
 ### [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail 👍1  
 * 👍 Sean DeWitz
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎3 
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎4 
+* 👎💵 Logan Dozier
 * 👎💵 Logan Dozier
 * 👎💵 Logan Dozier
 * 👎💵 Logan Dozier

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5649/</link>
 		<description>Updates about SB 5649</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Feb 2026 21:22:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -368,6 +368,37 @@
 			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-24/TEDV - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Referred to Transportation.</title>
+			<description>Referred to Transportation.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Adam Lemieux - Port of Everett</title>
+			<description>Adam Lemieux signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/port_of_everett/"&gt;Port of Everett&lt;/a&gt;.</description>
+			<pubDate>Thu, 26 Feb 2026 21:22:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Adam/Lemieux/2026-02-26 21:22:34</guid>
+		</item>
+		<item>
+			<title>👍Eric ffitch - Washington Public Ports Association</title>
+			<description>Eric ffitch signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_public_ports_association/"&gt;Washington Public Ports Association&lt;/a&gt;.</description>
+			<pubDate>Thu, 26 Feb 2026 21:22:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eric/ffitch/2026-02-26 21:22:34</guid>
+		</item>
+		<item>
+			<title>👍Katharine Frazier - Port of Port Angeles</title>
+			<description>Katharine Frazier signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/port_of_port_angeles/"&gt;Port of Port Angeles&lt;/a&gt;.</description>
+			<pubDate>Thu, 26 Feb 2026 21:22:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katharine/Frazier/2026-02-26 21:22:34</guid>
 		</item>
 	</channel>
 </rss>

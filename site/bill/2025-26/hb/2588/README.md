@@ -8,21 +8,23 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Transportation (TRAN): EHB 2588 County ferry districts
-Sign up to testify:
-
-#### 4 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Satpal Sidhu - Whatcom County Executive
+* Laura Frolich - Whatcom County Public Works
+* Pamela Gould - Whatcom County Resident
+* Johanna Baxter - 4014 Young Hill Lane SE
+* Tom Philpot
 
-#### 637 👎 - Con
+#### 969 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dick Falkenbury
 
 ### Thu 02/26 01:30 PM - Transportation (TRAN): EHB 2588 County ferry districts
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

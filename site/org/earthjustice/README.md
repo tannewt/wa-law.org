@@ -34,7 +34,8 @@
 
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍4  
+* 👍 Eric Gonzalez Alfaro
 * 👍 Eric Gonzalez Alfaro
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  

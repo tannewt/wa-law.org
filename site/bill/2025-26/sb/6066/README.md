@@ -11,14 +11,12 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Transportation (TR): E2SSB 6066 Crash prevention zones
-Sign up to testify:
-
-#### 39 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
 * 💵Briahna Murray - [City of Pasco](/org/city_of_pasco/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

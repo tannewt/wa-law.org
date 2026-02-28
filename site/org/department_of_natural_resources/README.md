@@ -166,7 +166,7 @@
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models   ❓1
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  ❓1
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍3  ❓1
 
 ### [SB 5992](/bill/2025-26/sb/5992/) - Youth development fund 👍1  
 * 👍 Evan Pierce

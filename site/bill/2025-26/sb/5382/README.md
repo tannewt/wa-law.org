@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Senate Democrats pass $80 billion budget - a house of cards built on phantom savings - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-senate-democrats-pass-80-billion-budget-built-phantom-savings/#:~:text=5382)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=SB%205382)
 * 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=SB%205382)
 * 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Latest deadline in Washington Legislature fells more bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/01/latest-deadline-in-washington-legislature-fells-more-bills/#:~:text=Senate%20Bill%205382)

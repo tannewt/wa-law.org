@@ -57,7 +57,7 @@
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 
-### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍7  
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍8  
 * 👍💵 Denise Rodriguez
 * 👍💵 Elizabeth Perez
 

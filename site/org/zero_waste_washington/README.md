@@ -104,7 +104,7 @@
 ### [HB 2402](/bill/2025-26/hb/2402/) - Phthalates/medical equipment 👍1  
 * 👍💵 Heather Trim
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1 👎1 
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍2 👎1 
 * 👎💵 Heather Trim
 
 ### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍2  

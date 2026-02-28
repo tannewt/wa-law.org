@@ -11,17 +11,17 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): HB 2689 Working connect. child care
-Sign up to testify:
+#### 168 👍 - Pro
 
-#### 123 👍 - Pro
-
-#### 434 👎 - Con
+#### 444 👎 - Con
 Testifying:
 * Candace Harris - Valley Early Learning Center
 * MARISSA SALEE
 * Zamzam Mohamed - Voices of Tomorrow
 * Monique Dugaw - ESD 112
 
-#### 4 ❓ - Other
+#### 21 ❓ - Other
 Testifying:
 * Lori Pittman - Puget Sound Educational Service District
+* Bronti Lemke - Parent, MomsRising
+* 💵Maggie Humphreys - MomsRising

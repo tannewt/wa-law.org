@@ -20,9 +20,7 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Transportation (TRAN): 2SHB 1923 Passenger-only ferries
-Sign up to testify:
-
-#### 390 👍 - Pro
+#### 504 👍 - Pro
 Testifying:
 * Dylan Doty - [Kitsap Transit](/org/kitsap_transit/)
 * Patrick Gallagher - [Marine Exchange of Puget Sound](/org/marine_exchange_of_puget_sound/)
@@ -47,10 +45,35 @@ Testifying:
 * Greg Easton - Port of South Whidbey
 * Walt Elliott - Kingston North Kitsap Rotary
 * Bobbie Moore - self
+* 💵Jasmine Vasavada - [Port of Olympia](/org/port_of_olympia/)
+* John Carson - Bainbridge Island Downtown Association
+* Sean Norman
+* Jim Pivarnik - PORT OF SOUTH WHIDBEY
+* Rob Putaansuu - City of Port Orchard Mayor
+* Commissioner, Melanie Bacon - County Ferry Caucus/Island County
+* Councilmember Jane Fuller - County Ferry Caucus/San Juan County
+* Breck Lebegue - WA Physicians for Social Responsibility
+* Seamus Nolan - Switch Maritime
+* Victoria Compton - San Juan County Economic Development Council
+* Patrick White
+* Bruce Agnew
+* Heather Dudley-Nollette - Jefferson County, Commissioner, District 1
+* Gregory Dronkert
+* Peter Philips
+* Tim OBrien - Hornblower Group
+* Paula Fillmore-Sardinas - FMSGS/WBBA
+* dave gering - [Manufacturing Industrial Council of Seattle](/org/manufacturing_industrial_council_of_seattle/)
+* Katelyn Kean - Northwest Maritime
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 4 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Donna Sandstrom - The Whale Trail
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Christopher Draper
+* Rachel Aronson - [Washington Maritime Blue](/org/washington_maritime_blue/)
 
 ### Mon 03/17 04:00 PM - Transportation (TRAN): ESHB 1923 Passenger-only ferries
 #### 428 👍 - Pro

@@ -17,11 +17,9 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): E2SHB 2636 Public education reviews
-Sign up to testify:
+#### 73 👍 - Pro
 
-#### 2 👍 - Pro
-
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

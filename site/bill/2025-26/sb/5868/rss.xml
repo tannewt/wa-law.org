@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5868/</link>
 		<description>Updates about SB 5868</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 25 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Feb 2026 08:00:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -250,6 +250,45 @@
 			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-25/CRJ - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration</title>
+			<description>J. Lee Schultz signed up to testify Pro. They are signed up to represent Administrative Office of the Courts, Board for Judicial Administration.</description>
+			<pubDate>Thu, 26 Feb 2026 17:02:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/J. Lee/Schultz/2026-02-26 17:02:29</guid>
+		</item>
+		<item>
+			<title>👍💵Josh Weiss - Skagit County</title>
+			<description>Josh Weiss signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/skagit_county/"&gt;Skagit County&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 26 Feb 2026 17:17:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Josh/Weiss/2026-02-26 17:17:06</guid>
+		</item>
+		<item>
+			<title>👍LaDon Linde - Yakima County Commissioner</title>
+			<description>LaDon Linde signed up to testify Pro. They are signed up to represent Yakima County Commissioner.</description>
+			<pubDate>Thu, 26 Feb 2026 17:17:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/LaDon/Linde/2026-02-26 17:17:35</guid>
+		</item>
+		<item>
+			<title>👍Jessica Humphreys - Yakima County Superior Court</title>
+			<description>Jessica Humphreys signed up to testify Pro. They are signed up to represent Yakima County Superior Court.</description>
+			<pubDate>Fri, 27 Feb 2026 08:00:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jessica/Humphreys/2026-02-27 08:00:45</guid>
 		</item>
 	</channel>
 </rss>

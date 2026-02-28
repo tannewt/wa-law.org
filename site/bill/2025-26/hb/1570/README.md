@@ -9,11 +9,13 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): SHB 1570 Academic employee bargaining
-Sign up to testify:
+#### 353 👍 - Pro
+Testifying:
+* 💵Christopher Rosenquist - Associated Students of Western Washington University
+* Carlton Redpath - Western Student Worker
+* 💵Emily Myers - UAW Region 6
 
-#### 44 👍 - Pro
-
-#### 0 👎 - Con
+#### 80 👎 - Con
 
 #### 0 ❓ - Other
 

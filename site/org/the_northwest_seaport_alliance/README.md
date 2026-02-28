@@ -44,6 +44,8 @@
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 * 👎 Sean Eagan
 
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
+
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 

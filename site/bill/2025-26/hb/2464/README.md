@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/27/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers target immigrant detention center with tax, fine and oversight bills • Washington State Standard](https://washingtonstatestandard.com/2026/02/27/wa-lawmakers-target-immigrant-detention-center-with-tax-fine-and-oversight-bills/#:~:text=House%20Bill%202464)
 * 02/25/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative update: Three-quarters through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/25/legislative-update-three-quarters-through-session/#:~:text=HB%202464)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 7: Budgets revealed, another cutoff arrives as session hits its stretch run - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/20/this-week-in-the-senate-week-7-budgets-revealed-another-cutoff-arrives-as-session-hits-its-stretch-run/#:~:text=House%20Bill%202464)
 * 02/18/2026 [The Urbanist](/org/the_urbanist/) - [ICE’s Tacoma Detention Center Targeted in New Lawsuit Alleging Abuses » The Urbanist](https://www.theurbanist.org/2026/02/18/ice-tacoma-detention-center-targeted-in-lawsuit/#:~:text=HB%202464)

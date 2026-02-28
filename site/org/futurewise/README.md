@@ -256,8 +256,9 @@
 ### [SB 6016](/bill/2025-26/sb/6016/) - Aquifer recharge areas   ❓1
 * ❓💵 Bryce Yadon
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  ❓1
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍3  ❓1
 * ❓💵 Bryce Yadon
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 

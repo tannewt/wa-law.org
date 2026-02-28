@@ -114,13 +114,17 @@
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎1 
 
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
+* 👍 Kati Durkin
+
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍2  
 
 ### [HB 2070](/bill/2025-26/hb/2070/) - WWU state funding parity 👍1  
 
-### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍2  
+### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍3  
+* 👍 Kati Durkin
 * 👍 Kati Durkin
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
@@ -141,8 +145,9 @@
 
 ### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
 
-### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍2  
+### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍3  
 * 👍 Tim Tharp
+* 👍 Kati Durkin
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
 * ❓ Kati Durkin
@@ -165,7 +170,7 @@
 
 ### [HB 2471](/bill/2025-26/hb/2471/) - Collective bargaining 👍1  
 
-### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍1  
+### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍2  
 * 👍 Kati Durkin
 
 ### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing 👍1  

@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Thu 02/26 08:00 AM - Finance (FIN): SB 6114 Excise tax/fixture defined
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * Steve Ewing - Dept. of Revenue
 
-#### 844 👎 - Con
+#### 914 👎 - Con
 
 #### 2 ❓ - Other
 

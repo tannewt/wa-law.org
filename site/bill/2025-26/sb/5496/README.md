@@ -24,6 +24,22 @@
 * 02/05/2025 [The Center Square](/org/the_center_square/) - [Backers, critics debate bill to stop major investors from buying up single-family homes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3a790074-e407-11ef-b124-ebd66a88bbb6.html#:~:text=Senate%20Bill%205496)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): E2SSB 5496 Home buying by entities
+#### 18 👍 - Pro
+Testifying:
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Victoria N H O'Banion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+
+#### 41 👎 - Con
+Testifying:
+* Adrianne Todman
+* 💵Katherine Mahoney
+* 💵Ken Short - Association of Washington Business (AWB)
+
+#### 1 ❓ - Other
+Testifying:
+* Blake Lyon - City of Bellingham, WA
+
 ### Mon 02/23 01:30 PM - Housing (HOUS): E2SSB 5496 Home buying by entities
 #### 268 👍 - Pro
 Testifying:

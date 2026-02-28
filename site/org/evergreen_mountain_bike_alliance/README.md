@@ -4,11 +4,15 @@
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 * 👍 Jesse Cunningham
 
-## [SB 5390](/bill/2025-26/sb/5390/) - Access to recreation sites 👍1  
+### [SB 5390](/bill/2025-26/sb/5390/) - Access to recreation sites 👍1  
+
+## [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+* 👍 Jesse Cunningham
 
 ## 2023-24
 
-### [SB 5390](/bill/2023-24/sb/5390/) - Access to recreation sites 👍1  
+### [SB 6110](/bill/2023-24/sb/6110/) - Electric bicycle, motorcycle 👍1  
+* 👍 Jesse Cunningham
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget   ❓1
 * ❓💵 Yvonne Kraus

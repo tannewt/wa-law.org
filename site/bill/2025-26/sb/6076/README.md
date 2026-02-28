@@ -8,6 +8,16 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/27 09:00 AM - Capital Budget (CB): SSB 6076 Utility procurement
+#### 59 👍 - Pro
+Testifying:
+* Matthew Harris - Grant PUD
+* 💵Jason Hudson - IBEW Local 77
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/24 10:30 AM - Local Government (LG): SSB 6076 Utility procurement
 #### 75 👍 - Pro
 Testifying:

@@ -83,14 +83,16 @@
 
 ### [SB 6309](/bill/2025-26/sb/6309/) - High cap. transit permits 👍1  
 
-## [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍2  
+## [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍3  
 * 👍 Katy Ricchiuto
+* 👍💵 Kirk Hovenkotter
 * 👍 Kirk Yadon
 
 ## 2023-24
 
-### [SB 6311](/bill/2023-24/sb/6311/) - Pedestrian passage 👍2  
+### [SB 6311](/bill/2023-24/sb/6311/) - Pedestrian passage 👍3  
 * 👍 Katy Ricchiuto
+* 👍💵 Kirk Hovenkotter
 * 👍 Kirk Yadon
 
 ### [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  

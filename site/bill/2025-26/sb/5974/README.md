@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/26/2026 [KUOW](/org/kuow/) - [KUOW - Controversial bill spelling out removal for decertified sheriffs advances in Washington legislature](https://www.kuow.org/stories/controversial-bill-spelling-out-removal-for-decertified-sheriffs-advances-in-washington-legislature#:~:text=SB%205974)
 * 02/23/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Tanksley: Bill for new requirements on sheriffs, chiefs undermines local control | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/23/tanksley-bill-for-new-requirements-on-sheriffs-chiefs-undermines-local-control/#:~:text=2SSB%205974)
 * 02/23/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA bill allowing state to remove elected sheriffs faces another contentious hearing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ee5e3d6c-871d-4fe4-89e7-52fe5ee0d983.html#:~:text=Senate%20Bill%205974)
 * 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=2SSB%205974)

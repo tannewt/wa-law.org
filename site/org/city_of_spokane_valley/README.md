@@ -105,7 +105,7 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 
-### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍1  
+### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍2  
 
 ### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority  👎2 
 
@@ -115,7 +115,7 @@
 
 ### [HB 2192](/bill/2025-26/hb/2192/) - Roadway fatalities 👍1  
 
-### [HB 2203](/bill/2025-26/hb/2203/) - Interference with emergency 👍1 👎1 
+### [HB 2203](/bill/2025-26/hb/2203/) - Interference with emergency 👍2 👎1 
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
@@ -234,7 +234,7 @@
 
 ### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍2  
 
-### [SB 5890](/bill/2025-26/sb/5890/) - Reckless driving, speed 👍2  
+### [SB 5890](/bill/2025-26/sb/5890/) - Reckless driving, speed 👍3  
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍2  
 
@@ -262,7 +262,7 @@
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓1
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎3 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎4 
 
 ### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18  👎1 
 

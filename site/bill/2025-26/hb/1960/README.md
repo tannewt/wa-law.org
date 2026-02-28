@@ -12,15 +12,20 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): E3SHB 1960 Renewable energy
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * David Funk - Zero Emissions Northwest, LLC
+* Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 2 👎 - Con
+#### 795 👎 - Con
 
-#### 0 ❓ - Other
+#### 10 ❓ - Other
+Testifying:
+* Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)
+* Anna Buongiorno
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Madeline Symm - [Cypress Creek Renewables](/org/cypress_creek_renewables/)
 
 ### Fri 02/06 10:30 AM - Appropriations (APP): 3SHB 1960 Renewable energy
 #### 17 👍 - Pro

@@ -87,7 +87,8 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍2  
 * 👍💵 Leah Missik
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍3  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍4  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
@@ -112,14 +113,15 @@
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1 👎1 
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍2 👎1 
 * 👎💵 Leah Missik
 
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍4  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍5  
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
+* 👍💵 James Hove
 
 ### [HB 2537](/bill/2025-26/hb/2537/) - Emissions/trade-exposed 👍1  
 * 👍💵 Leah Missik
@@ -218,7 +220,8 @@
 
 ### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
 
-### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍3  
+### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍4  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik

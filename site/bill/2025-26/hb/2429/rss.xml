@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2429/</link>
 		<description>Updates about HB 2429</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 25 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Feb 2026 12:23:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -345,6 +345,22 @@
 			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-25/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍💵Ashley Jackson - Seattle Children’s</title>
+			<description>Ashley Jackson signed up to testify Pro. They are signed up to represent Seattle Children’s. They are a registered lobbyist.</description>
+			<pubDate>Thu, 26 Feb 2026 12:03:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ashley/Jackson/2026-02-26 12:03:16</guid>
+		</item>
+		<item>
+			<title>👍Sheryl Landstrom - Seattle Children’s</title>
+			<description>Sheryl Landstrom signed up to testify Pro.</description>
+			<pubDate>Thu, 26 Feb 2026 12:23:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sheryl/Landstrom/2026-02-26 12:23:35</guid>
 		</item>
 	</channel>
 </rss>

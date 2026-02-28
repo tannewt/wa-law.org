@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5969/</link>
 		<description>Updates about SB 5969</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -239,6 +239,13 @@
 			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-24/ED - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

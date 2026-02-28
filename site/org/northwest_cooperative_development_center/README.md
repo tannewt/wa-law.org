@@ -53,7 +53,7 @@
 
 ### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
 
-### [HB 2590](/bill/2025-26/hb/2590/) - Limited equity cooperatives 👍9  
+### [HB 2590](/bill/2025-26/hb/2590/) - Limited equity cooperatives 👍10  
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion
@@ -67,7 +67,8 @@
 * 👍 Victoria OBanion
 * 👍 Victoria O'Banion
 
-### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍2  
+* 👍 Victoria N H O'Banion
 
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 

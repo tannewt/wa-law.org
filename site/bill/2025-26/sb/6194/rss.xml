@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6194/</link>
 		<description>Updates about SB 6194</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 25 Feb 2026 12:34:54 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -161,6 +161,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Andy/Alden/2026-02-25 12:34:54</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-27/APP - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

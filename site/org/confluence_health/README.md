@@ -45,6 +45,8 @@
 
 ### [SB 5335](/bill/2025-26/sb/5335/) - Rural nursing education 👍1  
 
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
+
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency  👎1 
 
 ### [SB 5683](/bill/2025-26/sb/5683/) - Health carrier payment times 👍1  

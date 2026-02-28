@@ -106,13 +106,13 @@
 
 ### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes 👍1  
 
-### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍2  
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍3  
 
 ### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy 👍3  
 * 👍 Megan Moore
 * 👍 Megan Moore
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍3  
 
 ### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child  👎1 
 
@@ -203,7 +203,7 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Amy Brackenbury
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍3  
 
 ### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍2  
 
@@ -225,7 +225,7 @@
 ### [SB 6204](/bill/2025-26/sb/6204/) - Home cultivation of cannabis  👎1 
 * 👎💵 Amy Brackenbury
 
-### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍2  
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍3  
 
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 

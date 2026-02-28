@@ -15,11 +15,11 @@
 ### [SB 6154](/bill/2025-26/sb/6154/) - Culvert replacement permits 👍1  
 * 👍 Tricia Juhnke
 
-## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
+## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍2  
 
 ## 2023-24
 
-### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍1  
+### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍2  
 
 ### [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍2  
 

@@ -5,8 +5,10 @@
 
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities   ❓1
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  ❓1
 * ❓ Vice Chairman Ashton Picard
+* 👍 Shannon Wheeler Chairman
+* 👍 Darren Wheeler
 
 ### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍2  
 

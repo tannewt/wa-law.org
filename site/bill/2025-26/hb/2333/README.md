@@ -15,13 +15,22 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): 2SHB 2333 Political violence
-Sign up to testify:
+#### 195 👍 - Pro
+Testifying:
+* Louisa Duggan - Vote Mama Lobby
+* Gary Ernsdorff - King County Prosecutor's Office
+* Jennifer Ritchie - King County Prosecutor's Office
+* Michael Mohandeson - King County Prosecutor's Office
 
-#### 4 👍 - Pro
+#### 859 👎 - Con
+Testifying:
+* Marianne Nichols - Washington Association of County Auditors - Pend Oreille County Auditor
+* Jared Krause - Thurston County Auditor's Office
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Heather Hirotaka - Office of the Secretary of State - State Archives
+* Dallas Burnett - Washington State ACP
 
 ### Fri 02/20 02:00 PM - Law & Justice (LAW): 2SHB 2333 Political violence
 #### 247 👍 - Pro

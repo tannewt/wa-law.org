@@ -12,6 +12,18 @@
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February legislative update - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/02/19/february-legislative-update/#:~:text=6210)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): ESSB 6210 Health plan certification
+#### 19 👍 - Pro
+Testifying:
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Ingrid Ulrey - Washington Health Benefit Exchange
+
+#### 92 👎 - Con
+Testifying:
+* 💵David Foster - Assoc of WA Healthcare Plans
+
+#### 0 ❓ - Other
+
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): ESSB 6210 Health plan certification
 #### 163 👍 - Pro
 Testifying:

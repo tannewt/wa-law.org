@@ -67,7 +67,7 @@
 
 ### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍1  
 
-### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍2  
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍3  
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
@@ -130,7 +130,7 @@
 ### [SB 5849](/bill/2025-26/sb/5849/) - Financial education 👍2  
 * 👍 Susie Zhang
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍4  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍5  
 * 👍💵 Charles Smith
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍15  
@@ -156,6 +156,8 @@
 ### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍2  
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+
+### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍1  
 
 ### [SB 6227](/bill/2025-26/sb/6227/) - Parenting student data 👍1  
 

@@ -24,7 +24,7 @@
 ### [HB 2037](/bill/2025-26/hb/2037/) - Cannabis  👎1 
 * 👎💵 Trent Matson
 
-### [HB 2152](/bill/2025-26/hb/2152/) - Cannabis/health facilities 👍3  
+### [HB 2152](/bill/2025-26/hb/2152/) - Cannabis/health facilities 👍4  
 * 👍 Bethany Rondeaux
 * 👍 Bethany Rondeaux
 

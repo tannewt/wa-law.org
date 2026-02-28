@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): SB 5922 Transportation vehicle fund
-Sign up to testify:
-
-#### 0 👍 - Pro
+#### 7 👍 - Pro
 
 #### 0 👎 - Con
 

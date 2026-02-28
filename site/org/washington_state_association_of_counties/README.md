@@ -173,9 +173,10 @@
 ### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties 👍1  
 * 👍💵 Paul Jewell
 
-### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 ❓1
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 ❓2
 * 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
+* ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍4  
@@ -221,13 +222,16 @@
 
 ### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
 
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 * 👍💵 Curtis Steinhauer
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍6  
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍7  
 * 👍💵 Travis Dutton
 * 👍💵 Paul Jewell
 * 👍💵 Travis Dutton
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
@@ -343,7 +347,7 @@
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍2  
 
 ### [HB 2456](/bill/2025-26/hb/2456/) - Juvenile firearm interv.   ❓1
 * ❓💵 Travis Dutton
@@ -467,8 +471,9 @@
 
 ### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
 
-### [SB 5374](/bill/2025-26/sb/5374/) - Transportation/tribal rep.   ❓1
+### [SB 5374](/bill/2025-26/sb/5374/) - Transportation/tribal rep. 👍1  ❓1
 * ❓💵 Axel Swanson
+* 👍💵 Axel Swanson
 
 ### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎1 
 * 👎💵 Paul Jewell
@@ -601,9 +606,10 @@
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags   ❓1
 * ❓💵 Travis Dutton
 
-### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb.  👎2 
+### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb.  👎3 
 * 👎💵 Paul Jewell
 * 👎💵 Travis Dutton
+* 👎💵 Paul Jewell
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Curtis Steinhauer
@@ -631,7 +637,7 @@
 ### [SB 6064](/bill/2025-26/sb/6064/) - International fire code  👎1 
 * 👎💵 Curtis Steinhauer
 
-### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones   ❓1
+### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  ❓1
 * ❓💵 Axel Swanson
 
 ### [SB 6113](/bill/2025-26/sb/6113/) - Tax administration   ❓1

@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/26/2026 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/02/26/february-session-recap-3/#:~:text=HB%202515)
 * 02/11/2026 [Washington State Standard](/org/washington_state_standard/) - [How WA lawmakers are trying to regulate data centers • Washington State Standard](https://washingtonstatestandard.com/2026/02/11/how-wa-lawmakers-are-trying-to-regulate-data-centers/#:~:text=House%20Bill%202515)
 * 02/11/2026 [Wenatchee World](/org/wenatchee_world/) - [How WA lawmakers are trying to regulate data centers | Northwest News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/how-wa-lawmakers-are-trying-to-regulate-data-centers/article_ab2c8564-8562-4f0c-b005-0815157aad78.html#:~:text=House%20Bill%202515)
 * 02/03/2026 [Axios](/org/axios/) - [Washington state debates making data centers pay full power costs - Axios Seattle](https://www.axios.com/local/seattle/2026/02/03/washington-data-centers-legislature-electric-grid-cost-shift-ratepayers#:~:text=House%20Bill%202515)
@@ -22,13 +23,46 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): E2SHB 2515 Large energy use facilities
-Sign up to testify:
+#### 535 👍 - Pro
+Testifying:
+* 💵Logan Bahr - Tacoma Power/Tacoma Public Utilities
+* Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
+* Alice Lockhart
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Zachariah Baker - NW Energy Coalition
+* Charlie Matlack
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵James Hove - [Climate Solutions](/org/climate_solutions/)
+* Neal Anderson
+* Anna Allen - Columbia River Inter-Tribal Fish Commission
+* Corrine Sams Trustee - [Confederated Tribes of the Umatilla Indian Reservation](/org/confederated_tribes_of_the_umatilla_indian_reservation/)
+* Shannon Wheeler Chairman - [Nez Perce Tribe](/org/nez_perce_tribe/)
+* Kas Guillozet - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
+* Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)
+* Darren Wheeler - [Nez Perce Tribe](/org/nez_perce_tribe/)
 
-#### 18 👍 - Pro
+#### 867 👎 - Con
+Testifying:
+* Dan Diorio - Data Center Coalition
+* John Roskelley
+* Lauren McDonald - [Microsoft](/org/microsoft/)
+* 💵Mallorie Davies - Washington and Northern Idaho District Council of Laborers
+* 💵Matthew Hepner - [Certified Electrical Workers of Washington](/org/certified_electrical_workers_of_washington/)
+* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* 💵Josie Cummings - Avista
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Jerry VanderWood - Associated General Contractors (AGC)
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+* 💵Michael Transue - Tacoma Pierce County Chamber
+* Debbie Yardley - IBEW
+* Izaiah Guertin - IBEW
+* Justin Nunez - IBEW
+* Thomas DuBeau - IUOE Local 302
 
-#### 28 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Matt Miller - Puget Sound Wnergy
 
 ### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 2515 Large energy use facilities
 #### 624 👍 - Pro

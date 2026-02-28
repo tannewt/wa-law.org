@@ -16,13 +16,15 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Transportation (TRAN): E2SHB 2251 Climate commit. act accounts
-Sign up to testify:
+#### 42 👍 - Pro
+Testifying:
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 7 👍 - Pro
+#### 1261 👎 - Con
 
-#### 628 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Todd Myers
 
 ### Tue 02/24 04:00 PM - Ways & Means (WM): E2SHB 2251 Climate commit. act accounts
 #### 63 👍 - Pro

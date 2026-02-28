@@ -3,6 +3,8 @@
 
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages 👍2  
 
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍1  
+
 ### [HB 1262](/bill/2025-26/hb/1262/) - Health disparities council   ❓1
 
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍2  

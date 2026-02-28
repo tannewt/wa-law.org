@@ -9,23 +9,20 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Transportation (TRAN): SHB 2410 Commercial truck council
-Sign up to testify:
-
-#### 157 👍 - Pro
+#### 352 👍 - Pro
 Testifying:
 * Jason McFadden - Ludtke-Pacific Trucking
 * Jeff DeVere - Washington Trucking Associations
 * 💵Sheri Call - Washington Trucking Associations
+* 💵Ken Short - Association of Washington Business (AWB)
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:
 * Mark McKechnie - Washington Traffic Safety Commission
 
 ### Thu 02/26 01:30 PM - Transportation (TRAN): SHB 2410 Commercial truck council
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

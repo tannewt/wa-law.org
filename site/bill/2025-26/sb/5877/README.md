@@ -7,6 +7,16 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): SB 5877 Anesth. assistant surcharges
+#### 3 👍 - Pro
+Testifying:
+* 💵Carolyn Logue - [Washington Academy of Anesthesiologist Assistants](/org/washington_academy_of_anesthesiologist_assistants/)
+* Micah Matthews - Washington Medical Commission
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): SB 5877 Anesth. assistant surcharges
 #### 7 👍 - Pro
 Testifying:

@@ -10,8 +10,6 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Transportation (TR): ESSB 6262 Vehicle fees/maximum weight
-Sign up to testify:
-
 #### 22 👍 - Pro
 Testifying:
 * Mark Trenary - City of Port Orchard Councilmember
@@ -20,7 +18,7 @@ Testifying:
 * Virginia Clough - [City of Spokane Valley](/org/city_of_spokane_valley/)
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 828 👎 - Con
+#### 929 👎 - Con
 
 #### 1 ❓ - Other
 

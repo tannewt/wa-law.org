@@ -9,9 +9,10 @@
 
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎2 
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎2 ❓1
 * 👎 Casey MacLean
 * 👎 Casey MacLean
+* ❓ Casey MacLean
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
@@ -44,11 +45,15 @@
 ### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 * 👍 Casey MacLean
 
-## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
+### [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
+
+## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system 👍1  
+* 👍 Casey MacLean
 
 ## 2023-24
 
-### [SB 6352](/bill/2023-24/sb/6352/) - Transportation resources 👍1  
+### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system 👍1  
+* 👍 Casey MacLean
 
 ### [HB 1173](/bill/2023-24/hb/1173/) - Light pollution  👎1 
 * 👎 Jeff Gombosky

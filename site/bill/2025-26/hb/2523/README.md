@@ -10,15 +10,14 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/26/2026 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/02/26/february-session-recap-3/#:~:text=HB%202523)
 * 02/02/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/02/the-house-hot-sheet-for-week-4-of-the-2026-legislative-session/#:~:text=HB%202523)
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202523)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Key Week for Community Reinvestment Project & Imagination Library in Olympia - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02252026#:~:text=HB%202523%20Washington%20State%20Legislature)
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2523 Community reinvestment prg.
-Sign up to testify:
-
-#### 185 👍 - Pro
+#### 227 👍 - Pro
 Testifying:
 * Paula Fillmore-Sardinas - WBBA (WA Build Black Alliance)
 * Caitlein Ryan - THE CANNABIS ALLIANCE
@@ -36,10 +35,11 @@ Testifying:
 * Rosi Tavaiqia - PICA-WA
 * Estela Ortega - El Centro de la Raza
 * 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
+* Barutay Lamkin
 
-#### 81 👎 - Con
+#### 139 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2523 Community reinvestment prg.
 #### 87 👍 - Pro

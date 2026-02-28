@@ -30,7 +30,8 @@
 
 ### [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍1  
 
-### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍2  
+* 👍 Jason Griffith
 
 ## [SB 6137](/bill/2025-26/sb/6137/) - Regulated sports wagering 👍1  
 

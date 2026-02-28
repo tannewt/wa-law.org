@@ -55,7 +55,7 @@ Testifying:
 * Genevieve Fain
 * Ted Weinberg - Mercer Island City Council
 * 💵Chester Baldwin - National Parking Association
-* Victor Njogu - FMSGS/WBBA
+* 💵Victor Njogu - FMSGS/WBBA
 
 #### 361 👎 - Con
 Testifying:

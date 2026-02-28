@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/26/2026 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/02/26/february-session-recap-3/#:~:text=SB%205828)
 * 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [Bill to boost financial aid for students at WA's private colleges moves out of Senate • Washington State Standard](https://washingtonstatestandard.com/briefs/bill-to-boost-financial-aid-for-students-at-washingtons-private-colleges-moves-out-of-senate/#:~:text=Senate%20Bill%205828)
 * 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SB%205828)
 * 01/22/2026 [Washington State Standard](/org/washington_state_standard/) - [Lawmakers look to reverse financial aid cuts for students at WA’s private colleges • Washington State Standard](https://washingtonstatestandard.com/2026/01/22/lawmakers-look-to-reverse-financial-aid-cuts-for-students-at-was-private-colleges/#:~:text=A%20bill)

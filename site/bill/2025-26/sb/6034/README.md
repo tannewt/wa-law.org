@@ -14,11 +14,12 @@
 
 ## Meetings
 ### Fri 02/27 10:30 AM - Appropriations (APP): SSB 6034 Office of Indian affairs
-Sign up to testify:
+#### 12 👍 - Pro
+Testifying:
+* Tim Reynon - Governor's Office of Indian Affairs, Executive Director
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 76 👎 - Con
 
 #### 0 ❓ - Other
 

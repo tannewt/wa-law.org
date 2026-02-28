@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2242/</link>
 		<description>Updates about HB 2242</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Feb 2026 12:39:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -331,6 +331,34 @@
 			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-24/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-26/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 36; nays, 12; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 36; nays, 12; absent, 0; excused, 1.</description>
+			<pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-26/Third reading, passed; yeas, 36; nays, 12; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>WA moves to issue its own guidance for vaccines insurers must cover • Washington State Standard</title>
+			<description>News article "WA moves to issue its own guidance for vaccines insurers must cover • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Thu, 26 Feb 2026 22:15:40 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/02/26/wa-moves-to-issue-its-own-vaccine-guidance-amid-federal-overhaul/#:~:text=House%20Bill%202242</guid>
+		</item>
+		<item>
+			<title>WA passes legislation requiring no-cost insurance for state-recommended vaccines | Washington | thecentersquare.com</title>
+			<description>News article "WA passes legislation requiring no-cost insurance for state-recommended vaccines | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Fri, 27 Feb 2026 12:39:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_395f2ab6-e30b-4b0a-84b0-c4d6018bc1cb.html#:~:text=House%20Bill%202242</guid>
 		</item>
 	</channel>
 </rss>

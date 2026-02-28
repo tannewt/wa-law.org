@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/26/2026 [FOX13](/org/fox13/) - [Fight to reform WA child welfare crisis stalls | FOX 13 Seattle](https://www.fox13seattle.com/news/reform-wa-child-welfare-stalls-legislature#:~:text=HB%202692)
+
 ## Meetings

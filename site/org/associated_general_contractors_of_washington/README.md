@@ -39,7 +39,7 @@
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
 * 👎 Lauren Gubbe
 
-### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care  👎1 
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care  👎2 
 
 ### [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments 👍1  
 

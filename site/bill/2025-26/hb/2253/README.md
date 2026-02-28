@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/27/2026 [The Center Square](/org/the_center_square/) - [WATCH: Did anti-fraud crackdown kill WA childcare licensing reform? | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c6338197-c651-4bad-9b5e-9f8a6d5822c9.html#:~:text=House%20Bill%202253)
+
 ## Meetings
 ### Mon 02/23 01:30 PM - Human Services (HS): ESHB 2253 DCYF licensing division
 #### 77 👍 - Pro

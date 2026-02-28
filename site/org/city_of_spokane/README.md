@@ -34,9 +34,10 @@
 
 ### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍4  
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍7  
 * 👍 Chris Averyt
 * 👍 Chris Averyt
+* 👍 Rob Duff
 
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
 
@@ -84,6 +85,8 @@
 
 ### [SB 5933](/bill/2025-26/sb/5933/) - Overdose mapping information 👍1  
 * 👍💵 Paul Dillon
+
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍1  
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 

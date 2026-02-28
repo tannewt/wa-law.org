@@ -53,6 +53,8 @@
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
+
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 
 ### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍2  

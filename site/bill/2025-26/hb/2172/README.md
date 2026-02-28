@@ -10,9 +10,7 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Transportation (TRAN): ESHB 2172 Road jurisdiction transfer
-Sign up to testify:
-
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * John Hines - Councilmember, City of Tacoma
 * Steve Victor - [City of Tacoma](/org/city_of_tacoma/)
@@ -20,14 +18,13 @@ Testifying:
 * Reema Griffith - Wash. State Transportation Commission
 * 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Ashley Probart - Transportation Improvement Board
 
 #### 0 👎 - Con
 
 #### 0 ❓ - Other
 
 ### Thu 02/26 01:30 PM - Transportation (TRAN): ESHB 2172 Road jurisdiction transfer
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

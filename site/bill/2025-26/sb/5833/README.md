@@ -13,11 +13,9 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Transportation (TR): SSB 5833 Pets in unattended vehicles
-Sign up to testify:
+#### 106 👍 - Pro
 
-#### 70 👍 - Pro
-
-#### 5 👎 - Con
+#### 6 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

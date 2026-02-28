@@ -8,7 +8,7 @@
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
-### [HB 2590](/bill/2025-26/hb/2590/) - Limited equity cooperatives 👍2  
+### [HB 2590](/bill/2025-26/hb/2590/) - Limited equity cooperatives 👍3  
 
 ### [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification 👍1  
 

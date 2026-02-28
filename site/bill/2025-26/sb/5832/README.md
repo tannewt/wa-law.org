@@ -14,14 +14,12 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): SB 5832 Motor vehicle arb. fee
-Sign up to testify:
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * Nick Fielden - Washington State Attorney General’s Office
 
-#### 806 👎 - Con
+#### 889 👎 - Con
 
 #### 0 ❓ - Other
 

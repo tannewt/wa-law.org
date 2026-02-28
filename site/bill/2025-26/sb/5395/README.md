@@ -17,6 +17,16 @@
 * 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [Week 13 update: Key bills, asthma resources, some special thanks, and an upcoming town hall - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/09/week-13-update-key-bills-asthma-resources-some-special-thanks-and-an-upcoming-town-hall/#:~:text=restricted%20the%20use%20of%20artificial%20intelligence)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): E2SSB 5395 Prior authorization/health
+#### 78 👍 - Pro
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Sean Graham - Washington State Medical Association
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): E2SSB 5395 Prior authorization/health
 #### 357 👍 - Pro
 Testifying:

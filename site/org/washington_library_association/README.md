@@ -51,6 +51,9 @@
 
 ### [SB 5961](/bill/2025-26/sb/5961/) - Early literacy programs 👍1  
 
+### [SB 6113](/bill/2025-26/sb/6113/) - Tax administration   ❓1
+* ❓💵 Carolyn Logue
+
 ## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24

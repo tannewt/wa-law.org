@@ -1,7 +1,8 @@
 # Port of Olympia
 ## 2025-26
 
-### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍3  
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍4  
+* 👍💵 Jasmine Vasavada
 * 👍💵 Jasmine Vasavada
 
 ### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  

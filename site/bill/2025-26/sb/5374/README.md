@@ -15,6 +15,15 @@
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205374)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Transportation (TR): ESSB 5374 Transportation/tribal rep.
+#### 10 👍 - Pro
+Testifying:
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
+#### 68 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/24 10:30 AM - Local Government (LG): ESSB 5374 Transportation/tribal rep.
 #### 15 👍 - Pro
 

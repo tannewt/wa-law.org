@@ -74,7 +74,7 @@
 
 ### [HB 2230](/bill/2025-26/hb/2230/) - DD res. service providers 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
 
@@ -113,7 +113,7 @@
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 
-### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care  👎1 
+### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care  👎1 ❓1
 
 ### [HB 2714](/bill/2025-26/hb/2714/) - Food assistance caseload 👍1  
 
@@ -222,11 +222,11 @@
 
 ### [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
 
 ### [SB 5956](/bill/2025-26/sb/5956/) - AI use/student discipline 👍1  
 
-### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍2 👎2 
+### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍3 👎2 
 * 👎💵 Ramona Hattendorf
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  ❓1

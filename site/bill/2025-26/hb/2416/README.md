@@ -15,13 +15,21 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): E2SHB 2416 Waste to energy facilities
-Sign up to testify:
+#### 215 👍 - Pro
+Testifying:
+* Kelly Wright
+* Lisa Brown - Mayor, City of Spokane
+* Rob Duff - [City of Spokane](/org/city_of_spokane/)
+* 💵John Rothlin - Avista
+* Jim Tieken - AFSCME Council 2
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
+* Katy Sheehan
 
-#### 4 👍 - Pro
+#### 4 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Joel Creswell - Washington Department of Ecology
 
 ### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 2416 Waste to energy facilities
 #### 212 👍 - Pro

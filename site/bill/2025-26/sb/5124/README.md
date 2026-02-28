@@ -10,9 +10,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): ESSB 5124 SNF & rehab network adequacy
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Katie Kolan - Washington State Hospital Association (WSHA)
 * Alex Dilley - MultiCare Health System

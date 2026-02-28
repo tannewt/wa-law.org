@@ -12,13 +12,20 @@
 
 ## Meetings
 ### Fri 02/27 10:30 AM - Appropriations (APP): ESB 6246 Emissions/trade-exposed
-Sign up to testify:
+#### 17 👍 - Pro
+Testifying:
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Jennifer Ziegler - [Kaiser Aluminum](/org/kaiser_aluminum/)
+* 💵Joshua Estes - Association of Western Pulp and Paper Workers Union
 
-#### 0 👍 - Pro
+#### 756 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Bill Stauffacher - Northwest Pulp and Paper Association
+* Tarah Erickson - Nucor Steel
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+* 💵Jessica Spiegel - WSPA
 
 ### Wed 02/18 10:00 AM - Environment & Energy (ENVI): ESB 6246 Emissions/trade-exposed
 #### 45 👍 - Pro

@@ -13,13 +13,12 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): 2SHB 2590 Limited equity cooperatives
-Sign up to testify:
-
-#### 17 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* Jessica McKeegan Jensen - Cap City Law PS
 
-#### 0 👎 - Con
+#### 73 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -5,7 +5,7 @@
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍2  
 
-### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍4  
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍6  
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 

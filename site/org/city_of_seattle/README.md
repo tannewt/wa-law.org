@@ -192,6 +192,8 @@
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍2  
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
 ### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy 👍1  
 
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  

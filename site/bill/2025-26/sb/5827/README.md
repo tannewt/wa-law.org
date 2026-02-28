@@ -11,6 +11,13 @@
 * [Senate Republicans](/org/senate_republicans/) - [Affordable Solutions for Washington - Senate Republican Caucus](https://src.wastateleg.org/bills-protect-washington/#:~:text=FOLLOW%20SB%205827)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): SSB 5827 Veterans/discharge def.
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SSB 5827 Veterans/discharge def.
 #### 63 👍 - Pro
 

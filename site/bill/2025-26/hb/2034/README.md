@@ -17,20 +17,23 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2034 LEOFF 1 restatement
-Sign up to testify:
-
-#### 7 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Clair Olivers - Retired Public Employees Council of WA
 
-#### 2537 👎 - Con
+#### 2756 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * 💵Joyce Willms - LEOFF1 Coalition
 * Kenneth Torno
 * Patti Mann
+* Patrick McElligott - Tacoma Professional Fire Fighters Local 31
+* 💵Dennis Lawson - Washington State Council of Firefighters
+* David Maehren - LEOFF I Retiree
+* John Carman - LEOFF 1 Member
+* Dwight Altenburg
 
-#### 13 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)

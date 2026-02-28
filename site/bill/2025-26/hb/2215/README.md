@@ -14,17 +14,21 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2215 Fuels/climate commitment act
-Sign up to testify:
-
-#### 10 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 891 👎 - Con
+#### 997 👎 - Con
 Testifying:
 * John Roskelley
+* Jim Wallace - President GeeCees Truckstop
+* Jesse Wallace - Part owner of GeeCees Truck Stop
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
+* Sophia Steele Conley - WSPA
+* Jim Hedrick - Pacific Propane Gas Association (PPGA)
 
 ### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 2215 Fuels/climate commitment act
 #### 187 👍 - Pro

@@ -6,7 +6,7 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities  👎1 ❓1
 * ❓💵 Patrick Boss
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎11 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎14 
 * 👎💵 Patrick Boss
 * 👎💵 Patrick Boss
 * 👎💵 Patrick Boss
@@ -16,7 +16,7 @@
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎1 ❓1
 * ❓💵 Patrick Boss
 
-### [SB 6076](/bill/2025-26/sb/6076/) - Utility procurement 👍2  
+### [SB 6076](/bill/2025-26/sb/6076/) - Utility procurement 👍3  
 
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎3 
 * 👎💵 Patrick Boss

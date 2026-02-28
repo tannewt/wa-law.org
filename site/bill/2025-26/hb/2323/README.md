@@ -14,17 +14,15 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Transportation (TRAN): SHB 2323 Traffic stops/blue envelope
-Sign up to testify:
+#### 220 👍 - Pro
+Testifying:
+* Chandler Groce
 
-#### 16 👍 - Pro
-
-#### 2 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other
 
 ### Thu 02/26 01:30 PM - Transportation (TRAN): SHB 2323 Traffic stops/blue envelope
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

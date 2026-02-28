@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2692/</link>
 		<description>Updates about HB 2692</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Feb 2026 16:25:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-28/First reading, referred to Early Learning &amp; Human Services.</guid>
+		</item>
+		<item>
+			<title>Fight to reform WA child welfare crisis stalls | FOX 13 Seattle</title>
+			<description>News article "Fight to reform WA child welfare crisis stalls | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Thu, 26 Feb 2026 16:25:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/reform-wa-child-welfare-stalls-legislature#:~:text=HB%202692</guid>
 		</item>
 	</channel>
 </rss>

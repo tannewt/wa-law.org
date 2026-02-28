@@ -11,11 +11,11 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): HB 2091 Bargaining/employee info.
-Sign up to testify:
+#### 6 👍 - Pro
+Testifying:
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 1 👍 - Pro
-
-#### 2 👎 - Con
+#### 43 👎 - Con
 Testifying:
 * Elizabeth New - Washington Policy Center
 

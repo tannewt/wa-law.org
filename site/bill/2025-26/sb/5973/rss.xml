@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5973/</link>
 		<description>Updates about SB 5973</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 19 Feb 2026 14:07:12 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Feb 2026 15:07:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -532,6 +532,20 @@
 			<pubDate>Thu, 19 Feb 2026 14:07:12 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.cascadiadaily.com/2026/feb/19/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=Senate%20Bill%205973</guid>
+		</item>
+		<item>
+			<title>Senate Rules "X" file.</title>
+			<description>Senate Rules "X" file.</description>
+			<pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-26/Senate Rules "X" file.</guid>
+		</item>
+		<item>
+			<title>NEWSFLASH: Senate Democrats pass $80 billion budget - a house of cards built on phantom savings - Senate Republican Caucus</title>
+			<description>News article "NEWSFLASH: Senate Democrats pass $80 billion budget - a house of cards built on phantom savings - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Fri, 27 Feb 2026 15:07:22 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/newsflash-senate-democrats-pass-80-billion-budget-built-phantom-savings/#:~:text=5973</guid>
 		</item>
 	</channel>
 </rss>

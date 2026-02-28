@@ -11,6 +11,15 @@
 * 02/16/2026 [Senate Democrats](/org/senate_democrats/) - [Building policy through partnership - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/02/16/building-policy-through-partnership/#:~:text=SB%206289)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): SSB 6289 Economic dev. strategic plan
+#### 24 👍 - Pro
+Testifying:
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
+
+#### 93 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/24 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 6289 Economic dev. strategic plan
 #### 36 👍 - Pro
 Testifying:

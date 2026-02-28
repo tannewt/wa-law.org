@@ -47,6 +47,8 @@
 
 ### [HB 2318](/bill/2025-26/hb/2318/) - Adjusting the early achievers quality improvement awards. 👍1  
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
 ### [HB 2438](/bill/2025-26/hb/2438/) - Early education scholarship 👍1  
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 

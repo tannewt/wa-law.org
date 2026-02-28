@@ -72,7 +72,7 @@
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓1
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 ❓1
 * ❓ Kristen Holdsworth
 
 ### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  

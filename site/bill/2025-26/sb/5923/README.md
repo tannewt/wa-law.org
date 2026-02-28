@@ -9,9 +9,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): SSB 5923 Hospitals in Skagit county
-Sign up to testify:
-
-#### 108 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * Elise Cutter - Island Health
 * Jason Hogge - Island Health

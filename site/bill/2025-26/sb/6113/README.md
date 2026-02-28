@@ -15,15 +15,20 @@
 
 ## Meetings
 ### Fri 02/27 08:00 AM - Finance (FIN): ESSB 6113 Tax administration
-Sign up to testify:
-
-#### 58 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * John Fleckenstein - Student Orchestras of Greater Olympia
+* John Fleckenstein - Student Orchestras of Greater Olympia
+* Steve Ewing - Dept. of Revenue
+* Tori Emerson - President, Washington State PTA
 
-#### 55 👎 - Con
+#### 225 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
+* Eric Lundberg - CITIZEN REP
+* Laurie Layne
 
-#### 48 ❓ - Other
+#### 67 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Hunter George - Washington Recreation and Park Association
@@ -37,6 +42,18 @@ Testifying:
 * Michael Woody - Visit Seattle
 * Sammy Applegate - Pacific Northwest Film Scoring Program
 * 💵Lori Grassi - WA State Chiropractic Association
+* 💵Devin Gombosky - [Northwest Career College Federation](/org/northwest_career_college_federation/)
+* 💵Melissa Gombosky - Association of Educational Service Districts
+* 💵Tiffany Brace - [Nonprofit Association of Washington](/org/nonprofit_association_of_washington/)
+* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
+* Bruce Adsero - pesonal capacity
+* Manny Cawaling - Inspire Washington
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Halene Sigmund - [Construction Industry Training Council of Washington](/org/construction_industry_training_council_of_washington/)
+* 💵Sean Graham - Washington State Medical Association
+* Jody Armstrong - Commercial Driver School
+* 💵Michael Transue - Mechanical Contractors Ass'n of Western Washington & WA Aggregate and Concrete Ass'n
+* Sean Holland - [Washington Land Title Association](/org/washington_land_title_association/)
 
 ### Thu 01/22 04:00 PM - Ways & Means (WM): SB 6113 Tax administration
 #### 7 👍 - Pro

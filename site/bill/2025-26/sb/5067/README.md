@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/26/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA Majority Leader apologizes for being intoxicated during budget hearing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_67872395-61b5-4e44-a798-f149f235f923.html#:~:text=Senate%20Bill%205067)
 * 02/26/2026 [Washington State Standard](/org/washington_state_standard/) - [Drunk driving limit will not be lowered in Washington this year • Washington State Standard](https://washingtonstatestandard.com/2026/02/25/drunk-driving-limit-will-not-be-lowered-in-washington-this-year/#:~:text=Senate%20Bill%205067)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [Lovick Bill to Reduce Legal Blood Alcohol Concentration Limit for Drivers to .05 Passes Senate - Sen. John Lovick](https://senatedemocrats.wa.gov/lovick/2026/01/28/lovick-bill-to-reduce-legal-blood-alcohol-concentration-limit-for-drivers-to-05-passes-senate/#:~:text=Senate%20Bill%205067)
 * 12/08/2025 [Senate Democrats](/org/senate_democrats/) - [From Kamiak Knight to Finnish knight: Sen. Liias awarded international recognition for legislative work - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/12/08/from-kamiak-knight-to-finnish-knight-sen-liias-awarded-international-recognition-for-legislative-work/#:~:text=2025)

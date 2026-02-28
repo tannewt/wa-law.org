@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/26/2026 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/02/26/february-session-recap-3/#:~:text=SB%206325)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to strengthen higher education funding, student services heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/29/nobles-bill-to-strengthen-higher-education-funding-student-services-heard-in-committee/#:~:text=Senate%20Bill 6325)
 
 ## Meetings

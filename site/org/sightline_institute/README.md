@@ -154,7 +154,7 @@
 ### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans 👍1  
 * 👍💵 Dan Bertolet
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍3  
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 

@@ -23,15 +23,19 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): E2SHB 1170 AI content notices
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Yale Moon
+* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* 💵Rose Feliciano - TechNet
+* Artemii Remizov
 
-#### 0 👎 - Con
+#### 651 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Joshua Johnston - WaTech
+* Nick Fielden - Washington State Attorney General's Office
 
 ### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 1170 AI content notices
 #### 223 👍 - Pro

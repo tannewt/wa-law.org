@@ -14,18 +14,19 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): HB 1796 School construction debt
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 193 👍 - Pro
 Testifying:
 * Jon Holmen - Lake Washington School District
 * 💵Grace Yuan - [School Alliance](/org/school_alliance/)
+* Chrys Sweeting - Arlington Public Schools
+* Lisa Guthrie - Lake Washington School District Board of Directors
+* Lance Goodpaster - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
 
-#### 43 👎 - Con
+#### 991 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/18 10:30 AM - Early Learning & K-12 Education (EDU): HB 1796 School construction debt
 #### 172 👍 - Pro

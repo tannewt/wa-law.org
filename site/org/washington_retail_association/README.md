@@ -40,7 +40,7 @@
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
 * 👎💵 Crystal Leatherman
 
-### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎2 ❓1
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices 👍1 👎2 ❓1
 * 👎💵 Crystal Leatherman
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
@@ -200,7 +200,7 @@
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 
 * 👎💵 Crystal Leatherman
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
 
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎3 
 
@@ -242,7 +242,7 @@
 
 ### [HB 2503](/bill/2025-26/hb/2503/) - AI training data  👎1 
 
-### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍2  
 
 ### [HB 2573](/bill/2025-26/hb/2573/) - Grocery stores & pharmacies  👎1 
 
@@ -335,7 +335,7 @@
 * 👍💵 Crystal Leatherman
 * ❓💵 Crystal Leatherman
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍4  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍5  
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
 * 👎💵 Crystal Leatherman
@@ -350,6 +350,8 @@
 * 👎💵 Crystal Leatherman
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care  👎1 
 
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍3  
 * 👍💵 Crystal Leatherman
@@ -382,7 +384,7 @@
 
 ### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
 
-### [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
+### [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍2  
 
 ### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
 

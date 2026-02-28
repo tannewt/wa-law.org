@@ -30,7 +30,7 @@
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍2  
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍3  
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍4  
 * 👍💵 Matthew Ellsworth
 
 ### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  

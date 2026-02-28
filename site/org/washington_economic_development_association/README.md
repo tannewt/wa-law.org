@@ -13,6 +13,8 @@
 
 ### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
 
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
+
 ### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍2  ❓1
 * 👍 Suzanne Dale Estey
 * ❓ Suzanne Dale Estey
@@ -26,13 +28,15 @@
 
 ### [SB 6275](/bill/2025-26/sb/6275/) - Community reinvestment prg. 👍1  
 
-## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍2  
+## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍3  
+* 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey
 
 ## 2023-24
 
-### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍2  
+### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍3  
+* 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey
 

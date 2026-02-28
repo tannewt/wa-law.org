@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/26/2026 [KUOW](/org/kuow/) - [KUOW - Why WA child care program could bear brunt of budget cuts](https://www.kuow.org/stories/why-wa-child-care-program-could-bear-brunt-of-budget-cuts#:~:text=Senate%20Bill%206353,)
+* 02/26/2026 [Washington State Standard](/org/washington_state_standard/) - [Why WA child care program could bear brunt of budget cuts • Washington State Standard](https://washingtonstatestandard.com/2026/02/26/why-wa-child-care-program-could-bear-brunt-of-budget-cuts/#:~:text=Senate%20Bill%206353)
+
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SB 6353 Working conn. child care
 #### 116 👍 - Pro

@@ -14,20 +14,20 @@
 
 ## Meetings
 ### Thu 02/26 08:00 AM - Capital Budget (CB): E2SSB 5061 Public works wages
-Sign up to testify:
-
-#### 196 👍 - Pro
+#### 212 👍 - Pro
 Testifying:
 * 💵Erin Frasier - WA State Building & Construction Trades Council
 * 💵Michael Transue - Mechanical Contractors Association of Western Washington
 * 💵Mallorie Davies - WA & N. ID District Council of Laborers
 
-#### 108 👎 - Con
+#### 126 👎 - Con
 Testifying:
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * Jerry VanderWood - Associated General Contractors (AGC)
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Tammy Fellin - Washington State Department of Labor and Industries
 
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5061 Public works wages
 #### 181 👍 - Pro

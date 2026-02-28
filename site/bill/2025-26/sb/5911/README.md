@@ -12,9 +12,11 @@
 
 ## Meetings
 ### Fri 02/27 10:30 AM - Appropriations (APP): SSB 5911 DCYF/financial stability
-Sign up to testify:
-
-#### 0 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Kim Justice - Partners for Our Children
+* 💵Arthur Longworth - TeamChild
+* Kat Lohman - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 
 #### 0 👎 - Con
 

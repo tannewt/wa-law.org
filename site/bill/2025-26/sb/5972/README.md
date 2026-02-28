@@ -12,17 +12,16 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): SSB 5972 Correctional officers/arb.
-Sign up to testify:
-
-#### 47 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Daron Smith - Teamsters Local 231
 * Rachid Bensultana - correction SGT
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jay Arnold - Council-Member, City of Kirkland
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 1 ❓ - Other
 

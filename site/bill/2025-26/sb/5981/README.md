@@ -10,10 +10,38 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/27/2026 [Senate Democrats](/org/senate_democrats/) - [Cleavland bill protecting prescription drug affordability passes through House policy committee. - Sen. Annette Cleveland](https://senatedemocrats.wa.gov/cleveland/2026/02/27/cleavland-bill-protecting-prescription-drug-affordability-passes-through-house-policy-committee/#:~:text=Senate%20Bill%205981)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=2SSB%205981)
 * 02/09/2026 [The Washington Observer](/org/the_washington_observer/) - [Big Pharma v The Hospitals, cont'd.](https://washingtonobserver.substack.com/p/big-pharma-v-the-hospitals-contd#:~:text=bills)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): E2SSB 5981 340B drug pricing program
+#### 118 👍 - Pro
+Testifying:
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
+* Andy Nelson - Jefferson Healthcare
+* Sheila Berschauer - Moses Lake Community Health Center
+* Sumona Das Gupta - UW Medicine
+
+#### 128 👎 - Con
+Testifying:
+* Corbin Santo - Johnson & Johnson Innovative Medicine
+* BIO, Primo Castro - Biotechnology Innovation Organization (BIO)
+* 💵Curtis Knapp - [Life Science Washington](/org/life_science_washington/)
+* Asher Lisec - Pharmaceutical Research and Manufacturers of America
+* Kris Tefft - Washington Liability Reform Coalition
+* Jennifer Kent - The Kent Group
+* 💵Logan Dozier - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
+* Arcadi Kolchak - AbbVie
+* Lizzie Wittig - Tigerlily Foundation (patient advocate)
+* 💵Anne Murray - Bristol Myers Squibb
+* Paula Fillmore-Sardinas - FMS Global Strategies, LLC
+* 💵Nate Miles - FMS Global Strategies, LLC
+
+#### 0 ❓ - Other
+
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): 2SSB 5981 340B drug pricing program
 #### 242 👍 - Pro
 Testifying:

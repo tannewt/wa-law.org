@@ -36,6 +36,8 @@
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
+
 ## [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  
 * 👍💵 Briahna Murray
 

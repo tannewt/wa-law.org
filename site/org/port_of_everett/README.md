@@ -16,10 +16,11 @@
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍3  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍4  
 * 👍 Adam LeMieux
 * 👍 Adam LeMieux
 * 👍 Jim Hedrick
+* 👍 Adam Lemieux
 
 ### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
 

@@ -30,7 +30,7 @@
 
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍1  
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
 
 ### [HB 1950](/bill/2025-26/hb/1950/) - Subcontractors, indemnifying 👍2  
 

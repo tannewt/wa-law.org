@@ -13,6 +13,13 @@
 * 01/08/2026 [FOX13](/org/fox13/) - [New laws proposed for WA's 2026 legislative session | FOX 13 Seattle](https://www.fox13seattle.com/news/taxes-spending-2026-legislative-session#:~:text=SB%205890)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): ESB 5890 Reckless driving, speed
+#### 19 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): ESB 5890 Reckless driving, speed
 #### 269 👍 - Pro
 Testifying:

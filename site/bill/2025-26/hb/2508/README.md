@@ -10,11 +10,13 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): ESHB 2508 Office of independent inves.
-Sign up to testify:
+#### 7 👍 - Pro
+Testifying:
+* Annette Taylor - Office of Independent Investigations
+* Jessica Berliner - Office of Independent Investigations
+* Patrick Moen - Office of Independent Investigations
 
-#### 1 👍 - Pro
-
-#### 0 👎 - Con
+#### 148 👎 - Con
 
 #### 0 ❓ - Other
 

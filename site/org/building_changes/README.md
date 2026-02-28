@@ -89,7 +89,7 @@
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍3  
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍2  
 
@@ -99,7 +99,7 @@
 * 👍💵 Aaron Yared
 * 👍💵 Aaron Yared
 
-### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍2  
+### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍3  
 
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
 

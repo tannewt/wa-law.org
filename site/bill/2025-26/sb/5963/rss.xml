@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5963/</link>
 		<description>Updates about SB 5963</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Feb 2026 22:18:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -212,6 +212,20 @@
 			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-24/PEW - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>February Session Recap - Sen. T’wina Nobles</title>
+			<description>News article "February Session Recap - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Thu, 26 Feb 2026 22:18:47 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2026/02/26/february-session-recap-3/#:~:text=SB%205963</guid>
 		</item>
 	</channel>
 </rss>

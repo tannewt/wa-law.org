@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): SB 5988 Opioid treatment prg. fees
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Ian Corbridge - Washington State Department of Health
 

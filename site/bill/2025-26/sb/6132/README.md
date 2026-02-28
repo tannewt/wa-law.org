@@ -7,6 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Transportation (TR): SB 6132 Inland port district debt
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/24 10:30 AM - Local Government (LG): SB 6132 Inland port district debt
 #### 63 👍 - Pro
 Testifying:

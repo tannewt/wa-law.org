@@ -11,9 +11,9 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): HB 1069 Supp. retirement bargaining
-Sign up to testify:
-
-#### 298 👍 - Pro
+#### 381 👍 - Pro
+Testifying:
+* 💵Brenda Wiest - Teamsters117
 
 #### 2 👎 - Con
 

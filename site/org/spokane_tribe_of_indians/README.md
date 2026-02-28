@@ -13,16 +13,22 @@
 
 ### [HB 2685](/bill/2025-26/hb/2685/) - Tribal data 👍1  
 
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
+
 ### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍2  
 * 👍 Monica Tonasket
 
 ### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍2  
 
-## [SB 5988](/bill/2025-26/sb/5988/) - Opioid treatment prg. fees 👍1  
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
+
+### [SB 5988](/bill/2025-26/sb/5988/) - Opioid treatment prg. fees 👍1  
+
+## [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍1  
 
 ## 2023-24
 
-### [SB 5988](/bill/2023-24/sb/5988/) - Opioid treatment prg. fees 👍1  
+### [SB 6034](/bill/2023-24/sb/6034/) - Office of Indian affairs 👍1  
 
 ### [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 

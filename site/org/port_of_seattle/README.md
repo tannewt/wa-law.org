@@ -13,6 +13,8 @@
 
 ### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍2  
 
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍1  
+
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
@@ -80,15 +82,15 @@
 
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 
-### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍2  
+### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍3  
 * 👍 Nick Leonti
 
 ### [HB 2347](/bill/2025-26/hb/2347/) - Luxury aircraft tax   ❓1
 * ❓ John Flanagan
 
-### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍1  
+### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍2  
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍2  
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍2  
 
@@ -96,7 +98,7 @@
 
 ### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍1  
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍3  
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍4  
 * 👍 John Flanagan
 * 👍 John Flanagan
 
@@ -140,7 +142,7 @@
 * 👍 John Flanagan
 * 👍 John Flanagan
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍4  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍5  
 * 👍💵 Brooke Davies
 * 👍 John Flanagan
 
@@ -162,7 +164,7 @@
 
 ### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking 👍2  
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍3  
 
 ### [SB 5989](/bill/2025-26/sb/5989/) - Aircraft fuel tax distrib. 👍1  
 * 👍 John Flanagan

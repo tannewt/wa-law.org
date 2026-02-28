@@ -16,9 +16,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): ESHB 2442 Local government fund use
-Sign up to testify:
-
-#### 502 👍 - Pro
+#### 585 👍 - Pro
 Testifying:
 * Anita Gallagher - [Pierce County](/org/pierce_county/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
@@ -31,8 +29,9 @@ Testifying:
 * Jennifer Gregerson - City of Everett, Government Affairs Director
 * Chantell Harmon Reed - Tacoma Pierce County Health Department
 * Matt Mauer - Metropolitan Park District of Tacoma
+* 💵Karen Estevenin - PROTEC17
 
-#### 1032 👎 - Con
+#### 1140 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * WEI CHEN

@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/27/2026 [The Urbanist](/org/the_urbanist/) - [Legislation Targeting Ground-Floor Storefronts Gets Overhauled in House » The Urbanist](https://www.theurbanist.org/2026/02/27/legislation-targeting-ground-floor-storefronts-gets-overhauled-in-house/#:~:text=SB%206026)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [What we’re doing on affordability - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/20/what-were-doing-on-affordability/#:~:text=Senate%20Bill%206026)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Funding schools by taxing millionaires - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/06/funding-schools-by-taxing-millionaires/#:~:text=SB%206026)
 * 02/02/2026 [The Urbanist](/org/the_urbanist/) - [Bill Curbing Mandates for Ground-Floor Retail Spaces Advances at Legislature » The Urbanist](https://www.theurbanist.org/2026/02/02/bill-curbing-mandates-for-ground-floor-retail-spaces-advances-at-legislature/#:~:text=Senate%20Bill%206026)
@@ -23,6 +24,26 @@
 * 01/10/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Six Bills, One Direction: What Governor Ferguson’s 2026 Agenda Reveals About Power in Washington State - Conservative Ladies of Washington](https://conservativeladiesofwa.com/ferguson-2026-bills-centralized-power/#:~:text=SB%206026)
 
 ## Meetings
+### Fri 02/27 10:30 AM - Appropriations (APP): E2SSB 6026 Residential dev./zones
+#### 23 👍 - Pro
+Testifying:
+* 💵Neil Strege - WA Roundtable
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+
+#### 95 👎 - Con
+Testifying:
+* Carston Curd - Councilmember, City of Bothell
+
+#### 14 ❓ - Other
+Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Brian Enslow - Cities of Kirkland, Lacey, and Vancouver
+* Carter Nelson - CREDAWA, The Commercial Real Estate Development Association (Formally NAIOPWA)
+* Angela Birney - City of Redmond Mayor
+* Mo Malakoutian - City of Bellevue Mayor
+* 💵Alex Hur
+* Blake Lyon - City of Bellingham, WA
+
 ### Fri 02/20 10:30 AM - Local Government (LG): E2SSB 6026 Residential dev./zones
 #### 26 👍 - Pro
 Testifying:

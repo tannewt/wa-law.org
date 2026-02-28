@@ -41,6 +41,8 @@
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
 
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences  👎1 
+
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
@@ -465,7 +467,8 @@
 
 ### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎1 
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎2 
+* 👎 Mike Ennis
 * 👎 Mike Ennis
 
 ### [SB 6001](/bill/2025-26/sb/6001/) - Scissor stairs 👍1  

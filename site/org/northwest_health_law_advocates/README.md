@@ -134,7 +134,7 @@
 ### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert. 👍2 👎2 
 * 👎💵 Vanessa Saavedra
 
-### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍3  
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍4  
 * 👍💵 Vanessa Saavedra
 * 👍💵 Vanessa Saavedra
 * 👍💵 Vanessa Saavedra
@@ -199,7 +199,8 @@
 
 ### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍1  
 
-### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍2  
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍3  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 

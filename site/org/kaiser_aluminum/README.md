@@ -18,17 +18,19 @@
 
 ### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍1  
 
-## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed   ❓3
+## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍1  ❓3
 * ❓ Edgar Scott
 * ❓💵 Jennifer Ziegler
 * ❓💵 Jennifer Ziegler
+* 👍💵 Jennifer Ziegler
 
 ## 2023-24
 
-### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed   ❓3
+### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed 👍1  ❓3
 * ❓ Edgar Scott
 * ❓💵 Jennifer Ziegler
 * ❓💵 Jennifer Ziegler
+* 👍💵 Jennifer Ziegler
 
 ### [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
 

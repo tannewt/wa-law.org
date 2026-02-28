@@ -10,9 +10,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): ESSB 6194 Allowable costs/hospital
-Sign up to testify:
-
-#### 143 👍 - Pro
+#### 170 👍 - Pro
 Testifying:
 * Cathy Bambrick - Astria Toppenish Hospital
 * Raul Garcia - Astria Toppenish Hospital

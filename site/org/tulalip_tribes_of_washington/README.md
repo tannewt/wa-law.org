@@ -1,13 +1,15 @@
 # Tulalip Tribes of Washington
 ## 2025-26
 
-## [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍2  
+## [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍3  
+* 👍 Joe Sambataro
 * 👍 Joe Sambataro
 * 👍 Joe Sambataro
 
 ## 2023-24
 
-### [SB 6097](/bill/2023-24/sb/6097/) - Conservation futures/tribes 👍2  
+### [SB 6097](/bill/2023-24/sb/6097/) - Conservation futures/tribes 👍3  
+* 👍 Joe Sambataro
 * 👍 Joe Sambataro
 * 👍 Joe Sambataro
 

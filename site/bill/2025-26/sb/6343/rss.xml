@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6343/</link>
 		<description>Updates about SB 6343</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 25 Feb 2026 11:36:28 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Feb 2026 23:59:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -131,6 +131,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Troy/Linnell/2026-02-25 11:36:28</guid>
+		</item>
+		<item>
+			<title>What do the transportation and capital budgets mean for you? - Sen. Marko Liias</title>
+			<description>News article "What do the transportation and capital budgets mean for you? - Sen. Marko Liias" from Senate Democrats.</description>
+			<pubDate>Fri, 27 Feb 2026 23:59:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2026/02/27/what-do-the-transportation-and-capital-budgets-mean-for-you/#:~:text=providing%20tax%20relief%20to%20people%20affected%20by%20last%20December’s%20flooding</guid>
 		</item>
 	</channel>
 </rss>

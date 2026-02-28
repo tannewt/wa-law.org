@@ -12,11 +12,12 @@
 
 ## Meetings
 ### Fri 02/27 10:30 AM - Appropriations (APP): SSB 6184 Office of homeless youth
-Sign up to testify:
+#### 20 👍 - Pro
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 816 👎 - Con
+Testifying:
+* Beth Daranciang
+* Sarah Garriott
 
 #### 0 ❓ - Other
 

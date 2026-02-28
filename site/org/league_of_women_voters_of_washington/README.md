@@ -86,7 +86,7 @@
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍3  
 
-### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍2  
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍3  
 * 👍 Alison McCaffree
 
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍2  
@@ -138,9 +138,11 @@
 
 ### [HB 2384](/bill/2025-26/hb/2384/) - Continuing care retirement 👍1  
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍2  
 
 ### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health   ❓1
 
 ### [HB 2463](/bill/2025-26/hb/2463/) - Farmers/food programs 👍1  
 
@@ -170,6 +172,8 @@
 * 👍 Lydia Zepeda
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
+
+### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care   ❓1
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍2  
 

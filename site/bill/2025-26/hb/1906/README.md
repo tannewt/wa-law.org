@@ -10,12 +10,12 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): 2SHB 1906 Water system rates
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Bill Clarke - WA PUD Association
 * Charlie Brown - NW Natural
+* Kevin Van De Wege - Thurston PUD
+* 💵Christine Brewer - Washington Water Service
 
 #### 1 👎 - Con
 

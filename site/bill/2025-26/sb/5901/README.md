@@ -16,9 +16,7 @@
 
 ## Meetings
 ### Thu 02/26 08:00 AM - Capital Budget (CB): SSB 5901 On-base school construction
-Sign up to testify:
-
-#### 231 👍 - Pro
+#### 257 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Kimberly Headrick - Medical Lake School District

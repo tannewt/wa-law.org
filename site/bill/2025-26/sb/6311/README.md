@@ -10,15 +10,16 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Transportation (TR): ESSB 6311 Pedestrian passage
-Sign up to testify:
-
-#### 14 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
+* 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * Kirk Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jerry VanderWood - Associated General Contractors (AGC)
 
 ### Mon 02/02 04:00 PM - Transportation (TRAN): SB 6311 Pedestrian passage
 #### 41 👍 - Pro

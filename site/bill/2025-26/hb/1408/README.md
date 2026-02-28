@@ -14,9 +14,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): ESHB 1408 Community authority funding
-Sign up to testify:
-
-#### 205 👍 - Pro
+#### 231 👍 - Pro
 Testifying:
 * 💵Christopher Ellis - Bricklayers & Allied Craftworkers
 * Kathleen Barry Johnson - [Historic South Downtown](/org/historic_south_downtown/)

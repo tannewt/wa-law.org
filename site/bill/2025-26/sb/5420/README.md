@@ -11,9 +11,10 @@
 
 ## Meetings
 ### Fri 02/27 10:30 AM - Appropriations (APP): SB 5420 Veteran benefits access
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Allen Acosta - Veterans Legislative Coalition
+* Tammie Perreault - Department of War/Defense
 
 #### 0 👎 - Con
 

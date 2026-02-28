@@ -39,7 +39,7 @@
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍2  
 * 👍 Preston Tucker
 
-### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍3  
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍4  
 * 👍 Jack Farrell
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  

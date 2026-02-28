@@ -8,6 +8,16 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/27 08:00 AM - Finance (FIN): SSB 6097 Conservation futures/tribes
+#### 14 👍 - Pro
+Testifying:
+* Joe Sambataro - [Tulalip Tribes of Washington](/org/tulalip_tribes_of_washington/)
+* Jason Griffith - [Stillaguamish Tribe of Indians](/org/stillaguamish_tribe_of_indians/)
+
+#### 60 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/24 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 6097 Conservation futures/tribes
 #### 34 👍 - Pro
 Testifying:

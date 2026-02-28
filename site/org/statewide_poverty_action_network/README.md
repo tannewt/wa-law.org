@@ -57,7 +57,7 @@
 
 ### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍2  
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍3  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍4  
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
@@ -83,7 +83,7 @@
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
 * 👍💵 Marcy Bowers
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍3  
 
 ### [HB 2240](/bill/2025-26/hb/2240/) - Storage space rentals  👎1 
 

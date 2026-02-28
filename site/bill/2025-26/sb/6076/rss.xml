@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6076/</link>
 		<description>Updates about SB 6076</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 25 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Feb 2026 07:31:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -132,6 +132,29 @@
 			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-25/LG - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Capital Budget.</title>
+			<description>Referred to Capital Budget.</description>
+			<pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-25/Referred to Capital Budget.</guid>
+		</item>
+		<item>
+			<title>👍Matthew Harris - Grant PUD</title>
+			<description>Matthew Harris signed up to testify Pro. They are signed up to represent Grant PUD.</description>
+			<pubDate>Thu, 26 Feb 2026 12:27:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matthew/Harris/2026-02-26 12:27:24</guid>
+		</item>
+		<item>
+			<title>👍💵Jason Hudson - IBEW Local 77</title>
+			<description>Jason Hudson signed up to testify Pro. They are signed up to represent IBEW Local 77. They are a registered lobbyist.</description>
+			<pubDate>Fri, 27 Feb 2026 07:31:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jason/Hudson/2026-02-27 07:31:26</guid>
 		</item>
 	</channel>
 </rss>

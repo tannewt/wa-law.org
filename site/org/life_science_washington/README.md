@@ -32,7 +32,8 @@
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎3 
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎4 
+* 👎💵 Curtis Knapp
 * 👎💵 Curtis Knapp
 * 👎💵 Curtis Knapp
 * 👎💵 Curtis Knapp

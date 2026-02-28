@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/27/2026 [The Center Square](/org/the_center_square/) - [WA passes legislation requiring no-cost insurance for state-recommended vaccines | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_395f2ab6-e30b-4b0a-84b0-c4d6018bc1cb.html#:~:text=House%20Bill%202242)
+* 02/26/2026 [Washington State Standard](/org/washington_state_standard/) - [WA moves to issue its own guidance for vaccines insurers must cover • Washington State Standard](https://washingtonstatestandard.com/2026/02/26/wa-moves-to-issue-its-own-vaccine-guidance-amid-federal-overhaul/#:~:text=House%20Bill%202242)
 * 01/15/2026 [House Democrats](/org/house_democrats/) - [Health Care & Wellness Committee to hear Chair Bronoske’s priority bills Friday  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/15/healthcare-wellness-committee-to-hear-chair-bronoskes-priority-bills-friday/#:~:text=HB 2242)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202242)
 * 01/10/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Six Bills, One Direction: What Governor Ferguson’s 2026 Agenda Reveals About Power in Washington State - Conservative Ladies of Washington](https://conservativeladiesofwa.com/ferguson-2026-bills-centralized-power/#:~:text=HB%202242)

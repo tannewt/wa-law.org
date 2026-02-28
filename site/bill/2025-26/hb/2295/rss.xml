@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2295/</link>
 		<description>Updates about HB 2295</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Feb 2026 06:55:24 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Feb 2026 12:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -790,6 +790,34 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/David/Lieberman/2026-02-24 06:55:24</guid>
+		</item>
+		<item>
+			<title>CB - Executive action taken by committee.</title>
+			<description>CB - Executive action taken by committee.</description>
+			<pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-26/CB - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CB - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CB - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-26/CB - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-27/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>District 12 representatives propose $26M for projects | Local News | wenatcheeworld.com</title>
+			<description>News article "District 12 representatives propose $26M for projects | Local News | wenatcheeworld.com" from Wenatchee World.</description>
+			<pubDate>Fri, 27 Feb 2026 12:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wenatcheeworld.com/news/local/district-12-representatives-propose-26m-for-projects/article_080dffc8-0f0d-4daa-a668-8f9b6ad46ed8.html#:~:text=moved%20House%20Bill%202295%20to%20the%20Rules%20Committee</guid>
 		</item>
 	</channel>
 </rss>

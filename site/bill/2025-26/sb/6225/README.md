@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/24/2026 [The Urbanist](/org/the_urbanist/) - [State Senate Signs Onto Billions of New Debt for Highway Upkeep » The Urbanist](https://www.theurbanist.org/2026/02/24/state-senate-signs-onto-billions-of-new-debt-for-highway-upkeep/#:~:text=bill%20authorizing%20the%20new%20bonds)

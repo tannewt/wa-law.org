@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6347/</link>
 		<description>Updates about SB 6347</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Feb 2026 22:21:56 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Feb 2026 21:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -181,6 +181,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Greg/Feiges/2026-02-24 22:21:56</guid>
+		</item>
+		<item>
+			<title>WATCH: Fearing wealth flight, WA lawmakers propose estate tax rollback; critics resist | Washington | thecentersquare.com</title>
+			<description>News article "WATCH: Fearing wealth flight, WA lawmakers propose estate tax rollback; critics resist | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 26 Feb 2026 21:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_ae748f46-edd1-4c9c-a6c3-38cf65e6158e.html#:~:text=Senate%20Bill%206347</guid>
 		</item>
 	</channel>
 </rss>

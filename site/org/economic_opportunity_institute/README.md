@@ -172,7 +172,7 @@
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 * 👍 Sam Hatzenbeler
 
-### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍2  
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍3  
 
 ### [SB 6229](/bill/2025-26/sb/6229/) - Small business stock gains 👍1  
 

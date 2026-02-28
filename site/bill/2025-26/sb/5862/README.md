@@ -9,9 +9,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): SSB 5862 TRS & PERS plan 1 COLA
-Sign up to testify:
-
-#### 916 👍 - Pro
+#### 927 👍 - Pro
 Testifying:
 * NEVA LUKE - WEA-Retired
 * Phyllis Farrell
@@ -20,7 +18,9 @@ Testifying:
 
 #### 5 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 5862 TRS & PERS plan 1 COLA
 #### 1432 👍 - Pro

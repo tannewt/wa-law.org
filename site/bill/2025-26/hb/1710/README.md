@@ -20,15 +20,18 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): E3SHB 1710 Voting rights act compliance
-Sign up to testify:
+#### 193 👍 - Pro
+Testifying:
+* 💵Alex Hur - OneAmerica
 
-#### 0 👍 - Pro
+#### 903 👎 - Con
+Testifying:
+* Linda Farmer - Pierce County Auditor & Washington State Association of County Auditors Legislative Chair
 
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): E3SHB 1710 Voting rights act compliance
 #### 554 👍 - Pro

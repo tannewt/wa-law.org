@@ -96,7 +96,7 @@
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 
-### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍2  
 
 ### [HB 2500](/bill/2025-26/hb/2500/) - Transfers to charities 👍1  
 

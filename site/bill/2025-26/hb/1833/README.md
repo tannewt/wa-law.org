@@ -13,13 +13,16 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): 2SHB 1833 AI grant program
-Sign up to testify:
+#### 5 👍 - Pro
+Testifying:
+* 💵Rose Feliciano - TechNet
+* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 
-#### 0 👍 - Pro
+#### 6 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Nick Fielden - Washington State Attorney General's Office
 
 ### Mon 01/26 04:00 PM - Appropriations (APP): SHB 1833 AI grant program
 #### 43 👍 - Pro

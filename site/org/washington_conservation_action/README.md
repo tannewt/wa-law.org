@@ -59,6 +59,8 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓ Caitlin Krenn
 
+### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement 👍1  
+
 ### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
 
 ### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍1  
@@ -76,7 +78,7 @@
 * 👍 Julian Santos
 * 👍 Caitlin Krenn
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 * 👍 Julian Santos
@@ -105,8 +107,9 @@
 ### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍2  
 * 👍 Caitlin Krenn
 
-### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1 👎1 
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍2 👎1 
 * 👎💵 Darcy Nonemacher
+* 👍💵 Darcy Nonemacher
 * 👍💵 Darcy Nonemacher
 
 ### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍2  
@@ -115,8 +118,9 @@
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 * 👍 Stephanie Masterman
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍3  
 * 👍💵 Clifford Traisman
+* 👍💵 Darcy Nonemacher
 * 👍💵 Darcy Nonemacher
 
 ### [HB 2537](/bill/2025-26/hb/2537/) - Emissions/trade-exposed 👍1  
@@ -210,7 +214,7 @@
 
 ### [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants 👍1  
 
-### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍2  
 
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍1  
 * 👍 Caitlin Krenn
@@ -221,7 +225,7 @@
 ### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍2  
 * 👍 Caitlin Krenn
 
-### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍3  
+### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍4  
 * 👍 Caitlin Krenn
 * 👍 Caitlin Krenn
 

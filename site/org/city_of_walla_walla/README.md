@@ -9,6 +9,8 @@
 
 ### [HB 1768](/bill/2025-26/hb/1768/) - Manuf. housing purchases 👍1  
 
+### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement  👎1 
+
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area. 👍1  

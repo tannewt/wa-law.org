@@ -10,23 +10,29 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/26/2026 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/02/26/february-session-recap-3/#:~:text=HB%201903)
 * 02/14/2026 [House Democrats](/org/house_democrats/) - [House passes Mena bill to lower energy costs for working families – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/house-passes-mena-bill-to-lower-energy-costs-for-working-families/#:~:text=House%20Bill%201903)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201903)
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): E2SHB 1903 Low-income energy assistance
-Sign up to testify:
-
-#### 94 👍 - Pro
+#### 303 👍 - Pro
 Testifying:
 * 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Charlie Brown - Cascade Natural Gas and NW Natural
+* Nonabella Schroeder - Community to Community Development
+* 💵John Rothlin - Avista
+* Adan Espino Jr - Franklin Public Utility District
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Scott Richards - WA Public Utility Districts Association (WPUDA)
 
-#### 0 👎 - Con
+#### 82 👎 - Con
+Testifying:
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
 
 ### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1903 Low-income energy assistance
 #### 228 👍 - Pro

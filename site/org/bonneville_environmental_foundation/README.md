@@ -11,6 +11,9 @@
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
 * 👍 Scott Richards
 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+* 👍 Kas Guillozet
+
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍2  
 * 👍 Kas Guillozet
 * 👍 Allan Warren

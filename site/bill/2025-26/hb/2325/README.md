@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2325 Tourism assessment
-Sign up to testify:
-
-#### 80 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * Annie McGrath - State of Washington Tourism
 * David Blandford - State of Washington Tourism

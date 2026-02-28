@@ -17,16 +17,15 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): ESHB 2238 Statewide food security
-Sign up to testify:
-
-#### 17 👍 - Pro
+#### 150 👍 - Pro
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵Anna Nepomuceno - [Northwest Harvest](/org/northwest_harvest/)
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * Jennifer Antos - Seattle Neighborhood Farmers Markets
+* 💵Mark Streuli - WA Potato and Onion Assoc., WA Wheat Growers, WA Cattlemen
 
-#### 27 👎 - Con
+#### 219 👎 - Con
 
 #### 0 ❓ - Other
 

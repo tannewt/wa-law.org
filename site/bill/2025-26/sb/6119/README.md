@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/27/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Senate Democrats pass $80 billion budget - a house of cards built on phantom savings - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-senate-democrats-pass-80-billion-budget-built-phantom-savings/#:~:text=Senate%20Bill%206119)
+
 ## Meetings
 ### Tue 01/20 01:30 PM - Environment, Energy & Technology (ENET): SB 6119 Tires/6PPD and substitutes
 #### 396 👍 - Pro

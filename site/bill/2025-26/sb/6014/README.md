@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/26/2026 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/02/26/february-session-recap-3/#:~:text=SB%206014)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SSB%206014)
 * 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SB%206014)
 * 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to clarify pregnancy accommodation protections heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/16/nobles-bill-to-clarify-pregnancy-accommodation-protections-heard-in-committee/#:~:text=Senate%20Bill%206014)

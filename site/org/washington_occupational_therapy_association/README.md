@@ -22,7 +22,7 @@
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
 
-### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍3  
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍4  
 
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍2  
 

@@ -98,7 +98,7 @@
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍3  
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍4  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1 👎1 ❓1
 * ❓💵 Alyssa Patrick

@@ -9,6 +9,10 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/28/2026 [Senate Democrats](/org/senate_democrats/) - [Week Seven, Session coming to an end - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/02/27/week-seven-session-coming-to-an-end/#:~:text=SB%206162)
+* 02/27/2026 [Senate Democrats](/org/senate_democrats/) - [What do the transportation and capital budgets mean for you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/27/what-do-the-transportation-and-capital-budgets-mean-for-you/#:~:text=expanding%20the%20senior%20citizen%20property%20tax%20relief%20program)
+* 02/27/2026 [The Center Square](/org/the_center_square/) - [Impact of WA property tax reform bill debated at House Finance Committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e0ea71b0-85dd-40b8-8be4-7180d00692a6.html#:~:text=Senate%20Bill%206162)
+* 02/26/2026 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/02/26/february-session-recap-3/#:~:text=SB%206162)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=ESSB%206162)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [What we’re doing on affordability - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/20/what-were-doing-on-affordability/#:~:text=Senate%20Bill%206162)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Talk Monday? - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/02/20/talk-monday/#:~:text=Senate%20Bill%206162)
@@ -22,17 +26,17 @@
 
 ## Meetings
 ### Fri 02/27 08:00 AM - Finance (FIN): ESSB 6162 Property tax
-Sign up to testify:
-
-#### 29 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Marty Campbell - Pierce County Assessor-Treasurer
 * Steven Drew - Thurston County Assessor & co chair of the Assessor org’s legislative committee
 
-#### 30 👎 - Con
+#### 111 👎 - Con
 Testifying:
 * Laurie Layne
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Tim Eyman - Initiative Activist
+* Eric Lundberg - CITIZEN REP
 
 #### 0 ❓ - Other
 

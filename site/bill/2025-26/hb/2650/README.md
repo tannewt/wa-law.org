@@ -9,9 +9,9 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): SHB 2650 Excise tax administration
-Sign up to testify:
-
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Steve Ewing - Dept. of Revenue
 
 #### 3 👎 - Con
 

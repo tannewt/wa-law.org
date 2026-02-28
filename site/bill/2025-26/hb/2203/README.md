@@ -12,13 +12,15 @@
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Transportation (TRAN): SHB 2203 Interference with emergency
-Sign up to testify:
+#### 188 👍 - Pro
+Testifying:
+* Dustin Morrow - Central Pierce Fire & Rescue
 
-#### 37 👍 - Pro
+#### 3 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 ### Mon 02/23 10:30 AM - Law & Justice (LAW): SHB 2203 Interference with emergency
 #### 249 👍 - Pro

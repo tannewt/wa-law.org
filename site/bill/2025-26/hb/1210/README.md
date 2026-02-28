@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): 2ESHB 1210 Urban area tax preferences
-Sign up to testify:
-
-#### 162 👍 - Pro
+#### 245 👍 - Pro
 Testifying:
 * Rael Candelaria - Framatome
 * Michael Rizzitiello - [City of Richland](/org/city_of_richland/)
@@ -24,15 +22,18 @@ Testifying:
 * 💵Austin Hicks - Admiral Strategies
 * Joe Schiessl - [City of Richland](/org/city_of_richland/)
 
-#### 472 👎 - Con
+#### 526 👎 - Con
 Testifying:
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * Kathleen M. Saul - [Sierra Club](/org/sierra_club/)
 * Roger Lippman
 * Cathryn Chudy
 * 💵Suellen Mele - 350 Washington Civic Action Team
+* 💵Brandon Houskeeper - Associated Builders & Contractors - Western WA
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### Tue 03/18 04:00 PM - Ways & Means (WM): ESHB 1210 Urban area tax preferences
 #### 114 👍 - Pro
