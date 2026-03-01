@@ -1024,7 +1024,7 @@
 
 ### [SB 6230](/bill/2025-26/sb/6230/) - Cash transactions/pennies 👍1  
 
-### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes  👎1 
+### [SB 6231](/bill/2025-26/sb/6231/) - Data center tax exemptions  👎1 
 
 ### [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants  👎1 
 * 👎💵 Peter Godlewski

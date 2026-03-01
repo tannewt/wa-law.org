@@ -1,6 +1,8 @@
 # Grange Insurance Association
 ## 2025-26
 
+### [HB 2745](/bill/2025-26/hb/2745/) - Insurance premium taxes  👎1 
+
 ## [SB 5864](/bill/2025-26/sb/5864/) - Concerning verification of motor vehicle insurance. 👍1  
 * 👍 Brian Allen
 

@@ -11,6 +11,9 @@
 * ❓💵 Christine Brewer
 * ❓💵 Christine Brewer
 
+### [HB 2745](/bill/2025-26/hb/2745/) - Insurance premium taxes  👎1 
+* 👎 Kris Tefft
+
 ### [SB 5141](/bill/2025-26/sb/5141/) - Requiring that experience-rated group disability income insurers include all applicable rating factors and credibility formulas in rate manual filings with the insurance commissioner. 👍3  
 * 👍 John Mangan
 * 👍 John Mangan

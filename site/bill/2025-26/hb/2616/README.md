@@ -10,8 +10,8 @@
 ### Tue 03/03 08:00 AM - Consumer Protection & Business (CPB): HB 2616 Agriculture
 Sign up to testify:
 
-#### 18 👍 - Pro
+#### 51 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

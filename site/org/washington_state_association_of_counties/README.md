@@ -663,7 +663,7 @@
 ### [SB 6214](/bill/2025-26/sb/6214/) - Land banking authorities 👍1  
 * 👍💵 Curtis Steinhauer
 
-### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes 👍1  
+### [SB 6231](/bill/2025-26/sb/6231/) - Data center tax exemptions 👍1  
 * 👍💵 Paul Jewell
 
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍2  

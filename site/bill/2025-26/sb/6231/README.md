@@ -1,11 +1,12 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6231](/bill/2025-26/sb/6231/)
 
-# SB 6231 - Data center equipment/taxes
+# SB 6231 - Data center tax exemptions
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=6231&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SB%206231)

@@ -21,11 +21,11 @@
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎3 
 * 👎💵 Patrick Boss
 
-## [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes  👎2 
+## [SB 6231](/bill/2025-26/sb/6231/) - Data center tax exemptions  👎2 
 
 ## 2023-24
 
-### [SB 6231](/bill/2023-24/sb/6231/) - Data center equipment/taxes  👎2 
+### [SB 6231](/bill/2023-24/sb/6231/) - Data center tax exemptions  👎2 
 
 ### [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
 

@@ -95,6 +95,9 @@
 ### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax   ❓1
 * ❓ Sam Hatzenbeler
 
+### [HB 2745](/bill/2025-26/hb/2745/) - Insurance premium taxes 👍1  
+* 👍 Sam Hatzenbeler
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍4  

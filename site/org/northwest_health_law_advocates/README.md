@@ -101,6 +101,9 @@
 
 ### [HB 2658](/bill/2025-26/hb/2658/) - Mental health coverage 👍1  
 
+### [HB 2745](/bill/2025-26/hb/2745/) - Insurance premium taxes 👍1  
+* 👍💵 Emily Brice
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍3  
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice

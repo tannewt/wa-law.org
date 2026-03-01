@@ -10,11 +10,13 @@
 ### Tue 03/03 08:00 AM - Consumer Protection & Business (CPB): HB 2721 Comm. interior designers
 Sign up to testify:
 
-#### 98 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * Helen Torris - Advocacy Chair for the American Society of Interior Designers, WA chapter
 * Brooke Hammond
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Clarissa Easton - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)

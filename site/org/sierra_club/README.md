@@ -80,12 +80,12 @@
 
 ### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍1  
 
-## [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes 👍1  
+## [SB 6231](/bill/2025-26/sb/6231/) - Data center tax exemptions 👍1  
 * 👍 Ben Avery
 
 ## 2023-24
 
-### [SB 6231](/bill/2023-24/sb/6231/) - Data center equipment/taxes 👍1  
+### [SB 6231](/bill/2023-24/sb/6231/) - Data center tax exemptions 👍1  
 * 👍 Ben Avery
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  

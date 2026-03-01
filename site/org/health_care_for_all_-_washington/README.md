@@ -98,7 +98,7 @@
 
 ### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍2  
 
-### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes 👍1  
+### [SB 6231](/bill/2025-26/sb/6231/) - Data center tax exemptions 👍1  
 
 ### [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
 

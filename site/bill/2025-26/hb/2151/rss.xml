@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2151/</link>
 		<description>Updates about HB 2151</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 28 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -120,6 +120,27 @@
 			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-24/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-28/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-28/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-28/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

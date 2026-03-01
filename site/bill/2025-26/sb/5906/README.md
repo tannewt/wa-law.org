@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/28/2026 [Senate Democrats](/org/senate_democrats/) - [A transportation budget that delivers for ferries - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/28/a-transportation-budget-that-delivers-for-ferries/#:~:text=SB%205906)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SB%205906)
 * 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%205906)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=ESSB%205906)

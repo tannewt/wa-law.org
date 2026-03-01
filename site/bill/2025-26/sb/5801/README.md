@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 02/28/2026 [KIRO7](/org/kiro7/) - [New 3% card fee hits ferry riders March 1 – KIRO 7 News Seattle](https://www.kiro7.com/news/local/new-3-card-fee-hits-ferry-riders-march-1/IW4AWUS7OJGF5I5FTPXLKVXDOI/#:~:text=2025-27%20state%20transportation%20budget)
 * 02/18/2026 [KIRO7](/org/kiro7/) - [Credit card fee is coming soon for Washington State Ferries – KIRO 7 News Seattle](https://www.kiro7.com/news/local/credit-card-fee-is-coming-soon-washington-state-ferries/3VJBIH4BKZEF5PH22C4BSSH36A/#:~:text=2025-27%20state%20transportation%20budget)
 * 11/05/2025 [Washington State Standard](/org/washington_state_standard/) - [Democratic incumbents ahead in most WA legislative races • Washington State Standard](https://washingtonstatestandard.com/2025/11/04/democratic-incumbents-ahead-in-most-wa-legislative-races/#:~:text=gas%20tax%20increase)
 * 10/29/2025 [Washington State Standard](/org/washington_state_standard/) - [4 legislative races in western WA test whether ‘all politics are local’ • Washington State Standard](https://washingtonstatestandard.com/2025/10/29/4-legislative-races-in-western-wa-test-whether-all-politics-are-local/#:~:text=gas%20tax%20increase)
