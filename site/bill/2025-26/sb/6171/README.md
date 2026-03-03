@@ -33,7 +33,7 @@ Testifying:
 
 #### 167 👎 - Con
 Testifying:
-* Dan Diorio - Data Center Coalition
+* Dan Diorio - [Data Center Coalition](/org/data_center_coalition/)
 * Jim Kuntz - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * Patrick Haley - [City of Quincy](/org/city_of_quincy/)
 * 💵Nicolas Garcia - WPUDA

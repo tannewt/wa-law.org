@@ -999,7 +999,8 @@
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes  👎1 
 * 👎💵 Peter Godlewski
 
-### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax  👎1 
+### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax  👎2 
+* 👎 Max Martin
 * 👎 Max Martin
 
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎1 

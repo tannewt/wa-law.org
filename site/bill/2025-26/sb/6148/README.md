@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/26/2026 [Axios](/org/axios/) - [Sound Transit seeks longer bonds to protect light rail projects - Axios Seattle](https://www.axios.com/local/seattle/2026/02/26/sound-transit-seattle-light-rail-75-year-bonds-35-billion-shortfall#:~:text=Senate%20Bill%206148)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SB%206148)
 * 02/15/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: Washington legislation would target parked cars to pay for light rail cost overruns | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_5f229acc-b73d-48ac-844a-a407bd1eac44.html#:~:text=Another%20bill)
 * 02/12/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA lawmakers move Sound Transit closer to issuing 75-year debt to cover costs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_31145d74-2e84-4e38-8661-2a9c0f9f3ce4.html#:~:text=Senate%20bill%206148)

@@ -369,6 +369,9 @@
 
 ### [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
 
+### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax  👎1 
+* 👎💵 Crystal Leatherman
+
 ### [SB 6147](/bill/2025-26/sb/6147/) - Grocery estab. closures  👎1 
 
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess  👎1 

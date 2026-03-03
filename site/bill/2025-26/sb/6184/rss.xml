@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6184/</link>
 		<description>Updates about SB 6184</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 27 Feb 2026 09:24:20 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -184,6 +184,34 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Sarah/Garriott/2026-02-27 09:24:20</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; do pass with amendment(s).</title>
+			<description>APP - Majority; do pass with amendment(s).</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/APP - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

@@ -211,7 +211,8 @@
 
 ### [SB 6118](/bill/2025-26/sb/6118/) - Cardiac emerg. plans/schools 👍1  
 
-### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍2  
+* 👍 Megan Moore
 
 ### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍2  
 

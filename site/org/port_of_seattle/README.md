@@ -106,6 +106,9 @@
 
 ### [HB 2608](/bill/2025-26/hb/2608/) - Nuclear facilities/tax pref. 👍1  
 
+### [HB 2711](/bill/2025-26/hb/2711/) - Transportation resources   ❓1
+* ❓ John Flanagan
+
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  

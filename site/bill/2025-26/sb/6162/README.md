@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESSB%206162)
 * 02/28/2026 [Senate Democrats](/org/senate_democrats/) - [Week Seven, Session coming to an end - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/02/27/week-seven-session-coming-to-an-end/#:~:text=SB%206162)
 * 02/27/2026 [Senate Democrats](/org/senate_democrats/) - [What do the transportation and capital budgets mean for you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/27/what-do-the-transportation-and-capital-budgets-mean-for-you/#:~:text=expanding%20the%20senior%20citizen%20property%20tax%20relief%20program)
 * 02/27/2026 [The Center Square](/org/the_center_square/) - [Impact of WA property tax reform bill debated at House Finance Committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e0ea71b0-85dd-40b8-8be4-7180d00692a6.html#:~:text=Senate%20Bill%206162)

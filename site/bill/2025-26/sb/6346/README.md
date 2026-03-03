@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/02/2026 [The Center Square](/org/the_center_square/) - [Washington tech sector leaders warn income tax would 'undermine' their industry | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_61c717f7-d558-4610-88c1-c0212c67aa35.html#:~:text=Senate%20Bill%206346)
+* 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESSB%206346)
+* 03/01/2026 [House Republicans](/org/house_republicans/) - [The supplemental operating budget debate | Washington State House Republicans](http://houserepublicans.wa.gov/current/supplemental-operating-budget/#:~:text=amended%20version)
 * 02/28/2026 [Washington State Standard](/org/washington_state_standard/) - [WA governor to fellow Democrats: Income tax bill still misses mark • Washington State Standard](https://washingtonstatestandard.com/2026/02/27/break-for-big-corporations-is-stripped-from-wa-income-tax-bill/#:~:text=Senate%20Bill%206346)
 * 02/27/2026 [The Center Square](/org/the_center_square/) - [WATCH: House Finance Committee strips corporate tax break from income tax bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_03a6f1ce-ae81-45ef-8ad5-09f9b17dea4d.html#:~:text=Senate%20Bill%206346)
 * 02/27/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Senate Democrats pass $80 billion budget - a house of cards built on phantom savings - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-senate-democrats-pass-80-billion-budget-built-phantom-savings/#:~:text=(SB%206346).)

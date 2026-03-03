@@ -10,13 +10,24 @@
 ### Tue 03/03 08:00 AM - Consumer Protection & Business (CPB): HB 2721 Comm. interior designers
 Sign up to testify:
 
-#### 144 👍 - Pro
+#### 359 👍 - Pro
 Testifying:
 * Helen Torris - Advocacy Chair for the American Society of Interior Designers, WA chapter
 * Brooke Hammond
+* Megan Onley - Interenational Interior Design Association - Northern Pacific Chapter
+* 💵Michael Transue - Interenational Interior Design Association - Northern Pacific Chapter
+* Stacey Crumbaker
+* Cecilia Arroyo - Interenational Interior Design Association - Northern Pacific Chapter
+* Matt Thompson
+* Heather Hayes - Interenational Interior Design Association - Northern Pacific Chapter
+* Sarah Larson - Interenational Interior Design Association - Northern Pacific Chapter
+* Dan Snook
+* Bobbi Chapman
+* Sarah Larson - DLR Group
+* Michael Loftus
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Clarissa Easton - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)

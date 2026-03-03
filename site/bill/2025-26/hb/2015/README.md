@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/02/2026 [The Center Square](/org/the_center_square/) - [WATCH: Slow rollout: Washington’s $100M police grant remains untouched | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ced01bc8-ea72-41e2-b126-2d1d2801eb92.html#:~:text=HB%202015)
 * 02/18/2026 [The Washington Observer](/org/the_washington_observer/) - [Giving the income tax back before its enacted](https://washingtonobserver.substack.com/p/giving-the-income-tax-back-before#:~:text=HB%202015)
 * 01/07/2026 [The Center Square](/org/the_center_square/) - [Tacoma City Council approves 0.1% sales tax increase to avoid public safety cuts | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2d74898e-23db-4361-aaee-9b43bbb956e2.html#:~:text=House%20Bill%202015)
 * 12/08/2025 [The Center Square](/org/the_center_square/) - [Tacoma to consider public safety sales tax to avoid 911 cuts, address budget gap | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_542f6169-f93e-42c1-a81f-a255a59c3284.html#:~:text=House%20Bill%202015)

@@ -10,8 +10,14 @@
 ### Tue 03/03 08:00 AM - Consumer Protection & Business (CPB): HB 2616 Agriculture
 Sign up to testify:
 
-#### 51 👍 - Pro
+#### 358 👍 - Pro
+Testifying:
+* Jon DeVaney - Washington State Tree Fruit Association
+* 💵Mark Streuli - WA Potato and Onion Association, WA Wheat Growers, WA Cattlemen Assoc
+* Jay Gordon - Washington State Dairy Federation
+* Jonathan Quigley - Organic Orchards, Inc.
+* Sue Lani Madsen - Washington Rural Environmental Network
 
-#### 2 👎 - Con
+#### 75 👎 - Con
 
 #### 0 ❓ - Other

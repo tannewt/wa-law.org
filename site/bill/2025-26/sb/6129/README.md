@@ -12,6 +12,22 @@
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate%20Bill%206129)
 
 ## Meetings
+### Wed 03/04 08:00 AM - Finance (FIN): ESSB 6129 Cigarettes, nicotine/tax
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+
+#### 4 👎 - Con
+Testifying:
+* Santosh Pavan Kumar Alla - Gmail
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Molly Pfaffenroth - Washington Food Industry Association
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 04:00 PM - Ways & Means (WM): SB 6129 Cigarettes, nicotine/tax
 #### 118 👍 - Pro
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6353/</link>
 		<description>Updates about SB 6353</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 26 Feb 2026 15:48:58 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Mar 2026 05:53:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -324,6 +324,41 @@
 			<pubDate>Thu, 26 Feb 2026 15:48:58 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.kuow.org/stories/why-wa-child-care-program-could-bear-brunt-of-budget-cuts#:~:text=Senate%20Bill%206353,</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>WM - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/WM - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA</title>
+			<description>News article "Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 02 Mar 2026 05:53:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=SB%206353</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6351/</link>
 		<description>Updates about SB 6351</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 23 Feb 2026 18:58:50 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Mar 2026 05:53:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -139,6 +139,27 @@
 			<pubDate>Mon, 23 Feb 2026 18:58:50 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SB%206351</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>WM - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/WM - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA</title>
+			<description>News article "Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 02 Mar 2026 05:53:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=SB%206351</guid>
 		</item>
 	</channel>
 </rss>

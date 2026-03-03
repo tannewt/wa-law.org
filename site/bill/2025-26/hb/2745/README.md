@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Mon 03/02 08:00 AM - Finance (FIN): HB 2745 Insurance premium taxes
-Sign up to testify:
-
 #### 9 👍 - Pro
 Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)

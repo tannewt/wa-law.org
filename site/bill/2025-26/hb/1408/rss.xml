@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1408/</link>
 		<description>Updates about HB 1408</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 18 Feb 2026 17:08:12 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Mar 2026 22:27:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -207,6 +207,41 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kathleen Barry/Johnson/2026-02-18 17:08:12</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass with amendment(s).</title>
+			<description>WM - Majority; do pass with amendment(s).</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/WM - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Racing towards the finish - Sen. Bob Hasegawa</title>
+			<description>News article "Racing towards the finish - Sen. Bob Hasegawa" from Senate Democrats.</description>
+			<pubDate>Mon, 02 Mar 2026 22:27:38 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2026/03/02/racing-towards-the-finish/#:~:text=HB%201408</guid>
 		</item>
 	</channel>
 </rss>

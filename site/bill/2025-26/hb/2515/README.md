@@ -43,7 +43,7 @@ Testifying:
 
 #### 867 👎 - Con
 Testifying:
-* Dan Diorio - Data Center Coalition
+* Dan Diorio - [Data Center Coalition](/org/data_center_coalition/)
 * John Roskelley
 * Lauren McDonald - [Microsoft](/org/microsoft/)
 * 💵Mallorie Davies - Washington and Northern Idaho District Council of Laborers
@@ -94,7 +94,7 @@ Testifying:
 #### 931 👎 - Con
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
-* Dan Diorio - Data Center Coalition
+* Dan Diorio - [Data Center Coalition](/org/data_center_coalition/)
 * John Roskelley
 * 💵Josie Cummings - Avista
 * 💵Jay Balasbas - Sabey Data Center Properties
@@ -126,7 +126,7 @@ Testifying:
 
 #### 335 👎 - Con
 Testifying:
-* Dan Diorio - Data Center Coalition
+* Dan Diorio - [Data Center Coalition](/org/data_center_coalition/)
 * 💵Josie Cummings - Avista Corp.
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * 💵Michael Transue - Tacoma Pierce County Chamber and the Mechanical Contractors Association of Western WA
@@ -159,7 +159,7 @@ Testifying:
 
 #### 186 👎 - Con
 Testifying:
-* Dan Diorio - Data Center Coalition
+* Dan Diorio - [Data Center Coalition](/org/data_center_coalition/)
 * Jim Kuntz - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * 💵Patrick Boss - [Port of Quincy](/org/port_of_quincy/)
 * 💵Nicolas Garcia - WPUDA

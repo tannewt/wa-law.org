@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=SB%206353)
 * 02/26/2026 [KUOW](/org/kuow/) - [KUOW - Why WA child care program could bear brunt of budget cuts](https://www.kuow.org/stories/why-wa-child-care-program-could-bear-brunt-of-budget-cuts#:~:text=Senate%20Bill%206353,)
 * 02/26/2026 [Washington State Standard](/org/washington_state_standard/) - [Why WA child care program could bear brunt of budget cuts • Washington State Standard](https://washingtonstatestandard.com/2026/02/26/why-wa-child-care-program-could-bear-brunt-of-budget-cuts/#:~:text=Senate%20Bill%206353)
 

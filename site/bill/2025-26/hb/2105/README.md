@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=2SHB%202105)
 * 02/25/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative update: Three-quarters through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/25/legislative-update-three-quarters-through-session/#:~:text=HB%202105)
 * 02/14/2026 [House Democrats](/org/house_democrats/) - [Cámara aprueba proyecto para proteger a trabajadores inmigrantes / House passes bill to protect immigrant workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/camara-aprueba-proyecto-para-proteger-a-trabajadores-inmigrantes-house-passes-bill-to-protect-immigrant-workers/#:~:text=Proyecto%20de%20Ley%20HB%202105)
 * 02/14/2026 [House Democrats](/org/house_democrats/) - [House passes bill to protect immigrant workers, businesses, and Washington’s economy – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/house-passes-bill-to-protect-immigrant-workers-businesses-and-washingtons-economy/#:~:text=House%20Bill%202105)

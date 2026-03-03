@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2225/</link>
 		<description>Updates about HB 2225</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Mar 2026 05:53:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -404,6 +404,13 @@
 			<pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-24/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA</title>
+			<description>News article "Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 02 Mar 2026 05:53:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESHB%202225</guid>
 		</item>
 	</channel>
 </rss>

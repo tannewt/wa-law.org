@@ -14,6 +14,15 @@
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%206231)
 
 ## Meetings
+### Wed 03/04 08:00 AM - Finance (FIN): ESSB 6231 Data center tax exemptions
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 04:00 PM - Ways & Means (WM): SB 6231 Data center equipment/taxes
 #### 252 👍 - Pro
 Testifying:
@@ -27,7 +36,7 @@ Testifying:
 
 #### 734 👎 - Con
 Testifying:
-* Dan Diorio - Data Center Coalition
+* Dan Diorio - [Data Center Coalition](/org/data_center_coalition/)
 * Ryan Beebout - Sabey Data Centers
 * 💵Matthew Hepner - IBEW/CEWW
 * 💵Michael Transue - Tacoma Pierce County Chamber

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6113/</link>
 		<description>Updates about SB 6113</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 27 Feb 2026 06:44:35 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Mar 2026 05:53:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -474,6 +474,34 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Sean/Holland/2026-02-27 06:44:35</guid>
+		</item>
+		<item>
+			<title>FIN - Executive action taken by committee.</title>
+			<description>FIN - Executive action taken by committee.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>FIN - Majority; do pass with amendment(s).</title>
+			<description>FIN - Majority; do pass with amendment(s).</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/FIN - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-02/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA</title>
+			<description>News article "Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 02 Mar 2026 05:53:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESSB%206113</guid>
 		</item>
 	</channel>
 </rss>

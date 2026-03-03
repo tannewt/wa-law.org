@@ -11,6 +11,15 @@
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%206228)
 
 ## Meetings
+### Wed 03/04 08:00 AM - Finance (FIN): ESB 6228 Prescription drugs/taxes
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 04:00 PM - Ways & Means (WM): SB 6228 Prescription drugs/taxes
 #### 167 👍 - Pro
 Testifying:

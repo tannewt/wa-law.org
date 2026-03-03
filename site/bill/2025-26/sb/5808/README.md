@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/27/2026 [Senate Democrats](/org/senate_democrats/) - [Where the budget stands — and what comes next - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/27/where-the-budget-stands-and-what-comes-next/#:~:text=SB%205808)
