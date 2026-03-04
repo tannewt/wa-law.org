@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 2199 Derelict vessels

@@ -964,7 +964,7 @@
 ### [SB 6125](/bill/2025-26/sb/6125/) - School stabilization funding 👍2  
 * 👍💵 Julie Salvi
 
-### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍2  
 
 ### [SB 6152](/bill/2025-26/sb/6152/) - Workers' comp./PTs & OTs 👍1  
 

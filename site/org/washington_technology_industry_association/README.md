@@ -81,6 +81,9 @@
 ### [SB 6229](/bill/2025-26/sb/6229/) - Small business stock gains  👎1 
 * 👎💵 Amy Harris
 
+### [SB 6231](/bill/2025-26/sb/6231/) - Data center tax exemptions  👎1 
+* 👎💵 Amy Harris
+
 ## [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓2
 * ❓💵 Amy Harris
 * ❓💵 Amy Harris

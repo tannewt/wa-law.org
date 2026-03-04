@@ -14,11 +14,18 @@
 ### Wed 03/04 08:00 AM - Finance (FIN): ESB 6228 Prescription drugs/taxes
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 521 👎 - Con
+Testifying:
+* Rick Hughes - Ray's Pharmacy, Orcas Island
+* 💵Leah Lindahl - [Healthcare Distribution Alliance](/org/healthcare_distribution_alliance/)
+* 💵Carolyn Logue - Washington Food Industry Association
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jenny Arnold - Washington State Pharmacy Association
+* Kari VanderHouwen - Pharm-A-Save Granite Falls
 
 ### Mon 01/26 04:00 PM - Ways & Means (WM): SB 6228 Prescription drugs/taxes
 #### 167 👍 - Pro

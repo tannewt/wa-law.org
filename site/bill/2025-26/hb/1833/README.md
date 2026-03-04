@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/03/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills knocked out of running in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/03/more-bills-knocked-out-of-running-in-wa-legislature/#:~:text=Spark%20Act)
 * 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201833)
 
 ## Meetings

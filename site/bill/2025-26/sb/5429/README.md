@@ -22,7 +22,7 @@ Testifying:
 #### 184 👎 - Con
 Testifying:
 * Kerry Meade - Building Potential
-* Rachel Koller - Shift Zero
+* 💵Rachel Koller - Shift Zero
 * Tammie Suierro - AIA Washington
 * Bill Will - WASEIA
 * Gavin Tenold - NW Renewables

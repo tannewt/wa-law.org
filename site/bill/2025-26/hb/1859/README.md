@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/03/2026 [House Democrats](/org/house_democrats/) - [Building Homes, Protecting Communities: Senate Passes Salahuddin Bills – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/03/building-homes-protecting-communities-senate-passes-salahuddin-bills/#:~:text=HB%201859)
 * 02/21/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes the Senate! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/20/millionaires-tax-passes-the-senate/#:~:text=HB%201859)
 * 02/14/2026 [House Democrats](/org/house_democrats/) - [House Passes Salahuddin Bill to Unlock Affordable Housing on Religious Properties – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/house-passes-salahuddin-bill-to-unlock-affordable-housing-on-religious-properties/#:~:text=HB%201859)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%201859)

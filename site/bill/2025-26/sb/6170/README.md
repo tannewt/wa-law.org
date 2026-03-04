@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 03/05 08:00 AM - Transportation (TR): SSB 6170 Highway construction
+Sign up to testify:
+
+#### 84 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 04:00 PM - Transportation (TRAN): SB 6170 Highway construction
 #### 57 👍 - Pro
 Testifying:

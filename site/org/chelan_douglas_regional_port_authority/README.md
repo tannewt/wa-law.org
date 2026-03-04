@@ -19,13 +19,16 @@
 ### [SB 5989](/bill/2025-26/sb/5989/) - Aircraft fuel tax distrib. 👍1  
 * 👍 Jim Kuntz
 
-## [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎1 
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎1 
 * 👎 Jim Kuntz
+
+## [SB 6231](/bill/2025-26/sb/6231/) - Data center tax exemptions  👎1 
+* 👎💵 Blake Baldwin
 
 ## 2023-24
 
-### [SB 6171](/bill/2023-24/sb/6171/) - Large energy use facilities  👎1 
-* 👎 Jim Kuntz
+### [SB 6231](/bill/2023-24/sb/6231/) - Data center tax exemptions  👎1 
+* 👎💵 Blake Baldwin
 
 ### [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍2  
 * 👍💵 Blake Baldwin

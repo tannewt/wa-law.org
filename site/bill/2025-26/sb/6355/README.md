@@ -5,8 +5,18 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
+### Thu 03/05 08:00 AM - Appropriations (APP): SSB 6355 Electric transmission system
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/26 01:30 PM - Ways & Means (WM): SB 6355 Electric transmission system
 #### 441 👍 - Pro
 Testifying:

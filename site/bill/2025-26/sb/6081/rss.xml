@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6081/</link>
 		<description>Updates about SB 6081</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -474,11 +474,32 @@
 			<guid isPermaLink="false">2026-02-25/Referred to Rules 2 Review.</guid>
 		</item>
 		<item>
+			<title>Protecting your privacy from federal overreach - Sen. Jamie Pedersen</title>
+			<description>News article "Protecting your privacy from federal overreach - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Sun, 01 Mar 2026 17:03:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2026/03/01/protecting-your-privacy-from-federal-overreach/#:~:text=SB%206081</guid>
+		</item>
+		<item>
 			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
 			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
 			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-02/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 57; nays, 36; absent, 0; excused, 5.</title>
+			<description>Third reading, passed; yeas, 57; nays, 36; absent, 0; excused, 5.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/Third reading, passed; yeas, 57; nays, 36; absent, 0; excused, 5.</guid>
 		</item>
 	</channel>
 </rss>

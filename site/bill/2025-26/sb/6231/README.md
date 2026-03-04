@@ -17,9 +17,19 @@
 ### Wed 03/04 08:00 AM - Finance (FIN): ESSB 6231 Data center tax exemptions
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
 
-#### 0 👎 - Con
+#### 523 👎 - Con
+Testifying:
+* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Diego Hernandez - Sabey Data Centers
+* Dan Diorio - [Data Center Coalition](/org/data_center_coalition/)
+* 💵Michael Transue - Tacoma Pierce County Chamber, WA Aggregates and Concrete Ass'n, Mechanical Contractors Ass'n
+* Charlie Brown - [Data Center Coalition](/org/data_center_coalition/)
+* Jonathan Lewis - Klickitat Valley Health Hospital
+* Mayor Dave Jones - Self
+* 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 
 #### 0 ❓ - Other
 

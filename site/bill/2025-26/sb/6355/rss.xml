@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6355/</link>
 		<description>Updates about SB 6355</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -144,6 +144,41 @@
 			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-02/WM - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

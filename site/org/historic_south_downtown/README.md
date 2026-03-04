@@ -13,11 +13,13 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 
-## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+
+## [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
 
 ## 2023-24
 
-### [SB 5595](/bill/2023-24/sb/5595/) - Shared streets 👍1  
+### [SB 6129](/bill/2023-24/sb/6129/) - Cigarettes, nicotine/tax 👍1  
 
 ### [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth. 👍8  
 * 👍 Kathleen Johnson

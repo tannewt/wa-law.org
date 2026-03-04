@@ -14,6 +14,18 @@
 * 01/16/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: SB 6182 — New Tax on Health Carriers to Fund Abortion Access - Conservative Ladies of Washington](https://conservativeladiesofwa.com/sb6182-abortion-tax-health-carriers/#:~:text=SB%206182)
 
 ## Meetings
+### Thu 03/05 08:00 AM - Appropriations (APP): 2SSB 6182 Abortion savings program
+Sign up to testify:
+
+#### 232 👍 - Pro
+
+#### 285 👎 - Con
+Testifying:
+* Eric Lundberg
+* 💵Jean Hill - Washington State Catholic Conference
+
+#### 0 ❓ - Other
+
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6182 Abortion savings program
 #### 575 👍 - Pro
 Testifying:

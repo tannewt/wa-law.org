@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/04/2026 [Washington State Standard](/org/washington_state_standard/) - [Ban on police face coverings in WA nears final passage in Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/03/ban-on-police-face-coverings-in-wa-nears-final-passage-in-legislature/#:~:text=make%20it%20a%20gross%20misdemeanor%20to%20falsely%20identify%20as%20a%20police%20officer)
+* 03/03/2026 [House Democrats](/org/house_democrats/) - [“It’s just common sense.” Obras bill banning impersonating a police officer clears Senate.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/03/its-just-common-sense-obras-bill-banning-impersonating-a-police-officer-clears-senate/#:~:text=House%20Bill%202165)
 * 02/25/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative update: Three-quarters through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/25/legislative-update-three-quarters-through-session/#:~:text=HB%202165)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=ESHB%202165)
 * 02/11/2026 [The Center Square](/org/the_center_square/) - [WATCH: Bill to increase penalty for impersonating a police officer clears WA House | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1756e8d2-e866-49ef-a0d6-9ad68b02e290.html#:~:text=House%20Bill%202165)

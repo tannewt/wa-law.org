@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2384/</link>
 		<description>Updates about HB 2384</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 27 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -274,6 +274,34 @@
 			<pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-27/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Committee amendment not adopted.</title>
+			<description>Committee amendment not adopted.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/Committee amendment not adopted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 37; nays, 12; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 37; nays, 12; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/Third reading, passed; yeas, 37; nays, 12; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

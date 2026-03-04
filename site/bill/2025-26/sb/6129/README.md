@@ -15,18 +15,58 @@
 ### Wed 03/04 08:00 AM - Finance (FIN): ESSB 6129 Cigarettes, nicotine/tax
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 252 👍 - Pro
 Testifying:
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* Tim McAfee
+* 💵Jaime Bodden - WSALPHO
+* DARCY HUFFMAN - [Cancer Pathways](/org/cancer_pathways/)
+* Emma Shampain - Washington State High School Democrats
+* Beth Ebel - The Washington Chapter of the American Academy of Pediatrics
+* Scott Waller - Washington Association for Substance misuse And Violence Prevention (WASAVP)
+* Heidi Low - Campaign for Tobacco- Free Kids
+* Susan Ben-Rubin
+* James Nania
+* Janet Bradshaw - ACS CAN
+* M.D., Beth Ebel - WA Chapter of the American Academy of Pediatrics
+* Cindy Gallagher - Parents Against Vaping
+* Brandon Omernik
+* Mitra Freer
+* josh binda - NAACP of Washington State
+* Cindy Gallagher
 
-#### 4 👎 - Con
+#### 344 👎 - Con
 Testifying:
 * Santosh Pavan Kumar Alla - Gmail
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Molly Pfaffenroth - Washington Food Industry Association
+* 💵Sara Stewart - WA Smoke-Free Association
+* Brian Erkkila - PMI US Corporate Services Inc.
+* Corey Pegues
+* Art Way - Equitable Consulting
+* Richard Marianos - Tobacco Law Enforcement Network
+* Tom Eshleman - Doyles Sheehan
+* David Daniels III - National association of Black Law Enforcement Officers
+* rev james Neville
+* edgar domenech - n/a
+* ALICIA BOONE
+* Glen Beck
+* William Robinson
+* Doug Ball - Jacksons Food Stores
+* Carlos Sandoval - Tobacco Law Enforcement Network
+* 💵Holly Chisa - [Cigar Association of America](/org/cigar_association_of_america/)
+* Paula Fillmore-Sardinas - FMSGS/WBBA
+* Jeffrey Willett - Progressive Policy Institute
 
-#### 0 ❓ - Other
+#### 25 ❓ - Other
+Testifying:
+* 💵Lyset Cadena - CARE Fund
+* Guy Bentley - Reason Foundation
+* Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* 💵Malorie Toman - WA-Chapter, American College of Emergency Physicians
+* Lindsay Herendeen - Washington State Board of Health
+* Lindsey Stroud - Tobacco Harm Reduction 101
 
 ### Thu 01/22 04:00 PM - Ways & Means (WM): SB 6129 Cigarettes, nicotine/tax
 #### 118 👍 - Pro

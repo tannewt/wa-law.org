@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1721/</link>
 		<description>Updates about HB 1721</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Jan 2026 14:05:46 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Mar 2026 12:01:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -302,6 +302,13 @@
 			<pubDate>Mon, 26 Jan 2026 14:05:46 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.fox13seattle.com/news/rivian-tesla-wa-ballot-initiative#:~:text=HB%201721</guid>
+		</item>
+		<item>
+			<title>For Rivian and Lucid, path finally emerges for direct-to-consumer car sales in WA • Washington State Standard</title>
+			<description>News article "For Rivian and Lucid, path finally emerges for direct-to-consumer car sales in WA • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Mon, 02 Mar 2026 12:01:20 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/03/02/for-rivian-and-lucid-path-finally-emerges-for-direct-to-consumer-car-sales/#:~:text=House%20bill</guid>
 		</item>
 	</channel>
 </rss>

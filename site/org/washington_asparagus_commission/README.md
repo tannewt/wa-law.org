@@ -3,6 +3,9 @@
 
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC  👎2 
 
+### [HB 2616](/bill/2025-26/hb/2616/) - Agriculture 👍1  
+* 👍 Charlie Brown
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5722](/bill/2025-26/sb/5722/) - Local farming grant program 👍1  

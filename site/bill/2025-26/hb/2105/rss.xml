@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2105/</link>
 		<description>Updates about HB 2105</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Mar 2026 05:53:53 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -845,6 +845,13 @@
 			<guid isPermaLink="false">testifier/Anthony/Mixer/2026-02-26 12:11:09</guid>
 		</item>
 		<item>
+			<title>Protecting your privacy from federal overreach - Sen. Jamie Pedersen</title>
+			<description>News article "Protecting your privacy from federal overreach - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Sun, 01 Mar 2026 17:03:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2026/03/01/protecting-your-privacy-from-federal-overreach/#:~:text=HB%202105</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
@@ -871,6 +878,13 @@
 			<pubDate>Mon, 02 Mar 2026 05:53:53 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=2SHB%202105</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

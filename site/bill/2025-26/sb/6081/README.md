@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/01/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting your privacy from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/01/protecting-your-privacy-from-federal-overreach/#:~:text=SB%206081)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SSB%206081)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=SB%206081)
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=SB%206081)

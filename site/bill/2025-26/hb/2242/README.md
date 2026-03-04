@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/27/2026 [The Center Square](/org/the_center_square/) - [WA passes legislation requiring no-cost insurance for state-recommended vaccines | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_395f2ab6-e30b-4b0a-84b0-c4d6018bc1cb.html#:~:text=House%20Bill%202242)

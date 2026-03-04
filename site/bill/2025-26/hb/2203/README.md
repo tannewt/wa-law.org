@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/03/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills knocked out of running in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/03/more-bills-knocked-out-of-running-in-wa-legislature/#:~:text=House%20Bill%202203)
 * 01/08/2026 [FOX13](/org/fox13/) - [New laws proposed for WA's 2026 legislative session | FOX 13 Seattle](https://www.fox13seattle.com/news/taxes-spending-2026-legislative-session#:~:text=HB%202203)
 
 ## Meetings

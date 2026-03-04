@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=SB%206260)
@@ -14,6 +15,15 @@
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%206260)
 
 ## Meetings
+### Thu 03/05 08:00 AM - Appropriations (APP): ESSB 6260 Public education funding
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SB 6260 Public education funding
 #### 8 👍 - Pro
 

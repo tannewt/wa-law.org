@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=HB%202689)

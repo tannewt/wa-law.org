@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=SB%206353)

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/12/2026 [House Democrats](/org/house_democrats/) - [WA domestic workers are one step closer to gaining ‘bill of rights’ after House passage – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/12/wa-domestic-workers-are-one-step-closer-to-gaining-bill-of-rights-after-house-passage/#:~:text=House%20Bill%202355,)

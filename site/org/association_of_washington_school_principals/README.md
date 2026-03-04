@@ -180,7 +180,7 @@
 
 ### [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
 
-### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍2  
 
 ### [SB 6130](/bill/2025-26/sb/6130/) - National voter reg. day 👍1  
 

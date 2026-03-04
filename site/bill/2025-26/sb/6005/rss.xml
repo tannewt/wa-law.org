@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6005/</link>
 		<description>Updates about SB 6005</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Mar 2026 05:53:53 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -484,6 +484,20 @@
 			<pubDate>Mon, 02 Mar 2026 05:53:53 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESSB%206005</guid>
+		</item>
+		<item>
+			<title>Conference committee appointed.  Senators Liias, Krishnadasan, King.</title>
+			<description>Conference committee appointed.  Senators Liias, Krishnadasan, King.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/Conference committee appointed.  Senators Liias, Krishnadasan, King.</guid>
+		</item>
+		<item>
+			<title>Senate refuses to concur in House amendments.  Asks House for conference thereon.</title>
+			<description>Senate refuses to concur in House amendments.  Asks House for conference thereon.</description>
+			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-03/Senate refuses to concur in House amendments.  Asks House for conference thereon.</guid>
 		</item>
 	</channel>
 </rss>

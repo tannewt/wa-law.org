@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/03/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills knocked out of running in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/03/more-bills-knocked-out-of-running-in-wa-legislature/#:~:text=House%20Bill%201078)
 * 02/11/2026 [House Democrats](/org/house_democrats/) - [House passes Walen bill ensuring pet insurance coverage continues – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/11/house-passes-walen-bill-ensuring-pet-insurance-coverage-continues/#:~:text=House%20Bill%201078)
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%201078)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%201078)

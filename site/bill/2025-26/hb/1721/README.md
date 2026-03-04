@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/02/2026 [Washington State Standard](/org/washington_state_standard/) - [For Rivian and Lucid, path finally emerges for direct-to-consumer car sales in WA • Washington State Standard](https://washingtonstatestandard.com/2026/03/02/for-rivian-and-lucid-path-finally-emerges-for-direct-to-consumer-car-sales/#:~:text=House%20bill)
 * 01/26/2026 [FOX13](/org/fox13/) - [Rivian pledging $4.6M to WA ballot initiative | FOX 13 Seattle](https://www.fox13seattle.com/news/rivian-tesla-wa-ballot-initiative#:~:text=HB%201721)
 * 05/07/2025 [The Washington Observer](/org/the_washington_observer/) - [A challenge for the House business chair](https://washingtonobserver.substack.com/p/a-challenge-for-the-house-business#:~:text=House%20Bill%201721)
 * 02/25/2025 [Washington State Standard](/org/washington_state_standard/) - [Tesla to maintain exclusive hold on direct EV sales to WA consumers • Washington State Standard](https://washingtonstatestandard.com/2025/02/24/tesla-to-maintain-exclusive-hold-on-direct-ev-sales-to-wa-consumers/#:~:text=House%20Bill%201721)

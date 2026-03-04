@@ -6,11 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/02/2026 [Washington State Standard](/org/washington_state_standard/) - [For Rivian and Lucid, path finally emerges for direct-to-consumer car sales in WA • Washington State Standard](https://washingtonstatestandard.com/2026/03/02/for-rivian-and-lucid-path-finally-emerges-for-direct-to-consumer-car-sales/#:~:text=Senate%20Bill%206354)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SB%206354)
 
 ## Meetings
+### Thu 03/05 08:00 AM - Transportation (TR): ESSB 6354 Electric vehicles
+Sign up to testify:
+
+#### 19 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/24 04:00 PM - Transportation (TRAN): SB 6354 Electric vehicles
 #### 603 👍 - Pro
 Testifying:

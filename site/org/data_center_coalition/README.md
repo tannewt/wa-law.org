@@ -10,10 +10,14 @@
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎1 
 * 👎 Dan Diorio
 
-## [SB 6231](/bill/2025-26/sb/6231/) - Data center tax exemptions  👎1 
+## [SB 6231](/bill/2025-26/sb/6231/) - Data center tax exemptions  👎3 
 * 👎 Dan Diorio
+* 👎 Dan Diorio
+* 👎 Charlie Brown
 
 ## 2023-24
 
-## [SB 6231](/bill/2023-24/sb/6231/) - Data center tax exemptions  👎1 
+## [SB 6231](/bill/2023-24/sb/6231/) - Data center tax exemptions  👎3 
 * 👎 Dan Diorio
+* 👎 Dan Diorio
+* 👎 Charlie Brown
