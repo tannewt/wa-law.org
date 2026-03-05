@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/05/2026 [Senate Democrats](/org/senate_democrats/) - [Budget investments for flood recovery; bill update before session ends - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/04/budget-investments-for-flood-recovery-bill-update-before-session-ends/#:~:text=Senate%20Bill%206343)
 * 02/27/2026 [Senate Democrats](/org/senate_democrats/) - [What do the transportation and capital budgets mean for you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/27/what-do-the-transportation-and-capital-budgets-mean-for-you/#:~:text=providing%20tax%20relief%20to%20people%20affected%20by%20last%20December’s%20flooding)
 * 02/24/2026 [Senate Democrats](/org/senate_democrats/) - [Capital budget proposal directs $7.5 million to the city of Pacific for flood recovery - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/24/capital-budget-proposal-directs-7-5-million-to-the-city-of-pacific-for-flood-recovery/#:~:text=Senate%20Bill%206343)
 * 02/16/2026 [Senate Democrats](/org/senate_democrats/) - [Building policy through partnership - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/02/16/building-policy-through-partnership/#:~:text=Senate%20Bill%206343)

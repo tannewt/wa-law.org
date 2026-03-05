@@ -30,7 +30,7 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍 John Traugott
 
-### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎2 
+### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎3 
 
 ### [SB 6275](/bill/2025-26/sb/6275/) - Community reinvestment prg. 👍2  
 * 👍 John Traugott

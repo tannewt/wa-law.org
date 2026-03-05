@@ -53,7 +53,8 @@
 * 👎💵 David Foster
 * 👎💵 Marissa Ingalls
 
-### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program   ❓3
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program   ❓4
+* ❓💵 Marissa Ingalls
 * ❓💵 Marissa Ingalls
 
 ### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification  👎1 

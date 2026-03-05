@@ -6,13 +6,16 @@
 ### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers  👎1 
 * 👎 Mike Cruz
 
-## [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
+### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
 * 👍 Mike Cruz
+
+## [SB 6354](/bill/2025-26/sb/6354/) - Electric vehicles 👍1  
+* 👍 Daniel Witt
 
 ## 2023-24
 
-### [SB 5592](/bill/2023-24/sb/5592/) - Zero emissions vehicles/sale 👍1  
-* 👍 Mike Cruz
+### [SB 6354](/bill/2023-24/sb/6354/) - Electric vehicles 👍1  
+* 👍 Daniel Witt
 
 ### [HB 2028](/bill/2023-24/hb/2028/) - Concerning manufacturer and new dealer franchise agreements.  👎1 
 

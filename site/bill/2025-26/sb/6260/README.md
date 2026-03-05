@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/04/2026 [The Center Square](/org/the_center_square/) - [WA Senate narrowly advances bill to reduce education spending by $176M through 2031 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_560f84fa-62c9-4c80-82e3-2f963c1c5504.html#:~:text=Senate%20Bill%206260)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=SB%206260)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SSB%206260)
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SB%206260)
@@ -18,11 +19,51 @@
 ### Thu 03/05 08:00 AM - Appropriations (APP): ESSB 6260 Public education funding
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 19 👍 - Pro
 
-#### 0 👎 - Con
+#### 1465 👎 - Con
+Testifying:
+* Ben Gauyan - Superintendent, Walla Walla Public Schools
+* Derek Sarley - Director, Walla Walla Public Schools
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Jim Kowalkowski - Rural Education Center
+* Cassidy Miller - [Washington Association for Pupil Transportation](/org/washington_association_for_pupil_transportation/)
+* Kevin Brockbank - Community Colleges of Spokane
+* Suzy Ames - Peninsula College
+* Jamie Traugott - Washington's State Board for Community and Technical Colleges
+* Rebekah Woods - Columbia Basin College
+* 💵Clifford Traisman - Northshore, Bellevue, Highline and Seattle Public School Districts
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Kandice Hansen - Wilson Creek School District
+* Jeff Chamberlin - Superintendent- University Place School District
+* Zach Johnson - Wenatchee Valley College
+* Andie Webb - Superintendent, Kahlotus School District
+* Isis Barnes - Running Start student at Grays Harbor College
+* Jessie Sprouse - Carbonado School District
+* Paula Dawson - Dieringer School District 343
+* Tom Spellman - Lake Washington School District
+* Michael Olsen - Kettle Falls School District
+* 💵Jeff Snell - [Washington Association of School Administrators](/org/washington_association_of_school_administrators/)
+* William Hatzenbeler - Orting School District
+* Ruffaro Guzha - WA State Board for Community and Technical College
+* Lori Christmas - Grays Harbor College
+* Harmony Adams
+* Bruce Polley
+* Francesca Burnett
+* Jeff Baerwald
+* Jazmine Stallings
+* Reilly Schick
+* Pedro Lopez
+* Bria Bodenman
+* Jesus San German Cerritos
+* Alexandria Arias Lopez
+* Lily Lightfoot
+* Nick Heming
+* Johnson Lin
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jay Tyus - Wilbur Creston Cooperative School Districts
 
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SB 6260 Public education funding
 #### 8 👍 - Pro

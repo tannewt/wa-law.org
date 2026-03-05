@@ -15,11 +15,9 @@
 
 ## Meetings
 ### Wed 03/04 08:00 AM - Finance (FIN): ESSB 6231 Data center tax exemptions
-Sign up to testify:
+#### 12 👍 - Pro
 
-#### 9 👍 - Pro
-
-#### 523 👎 - Con
+#### 850 👎 - Con
 Testifying:
 * 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
@@ -30,6 +28,10 @@ Testifying:
 * Jonathan Lewis - Klickitat Valley Health Hospital
 * Mayor Dave Jones - Self
 * 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
+* 💵Brian Enslow - [Port of Walla Walla](/org/port_of_walla_walla/)
+* Joe Kendo - WSLC
+* 💵Matthew Hepner - IBEW/ceww
+* 💵Neil Hartman - UA
 
 #### 0 ❓ - Other
 

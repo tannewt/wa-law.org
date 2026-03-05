@@ -63,6 +63,8 @@
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 
+### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎7 
+
 ## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍5  
 
 ## 2023-24

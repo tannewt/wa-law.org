@@ -11,6 +11,15 @@
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=HB%202689)
 
 ## Meetings
+### Mon 03/09 10:00 AM - Ways & Means (WM): SHB 2689 Working connect. child care
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/26 01:30 PM - Appropriations (APP): HB 2689 Working connect. child care
 #### 168 👍 - Pro
 

@@ -47,12 +47,14 @@
 
 ### [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
 
-## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system 👍1  
+## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system 👍2  
+* 👍 Casey MacLean
 * 👍 Casey MacLean
 
 ## 2023-24
 
-### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system 👍1  
+### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system 👍2  
+* 👍 Casey MacLean
 * 👍 Casey MacLean
 
 ### [HB 1173](/bill/2023-24/hb/1173/) - Light pollution  👎1 

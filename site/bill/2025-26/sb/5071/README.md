@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/04/2026 [KUOW](/org/kuow/) - [KUOW - More bills knocked out of running in Washington Legislature](https://www.kuow.org/stories/more-bills-knocked-out-of-running-in-washington-legislature#:~:text=Senate%20Bill%205071)
 * 03/03/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills knocked out of running in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/03/more-bills-knocked-out-of-running-in-wa-legislature/#:~:text=Senate%20Bill%205071)
 * 02/27/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Senate Democrats pass $80 billion budget - a house of cards built on phantom savings - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-senate-democrats-pass-80-billion-budget-built-phantom-savings/#:~:text=(Senate%20Bill%205071))
 * 02/18/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA child welfare policy stalls as parties clash over parental drug abuse | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f24e0c8f-9eef-437b-8ae4-b7ed4b337a22.html#:~:text=SB%205071.)

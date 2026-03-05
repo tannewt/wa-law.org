@@ -10,6 +10,7 @@
 * [Second Engrossed Substitute](S.E2/)
 
 ## 📰 Articles
+* 03/04/2026 [KUOW](/org/kuow/) - [KUOW - More bills knocked out of running in Washington Legislature](https://www.kuow.org/stories/more-bills-knocked-out-of-running-in-washington-legislature#:~:text=Senate%20Bill%205360)
 * 03/03/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills knocked out of running in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/03/more-bills-knocked-out-of-running-in-wa-legislature/#:~:text=Senate%20Bill%205360)
 * 02/27/2026 [The Washington Observer](/org/the_washington_observer/) - [Rounding up the cutoff casualties](https://washingtonobserver.substack.com/p/rounding-up-the-cutoff-casualties#:~:text=Senate%20Bill%205360)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%205360)

@@ -9,13 +9,12 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/05/2026 [Washington State Standard](/org/washington_state_standard/) - [Cigarette tax hike still in play as WA legislative session wanes • Washington State Standard](https://washingtonstatestandard.com/2026/03/04/cigarette-tax-hike-still-in-play-as-wa-legislative-session-wanes/#:~:text=Senate%20Bill%206129)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate%20Bill%206129)
 
 ## Meetings
 ### Wed 03/04 08:00 AM - Finance (FIN): ESSB 6129 Cigarettes, nicotine/tax
-Sign up to testify:
-
-#### 252 👍 - Pro
+#### 290 👍 - Pro
 Testifying:
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Tim McAfee
@@ -34,8 +33,11 @@ Testifying:
 * Mitra Freer
 * josh binda - NAACP of Washington State
 * Cindy Gallagher
+* 💵Kelsey Beck - Kaiser Permanente
+* Christina Bodamer - [American Heart Association](/org/american_heart_association/)
+* 💵Carolyn Logue - Washington Food Industry Association
 
-#### 344 👎 - Con
+#### 397 👎 - Con
 Testifying:
 * Santosh Pavan Kumar Alla - Gmail
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
@@ -58,6 +60,7 @@ Testifying:
 * 💵Holly Chisa - [Cigar Association of America](/org/cigar_association_of_america/)
 * Paula Fillmore-Sardinas - FMSGS/WBBA
 * Jeffrey Willett - Progressive Policy Institute
+* 💵Tony Sermonti - JUUL
 
 #### 25 ❓ - Other
 Testifying:

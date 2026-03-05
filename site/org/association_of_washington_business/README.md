@@ -1018,8 +1018,12 @@
 
 ### [SB 6217](/bill/2025-26/sb/6217/) - College grant/credential prg 👍1  
 
-### [SB 6228](/bill/2025-26/sb/6228/) - Prescription drugs/taxes  👎2 
+### [SB 6225](/bill/2025-26/sb/6225/) - Transportation funding bonds 👍1  
+* 👍💵 Ken Short
+
+### [SB 6228](/bill/2025-26/sb/6228/) - Prescription drugs/taxes  👎3 
 * 👎💵 Emily Wittman
+* 👎 Max Martin
 
 ### [SB 6229](/bill/2025-26/sb/6229/) - Small business stock gains  👎1 
 
@@ -1046,12 +1050,14 @@
 
 ### [SB 6347](/bill/2025-26/sb/6347/) - Estate tax rates 👍1  
 
-## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system   ❓1
+## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system   ❓2
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
 ## 2023-24
 
-### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system   ❓1
+### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system   ❓2
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  

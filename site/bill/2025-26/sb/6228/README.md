@@ -12,15 +12,14 @@
 
 ## Meetings
 ### Wed 03/04 08:00 AM - Finance (FIN): ESB 6228 Prescription drugs/taxes
-Sign up to testify:
+#### 4 👍 - Pro
 
-#### 3 👍 - Pro
-
-#### 521 👎 - Con
+#### 815 👎 - Con
 Testifying:
 * Rick Hughes - Ray's Pharmacy, Orcas Island
 * 💵Leah Lindahl - [Healthcare Distribution Alliance](/org/healthcare_distribution_alliance/)
 * 💵Carolyn Logue - Washington Food Industry Association
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 2 ❓ - Other
 Testifying:

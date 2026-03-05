@@ -12,6 +12,19 @@
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202487)
 
 ## Meetings
+### Mon 03/09 10:00 AM - Ways & Means (WM): HB 2487 Insurer taxes
+Sign up to testify:
+
+#### 3 👍 - Pro
+Testifying:
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Jim Freeburg - Patient Coalition of Washington
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2487 Insurer taxes
 #### 55 👍 - Pro
 Testifying:

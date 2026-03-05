@@ -25,6 +25,9 @@
 ### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes  👎1 
 * 👎💵 Neil Strege
 
+### [HB 2747](/bill/2025-26/hb/2747/) - Budget sustainability 👍1  
+* 👍💵 Neil Strege
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Neil Strege
 
@@ -64,7 +67,7 @@
 
 ### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍2  
 
-### [SB 6225](/bill/2025-26/sb/6225/) - Transportation funding bonds 👍2  
+### [SB 6225](/bill/2025-26/sb/6225/) - Transportation funding bonds 👍3  
 * 👍💵 Neil Strege
 
 ## [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  

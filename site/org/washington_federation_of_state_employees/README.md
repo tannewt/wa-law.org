@@ -321,7 +321,8 @@
 
 ### [SB 6073](/bill/2025-26/sb/6073/) - Wildland firefighters/LEOFF 👍1  
 
-### [SB 6170](/bill/2025-26/sb/6170/) - Highway construction 👍1  
+### [SB 6170](/bill/2025-26/sb/6170/) - Highway construction 👍2  
+* 👍 Kati Durkin
 * 👍 Kati Durkin
 
 ### [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  

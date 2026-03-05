@@ -46,13 +46,15 @@
 
 ### [SB 6118](/bill/2025-26/sb/6118/) - Cardiac emerg. plans/schools 👍2  
 
-## [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+## [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍3  
 * 👍💵 Alex Hamasaki
+* 👍 Christina Bodamer
 
 ## 2023-24
 
-### [SB 6129](/bill/2023-24/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+### [SB 6129](/bill/2023-24/sb/6129/) - Cigarettes, nicotine/tax 👍3  
 * 👍💵 Alex Hamasaki
+* 👍 Christina Bodamer
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

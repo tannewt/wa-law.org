@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/05/2026 [Washington State Standard](/org/washington_state_standard/) - [Cigarette tax hike still in play as WA legislative session wanes • Washington State Standard](https://washingtonstatestandard.com/2026/03/04/cigarette-tax-hike-still-in-play-as-wa-legislative-session-wanes/#:~:text=similar%20legislation)
 * 02/06/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead (February 9 – 15, 2026) | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-9-15-2026/#:~:text=HB%202382)
 * 02/02/2026 [FOX13](/org/fox13/) - [Bill could increase a pack of cigarettes to $17 in Seattle | FOX 13 Seattle](https://www.fox13seattle.com/news/new-law-could-increase-pack-cigarettes-17-seattle#:~:text=House%20Bill%202382)
 * 01/30/2026 [The Center Square](/org/the_center_square/) - [WA considers major tobacco, vapor product tax hikes, raising flags around smuggling | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_107c4b23-0bde-4a02-9015-fd7aeb6d9409.html#:~:text=House%20Bill%202382)

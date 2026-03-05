@@ -117,11 +117,11 @@
 
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍1  
 
-## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system 👍1  
+## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system 👍2  
 
 ## 2023-24
 
-### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system 👍1  
+### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system 👍2  
 
 ### [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
 * ❓ Jay Kehne

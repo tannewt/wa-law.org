@@ -11,11 +11,22 @@
 ### Thu 03/05 08:00 AM - Appropriations (APP): SSB 6355 Electric transmission system
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 139 👍 - Pro
+Testifying:
+* 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)
+* 💵Jason Hudson - IBEW Local 77
 
-#### 0 👎 - Con
+#### 273 👎 - Con
+Testifying:
+* Amanda McKinney - Yakima County Commissioner
+* MIke Garza
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### Thu 02/26 01:30 PM - Ways & Means (WM): SB 6355 Electric transmission system
 #### 441 👍 - Pro

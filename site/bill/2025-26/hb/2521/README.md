@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/04/2026 [The Center Square](/org/the_center_square/) - [WATCH: Cost for WA firearm background check fee could shoot up under bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9240a42c-2874-4627-9203-4843ee9fdfc8.html#:~:text=House%20Bill%202521)
+
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): HB 2521 Firearms background checks
 #### 5 👍 - Pro

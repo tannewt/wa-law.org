@@ -16,11 +16,21 @@
 ### Thu 03/05 08:00 AM - Transportation (TR): ESSB 6354 Electric vehicles
 Sign up to testify:
 
-#### 19 👍 - Pro
+#### 501 👍 - Pro
+Testifying:
+* Abigail Ramsden - Rivian
+* Daniel Witt - [Lucid Motors](/org/lucid_motors/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Scott Hazlegrove - WA State Auto Dealers Association
 
-#### 1 👎 - Con
+#### 122 👎 - Con
+Testifying:
+* Craig Orlan - American Honda Motor Company
+* 💵Carrie Tellefson - Ford
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Toyota Motor North America
 
 ### Tue 02/24 04:00 PM - Transportation (TRAN): SB 6354 Electric vehicles
 #### 603 👍 - Pro

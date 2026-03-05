@@ -10,6 +10,7 @@
 * [Second Engrossed Substitute](S.E2/)
 
 ## 📰 Articles
+* 03/05/2026 [Senate Democrats](/org/senate_democrats/) - [Budget investments for flood recovery; bill update before session ends - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/04/budget-investments-for-flood-recovery-bill-update-before-session-ends/#:~:text=Senate%20Bill%205105)
 * 02/11/2026 [Senate Democrats](/org/senate_democrats/) - [MEDIA ADVISORY: We support survivors in this Washington - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/02/11/media-advisory-we-support-survivors-in-this-washington/#:~:text=Senate%20Bill%205105)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=ESSB%205105)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205105)

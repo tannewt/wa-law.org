@@ -96,7 +96,7 @@
 
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 
-### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍2  
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍3  
 
 ### [SB 6231](/bill/2025-26/sb/6231/) - Data center tax exemptions 👍1  
 

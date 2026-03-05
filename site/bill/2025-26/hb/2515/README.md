@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/04/2026 [KUOW](/org/kuow/) - [KUOW - It’s lights out for Washington Legislature’s effort to regulate data centers](https://www.kuow.org/stories/it-s-lights-out-for-washington-legislature-s-effort-to-regulate-data-centers#:~:text=House%20Bill%202515)
 * 03/03/2026 [Washington State Standard](/org/washington_state_standard/) - [It's lights out for WA Legislature's effort to regulate data centers • Washington State Standard](https://washingtonstatestandard.com/2026/03/02/its-lights-out-for-wa-legislatures-effort-to-regulate-data-centers/#:~:text=House%20Bill%202515)
 * 03/02/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington can’t afford to wait on data center regulations • Washington State Standard](https://washingtonstatestandard.com/2026/03/02/washington-cant-afford-to-wait-on-data-center-regulations/#:~:text=House%20Bill%202515)
 * 02/26/2026 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/02/26/february-session-recap-3/#:~:text=HB%202515)

@@ -31,14 +31,16 @@
 
 ### [SB 6025](/bill/2025-26/sb/6025/) - Updating the definition of fetal death. 👍2  
 
-## [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍6  
+## [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍8  
+* 👍 Mercedes Sanchez
 * 👍 Mercedes Sanchez
 * 👍 Mercedes Sanchez
 * 👍 Mercedes Sanchez
 
 ## 2023-24
 
-### [SB 6182](/bill/2023-24/sb/6182/) - Abortion savings program 👍6  
+### [SB 6182](/bill/2023-24/sb/6182/) - Abortion savings program 👍8  
+* 👍 Mercedes Sanchez
 * 👍 Mercedes Sanchez
 * 👍 Mercedes Sanchez
 * 👍 Mercedes Sanchez
