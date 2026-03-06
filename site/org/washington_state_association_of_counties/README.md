@@ -685,15 +685,17 @@
 ### [SB 6335](/bill/2025-26/sb/6335/) - Transportation commission   ❓1
 * ❓💵 Axel Swanson
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓2
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓2
 * ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
+
+## [SB 6355](/bill/2025-26/sb/6355/) - Electric transmission system   ❓1
+* ❓💵 Kelsey Hulse
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires   ❓2
-* ❓💵 Paul Jewell
-* ❓💵 Paul Jewell
+### [SB 6355](/bill/2023-24/sb/6355/) - Electric transmission system   ❓1
+* ❓💵 Kelsey Hulse
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

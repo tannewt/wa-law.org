@@ -17,14 +17,12 @@ Sign up to testify:
 #### 0 ❓ - Other
 
 ### Thu 03/05 08:00 AM - Appropriations (APP): HB 2747 Budget sustainability
-Sign up to testify:
-
 #### 2 👍 - Pro
 Testifying:
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * Sheri Sawyer - Office of Financial Management
 
-#### 133 👎 - Con
+#### 193 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

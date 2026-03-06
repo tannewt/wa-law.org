@@ -17,11 +17,9 @@
 
 ## Meetings
 ### Thu 03/05 08:00 AM - Appropriations (APP): ESSB 6260 Public education funding
-Sign up to testify:
+#### 26 👍 - Pro
 
-#### 19 👍 - Pro
-
-#### 1465 👎 - Con
+#### 1894 👎 - Con
 Testifying:
 * Ben Gauyan - Superintendent, Walla Walla Public Schools
 * Derek Sarley - Director, Walla Walla Public Schools
@@ -60,8 +58,12 @@ Testifying:
 * Lily Lightfoot
 * Nick Heming
 * Johnson Lin
+* DON HALL
+* Shannon Barnett - Kalama, Woodland, Ridgefield and LaCenter School Districts
+* Shannon Johnston - [Central Valley School District](/org/central_valley_school_district/)
+* KACEY CHAVEZ
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jay Tyus - Wilbur Creston Cooperative School Districts
 

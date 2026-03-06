@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/05/2026 [The Center Square](/org/the_center_square/) - [WATCH: PSE wants 30% rate increase; clean energy mandates behind request | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1fc7710f-ee8b-4dbe-87a4-b1e41c861b64.html#:~:text=House%20Bill%202515)
 * 03/04/2026 [KUOW](/org/kuow/) - [KUOW - It’s lights out for Washington Legislature’s effort to regulate data centers](https://www.kuow.org/stories/it-s-lights-out-for-washington-legislature-s-effort-to-regulate-data-centers#:~:text=House%20Bill%202515)
 * 03/03/2026 [Washington State Standard](/org/washington_state_standard/) - [It's lights out for WA Legislature's effort to regulate data centers • Washington State Standard](https://washingtonstatestandard.com/2026/03/02/its-lights-out-for-wa-legislatures-effort-to-regulate-data-centers/#:~:text=House%20Bill%202515)
 * 03/02/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington can’t afford to wait on data center regulations • Washington State Standard](https://washingtonstatestandard.com/2026/03/02/washington-cant-afford-to-wait-on-data-center-regulations/#:~:text=House%20Bill%202515)

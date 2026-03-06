@@ -188,7 +188,7 @@
 
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 
-### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎1 
+### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎2 
 
 ### [SB 6278](/bill/2025-26/sb/6278/) - Teacher & principal programs 👍2  
 

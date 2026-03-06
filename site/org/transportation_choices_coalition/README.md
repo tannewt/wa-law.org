@@ -81,6 +81,9 @@
 * 👍💵 Kirk Hovenkotter
 * 👍 Katy Ricchiuto
 
+### [SB 6225](/bill/2025-26/sb/6225/) - Transportation funding bonds   ❓1
+* ❓💵 Kirk Hovenkotter
+
 ### [SB 6252](/bill/2025-26/sb/6252/) - Free transit/CTC students 👍1  
 * 👍 Holden Ringer
 

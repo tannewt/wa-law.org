@@ -15,21 +15,20 @@
 
 ## Meetings
 ### Thu 03/05 08:00 AM - Appropriations (APP): 2SSB 6182 Abortion savings program
-Sign up to testify:
-
-#### 547 👍 - Pro
+#### 617 👍 - Pro
 Testifying:
 * Kari Pacheco - Planned Parenthood Great Northwest, Hawaii, Alaska, Indiana, Kentucky
 * Mercedes Sanchez - [Cedar River Clinics](/org/cedar_river_clinics/)
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * Raquel Campezano - Planned Parenthood of Greater Washington & North Idaho
 
-#### 985 👎 - Con
+#### 1073 👎 - Con
 Testifying:
 * Eric Lundberg
 * 💵Jean Hill - Washington State Catholic Conference
 * Laurie Layne - Not a bot.
 * Theresa Schrempp
+* Karla Navarro
 
 #### 4 ❓ - Other
 Testifying:

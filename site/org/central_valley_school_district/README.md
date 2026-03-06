@@ -16,11 +16,15 @@
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
-## [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍3  
+### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍3  
+
+## [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎1 
+* 👎 Shannon Johnston
 
 ## 2023-24
 
-### [SB 5517](/bill/2023-24/sb/5517/) - School staff salary alloc. 👍3  
+### [SB 6260](/bill/2023-24/sb/6260/) - Public education funding  👎1 
+* 👎 Shannon Johnston
 
 ### [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
 * 👍 Cindy McMullen

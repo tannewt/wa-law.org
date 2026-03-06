@@ -13,16 +13,16 @@
 
 ## Meetings
 ### Thu 03/05 08:00 AM - Transportation (TR): SSB 6225 Transportation funding bonds
-Sign up to testify:
-
-#### 179 👍 - Pro
+#### 189 👍 - Pro
 Testifying:
 * 💵Billy Wallace - Washington & Northern Idaho District Council of Laborers
 * 💵Ken Short - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 116 👎 - Con
+#### 161 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 
 ### Tue 02/24 04:00 PM - Transportation (TRAN): SB 6225 Transportation funding bonds
 #### 17 👍 - Pro

@@ -990,7 +990,7 @@
 
 ### [SB 6259](/bill/2025-26/sb/6259/) - Higher ed./damage by student  👎1 
 
-### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎10 
+### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎15 
 * 👎💵 Nasue Nishida
 * 👎💵 Julie Salvi
 

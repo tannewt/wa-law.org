@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/05/2026 [The Center Square](/org/the_center_square/) - [WATCH: House Democrat on income tax bill: 'Let the people have a voice' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8547d757-3186-40dc-9b75-354eeb7ddbb2.html#:~:text=Senate%20Bill%206346)
+* 03/05/2026 [Washington State Standard](/org/washington_state_standard/) - [Holdout Democrats leave WA House support for income tax in doubt • Washington State Standard](https://washingtonstatestandard.com/2026/03/04/holdout-democrats-leave-wa-house-support-for-income-tax-in-doubt/#:~:text=Senate%20Bill%206346)
+* 03/04/2026 [KUOW](/org/kuow/) - [KUOW - Washington governor: Passage of income tax could slip to 2027](https://www.kuow.org/stories/washington-governor-passage-of-income-tax-could-slip-to-2027#:~:text=tax%20bill)
 * 03/03/2026 [Washington State Standard](/org/washington_state_standard/) - [WA governor: Passage of income tax could slip to 2027 • Washington State Standard](https://washingtonstatestandard.com/2026/03/03/wa-governor-passage-of-income-tax-could-slip-to-2027/#:~:text=Senate%20Bill%206346)
 * 03/03/2026 [The Center Square](/org/the_center_square/) - [WATCH: Gov. Ferguson signaling income tax bill may be dead for session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_13c7af0f-ebb8-45b7-a25b-a579308ca86b.html#:~:text=Senate%20Bill%206346)
 * 03/02/2026 [The Center Square](/org/the_center_square/) - [Washington tech sector leaders warn income tax would 'undermine' their industry | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_61c717f7-d558-4610-88c1-c0212c67aa35.html#:~:text=Senate%20Bill%206346)

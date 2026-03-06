@@ -34,7 +34,7 @@
 
 ### [SB 6192](/bill/2025-26/sb/6192/) - Reading and math instruction  👎1 
 
-### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎4 
+### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎6 
 
 ## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍16 👎38 
 

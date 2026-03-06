@@ -188,11 +188,13 @@
 ### [SB 6352](/bill/2025-26/sb/6352/) - Transportation resources 👍1  
 * 👍 John Flanagan
 
-## [SB 6354](/bill/2025-26/sb/6354/) - Electric vehicles 👍1  
+## [SB 6354](/bill/2025-26/sb/6354/) - Electric vehicles 👍2  
+* 👍 John Flanagan
 
 ## 2023-24
 
-### [SB 6354](/bill/2023-24/sb/6354/) - Electric vehicles 👍1  
+### [SB 6354](/bill/2023-24/sb/6354/) - Electric vehicles 👍2  
+* 👍 John Flanagan
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

@@ -37,11 +37,11 @@
 * 👎 Christine Cooley
 * 👍 Christine Cooley
 
-## [SB 6354](/bill/2025-26/sb/6354/) - Electric vehicles 👍1  
+## [SB 6354](/bill/2025-26/sb/6354/) - Electric vehicles 👍2  
 
 ## 2023-24
 
-### [SB 6354](/bill/2023-24/sb/6354/) - Electric vehicles 👍1  
+### [SB 6354](/bill/2023-24/sb/6354/) - Electric vehicles 👍2  
 
 ### [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/05/2026 [Washington State Standard](/org/washington_state_standard/) - [WA senator refuses to apologize for inflammatory remark • Washington State Standard](https://washingtonstatestandard.com/2026/03/05/wa-senator-refuses-to-apologize-for-inflammatory-remark/#:~:text=House%20Bill%201390)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201390)
 
 ## Meetings

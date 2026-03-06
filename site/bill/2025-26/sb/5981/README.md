@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/05/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: Drug pricing bill benefits affluent areas rather than those in need | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_078e99c1-2850-49ab-aacb-657ff159eb85.html#:~:text=Senate%20Bill%205981)
 * 03/03/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA committee advances prescription drug bill critic calls ‘a cash grab’ for hospitals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_77014967-6614-4fbc-9fc5-19870859cdee.html#:~:text=Senate%20Bill%205981)
 * 02/27/2026 [Senate Democrats](/org/senate_democrats/) - [Cleavland bill protecting prescription drug affordability passes through House policy committee. - Sen. Annette Cleveland](https://senatedemocrats.wa.gov/cleveland/2026/02/27/cleavland-bill-protecting-prescription-drug-affordability-passes-through-house-policy-committee/#:~:text=Senate%20Bill%205981)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=2SSB%205981)

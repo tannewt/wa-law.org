@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/05/2026 [FOX13](/org/fox13/) - [WA bills on face coverings, ghost guns, nitrous oxide | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-face-coverings-ghost-guns-nitrous-oxide#:~:text=HB%202242)
 * 02/27/2026 [The Center Square](/org/the_center_square/) - [WA passes legislation requiring no-cost insurance for state-recommended vaccines | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_395f2ab6-e30b-4b0a-84b0-c4d6018bc1cb.html#:~:text=House%20Bill%202242)
 * 02/26/2026 [Washington State Standard](/org/washington_state_standard/) - [WA moves to issue its own guidance for vaccines insurers must cover • Washington State Standard](https://washingtonstatestandard.com/2026/02/26/wa-moves-to-issue-its-own-vaccine-guidance-amid-federal-overhaul/#:~:text=House%20Bill%202242)
 * 01/15/2026 [House Democrats](/org/house_democrats/) - [Health Care & Wellness Committee to hear Chair Bronoske’s priority bills Friday  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/15/healthcare-wellness-committee-to-hear-chair-bronoskes-priority-bills-friday/#:~:text=HB 2242)

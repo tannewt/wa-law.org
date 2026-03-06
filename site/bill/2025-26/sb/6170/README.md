@@ -9,14 +9,12 @@
 
 ## Meetings
 ### Thu 03/05 08:00 AM - Transportation (TR): SSB 6170 Highway construction
-Sign up to testify:
-
-#### 200 👍 - Pro
+#### 214 👍 - Pro
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * 💵Allison Krutsinger - Washington State Department of Transportation
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

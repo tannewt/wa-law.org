@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2417/</link>
 		<description>Updates about HB 2417</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 04 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 05 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -152,6 +152,13 @@
 			<pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-04/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-05/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

@@ -29,13 +29,15 @@
 ### [SB 5811](/bill/2025-26/sb/5811/) - Zero-emission vehicle prg.   ❓1
 * ❓💵 Brandon Houskeeper
 
-## [SB 6354](/bill/2025-26/sb/6354/) - Electric vehicles  👎1 
+## [SB 6354](/bill/2025-26/sb/6354/) - Electric vehicles  👎2 
 * 👎 Curt Augustine
+* 👎💵 Brandon Houskeeper
 
 ## 2023-24
 
-### [SB 6354](/bill/2023-24/sb/6354/) - Electric vehicles  👎1 
+### [SB 6354](/bill/2023-24/sb/6354/) - Electric vehicles  👎2 
 * 👎 Curt Augustine
+* 👎💵 Brandon Houskeeper
 
 ### [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
 

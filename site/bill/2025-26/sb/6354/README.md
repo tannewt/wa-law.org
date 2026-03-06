@@ -14,19 +14,20 @@
 
 ## Meetings
 ### Thu 03/05 08:00 AM - Transportation (TR): ESSB 6354 Electric vehicles
-Sign up to testify:
-
-#### 501 👍 - Pro
+#### 522 👍 - Pro
 Testifying:
 * Abigail Ramsden - Rivian
 * Daniel Witt - [Lucid Motors](/org/lucid_motors/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 
-#### 122 👎 - Con
+#### 170 👎 - Con
 Testifying:
 * Craig Orlan - American Honda Motor Company
 * 💵Carrie Tellefson - Ford
+* 💵Austin Neilson - General Motors
+* 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 
 #### 2 ❓ - Other
 Testifying:
