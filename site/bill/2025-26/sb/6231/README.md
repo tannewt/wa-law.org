@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/07/2026 [Washington State Standard](/org/washington_state_standard/) - [Data center tax break close to getting zapped by WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/07/data-center-tax-break-close-to-getting-zapped-by-wa-legislature/#:~:text=Senate%20Bill%206231)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SB%206231)
 * 01/31/2026 [Senate Democrats](/org/senate_democrats/) - [Saving public money - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/01/30/saving-public-money/#:~:text=SB%206231)
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%206231)

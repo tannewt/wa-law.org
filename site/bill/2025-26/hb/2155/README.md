@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/06/2026 [Senate Democrats](/org/senate_democrats/) - [One week left! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/06/one-week-left/#:~:text=HB%202155)
 * 02/11/2026 [House Democrats](/org/house_democrats/) - [House passes Obras’ bill protecting nursing titles from AI technology – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/11/house-passes-obras-bill-protecting-nursing-titles-from-ai-technology/#:~:text=HB%202155)
 
 ## Meetings

@@ -184,7 +184,7 @@
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 
-### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care  👎1 
+### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care  👎2 
 
 ### [HB 2730](/bill/2025-26/hb/2730/) - Aerospace tax preferences 👍2  
 

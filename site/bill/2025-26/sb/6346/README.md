@@ -9,6 +9,11 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=ESSB%206346)
+* 03/07/2026 [Washington State Standard](/org/washington_state_standard/) - [WA Senate majority leader draws challenger from the left • Washington State Standard](https://washingtonstatestandard.com/briefs/wa-senates-democratic-majority-leader-draws-challenger-from-the-left/#:~:text=the%20bill%20to%20tax%20household%20income%20over%20$1%20million)
+* 03/07/2026 [The Center Square](/org/the_center_square/) - [Many remain skeptical of WA House’s revised income tax bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5341bfff-355d-45d3-9ac6-70721c889dd1.html#:~:text=Senate%20Bill%206346)
+* 03/06/2026 [Washington State Standard](/org/washington_state_standard/) - [With rewrite, WA income tax on track to approval • Washington State Standard](https://washingtonstatestandard.com/2026/03/06/new-version-of-income-tax-bill-gets-wa-governors-blessing/#:~:text=Senate%20Bill%206346)
+* 03/06/2026 [The Center Square](/org/the_center_square/) - [Passage of income tax bill more likely as Ferguson now says he will sign it | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_79eff6c2-bc35-4683-b53e-cbf143bf5dba.html#:~:text=SB%206346)
 * 03/05/2026 [The Center Square](/org/the_center_square/) - [WATCH: House Democrat on income tax bill: 'Let the people have a voice' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8547d757-3186-40dc-9b75-354eeb7ddbb2.html#:~:text=Senate%20Bill%206346)
 * 03/05/2026 [Washington State Standard](/org/washington_state_standard/) - [Holdout Democrats leave WA House support for income tax in doubt • Washington State Standard](https://washingtonstatestandard.com/2026/03/04/holdout-democrats-leave-wa-house-support-for-income-tax-in-doubt/#:~:text=Senate%20Bill%206346)
 * 03/04/2026 [KUOW](/org/kuow/) - [KUOW - Washington governor: Passage of income tax could slip to 2027](https://www.kuow.org/stories/washington-governor-passage-of-income-tax-could-slip-to-2027#:~:text=tax%20bill)

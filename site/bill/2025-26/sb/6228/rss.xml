@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6228/</link>
 		<description>Updates about SB 6228</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Mar 2026 21:41:07 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 07 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -203,6 +203,27 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Max/Martin/2026-03-03 21:41:07</guid>
+		</item>
+		<item>
+			<title>FIN - Executive action taken by committee.</title>
+			<description>FIN - Executive action taken by committee.</description>
+			<pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-07/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>FIN - Majority; do pass with amendment(s).</title>
+			<description>FIN - Majority; do pass with amendment(s).</description>
+			<pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-07/FIN - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-07/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

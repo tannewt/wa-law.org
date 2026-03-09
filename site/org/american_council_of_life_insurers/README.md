@@ -11,6 +11,9 @@
 * ❓💵 Christine Brewer
 * ❓💵 Christine Brewer
 
+### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes   ❓1
+* ❓ Kris Tefft
+
 ### [HB 2745](/bill/2025-26/hb/2745/) - Insurance premium taxes  👎1 
 * 👎 Kris Tefft
 

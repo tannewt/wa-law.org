@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1634/</link>
 		<description>Updates about HB 1634</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Mar 2026 05:53:53 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Mar 2026 02:32:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -614,6 +614,27 @@
 			<pubDate>Mon, 02 Mar 2026 05:53:53 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=2SHB%201634</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-06/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</description>
+			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-06/Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Week 8: It's the Final Countdown - WSPTA</title>
+			<description>News article "Week 8: It's the Final Countdown - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 09 Mar 2026 02:32:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=E3SHB%201634</guid>
 		</item>
 	</channel>
 </rss>

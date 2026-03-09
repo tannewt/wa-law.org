@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 03/04/2026 [The Center Square](/org/the_center_square/) - [WA Senate clears bill adding oversight to Community Reinvestment Program | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_cf1e65ed-fa79-4877-ac64-ac01a759c840.html#:~:text=House%20Bill%202523)

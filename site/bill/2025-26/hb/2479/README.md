@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 02/14/2026 [House Democrats](/org/house_democrats/) - [House approves Fosse’s Wage Recovery Act to strengthen enforcement and protect workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/house-approves-fosses-wage-recovery-act-to-strengthen-enforcement-and-protect-workers/#:~:text=House%20Bill%202479)

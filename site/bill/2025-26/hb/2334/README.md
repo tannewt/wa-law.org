@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/05/2026 [Axios](/org/axios/) - [Washington lawmakers weigh rounding rule as pennies disappear - Axios Seattle](https://www.axios.com/local/seattle/2026/03/05/washington-penny-shortage-cash-rounding-bill-house-bill-2334-retailers#:~:text=House%20Bill%202334)
 * 02/10/2026 [KUOW](/org/kuow/) - [KUOW - As pennies disappear, Washington must address how retailers make change](https://www.kuow.org/stories/as-pennies-disappear-washington-must-address-how-retailers-make-change#:~:text=the%20House%20bill.)
 * 02/09/2026 [Washington State Standard](/org/washington_state_standard/) - [As pennies disappear, Washington must address how retailers make change • Washington State Standard](https://washingtonstatestandard.com/2026/02/09/as-pennies-disappear-washington-must-address-how-retailers-make-change/#:~:text=the%20House%20bill)
 * 02/09/2026 [MyNorthwest](/org/mynorthwest/) - [No more pennies? WA lawmakers considering rounding all cash transactions - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/pennies-wa-lawmakers/4200664#:~:text=House%20Bill%202334)

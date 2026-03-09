@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/07/2026 [Washington State Standard](/org/washington_state_standard/) - [Last deadline of Washington legislative session kills more bills • Washington State Standard](https://washingtonstatestandard.com/2026/03/07/last-deadline-of-washington-legislative-session-kills-more-bills/#:~:text=House%20Bill%202333)
 * 02/11/2026 [The Washington Observer](/org/the_washington_observer/) - [The legislative deadpool](https://washingtonobserver.substack.com/p/the-legislative-deadpool#:~:text=well-intended%20bill)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202333)
 * 01/09/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: HB 2333 — A Sweeping Expansion of Secrecy and Special Protections for Government Officials - Conservative Ladies of Washington](https://conservativeladiesofwa.com/hb2333-protections-for-wa-officials/#:~:text=HB%202333%20Washington%20State%20Legislature)

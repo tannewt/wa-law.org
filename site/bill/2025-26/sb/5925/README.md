@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/07/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: Patrick Henry said, ‘Give me liberty’; Senate Bill 5925 says ‘Hand over your records’ | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_752b9513-4a1d-457d-80bd-188ff545af2f.html#:~:text=Senate%20Bill%205925)
 * 03/05/2026 [The Center Square](/org/the_center_square/) - [WA House passes amended version of controversial bill expanding AGO powers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3c5c59ab-daeb-4db7-a2c1-d82f9c99e4be.html#:~:text=Senate%20Bill%205925)
 * 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%205925)
 * 02/04/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: The dangers of AG Nick Brown's agency request bills | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_15741b7a-9a99-433d-99dd-912daead2d40.html#:~:text=SB-5925)

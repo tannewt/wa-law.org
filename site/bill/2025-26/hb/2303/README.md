@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/04/2026 [House Democrats](/org/house_democrats/) - [With Senate approval of Thomas’ bill, Washington is one step closer to telling companies, “Don’t chip me, bro!”  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/04/with-senate-approval-of-thomas-bill-washington-is-one-step-closer-to-telling-companies-dont-chip-me-bro/#:~:text=House%20Bill%202303)

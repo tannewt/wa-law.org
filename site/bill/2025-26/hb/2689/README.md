@@ -14,11 +14,17 @@
 ### Mon 03/09 10:00 AM - Ways & Means (WM): SHB 2689 Working connect. child care
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 730 👎 - Con
+Testifying:
+* 💵Erin Haick - SEIU 925
+* Kerra Bower
 
-#### 0 ❓ - Other
+#### 10 ❓ - Other
+Testifying:
+* Zamzam Mohamed - Voices of Tomorrow
+* 💵Katy Warren - Washington State Association of Headstart & ECEAP
 
 ### Thu 02/26 01:30 PM - Appropriations (APP): HB 2689 Working connect. child care
 #### 168 👍 - Pro

@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 03/06/2026 [Senate Democrats](/org/senate_democrats/) - [One week left! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/06/one-week-left/#:~:text=HB%202228)
+
 ## Meetings
 ### Fri 01/16 10:30 AM - Local Government (LG): HB 2228 Scissor stairs
 #### 176 👍 - Pro

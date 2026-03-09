@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/06/2026 [Washington State Standard](/org/washington_state_standard/) - [Automated license plate reader regulations close to becoming WA law • Washington State Standard](https://washingtonstatestandard.com/2026/03/06/automated-license-plate-reader-regulations-close-to-becoming-wa-law/#:~:text=Senate%20Bill%206002)
 * 03/01/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting your privacy from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/01/protecting-your-privacy-from-federal-overreach/#:~:text=SB%206002)
 * 02/24/2026 [MyNorthwest](/org/mynorthwest/) - [Bill to regulate automated license plate readers clears another hurdle](https://mynorthwest.com/mynorthwest-politics/automated-license/4208062#:~:text=Engrossed%20Substitute%20Senate%20Bill%206002)
 * 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%206002)

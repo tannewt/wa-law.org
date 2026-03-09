@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5974/</link>
 		<description>Updates about SB 5974</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 05 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Mar 2026 02:32:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1053,6 +1053,41 @@
 			<pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-05/Committee amendment not adopted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-05/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-05/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 54; nays, 42; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 54; nays, 42; absent, 0; excused, 2.</description>
+			<pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-05/Third reading, passed; yeas, 54; nays, 42; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>WATCH: WA bill that could allow state board to remove elected sheriffs clears House | Washington | thecentersquare.com</title>
+			<description>News article "WATCH: WA bill that could allow state board to remove elected sheriffs clears House | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Fri, 06 Mar 2026 17:51:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_062acf7a-4cb2-49b2-b684-916ae26aa5f2.html#:~:text=Senate%20Bill%205974</guid>
+		</item>
+		<item>
+			<title>Week 8: It's the Final Countdown - WSPTA</title>
+			<description>News article "Week 8: It's the Final Countdown - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 09 Mar 2026 02:32:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=2SSB%205974</guid>
 		</item>
 	</channel>
 </rss>

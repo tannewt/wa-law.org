@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2747/</link>
 		<description>Updates about HB 2747</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 05 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Mar 2026 02:32:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,41 @@
 			<pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-05/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>APP - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-05/APP - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-05/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-05/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-06/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Week 8: It's the Final Countdown - WSPTA</title>
+			<description>News article "Week 8: It's the Final Countdown - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 09 Mar 2026 02:32:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=HB%202747</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 01/13 10:30 AM - Labor & Workplace Standards (LAWS): HB 2107 Construction hazards notice

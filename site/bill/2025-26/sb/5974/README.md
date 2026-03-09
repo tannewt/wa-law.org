@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=2SSB%205974)
+* 03/06/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA bill that could allow state board to remove elected sheriffs clears House | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_062acf7a-4cb2-49b2-b684-916ae26aa5f2.html#:~:text=Senate%20Bill%205974)
 * 02/26/2026 [KUOW](/org/kuow/) - [KUOW - Controversial bill spelling out removal for decertified sheriffs advances in Washington legislature](https://www.kuow.org/stories/controversial-bill-spelling-out-removal-for-decertified-sheriffs-advances-in-washington-legislature#:~:text=SB%205974)
 * 02/23/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Tanksley: Bill for new requirements on sheriffs, chiefs undermines local control | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/23/tanksley-bill-for-new-requirements-on-sheriffs-chiefs-undermines-local-control/#:~:text=2SSB%205974)
 * 02/23/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA bill allowing state to remove elected sheriffs faces another contentious hearing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ee5e3d6c-871d-4fe4-89e7-52fe5ee0d983.html#:~:text=Senate%20Bill%205974)

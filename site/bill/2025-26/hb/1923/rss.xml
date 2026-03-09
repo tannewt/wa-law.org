@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1923/</link>
 		<description>Updates about HB 1923</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 05 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 08 Mar 2026 16:14:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1051,6 +1051,34 @@
 			<pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-05/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Committee amendment(s) adopted as amended.</title>
+			<description>Committee amendment(s) adopted as amended.</description>
+			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-06/Committee amendment(s) adopted as amended.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-06/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 45; nays, 3; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 45; nays, 3; absent, 0; excused, 1.</description>
+			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-06/Third reading, passed; yeas, 45; nays, 3; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Mosquito Fleet Act Runs Into Choppy Seas in the State Senate » The Urbanist</title>
+			<description>News article "Mosquito Fleet Act Runs Into Choppy Seas in the State Senate » The Urbanist" from The Urbanist.</description>
+			<pubDate>Sun, 08 Mar 2026 16:14:33 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2026/03/08/mosquito-fleet-act-runs-into-choppy-seas-in-the-state-senate/#:~:text=House%20Bill%201923</guid>
 		</item>
 	</channel>
 </rss>

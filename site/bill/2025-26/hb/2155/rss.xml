@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2155/</link>
 		<description>Updates about HB 2155</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Mar 2026 20:52:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -164,6 +164,13 @@
 			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-03/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>One week left! - Sen. Jessica Bateman</title>
+			<description>News article "One week left! - Sen. Jessica Bateman" from Senate Democrats.</description>
+			<pubDate>Fri, 06 Mar 2026 20:52:34 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/03/06/one-week-left/#:~:text=HB%202155</guid>
 		</item>
 	</channel>
 </rss>

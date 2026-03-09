@@ -53,7 +53,7 @@
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 
-### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care   ❓1
+### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care   ❓2
 
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍2  
 

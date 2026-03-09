@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Law & Justice (LAW): SHB 2248 Corporate filings

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): SHB 2088 Dietitian licensure compact

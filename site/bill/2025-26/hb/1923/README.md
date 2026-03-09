@@ -10,6 +10,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/08/2026 [The Urbanist](/org/the_urbanist/) - [Mosquito Fleet Act Runs Into Choppy Seas in the State Senate » The Urbanist](https://www.theurbanist.org/2026/03/08/mosquito-fleet-act-runs-into-choppy-seas-in-the-state-senate/#:~:text=House%20Bill%201923)
 * 02/16/2026 [The Urbanist](/org/the_urbanist/) - [Mosquito Fleet Act Seeks to Throw Ferry-Oriented Communities a Lifeline » The Urbanist](https://www.theurbanist.org/2026/02/16/mosquito-fleet-act-seeks-to-throw-ferry-oriented-communities-a-lifeline/#:~:text=House%20Bill%201923)
 * 04/04/2025 [House Democrats](/org/house_democrats/) - [House Transportation Budget includes $1.9B in ferry funding and Kitsap infrastructure wins – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/04/house-transportation-budget-includes-1-9b-in-ferry-funding-and-kitsap-infrastructure-wins/#:~:text=Mosquito%20Fleet%20Act%20(HB%201923))
 * 03/10/2025 [The Urbanist](/org/the_urbanist/) - [Washington House Passes Mosquito Fleet Act, Queuing Potential Foot Ferry Expansion - The Urbanist](https://www.theurbanist.org/2025/03/10/washington-house-passes-mosquito-fleet-act-foot-ferry/#:~:text=House%20Bill%201923)

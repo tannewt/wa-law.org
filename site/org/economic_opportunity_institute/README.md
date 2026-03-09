@@ -83,7 +83,8 @@
 
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍2  
 
-### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes 👍2  
+### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes 👍3  
+* 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 

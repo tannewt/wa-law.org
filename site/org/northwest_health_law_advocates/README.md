@@ -86,7 +86,7 @@
 
 ### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍2  
 
-### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes 👍2  
+### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes 👍3  
 * 👍💵 Emily Brice
 
 ### [HB 2490](/bill/2025-26/hb/2490/) - Ex. medical placement 👍1  

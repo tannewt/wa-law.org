@@ -15,16 +15,24 @@
 ### Mon 03/09 10:00 AM - Ways & Means (WM): HB 2487 Insurer taxes
 Sign up to testify:
 
-#### 89 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * Jim Freeburg - Patient Coalition of Washington
 * 💵Mia Shigemura - Washington State Budget and Policy Center
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Steve Ewing - Department of Revenue
 
-#### 0 👎 - Con
+#### 739 👎 - Con
+Testifying:
+* Chris Bandoli - America's Health Insurance Plans
+* 💵David Foster - Assoc of WA Healthcare Plans (AWHP)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jean Leonard - WA Insurers
+* Kris Tefft - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
 
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2487 Insurer taxes
 #### 55 👍 - Pro

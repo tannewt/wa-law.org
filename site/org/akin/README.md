@@ -32,6 +32,8 @@
 ### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders   ❓1
 * ❓ Dr. Daniele Lyman-Torres
 
+### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care   ❓1
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
