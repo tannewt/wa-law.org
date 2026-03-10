@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/09/2026 [The Center Square](/org/the_center_square/) - [WATCH: GOP senator says provoking remark was 'intentional' to highlight safety concerns | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f18e485c-2d54-4535-9d89-8512076b11c5.html#:~:text=Substitute%20House%20Bill%201390)
 * 03/05/2026 [Washington State Standard](/org/washington_state_standard/) - [WA senator refuses to apologize for inflammatory remark • Washington State Standard](https://washingtonstatestandard.com/2026/03/05/wa-senator-refuses-to-apologize-for-inflammatory-remark/#:~:text=House%20Bill%201390)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201390)
 

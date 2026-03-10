@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 02/24/2026 [The Urbanist](/org/the_urbanist/) - [State Senate Signs Onto Billions of New Debt for Highway Upkeep » The Urbanist](https://www.theurbanist.org/2026/02/24/state-senate-signs-onto-billions-of-new-debt-for-highway-upkeep/#:~:text=bill%20authorizing%20the%20new%20bonds)
+* 02/24/2026 [The Urbanist](/org/the_urbanist/) - [State Senate Signs Onto Billions of New Debt for Highway Upkeep » The Urbanist](https://www.theurbanist.org/state-senate-signs-onto-billions-of-new-debt-for-highway-upkeep/#:~:text=bill%20authorizing%20the%20new%20bonds)
 * 02/23/2026 [Senate Democrats](/org/senate_democrats/) - [Senate unveils bipartisan supplemental transportation budget prioritizing preservation and maintenance, job creation - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/23/senate-unveils-bipartisan-supplemental-transportation-budget-prioritizing-preservation-and-maintenance-job-creation/#:~:text=SB%206225)
 
 ## Meetings

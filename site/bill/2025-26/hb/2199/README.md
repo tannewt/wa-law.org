@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 03/09/2026 [KING5](/org/king5/) - [Ferguson signs new laws on housing, healthcare | king5.com](https://www.king5.com/article/news/politics/state-politics/new-washington-laws-housing-healthcare/281-53aceb02-b644-43f9-bd36-bfd741cee887#:~:text=Substitute%20House%20Bill%20No.%202199)
+
 ## Meetings
 ### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 2199 Derelict vessels
 #### 199 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2745/</link>
 		<description>Updates about HB 2745</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 28 Feb 2026 17:07:23 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Mar 2026 11:00:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -78,6 +78,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Katie/Kolan/2026-02-28 17:07:23</guid>
+		</item>
+		<item>
+			<title>Fee on health insurers to fund abortion services debated in WA Legislature • Washington State Standard</title>
+			<description>News article "Fee on health insurers to fund abortion services debated in WA Legislature • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Mon, 09 Mar 2026 11:00:38 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/03/09/fee-on-health-insurers-to-fund-abortion-services-debated-in-wa-legislature/#:~:text=insurance%20premium%20tax</guid>
 		</item>
 	</channel>
 </rss>

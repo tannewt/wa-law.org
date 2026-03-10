@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5874 Unemployment info. reporting

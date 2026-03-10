@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/09/2026 [KING5](/org/king5/) - [Ferguson signs new laws on housing, healthcare | king5.com](https://www.king5.com/article/news/politics/state-politics/new-washington-laws-housing-healthcare/281-53aceb02-b644-43f9-bd36-bfd741cee887#:~:text=House%20Bill%20No.%202155)
 * 03/06/2026 [Senate Democrats](/org/senate_democrats/) - [One week left! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/06/one-week-left/#:~:text=HB%202155)
 * 02/11/2026 [House Democrats](/org/house_democrats/) - [House passes Obras’ bill protecting nursing titles from AI technology – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/11/house-passes-obras-bill-protecting-nursing-titles-from-ai-technology/#:~:text=HB%202155)
 

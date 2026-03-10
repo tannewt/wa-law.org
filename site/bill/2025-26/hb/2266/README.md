@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/04/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: House Bill 2266: Stupid greed or false philanthropy? | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_9c36d4bd-962e-4e94-8f60-5bb7e3d563a2.html#:~:text=House%20Bill%202266)

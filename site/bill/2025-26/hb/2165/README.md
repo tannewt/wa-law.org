@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/04/2026 [Washington State Standard](/org/washington_state_standard/) - [Ban on police face coverings in WA nears final passage in Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/03/ban-on-police-face-coverings-in-wa-nears-final-passage-in-legislature/#:~:text=make%20it%20a%20gross%20misdemeanor%20to%20falsely%20identify%20as%20a%20police%20officer)

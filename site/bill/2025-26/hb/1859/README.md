@@ -10,6 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/09/2026 [KING5](/org/king5/) - [Ferguson signs new laws on housing, healthcare | king5.com](https://www.king5.com/article/news/politics/state-politics/new-washington-laws-housing-healthcare/281-53aceb02-b644-43f9-bd36-bfd741cee887#:~:text=Second%20Substitute%20House%20Bill%20No.%201859)
 * 03/03/2026 [House Democrats](/org/house_democrats/) - [Building Homes, Protecting Communities: Senate Passes Salahuddin Bills – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/03/building-homes-protecting-communities-senate-passes-salahuddin-bills/#:~:text=HB%201859)
 * 02/21/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes the Senate! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/20/millionaires-tax-passes-the-senate/#:~:text=HB%201859)
 * 02/14/2026 [House Democrats](/org/house_democrats/) - [House Passes Salahuddin Bill to Unlock Affordable Housing on Religious Properties – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/house-passes-salahuddin-bill-to-unlock-affordable-housing-on-religious-properties/#:~:text=HB%201859)

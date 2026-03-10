@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/09/2026 [Washington State Standard](/org/washington_state_standard/) - [Fee on health insurers to fund abortion services debated in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/09/fee-on-health-insurers-to-fund-abortion-services-debated-in-wa-legislature/#:~:text=nonprofit%20health%20carriers)
 * 02/27/2026 [Senate Democrats](/org/senate_democrats/) - [Where the budget stands — and what comes next - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/27/where-the-budget-stands-and-what-comes-next/#:~:text=SB%205808)
 
 ## Meetings

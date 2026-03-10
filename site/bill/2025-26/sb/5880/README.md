@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/10/2026 [The Urbanist](/org/the_urbanist/) - [Seattle City Attorney Says ‘Tough-on-Crime’ Predecessor Left Big Case Backlog](https://www.theurbanist.org/seattle-city-attorney-says-tough-on-crime-predecessor-left-big-case-backlog/#:~:text=SB%205880)
 * 02/21/2026 [PubliCola](/org/publicola/) - [Mayor Katie Wilson: "If We Turned Off the Cameras, It Would Become More Difficult to Solve Many Crimes" - PubliCola](https://publicola.com/2026/02/20/mayor-katie-wilson-if-we-turned-off-the-cameras-it-would-become-more-difficult-to-solve-many-crimes/#:~:text=from%20the%20Seattle%20Police%20Department)
 * 02/19/2026 [MyNorthwest](/org/mynorthwest/) - [Senate-passed bill to expand DUI testing clears first hurdle in House - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/bill-dui-testing/4205188#:~:text=Senate%20Bill%205880)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=SB%205880)

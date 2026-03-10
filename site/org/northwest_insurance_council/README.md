@@ -17,6 +17,8 @@
 
 ### [HB 2399](/bill/2025-26/hb/2399/) - Prop. insurance assignments 👍1  
 
+### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes   ❓1
+
 ### [SB 5108](/bill/2025-26/sb/5108/) - Regulating service contracts and protection product guarantees. 👍1  
 
 ### [SB 5262](/bill/2025-26/sb/5262/) - Insurance statutes 👍1  

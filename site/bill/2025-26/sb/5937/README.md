@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/04/2026 [The Washington Observer](/org/the_washington_observer/) - [Local governments quietly grumble over a voting rights win](https://washingtonobserver.substack.com/p/local-governments-quietly-grumble#:~:text=Senate%20Bill%205937)

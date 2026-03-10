@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1687/</link>
 		<description>Updates about HB 1687</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Mar 2026 15:45:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -251,6 +251,13 @@
 			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-03/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Ferguson signs new laws on housing, healthcare | king5.com</title>
+			<description>News article "Ferguson signs new laws on housing, healthcare | king5.com" from KING5.</description>
+			<pubDate>Mon, 09 Mar 2026 15:45:22 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/politics/state-politics/new-washington-laws-housing-healthcare/281-53aceb02-b644-43f9-bd36-bfd741cee887#:~:text=Engrossed%20House%20Bill%20No.%201687</guid>
 		</item>
 	</channel>
 </rss>

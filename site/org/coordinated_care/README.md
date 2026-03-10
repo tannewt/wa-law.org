@@ -73,6 +73,8 @@
 
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
 
+### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes  👎2 
+
 ### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax  👎1 
 
 ### [HB 2745](/bill/2025-26/hb/2745/) - Insurance premium taxes  👎1 

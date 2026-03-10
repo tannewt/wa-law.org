@@ -8,11 +8,9 @@
 
 ## Meetings
 ### Mon 03/09 10:00 AM - Ways & Means (WM): EHB 2681 Cannabis license fees
-Sign up to testify:
+#### 26 👍 - Pro
 
-#### 25 👍 - Pro
-
-#### 498 👎 - Con
+#### 573 👎 - Con
 
 #### 4 ❓ - Other
 

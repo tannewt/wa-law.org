@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2274/</link>
 		<description>Updates about HB 2274</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -220,6 +220,13 @@
 			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-06/Third reading, passed; yeas, 43; nays, 5; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/President signed.</guid>
 		</item>
 	</channel>
 </rss>

@@ -54,7 +54,7 @@
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 
-### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care   ❓1
+### [HB 2689](/bill/2025-26/hb/2689/) - Working connect. child care   ❓2
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 

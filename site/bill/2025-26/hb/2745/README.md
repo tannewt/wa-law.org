@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/09/2026 [Washington State Standard](/org/washington_state_standard/) - [Fee on health insurers to fund abortion services debated in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/09/fee-on-health-insurers-to-fund-abortion-services-debated-in-wa-legislature/#:~:text=insurance%20premium%20tax)
+
 ## Meetings
 ### Mon 03/02 08:00 AM - Finance (FIN): HB 2745 Insurance premium taxes
 #### 9 👍 - Pro

@@ -6,8 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/10/2026 [Axios](/org/axios/) - [Washington Legislature passes police face mask ban aimed at ICE agents - Axios Seattle](https://www.axios.com/local/seattle/2026/03/10/washington-police-face-mask-ban-ice-agents-sb5855-bob-ferguson-signature#:~:text=Senate%20Bill%205855)
+* 03/09/2026 [Senate Democrats](/org/senate_democrats/) - [Valdez bill banning face-concealing masks for law enforcement heads to governor’s desk - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/03/09/valdez-bill-banning-face-concealing-masks-for-law-enforcement-heads-to-governors-desk/#:~:text=Senate%20Bill%205855)
+* 03/09/2026 [Senate Democrats](/org/senate_democrats/) - [Valdez bill banning face-concealing masks for law enforcement heads to governor’s desk - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/03/09/valdez-bill-banning-face-concealing-masks-for-law-enforcement-heads-to-governors-desk/#:~:text=Senate%20Bill%205855)
 * 03/05/2026 [KUOW](/org/kuow/) - [KUOW - Bill barring law enforcement from wearing masks inches closer to becoming Washington law](https://www.kuow.org/stories/bill-barring-law-enforcement-from-wearing-masks-inches-closer-to-becoming-washington-law#:~:text=Senate%20Bill%205855)
 * 02/25/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative update: Three-quarters through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/25/legislative-update-three-quarters-through-session/#:~:text=Senate%20Bill%205855)
 * 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=SSB%205855)

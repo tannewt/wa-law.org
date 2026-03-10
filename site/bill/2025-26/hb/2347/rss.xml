@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2347/</link>
 		<description>Updates about HB 2347</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 13:07:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -307,6 +307,20 @@
 			<pubDate>Mon, 02 Feb 2026 13:07:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_04c4d49f-e7a8-4947-9d14-b9eb2b9a97df.html#:~:text=HB%202347</guid>
+		</item>
+		<item>
+			<title>TR - Executive action taken by committee.</title>
+			<description>TR - Executive action taken by committee.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/TR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>TR - Majority; do pass.</title>
+			<description>TR - Majority; do pass.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/TR - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

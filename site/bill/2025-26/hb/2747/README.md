@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Mon 03/09 10:00 AM - Ways & Means (WM): HB 2747 Budget sustainability
-Sign up to testify:
-
 #### 74 👍 - Pro
 
 #### 549 👎 - Con

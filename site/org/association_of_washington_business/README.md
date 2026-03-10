@@ -561,8 +561,9 @@
 ### [HB 2483](/bill/2025-26/hb/2483/) - Data broker registry  👎1 
 * 👎 Max Martin
 
-### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes  👎1 
+### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes  👎2 
 * 👎 Max Martin
+* 👎💵 Emily Wittman
 
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation  👎1 
 * 👎💵 Peter Godlewski

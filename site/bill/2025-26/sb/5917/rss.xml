@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5917/</link>
 		<description>Updates about SB 5917</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Mar 2026 20:52:34 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -348,6 +348,13 @@
 			<pubDate>Fri, 06 Mar 2026 20:52:34 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/03/06/one-week-left/#:~:text=SB%205917</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

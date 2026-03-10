@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Second Engrossed Substitute](S.E2/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/05/2026 [Senate Democrats](/org/senate_democrats/) - [Budget investments for flood recovery; bill update before session ends - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/04/budget-investments-for-flood-recovery-bill-update-before-session-ends/#:~:text=Senate%20Bill%205105)

@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 02/27/2026 [The Urbanist](/org/the_urbanist/) - [Legislation Targeting Ground-Floor Storefronts Gets Overhauled in House » The Urbanist](https://www.theurbanist.org/2026/02/27/legislation-targeting-ground-floor-storefronts-gets-overhauled-in-house/#:~:text=SB%206026)
+* 02/27/2026 [The Urbanist](/org/the_urbanist/) - [Legislation Targeting Ground-Floor Storefronts Gets Overhauled in House » The Urbanist](https://www.theurbanist.org/legislation-targeting-ground-floor-storefronts-gets-overhauled-in-house/#:~:text=SB%206026)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [What we’re doing on affordability - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/20/what-were-doing-on-affordability/#:~:text=Senate%20Bill%206026)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Funding schools by taxing millionaires - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/06/funding-schools-by-taxing-millionaires/#:~:text=SB%206026)
 * 02/02/2026 [The Urbanist](/org/the_urbanist/) - [Bill Curbing Mandates for Ground-Floor Retail Spaces Advances at Legislature » The Urbanist](https://www.theurbanist.org/2026/02/02/bill-curbing-mandates-for-ground-floor-retail-spaces-advances-at-legislature/#:~:text=Senate%20Bill%206026)

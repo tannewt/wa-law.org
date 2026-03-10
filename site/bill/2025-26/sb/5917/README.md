@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/06/2026 [Senate Democrats](/org/senate_democrats/) - [One week left! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/06/one-week-left/#:~:text=SB%205917)

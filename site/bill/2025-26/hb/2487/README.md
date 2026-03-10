@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Mon 03/09 10:00 AM - Ways & Means (WM): HB 2487 Insurer taxes
-Sign up to testify:
-
-#### 115 👍 - Pro
+#### 119 👍 - Pro
 Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
@@ -24,12 +22,13 @@ Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Steve Ewing - Department of Revenue
 
-#### 739 👎 - Con
+#### 825 👎 - Con
 Testifying:
 * Chris Bandoli - America's Health Insurance Plans
 * 💵David Foster - Assoc of WA Healthcare Plans (AWHP)
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Jean Leonard - WA Insurers
 * Kris Tefft - [American Council of Life Insurers](/org/american_council_of_life_insurers/)

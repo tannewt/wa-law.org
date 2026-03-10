@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 01/26 01:30 PM - Environment & Energy (ENVI): HB 2496 EFSEC tribal consultation

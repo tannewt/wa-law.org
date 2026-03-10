@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5880/</link>
 		<description>Updates about SB 5880</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Mar 2026 01:53:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -320,6 +320,27 @@
 			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-06/Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate concurred in House amendments.</title>
+			<description>Senate concurred in House amendments.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/Senate concurred in House amendments.</guid>
+		</item>
+		<item>
+			<title>Seattle City Attorney Says ‘Tough-on-Crime’ Predecessor Left Big Case Backlog</title>
+			<description>News article "Seattle City Attorney Says ‘Tough-on-Crime’ Predecessor Left Big Case Backlog" from The Urbanist.</description>
+			<pubDate>Tue, 10 Mar 2026 01:53:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/seattle-city-attorney-says-tough-on-crime-predecessor-left-big-case-backlog/#:~:text=SB%205880</guid>
 		</item>
 	</channel>
 </rss>

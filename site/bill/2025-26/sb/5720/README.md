@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 5720 Uniform debt default act

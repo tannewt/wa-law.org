@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): SSB 5923 Hospitals in Skagit county

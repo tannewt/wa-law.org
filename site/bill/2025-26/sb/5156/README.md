@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/17/2026 [The Urbanist](/org/the_urbanist/) - [Washington’s Elevator Reform Bill Rises Again » The Urbanist](https://www.theurbanist.org/2026/02/17/washington-elevator-reform-bill-rises-again/#:~:text=SB%205156)
