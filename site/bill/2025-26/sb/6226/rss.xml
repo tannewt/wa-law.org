@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6226/</link>
 		<description>Updates about SB 6226</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -239,6 +239,20 @@
 			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-03/Third reading, passed; yeas, 90; nays, 3; absent, 0; excused, 5.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-10/Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate concurred in House amendments.</title>
+			<description>Senate concurred in House amendments.</description>
+			<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-10/Senate concurred in House amendments.</guid>
 		</item>
 	</channel>
 </rss>

@@ -275,11 +275,39 @@
 			<guid isPermaLink="false">testifier/John/Flanagan/2026-03-04 21:23:22</guid>
 		</item>
 		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
 			<title>TR - Executive action taken by committee.</title>
 			<description>TR - Executive action taken by committee.</description>
 			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-09/TR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>TR - Majority; do pass with amendment(s).</title>
+			<description>TR - Majority; do pass with amendment(s).</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/TR - Majority; do pass with amendment(s).</guid>
 		</item>
 	</channel>
 </rss>

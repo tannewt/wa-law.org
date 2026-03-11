@@ -9,6 +9,12 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/11/2026 [Washington State Standard](/org/washington_state_standard/) - [After marathon debate, WA House advances income tax • Washington State Standard](https://washingtonstatestandard.com/2026/03/10/with-marathon-debate-and-heated-vote-wa-house-advances-income-tax/#:~:text=Senate%20Bill%206346)
+* 03/11/2026 [Axios](/org/axios/) - [Washington $1M income tax nears final passage after marathon debate - Axios Seattle](https://www.axios.com/local/seattle/2026/03/11/washington-income-tax-millionaires-clears-house#:~:text=Senate%20Bill%206346)
+* 03/10/2026 [The Center Square](/org/the_center_square/) - [WA House passes income tax after 24-hour debate | Economy | thecentersquare.com](https://www.thecentersquare.com/issues/economy/article_e40cf853-9714-40b5-bf11-d341afeae895.html#:~:text=Senate%20Bill%206346)
+* 03/10/2026 [The Center Square](/org/the_center_square/) - [WATCH: Marathon income tax debate continues on WA House floor | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5e1f0edf-a281-4e5b-902a-363276c610f2.html#:~:text=Senate%20Bill%206346)
+* 03/10/2026 [KING5](/org/king5/) - [House approves 'millionaires tax,' bill heads to Senate for confirmation | king5.com](https://www.king5.com/article/news/politics/state-politics/house-approves-millionaires-income-tax/281-76a786a7-8454-475d-bd1b-3e173b33d560#:~:text=income%20tax%20bill)
+* 03/10/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA House pulls an all-nighter as income tax debate continues | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9878c2e5-8283-4907-b31c-c52f9c9dfc66.html#:~:text=Senate%20Bill%206346)
 * 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=ESSB%206346)
 * 03/07/2026 [Washington State Standard](/org/washington_state_standard/) - [WA Senate majority leader draws challenger from the left • Washington State Standard](https://washingtonstatestandard.com/briefs/wa-senates-democratic-majority-leader-draws-challenger-from-the-left/#:~:text=the%20bill%20to%20tax%20household%20income%20over%20$1%20million)
 * 03/07/2026 [The Center Square](/org/the_center_square/) - [Many remain skeptical of WA House’s revised income tax bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5341bfff-355d-45d3-9ac6-70721c889dd1.html#:~:text=Senate%20Bill%206346)

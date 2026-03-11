@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2508/</link>
 		<description>Updates about HB 2508</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Mar 2026 11:53:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -269,6 +269,13 @@
 			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-06/President signed.</guid>
+		</item>
+		<item>
+			<title>WA Legislature enacts bill expanding scope of Office of Independent Investigation | Washington | thecentersquare.com</title>
+			<description>News article "WA Legislature enacts bill expanding scope of Office of Independent Investigation | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Tue, 10 Mar 2026 11:53:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_a4280b08-e5e9-4de4-801d-cfb19bce8154.html#:~:text=House%20Bill%202508</guid>
 		</item>
 	</channel>
 </rss>

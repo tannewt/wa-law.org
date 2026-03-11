@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 02/27/2026 [The Urbanist](/org/the_urbanist/) - [Legislation Targeting Ground-Floor Storefronts Gets Overhauled in House » The Urbanist](https://www.theurbanist.org/2026/02/27/legislation-targeting-ground-floor-storefronts-gets-overhauled-in-house/#:~:text=SB%206026)

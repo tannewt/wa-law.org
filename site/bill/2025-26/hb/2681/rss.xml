@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2681/</link>
 		<description>Updates about HB 2681</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -117,6 +117,27 @@
 			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-03/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-10/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-10/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass.</title>
+			<description>WM - Majority; do pass.</description>
+			<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-10/WM - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

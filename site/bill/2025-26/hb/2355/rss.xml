@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2355/</link>
 		<description>Updates about HB 2355</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Mar 2026 15:45:22 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Mar 2026 17:40:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -328,11 +328,46 @@
 			<guid isPermaLink="false">2026-03-03/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 15, 2026 Laws.</title>
+			<description>Chapter 15, 2026 Laws.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/Chapter 15, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 7/1/2027.</title>
+			<description>Effective date 7/1/2027.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/Effective date 7/1/2027.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-09/Governor signed.</guid>
+		</item>
+		<item>
 			<title>Ferguson signs new laws on housing, healthcare | king5.com</title>
 			<description>News article "Ferguson signs new laws on housing, healthcare | king5.com" from KING5.</description>
 			<pubDate>Mon, 09 Mar 2026 15:45:22 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.king5.com/article/news/politics/state-politics/new-washington-laws-housing-healthcare/281-53aceb02-b644-43f9-bd36-bfd741cee887#:~:text=Substitute%20House%20Bill%20No.%202355</guid>
+		</item>
+		<item>
+			<title>Nannies, housekeepers and other domestic workers to gain state protections in WA • Washington State Standard</title>
+			<description>News article "Nannies, housekeepers and other domestic workers to gain state protections in WA • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 10 Mar 2026 00:04:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/nannies-housekeepers-and-other-domestic-workers-to-gain-state-protections-in-wa/#:~:text=House%20Bill%202355</guid>
+		</item>
+		<item>
+			<title>Domestic Workers Bill of Rights Signed into Law  - Sen. Rebecca Saldaña</title>
+			<description>News article "Domestic Workers Bill of Rights Signed into Law  - Sen. Rebecca Saldaña" from Senate Democrats.</description>
+			<pubDate>Tue, 10 Mar 2026 17:40:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2026/03/10/domestic-workers-bill-of-rights-signed-into-law/#:~:text=House%20Bill%202355</guid>
 		</item>
 	</channel>
 </rss>

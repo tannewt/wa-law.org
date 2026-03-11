@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2333/</link>
 		<description>Updates about HB 2333</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 07 Mar 2026 12:00:09 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -610,6 +610,13 @@
 			<pubDate>Sat, 07 Mar 2026 12:00:09 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/03/07/last-deadline-of-washington-legislative-session-kills-more-bills/#:~:text=House%20Bill%202333</guid>
+		</item>
+		<item>
+			<title>Senate Rules "X" file.</title>
+			<description>Senate Rules "X" file.</description>
+			<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-10/Senate Rules "X" file.</guid>
 		</item>
 	</channel>
 </rss>

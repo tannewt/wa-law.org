@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 03/05/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: Drug pricing bill benefits affluent areas rather than those in need | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_078e99c1-2850-49ab-aacb-657ff159eb85.html#:~:text=Senate%20Bill%205981)

@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 03/10/2026 [The Center Square](/org/the_center_square/) - [WA Legislature enacts bill expanding scope of Office of Independent Investigation | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a4280b08-e5e9-4de4-801d-cfb19bce8154.html#:~:text=House%20Bill%202508)
+
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): ESHB 2508 Office of independent inves.
 #### 7 👍 - Pro

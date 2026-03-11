@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/04/2026 [The Urbanist](/org/the_urbanist/) - [Olympia Seeks to Boost Sound Transit with Long Overdue Permit Reforms » The Urbanist](https://www.theurbanist.org/2026/02/04/olympia-seeks-to-boost-sound-transit-with-long-overdue-permit-reforms/#:~:text=Senate%20Bill%206309)

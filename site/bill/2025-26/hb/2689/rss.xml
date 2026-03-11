@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2689/</link>
 		<description>Updates about HB 2689</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 08 Mar 2026 19:11:52 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -179,6 +179,27 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kerra/Bower/2026-03-08 19:11:52</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-10/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-10/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass with amendment(s).</title>
+			<description>WM - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-10/WM - Majority; do pass with amendment(s).</guid>
 		</item>
 	</channel>
 </rss>

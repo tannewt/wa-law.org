@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February legislative update - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/02/19/february-legislative-update/#:~:text=5845)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/06/2026 [Washington State Standard](/org/washington_state_standard/) - [Automated license plate reader regulations close to becoming WA law • Washington State Standard](https://washingtonstatestandard.com/2026/03/06/automated-license-plate-reader-regulations-close-to-becoming-wa-law/#:~:text=Senate%20Bill%206002)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2325/</link>
 		<description>Updates about HB 2325</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -291,6 +291,27 @@
 			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-03/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-10/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-10/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 43; nays, 5; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 43; nays, 5; absent, 0; excused, 1.</description>
+			<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-10/Third reading, passed; yeas, 43; nays, 5; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>
