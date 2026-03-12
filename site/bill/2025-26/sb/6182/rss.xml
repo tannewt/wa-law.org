@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6182/</link>
 		<description>Updates about SB 6182</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Mar 2026 11:00:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -559,6 +559,20 @@
 			<pubDate>Mon, 09 Mar 2026 11:00:38 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/03/09/fee-on-health-insurers-to-fund-abortion-services-debated-in-wa-legislature/#:~:text=Senate%20Bill%206182</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 57; nays, 36; absent, 0; excused, 5.</title>
+			<description>Third reading, passed; yeas, 57; nays, 36; absent, 0; excused, 5.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/Third reading, passed; yeas, 57; nays, 36; absent, 0; excused, 5.</guid>
 		</item>
 	</channel>
 </rss>

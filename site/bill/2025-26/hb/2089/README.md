@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Rollback of mortgage lender tax break eyed to help replenish WA wildfire account • Washington State Standard](https://washingtonstatestandard.com/2026/02/19/rollback-of-mortgage-lender-tax-break-eyed-to-help-replenish-wa-wildfire-account/#:~:text=House%20Bill%202089)

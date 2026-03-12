@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/12/2026 [The Center Square](/org/the_center_square/) - [State lawmakers save Spokane taxpayers $15M with glide path to climate mandate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d723c7a9-c98b-4960-88f0-6d4419550809.html#:~:text=10-year)
 * 02/16/2025 [The Spokesman-Review](/org/the_spokesman-review/) - [Is burning trash worth the cash? Spokane to use $650,000 in grant funds to study incinerator as state cracks down on emissions](https://www.spokesman.com/stories/2025/feb/16/is-burning-trash-worth-the-cash-spokane-to-use-650/#:~:text=exemption%20bill)
 
 ## Meetings

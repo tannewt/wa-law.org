@@ -7,11 +7,17 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/12/2026 [The Center Square](/org/the_center_square/) - [Downtown Seattle Association head says city taxes are causing job losses | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_18edc042-5af0-4af3-9a35-ae0155740877.html#:~:text=Senate%20Bill%206346)
+* 03/11/2026 [The Center Square](/org/the_center_square/) - [WA Senate Republicans unable to stop income tax bill now headed to governor's desk | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5a9b0261-1976-468d-a8f7-691ffadd0855.html#:~:text=Senate%20Bill%206346)
+* 03/11/2026 [KING5](/org/king5/) - ['Millionaires tax' receives Senate confirmation, heads to governor's desk | king5.com](https://www.king5.com/article/news/politics/state-politics/millionaires-tax-receives-senate-confirmation-heads-to-governors-desk/281-c778a559-0d46-4dd5-a95a-f7fd763215ec#:~:text=income%20tax%20bill)
+* 03/11/2026 [The Center Square](/org/the_center_square/) - [WATCH: Business leaders fear mass exodus following House income tax vote | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2dfec4c8-994c-4f91-afb9-3ea0c7715adf.html#:~:text=Senate%20Bill%206346)
 * 03/11/2026 [Washington State Standard](/org/washington_state_standard/) - [After marathon debate, WA House advances income tax • Washington State Standard](https://washingtonstatestandard.com/2026/03/10/with-marathon-debate-and-heated-vote-wa-house-advances-income-tax/#:~:text=Senate%20Bill%206346)
 * 03/11/2026 [Axios](/org/axios/) - [Washington $1M income tax nears final passage after marathon debate - Axios Seattle](https://www.axios.com/local/seattle/2026/03/11/washington-income-tax-millionaires-clears-house#:~:text=Senate%20Bill%206346)
 * 03/10/2026 [The Center Square](/org/the_center_square/) - [WA House passes income tax after 24-hour debate | Economy | thecentersquare.com](https://www.thecentersquare.com/issues/economy/article_e40cf853-9714-40b5-bf11-d341afeae895.html#:~:text=Senate%20Bill%206346)
+* 03/10/2026 [The Center Square](/org/the_center_square/) - [WA House passes income tax after 24-hour debate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e40cf853-9714-40b5-bf11-d341afeae895.html#:~:text=Senate%20Bill%206346)
 * 03/10/2026 [The Center Square](/org/the_center_square/) - [WATCH: Marathon income tax debate continues on WA House floor | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5e1f0edf-a281-4e5b-902a-363276c610f2.html#:~:text=Senate%20Bill%206346)
 * 03/10/2026 [KING5](/org/king5/) - [House approves 'millionaires tax,' bill heads to Senate for confirmation | king5.com](https://www.king5.com/article/news/politics/state-politics/house-approves-millionaires-income-tax/281-76a786a7-8454-475d-bd1b-3e173b33d560#:~:text=income%20tax%20bill)
 * 03/10/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA House pulls an all-nighter as income tax debate continues | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9878c2e5-8283-4907-b31c-c52f9c9dfc66.html#:~:text=Senate%20Bill%206346)

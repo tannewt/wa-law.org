@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/11/2026 [The Center Square](/org/the_center_square/) - [Spokane Valley to challenge state parking mandates with $100K study | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f5dfaf6f-203f-422d-9ee5-7a3cc5fdd6b0.html#:~:text=Senate%20Bill%205184)
 * 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=SB%205184)
 * 08/07/2025 [PubliCola](/org/publicola/) - [Council Amendments to Comprehensive Plan Reveal Competing Priorities - PubliCola](https://publicola.com/2025/08/07/council-amendments-to-comprehensive-plan-show-competing-priorities/#:~:text=parking%20reform%20bill)
 * 06/24/2025 [The Urbanist](/org/the_urbanist/) - [Repeal Referendum Campaign Targets State Parking Reform, Transit-Oriented Housing Law » The Urbanist](https://www.theurbanist.org/2025/06/24/referendum-campaign-targets-state-parking-reform-tod-bill/#:~:text=Senate%20Bill%205184)

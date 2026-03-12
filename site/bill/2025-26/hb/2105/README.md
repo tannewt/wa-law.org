@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 03/06/2026 [The Center Square](/org/the_center_square/) - [WA Senate passes bill requiring employers to notify workers ahead of I-9 audits | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6e325420-2d9a-4ec2-9f80-fdf6efd31cde.html#:~:text=House%20Bill%202105)

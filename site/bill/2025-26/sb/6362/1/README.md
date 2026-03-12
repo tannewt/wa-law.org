@@ -1,0 +1,271 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6362](/bill/2025-26/sb/6362/) > [Original Bill](/bill/2025-26/sb/6362/1/)
+
+# SB 6362 - Judicial processes
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6362.pdf)
+
+## Section 1
+1. Subject to the availability of funds, the administrative office of the courts shall establish and maintain a credentialing program for spoken language interpreters and administer comprehensive testing.
+
+2. The administrative office of the courts shall work cooperatively with public or private educational institutions, and with other public or private organizations to establish suitable training programs and engage in recruitment efforts to ensure the availability of credentialed interpreters. Training programs shall be made readily available in both eastern and western Washington locations. Training programs shall include trainings on mutually unintelligible languages.
+
+3. The administrative office of the courts shall establish and adopt standards of proficiency, written and oral, and, if applicable, tonal, in English and the language to be interpreted.
+
+4. The administrative office of the courts shall conduct periodic examinations to ensure the availability of credentialed interpreters. Periodic examinations shall be made readily available in both eastern and western Washington locations.
+
+5. The administrative office of the courts shall compile, maintain, and disseminate a current list of interpreters credentialed by the office.
+
+6. The administrative office of the courts may charge reasonable fees for testing, training, and credentialing.
+
+7. The administrative office of the courts may create different credentials, including heightened credentials for interpreters interpreting in the simultaneous mode, and provide guidance for the selection and use of credentialed and noncredentialed interpreters to ensure the highest standards of accuracy are maintained in all judicial proceedings.
+
+## Section 2
+In hearings under this chapter, the following apply:
+
+1. Hearings under this chapter are special proceedings. The procedures established under this chapter for protection order hearings supersede inconsistent civil court rules. Courts should evaluate the needs and procedures best suited to individual hearings based on consideration of the totality of the circumstances, including disparities that may be apparent in the parties' resources and representation by counsel.
+
+2. [Empty]
+
+    a. Courts shall prioritize hearings on petitions for ex parte temporary protection orders over less emergent proceedings.
+
+    b. For extreme risk protection order hearings where a law enforcement agency is the petitioner, the court shall prioritize scheduling because of the importance of immediate temporary removal of firearms in situations of extreme risk and the goal of minimizing the time law enforcement must otherwise wait for a particular case to be called, which can hinder their other patrol and supervisory duties. Courts also may allow a law enforcement petitioner to participate remotely, or allow another representative from that law enforcement agency or the prosecutor's office to present the information to the court if personal presence of the petitioning officer is not required for testimonial purposes.
+
+3. If the respondent does not appear for the full hearing and there is no proof of timely and proper service on the respondent, the court shall reissue any temporary protection order previously issued and reset the hearing date. If a temporary protection order is reissued, the court shall reset the hearing date not later than 14 days from the reissue date. If a temporary protection order is reissued and the court permits service by mail or by publication, the court shall reset the hearing date not later than 30 days from the date of the order authorizing such service. These time frames may be extended for good cause.
+
+4. When considering any request to stay, continue, or delay a hearing under this chapter because of the pendency of a parallel criminal investigation or prosecution of the respondent, courts shall apply a rebuttable presumption against such delay and give due recognition to the purpose of this chapter to provide victims quick and effective relief. Courts must consider on the record the following factors:
+
+    a. The extent to which a defendant's Fifth Amendment rights are or are not implicated, given the special nature of protection order proceedings, which burden a defendant's Fifth Amendment privilege substantially less than do other civil proceedings;
+
+    b. Similarities between the civil and criminal cases;
+
+    c. Status of the criminal case;
+
+    d. The interests of the petitioners in proceeding expeditiously with litigation and the potential prejudice and risk to petitioners of a delay;
+
+    e. The burden that any particular aspect of the proceeding may impose on respondents;
+
+    f. The convenience of the court in the management of its cases and the efficient use of judicial resources;
+
+    g. The interests of persons not parties to the civil litigation; and
+
+    h. The interest of the public in the pending civil and criminal litigation.
+
+5. Hearings may be conducted upon the information provided in the sworn petition, live testimony of the parties should they choose to testify, and any additional sworn declarations. Live testimony of witnesses other than the parties may be requested by a party, but shall not be permitted unless the court finds that live testimony of witnesses other than the parties is necessary and material. If either party requests a continuance to allow for proper notice of witnesses or to afford a party time to seek counsel, the court may continue the hearing. In considering the request, the court should consider the rebuttable presumption against delay and the purpose of this chapter to provide victims quick and effective relief.
+
+6. If the court continues a hearing for any reason, the court shall reissue any temporary orders, including orders to surrender and prohibit weapons, issued with or without notice.
+
+7. Prehearing discovery under the civil court rules, including, but not limited to, depositions, requests for production, or requests for admission, is disfavored and only permitted if specifically authorized by the court for good cause shown upon written motion of a party filed six judicial days prior to the hearing and served prior to the hearing.
+
+8. The rules of evidence need not be applied, other than with respect to privileges, the requirements of the rape shield statute under RCW 9A.44.020, and evidence rules 412 and 413.
+
+9. [Empty]
+
+    a. The prior sexual activity or the reputation of the petitioner is inadmissible except:
+
+        i. As evidence concerning the past sexual conduct of the petitioner with the respondent when this evidence is offered by the respondent upon the issue of whether the petitioner consented to the sexual conduct alleged for the purpose of a protection order; or
+
+        ii. When constitutionally required to be admitted.
+
+    b. To determine admissibility, a written motion must be made six judicial days prior to the protection order hearing. The motion must include an offer of proof of the relevancy of the proposed evidence and reasonably specific information as to the date, time, and place of the past sexual conduct between the petitioner and the respondent. If the court finds that the offer of proof is relevant to the issue of the victim's consent, the court shall conduct a hearing in camera. The court may not admit evidence under this subsection unless it determines at the hearing that the evidence is relevant and the probative value of the evidence outweighs the danger of unfair prejudice. The evidence shall be admissible at the hearing to the extent an order made by the court specifies the evidence that may be admitted. If the court finds that the motion and related documents should be sealed pursuant to court rule and governing law, it may enter an order sealing the documents.
+
+10. When a petitioner has alleged incapacity to consent to sexual conduct or sexual penetration due to intoxicants, alcohol, or other condition, the court must determine on the record whether the petitioner had the capacity to consent.
+
+11. Courts shall not require parties to submit duplicate or working copies of pleadings or other materials filed with the court, unless the document or documents cannot be scanned or are illegible.
+
+12. Courts shall, if possible, have petitioners and respondents in protection order proceedings gather in separate locations and enter and depart the court room at staggered times. Where the option is available, for safety purposes, the court should arrange for petitioners to leave the court premises first and to have court security escort petitioners to their vehicles or transportation.
+
+13. If a party has limited English proficiency, the court shall ensure that such party has reasonable time to confer with an interpreter appointed under RCW 7.105.245 during court recesses before continuing a hearing.
+
+## Section 3
+1. Hearings on protection orders, including hearings concerning temporary protection orders, full protection orders, compliance, reissuance, renewal, modification, or termination, may be conducted in person or remotely in order to enhance access for all parties.
+
+2. In the court's discretion, parties, witnesses, and others authorized by this chapter to participate in protection order proceedings may attend a hearing on a petition for a protection order, or any hearings conducted pursuant to this chapter, in person or remotely, including by telephone, video, or other electronic means where possible. No later than three judicial days before the hearing, the parties may request to appear at the hearing, with witnesses, remotely by telephone, video, or other electronic means. The court shall grant any request for a remote appearance unless the court finds good cause to require in-person attendance or attendance through a specific means.
+
+3. Courts shall require assurances of the identity of persons who appear by telephone, video, or other electronic means. Courts may not charge fees for remote appearances.
+
+4. Courts shall not post or stream proceedings or recordings of protection order hearings online unless (a) a waiver has been received from all parties, or (b) the hearing is being conducted online and members of the public do not have in-person access to observe or listen to the hearing. Unless the court orders a hearing to be closed to the public consistent with the requirements of Washington law, courts should provide access to members of the public who wish to observe or listen to a hearing conducted by telephone, video, or other electronic means.
+
+5. If a hearing is held with any parties or witnesses appearing remotely, the following apply:
+
+    a. Courts should include directions to access a hearing remotely in the order setting the hearing and in any order granting a party's request for a remote appearance. Such orders shall also include directions to request an interpreter and accommodations for disabilities;
+
+    b. Courts should endeavor to give a party or witness appearing by telephone no more than a one-hour waiting time by the court for the hearing to begin. For remote hearings, if the court anticipates the parties or witnesses will need to wait longer than one hour to be called or connected, the court should endeavor to inform them of the estimated start time of the hearing;
+
+    c. Courts should inform the parties before the hearing begins that the hearing is being recorded by the court, in what manner the public is able to view the hearing, how a party may obtain a copy of the recording of the hearing, and that recording or broadcasting any portion of the hearing by any means other than the court record is strictly prohibited without prior court approval;
+
+    d. To minimize trauma, while allowing remote hearings to be observed by the public, courts should take appropriate measures to prevent members of the public or the parties from harassing or intimidating any party or witness to a case. Such practices may include, but are not limited to, disallowing members of the public from communicating with the parties or with the court during the hearing, ensuring court controls over microphone and viewing settings, and announcing limitations on allowing others to record the hearing;
+
+    e. Courts shall use technology that accommodates American sign language and other languages;
+
+    f. To help ensure that remote access does not undermine personal safety or privacy, or introduce other risks, courts should protect the privacy of telephone numbers, emails, and other contact information for parties, witnesses, and others authorized by this chapter to participate in protection order proceedings, and inform them of these safety considerations. Materials available to persons appearing remotely should include warnings not to state their addresses or telephone numbers at the hearing, and that they should ensure that background surroundings do not reveal their location;
+
+    g. Courts should provide the parties, in orders setting the hearing, with a telephone number and an email address for the court, which the parties may use to inform the court if they have been unable to appear remotely for a hearing. Before dismissing or granting a petition due to the petitioner or respondent not appearing for a remote hearing, or the court not being able to reach the party via telephone or video, the court shall check for any notifications to the court regarding issues with remote access or other technological difficulties. If any party has provided such notification to the court, the court shall not dismiss or grant the petition, but shall reset the hearing by continuing it and reissuing any temporary order in place. If a party was unable to provide the notification regarding issues with remote access or other technological difficulties on the day of the hearing prior to the court's ruling, that party may seek relief via a motion for reconsideration; and
+
+    h. A party attending a hearing remotely who is unable to participate in the hearing outside the presence of others who reside with the party, but who are not part of the proceeding including, but not limited to, children, and who asserts that the presence of those individuals may hinder the party's testimony or the party's ability to fully and meaningfully participate in the hearing, may request a continuance on that basis. Such requests may be granted in the court's discretion. In considering the request, the court may consider the rebuttable presumption against delay and the purpose of this chapter to provide victims quick and effective relief.
+
+6. If an interpreter is appointed pursuant to RCW 7.105.245(2) for any remote hearing conducted pursuant to this chapter, and if the interpreter is appearing remotely and interpreting in the simultaneous mode, then such interpretation must be recorded.
+
+## Section 4
+1. Pursuant to chapter 2.42 RCW, in order to ensure that parties have meaningful access to the court, an interpreter shall be appointed for any party who is deaf, hard of hearing, deaf-blind, or has a speech impairment and cannot readily understand or communicate in spoken language. Notwithstanding the provisions of chapter 2.42 RCW, the court shall not:
+
+    a. Appoint an interpreter who is not credentialed or duly qualified by the court to provide interpretation services; or
+
+    b. Appoint a person to provide interpretation services if that person is serving as an advocate for the party.
+
+2. Pursuant to chapter 2.43 RCW, in order to ensure that parties have meaningful access to the court, an interpreter shall be appointed for any party who has limited English proficiency. Notwithstanding the provisions of chapter 2.43 RCW, the court shall not:
+
+    a. Appoint an interpreter who is not credentialed or duly qualified by the court to provide interpretation services;
+
+    b. Appoint a person to provide interpretation services if that person is serving as an advocate for the party; or
+
+    c. Require interpretation in the simultaneous mode, unless requested by the party who needs interpreter services.
+
+3. Once an interpreter has been appointed for a party, the party shall no longer be required to make further requests for the appointment of an interpreter for subsequent hearings or proceedings. The clerk shall identify the party as a person who needs interpreter services and the clerk or the court administrator shall be responsible for ensuring that an interpreter is available for every subsequent hearing.
+
+4. The interpreter shall interpret for the party meeting with either counsel or court staff, or both, for the purpose of preparing forms and participating in the hearing and court-ordered assessments, and the interpreter shall sight translate any orders.
+
+5. The same interpreter shall not serve parties on both sides of the proceeding when not on the record, nor shall the interpreter appointed by the court for the proceeding be the same interpreter appointed for any court-ordered assessments, unless the court finds good cause on the record to do so because it is not possible to obtain more than one interpreter for the proceeding, or the safety of the litigants is not compromised, or any other reasons identified by the court.
+
+6. Courts shall make a private space available for parties, counsel, and/or court staff and interpreters to sight translate any written documents or to meet and confer.
+
+7. When a hearing is conducted through telephone, video, or other electronic means, the court must make appropriate arrangements to permit interpreters to serve the parties and the court as needed.
+
+8. Courts shall ensure that interpretations in the simultaneous mode occur in maximum intervals of 30 minutes.
+
+9. The court shall ensure that a party participating in a hearing in person has meaningful access to the court by providing necessary technology and software to such party if the party is appointed an interpreter under subsection (2) of this section and the interpretation is conducted in the simultaneous mode.
+
+## Section 5
+1. To help ensure familiarity with the unique nature of protection order proceedings, and an understanding of trauma-informed practices and best practices in the use of new technologies for remote hearings, judicial officers, including persons who serve as judicial officers pro tempore, shall receive evidence-based training on procedural justice, trauma-informed and trauma-responsive practices, gender-based violence dynamics, coercive control, elder abuse, juvenile sex offending, teen dating violence, domestic violence homicide prevention, antibias, antioppression, and requirements and best practices for the surrender of weapons before presiding over protection order hearings. Trainings should be provided on an ongoing basis as best practices, research on trauma, and legislation continue to evolve. As a method of continuous training, court commissioners, including pro tempore commissioners, shall be notified by the presiding judge or court administrator upon revision of any decision made under this chapter.
+
+2. Subject to funds appropriated for this specific purpose, the administrative office of the courts shall :
+
+    a. Develop training for judicial officers on the topics listed in subsection (1) of this section, which must be provided free of charge to judicial officers; and
+
+    b. Develop special certification for judicial officers who have completed trauma-informed practices training.
+
+## Section 6
+Subject to the availability of amounts appropriated for this specific purpose, the administrative office of the courts shall conduct a review of judicial officers' rulings under RCW 7.105.225 from the beginning of the year 2017 through the end of the year 2027.
+
+## Section 7
+1. In issuing any type of protection order, other than an ex parte temporary antiharassment protection order as limited by subsection (2) of this section, and other than an extreme risk protection order, the court shall have broad discretion to grant such relief as the court deems proper, including an order that provides relief as follows:
+
+    a. Restrain the respondent from committing any of the following acts against the petitioner and other persons protected by the order: Domestic violence; nonconsensual sexual conduct or nonconsensual sexual penetration; sexual abuse; stalking; acts of abandonment, abuse, neglect, or financial exploitation against a vulnerable adult; and unlawful harassment;
+
+    b. Restrain the respondent from making any attempts to have contact, including nonphysical contact, with the petitioner or the petitioner's family or household members who are minors or other members of the petitioner's household, either directly, indirectly, or through third parties regardless of whether those third parties know of the order;
+
+    c. Exclude the respondent from the residence that the parties share;
+
+    d. Exclude the respondent from the residence, workplace, or school of the petitioner; or from the day care or school of a minor child;
+
+    e. Restrain the respondent from knowingly coming within, or knowingly remaining within, a specified distance from a specified location including, but not limited to, a residence, school, day care, workplace, the protected party's person, and the protected party's vehicle. The specified distance shall presumptively be at least 1,000 feet, unless the court for good cause finds that a shorter specified distance is appropriate;
+
+    f. If the parties have children in common, make residential provisions with regard to their minor children on the same basis as is provided in chapter 26.09 RCW. However, parenting plans as specified in chapter 26.09 RCW must not be required under this chapter. The court may not delay or defer relief under this chapter on the grounds that the parties could seek a parenting plan or modification to a parenting plan in a different action. A protection order must not be denied on the grounds that the parties have an existing parenting plan in effect. A protection order may suspend the respondent's contact with the parties' children under an existing parenting plan, subject to further orders in a family law proceeding;
+
+    g. Order the respondent to participate in a state-certified domestic violence perpetrator treatment program approved under RCW 43.20A.735 or a state-certified sex offender treatment program approved under RCW 18.155.070;
+
+    h. Order the respondent to obtain a mental health or chemical dependency evaluation. If the court determines that a mental health evaluation is necessary, the court shall clearly document the reason for this determination and provide a specific question or questions to be answered by the mental health professional. The court shall consider the ability of the respondent to pay for an evaluation. Minors are presumed to be unable to pay. The parent or legal guardian is responsible for costs unless the parent or legal guardian demonstrates inability to pay;
+
+        i. In cases where the petitioner and the respondent are students who attend the same public or private elementary, middle, or high school, the court, when issuing a protection order and providing relief, shall consider, among the other facts of the case, the severity of the act, any continuing physical danger, emotional distress, or educational disruption to the petitioner, and the financial difficulty and educational disruption that would be caused by a transfer of the respondent to another school. The court may order that the respondent not attend the public or private elementary, middle, or high school attended by the petitioner. If a minor respondent is prohibited attendance at the minor's assigned public school, the school district must provide the student comparable educational services in another setting. In such a case, the district shall provide transportation at no cost to the respondent if the respondent's parent or legal guardian is unable to pay for transportation. The district shall put in place any needed supports to ensure successful transition to the new school environment. The court shall send notice of the restriction on attending the same school as the petitioner to the public or private school the respondent will attend and to the school the petitioner attends;
+
+    j. Require the respondent to pay the administrative court costs and service fees, as established by the county or municipality incurring the expense, and to reimburse the petitioner for costs incurred in bringing the action, including reasonable attorneys' fees or limited license legal technician fees when such fees are incurred by a person licensed and practicing in accordance with state supreme court admission and practice rule 28, the limited practice rule for limited license legal technicians. Minors are presumed to be unable to pay. The parent or legal guardian is responsible for costs unless the parent or legal guardian demonstrates inability to pay;
+
+    k. Restrain the respondent from harassing, following, monitoring, keeping under physical or electronic surveillance, cyber harassment as defined in RCW 9A.90.120, and using telephonic, audiovisual, or other electronic means to monitor the actions, location, or communication of the petitioner or the petitioner's family or household members who are minors or other members of the petitioner's household. For the purposes of this subsection, "communication" includes both "wire communication" and "electronic communication" as defined in RCW 9.73.260;
+
+    l. Other than for respondents who are minors, require the respondent to submit to electronic monitoring. The order must specify who shall provide the electronic monitoring services and the terms under which the monitoring must be performed. The order also may include a requirement that the respondent pay the costs of the monitoring. The court shall consider the ability of the respondent to pay for electronic monitoring;
+
+    m. Consider the provisions of RCW 9.41.800, and order the respondent to surrender, and prohibit the respondent from accessing, having in his or her custody or control, possessing, purchasing, attempting to purchase or receive, or receiving, all firearms, dangerous weapons, and any concealed pistol license, as required in RCW 9.41.800;
+
+    n. Order possession and use of essential personal effects. The court shall list the essential personal effects with sufficient specificity to make it clear which property is included. Personal effects may include pets. The court may order that a petitioner be granted the exclusive custody or control of any pet owned, possessed, leased, kept, or held by the petitioner, respondent, or minor child residing with either the petitioner or respondent, and may prohibit the respondent from interfering with the petitioner's efforts to obtain the pet. The court may also prohibit the respondent from knowingly coming within, or knowingly remaining within, a specified distance of specified locations where the pet is regularly found;
+
+    o. Order use of a vehicle;
+
+    p. Enter an order restricting the respondent from engaging in abusive litigation as set forth in chapter 26.51 RCW or in frivolous filings against the petitioner, making harassing or libelous communications about the petitioner to third parties,  making false reports to investigative agencies, or engaging in abusive use of process. A petitioner may request this relief in the petition or by separate motion. A petitioner may request this relief by separate motion at any time within five years of the date the protection order is entered even if the order has since expired. A stand-alone motion for an order restricting abusive litigation may be brought by a party who meets the requirements of chapter 26.51 RCW regardless of whether the party has previously sought a protection order under this chapter, provided the motion is made within five years of the date the order that made a finding of domestic violence was entered. In cases where a finding of domestic violence was entered pursuant to an order under chapter 26.09, 26.26, or 26.26A RCW, a motion for an order restricting abusive litigation may be brought under the family law case or as a stand-alone action filed under this chapter, when it is not reasonable or practical to file under the family law case;
+
+    q. Restrain the respondent from committing acts of abandonment, abuse, neglect, or financial exploitation against a vulnerable adult;
+
+    r. Require an accounting by the respondent of the disposition of the vulnerable adult's income or other resources;
+
+    s. Restrain the transfer of either the respondent's or vulnerable adult's property, or both, for a specified period not exceeding 90 days;
+
+    t. Order financial relief and restrain the transfer of jointly owned assets;
+
+    u. Restrain the respondent from possessing or distributing intimate images, as defined in RCW 9A.86.010, depicting the petitioner including, but not limited to, requiring the respondent to: Take down and delete all intimate images and recordings of the petitioner in the respondent's possession or control; and cease any and all disclosure of those intimate images. The court may also inform the respondent that it would be appropriate to ask third parties in possession or control of the intimate images of this protection order to take down and delete the intimate images so that the order may not inadvertently be violated; or
+
+    v. Order other relief as it deems necessary for the protection of the petitioner and other family or household members who are minors or vulnerable adults for whom the petitioner has sought protection, including orders or directives to a law enforcement officer, as allowed under this chapter.
+
+2. In an antiharassment protection order proceeding, the court may grant the relief specified in subsection (1)(c), (f), and (t) of this section only as part of a full antiharassment protection order.
+
+3. The court in granting a temporary antiharassment protection order or a civil antiharassment protection order shall not prohibit the respondent from exercising constitutionally protected free speech. Nothing in this section prohibits the petitioner from utilizing other civil or criminal remedies to restrain conduct or communications not otherwise constitutionally protected.
+
+4. The court shall not take any of the following actions in issuing a protection order.
+
+    a. The court may not order the petitioner to obtain services including, but not limited to, drug testing, victim support services, a mental health assessment, or a psychological evaluation.
+
+    b. The court shall not issue a full protection order to any party except upon notice to the respondent and the opportunity for a hearing pursuant to a petition or counter-petition filed and served by the party seeking relief in accordance with this chapter. Except as provided in RCW 7.105.210, the court shall not issue a temporary protection order to any party unless the party has filed a petition or counter-petition for a protection order seeking relief in accordance with this chapter.
+
+    c. Under no circumstances shall the court deny the petitioner the type of protection order sought in the petition on the grounds that the court finds that a different type of protection order would have a less severe impact on the respondent.
+
+5. The order shall specify the date the order expires, if any. For permanent orders, the court shall set the date to expire 99 years from the issuance date. The order shall also state whether the court issued the protection order following personal service, service by electronic means, service by mail, or service by publication, and whether the court has approved service by mail or publication of an order issued under this section.
+
+6. Issuing mutual full protection orders of any type is disfavored.
+
+## Section 8
+1. [Empty]
+
+    a. Whenever a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order is granted under this chapter, or an order is granted under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.77, 10.99, 26.09, 26.26A, or 26.26B RCW, or there is a valid foreign protection order as defined in RCW 26.52.020, or there is a Canadian domestic violence protection order as defined in RCW 26.55.010, and the respondent or person to be restrained knows of the order, a violation of any of the following provisions of the order is a gross misdemeanor, except as provided in subsections (4) and (5) of this section:
+
+        i. The restraint provisions prohibiting acts or threats of violence against, or stalking of, a protected party, or the restraint provisions prohibiting contact with a protected party;
+
+        ii. A provision excluding the person from a residence, workplace, school, or day care;
+
+        iii. A provision prohibiting the person from knowingly coming within, or knowingly remaining within, a specified distance of a location, a protected party's person, or a protected party's vehicle;
+
+        iv. A provision prohibiting interfering with the protected party's efforts to remove a pet owned, possessed, leased, kept, or held by the petitioner, the respondent, or a minor child residing with either the petitioner or the respondent; or
+
+    v. A provision of a foreign protection order or a Canadian domestic violence protection order specifically indicating that a violation will be a crime.
+
+    b. Upon conviction, and in addition to any other penalties provided by law, the court:
+
+        i. May require that the respondent submit to electronic monitoring. The court shall specify who must provide the electronic monitoring services and the terms under which the monitoring must be performed. The order also may include a requirement that the respondent pay the costs of the monitoring. The court shall consider the ability of the convicted person to pay for electronic monitoring; and
+
+        ii. Shall impose a fine of $15, in addition to any penalty or fine imposed, for a violation of a domestic violence protection order issued under this chapter. Revenue from the $15 fine must be remitted monthly to the state treasury for deposit in the domestic violence prevention account.
+
+2. A law enforcement officer shall arrest without a warrant and take into custody a person whom the law enforcement officer has probable cause to believe has violated a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.77, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, that restrains the person or excludes the person from a residence, workplace, school, or day care, or prohibits the person from knowingly coming within, or knowingly remaining within, a specified distance of a location, a protected party's person, or a protected party's vehicle, if the person restrained knows of the order. Presence of the order in the law enforcement computer-based criminal intelligence information system is not the only means of establishing knowledge of the order.
+
+3. [Empty]
+
+    a. A violation of a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.77, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, shall also constitute contempt of court, and is subject to the penalties prescribed by law.
+
+    b. A court, pursuant to its authority under chapter 7.21 RCW, shall initiate a contempt proceeding on its own motion when there is probable cause to believe that the respondent violated an order listed in this subsection.
+
+4. Any assault that is a violation of a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.77, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, and that does not amount to assault in the first or second degree under RCW 9A.36.011 or 9A.36.021 is a class C felony, and any conduct in violation of such an order that is reckless and creates a substantial risk of death or serious physical injury to another person is a class C felony.
+
+5. A violation of a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or a court order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.77, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, is a class C felony if the offender has at least two previous convictions for violating the provisions of a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.77, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010. The previous convictions may involve the same victim or other victims specifically protected by the orders the offender violated.
+
+6. [Empty]
+
+    a. A defendant arrested for violating a domestic violence protection order, sexual assault protection order, stalking protection order, or vulnerable adult protection order, or an order granted under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.77, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, is required to appear in person before a magistrate within one judicial day after the arrest. At the time of the appearance, the court shall determine the necessity of imposing a no-contact order or other conditions of pretrial release.
+
+    b. A defendant who is charged by citation, complaint, or information with violating any protection order identified in (a) of this subsection and not arrested shall appear in court for arraignment in person as soon as practicable, but in no event later than 14 days after the next day on which court is in session following the issuance of the citation or the filing of the complaint or information.
+
+7. Upon the filing of an affidavit by the petitioner or any law enforcement officer alleging that the respondent has violated a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order granted under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.77, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, the court may issue an order to the respondent, requiring the respondent to appear and show cause within 14 days as to why the respondent should not be found in contempt of court and punished accordingly. The hearing may be held in the court of any county or municipality in which the petitioner or respondent temporarily or permanently resides at the time of the alleged violation.
+
+8. Appearances required under this section are mandatory and cannot be waived.
+
+## Section 9
+1. Except as otherwise provided in this chapter, it shall be unlawful for any individual, partnership, corporation, association, or the state of Washington, its agencies, and political subdivisions to intercept, or record any:
+
+    a. Private communication transmitted by telephone, telegraph, radio, or other device between two or more individuals between points within or without the state by any device electronic or otherwise designed to record and/or transmit said communication regardless how such device is powered or actuated, without first obtaining the consent of one of the participants in the communication;
+
+    b. Private conversation, by any device electronic or otherwise designed to record or transmit such conversation regardless how the device is powered or actuated without first obtaining the consent of one of the persons engaged in the conversation.
+
+2. Wire communications or conversations (a) of an emergency nature, such as the reporting of a fire, medical emergency, crime, or disaster, or (b) which convey threats of extortion, blackmail, bodily harm, or other unlawful requests or demands, or (c) which occur anonymously or repeatedly or at an extremely inconvenient hour, or (d) which relate to communications by a hostage holder or barricaded person as defined in RCW 70.85.100, whether or not conversation ensues, may be recorded with the consent of one party to the conversation.
+
+3. Where consent by all parties is needed pursuant to this chapter, consent shall be considered obtained whenever one party has announced to all other parties engaged in the communication or conversation, in any reasonably effective manner, that such communication or conversation is about to be recorded or transmitted: PROVIDED, That if the conversation is to be recorded that said announcement shall also be recorded.
+
+4. An employee of any regularly published newspaper, magazine, wire service, radio station, or television station acting in the course of bona fide news gathering duties on a full-time or contractual or part-time basis, shall be deemed to have consent to record and divulge communications or conversations otherwise prohibited by this chapter if the consent is expressly given or if the recording or transmitting device is readily apparent or obvious to the speakers. Withdrawal of the consent after the communication has been made shall not prohibit any such employee of a newspaper, magazine, wire service, or radio or television station from divulging the communication or conversation.
+
+5. This section does not apply to the recording of custodial interrogations pursuant to RCW 10.122.040.
+
+## Section 10
+This act may be known and cited as Zhen's law.

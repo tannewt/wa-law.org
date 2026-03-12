@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/10/2026 [Senate Democrats](/org/senate_democrats/) - [Domestic Workers Bill of Rights Signed into Law  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/03/10/domestic-workers-bill-of-rights-signed-into-law/#:~:text=House%20Bill%202355)

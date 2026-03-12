@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 03/04/2026 [The Washington Observer](/org/the_washington_observer/) - [Local governments quietly grumble over a voting rights win](https://washingtonobserver.substack.com/p/local-governments-quietly-grumble#:~:text=HB%201750)

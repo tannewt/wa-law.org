@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * [Gorge Radio](/org/gorge_radio/) - [Heritage Apple Preservation Bill Passes Committee – Gorge Radio](https://gorgeradio.com/heritage-apple-preservation-bill-passes-committee/#:~:text=House%20Bill%202525)

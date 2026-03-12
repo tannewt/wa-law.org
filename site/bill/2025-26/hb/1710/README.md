@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Third Substitute](S3/)
 * [Engrossed Third Substitute](S3.E/)
+* [Passed Legislature](S3.PL/)
 
 ## 📰 Articles
 * 03/04/2026 [The Washington Observer](/org/the_washington_observer/) - [Local governments quietly grumble over a voting rights win](https://washingtonobserver.substack.com/p/local-governments-quietly-grumble#:~:text=HB%201710)

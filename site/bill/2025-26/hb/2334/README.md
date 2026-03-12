@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/05/2026 [Axios](/org/axios/) - [Washington lawmakers weigh rounding rule as pennies disappear - Axios Seattle](https://www.axios.com/local/seattle/2026/03/05/washington-penny-shortage-cash-rounding-bill-house-bill-2334-retailers#:~:text=House%20Bill%202334)

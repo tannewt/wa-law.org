@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/06/2026 [The Urbanist](/org/the_urbanist/) - [Sound Transit’s Bid to Unlock 75-Year Bonds Finds Second Wind » The Urbanist](https://www.theurbanist.org/2026/03/06/sound-transits-bid-to-unlock-75-year-bonds-finds-second-wind/#:~:text=HB%202711)

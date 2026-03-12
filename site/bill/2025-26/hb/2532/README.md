@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/05/2026 [FOX13](/org/fox13/) - [WA bills on face coverings, ghost guns, nitrous oxide | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-face-coverings-ghost-guns-nitrous-oxide#:~:text=House%20Bill%202532)

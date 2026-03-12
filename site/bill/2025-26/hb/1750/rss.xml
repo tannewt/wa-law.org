@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1750/</link>
 		<description>Updates about HB 1750</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 04 Mar 2026 18:24:22 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -441,6 +441,20 @@
 			<pubDate>Wed, 04 Mar 2026 18:24:22 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonobserver.substack.com/p/local-governments-quietly-grumble#:~:text=HB%201750</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 58; nays, 38; absent, 0; excused, 2.</title>
+			<description>Passed final passage; yeas, 58; nays, 38; absent, 0; excused, 2.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/Passed final passage; yeas, 58; nays, 38; absent, 0; excused, 2.</guid>
 		</item>
 	</channel>
 </rss>

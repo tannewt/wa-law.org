@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1923/</link>
 		<description>Updates about HB 1923</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 08 Mar 2026 16:14:33 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1093,6 +1093,13 @@
 			<pubDate>Sun, 08 Mar 2026 16:14:33 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/mosquito-fleet-act-runs-into-choppy-seas-in-the-state-senate/#:~:text=House%20Bill%201923</guid>
+		</item>
+		<item>
+			<title>House refuses to concur in Senate amendments.  Asks Senate to recede from amendments.</title>
+			<description>House refuses to concur in Senate amendments.  Asks Senate to recede from amendments.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/House refuses to concur in Senate amendments.  Asks Senate to recede from amendments.</guid>
 		</item>
 	</channel>
 </rss>

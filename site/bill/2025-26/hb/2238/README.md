@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/26/2026 [Food Lifeline](/org/food_lifeline/) - [Historic Win: Statewide Food Security Strategy Bill Passes House on Hunger Action Day | Food Lifeline](https://foodlifeline.org/article/historic-win-statewide-food-security-strategy-bill-passes-house-on-hunger-action-day#:~:text=Statewide%20Food%20Security%20Strategy%20Bill%20(HB%202238))

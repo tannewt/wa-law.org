@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/16/2026 [House Democrats](/org/house_democrats/) - [House Passes Ortiz-Self bill expanding multilingual access / Cámara aprueba proyecto de Ortiz-Self que amplía el acceso multilingüe – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/16/house-passes-ortiz-self-bill-expanding-multilingual-access-camara-aprueba-proyecto-de-ortiz-self-que-amplia-el-acceso-multilingue/#:~:text=House%20Bill%202475)

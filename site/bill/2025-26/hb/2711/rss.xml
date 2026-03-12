@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2711/</link>
 		<description>Updates about HB 2711</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Mar 2026 19:52:23 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -324,6 +324,48 @@
 			<pubDate>Fri, 06 Mar 2026 19:52:23 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/sound-transits-bid-to-unlock-75-year-bonds-finds-second-wind/#:~:text=HB%202711</guid>
+		</item>
+		<item>
+			<title>Committee amendment not adopted.</title>
+			<description>Committee amendment not adopted.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/Committee amendment not adopted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 54; nays, 42; absent, 0; excused, 2.</title>
+			<description>Passed final passage; yeas, 54; nays, 42; absent, 0; excused, 2.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/Passed final passage; yeas, 54; nays, 42; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 33; nays, 15; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 33; nays, 15; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/Third reading, passed; yeas, 33; nays, 15; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

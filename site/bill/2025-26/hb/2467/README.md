@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 01/26 04:00 PM - Transportation (TR): HB 2467 Fifth-wheel travel trailers

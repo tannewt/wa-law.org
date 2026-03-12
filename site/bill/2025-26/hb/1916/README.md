@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 6: Jobs, floor action winds down and another major deadline arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/13/this-week-in-the-senate-week-6-jobs-floor-action-winds-down-and-another-major-deadline-arrives/#:~:text=HB%201916)

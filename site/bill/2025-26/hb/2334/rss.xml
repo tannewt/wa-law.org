@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2334/</link>
 		<description>Updates about HB 2334</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 05 Mar 2026 14:25:05 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -298,6 +298,27 @@
 			<pubDate>Thu, 05 Mar 2026 14:25:05 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.axios.com/local/seattle/2026/03/05/washington-penny-shortage-cash-rounding-bill-house-bill-2334-retailers#:~:text=House%20Bill%202334</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 80; nays, 15; absent, 0; excused, 3.</title>
+			<description>Passed final passage; yeas, 80; nays, 15; absent, 0; excused, 3.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/Passed final passage; yeas, 80; nays, 15; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-11/Speaker signed.</guid>
 		</item>
 	</channel>
 </rss>
