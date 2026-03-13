@@ -10,6 +10,11 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Final day of session - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/03/12/final-day-of-session/#:~:text=6346)
+* 03/12/2026 [The Center Square](/org/the_center_square/) - [WATCH: NFIB WA says income tax could cripple small businesses | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a57562d9-f01c-41e2-a921-2f126fa9085b.html#:~:text=Senate%20Bill%206346)
+* 03/12/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-thats-wrap-session-ends-whimper-new-state-income-tax/#:~:text=(Senate%20Bill%206346))
+* 03/12/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: Washington state is blowing up its no-income-tax advantage | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_af1e1929-1f06-417a-831e-cc3fcf95ef9e.html#:~:text=Senate%20Bill%206346)
+* 03/12/2026 [Axios](/org/axios/) - [Washington income tax on millionaires faces legal, political hurdles - Axios Seattle](https://www.axios.com/local/seattle/2026/03/12/washington-income-tax-clears-legislature-faces-challenges#:~:text=Senate%20Bill%206346)
 * 03/12/2026 [The Center Square](/org/the_center_square/) - [Downtown Seattle Association head says city taxes are causing job losses | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_18edc042-5af0-4af3-9a35-ae0155740877.html#:~:text=Senate%20Bill%206346)
 * 03/11/2026 [The Center Square](/org/the_center_square/) - [WA Senate Republicans unable to stop income tax bill now headed to governor's desk | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5a9b0261-1976-468d-a8f7-691ffadd0855.html#:~:text=Senate%20Bill%206346)
 * 03/11/2026 [KING5](/org/king5/) - ['Millionaires tax' receives Senate confirmation, heads to governor's desk | king5.com](https://www.king5.com/article/news/politics/state-politics/millionaires-tax-receives-senate-confirmation-heads-to-governors-desk/281-c778a559-0d46-4dd5-a95a-f7fd763215ec#:~:text=income%20tax%20bill)

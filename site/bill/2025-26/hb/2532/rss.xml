@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2532/</link>
 		<description>Updates about HB 2532</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2026 18:18:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -294,6 +294,27 @@
 			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-11/Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/President signed.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Washington becomes second state to ban retail sale of nitrous oxide | kgw.com</title>
+			<description>News article "Washington becomes second state to ban retail sale of nitrous oxide | kgw.com" from KGW.</description>
+			<pubDate>Thu, 12 Mar 2026 18:18:03 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kgw.com/article/news/investigations/washington-state-pass-nitrous-oxide-ban-bill-whippets/283-daf2ca8a-3dcd-46e2-8900-7bc0b1d33767#:~:text=House%20Bill%202532</guid>
 		</item>
 	</channel>
 </rss>

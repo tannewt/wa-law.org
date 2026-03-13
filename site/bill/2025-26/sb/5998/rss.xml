@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5998/</link>
 		<description>Updates about SB 5998</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2026 17:23:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -2805,6 +2805,48 @@
 			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-11/Conference committee report; received 11:20 AM 3/11/2026.</guid>
+		</item>
+		<item>
+			<title>Conference committee report adopted.</title>
+			<description>Conference committee report adopted.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Conference committee report adopted.</guid>
+		</item>
+		<item>
+			<title>Passed final passage as recommended by conference committee; yeas, 28; nays, 21; absent, 0; excused, 0.</title>
+			<description>Passed final passage as recommended by conference committee; yeas, 28; nays, 21; absent, 0; excused, 0.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Passed final passage as recommended by conference committee; yeas, 28; nays, 21; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Passed final passage as recommended by conference committee; yeas, 54; nays, 43; absent, 0; excused, 1.</title>
+			<description>Passed final passage as recommended by conference committee; yeas, 54; nays, 43; absent, 0; excused, 1.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Passed final passage as recommended by conference committee; yeas, 54; nays, 43; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/President signed.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>STATEMENT: New state budget makes Washington less affordable, Senate Republicans say - Senate Republican Caucus</title>
+			<description>News article "STATEMENT: New state budget makes Washington less affordable, Senate Republicans say - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Thu, 12 Mar 2026 17:23:20 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/statement-new-state-budget-makes-washington-less-affordable-senate-republicans-say/#:~:text=$80.1%20billion%20budget%20compromise</guid>
 		</item>
 	</channel>
 </rss>

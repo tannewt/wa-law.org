@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/12/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-thats-wrap-session-ends-whimper-new-state-income-tax/#:~:text=SB%205312:%20Sex%20Offender%20Leniency)
 * 11/14/2025 [The Center Square](/org/the_center_square/) - [Washington state commission favors sentencing alternatives for sex sting offenders | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_82832654-009c-44f3-a644-fcc9985ba283.html#:~:text=Senate%20Bill%205312)
 * 02/03/2025 [The Center Square](/org/the_center_square/) - [Fake kids, real charges: Lawmakers push additional oversight for net nanny stings | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0b158f16-e27f-11ef-97c1-3beecc5b7c85.html#:~:text=Senate%20Bill%205312)
 * 01/30/2025 [MyNorthwest](/org/mynorthwest/) - [WA bill would reduce penalties for online sting operations](https://mynorthwest.com/mynorthwest-politics/online-sting-operation/4036955#:~:text=Senate%20Bill%205312)

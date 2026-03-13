@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Tue 01/13 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2230 DD res. service providers

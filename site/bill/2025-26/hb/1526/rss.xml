@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1526/</link>
 		<description>Updates about HB 1526</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -155,6 +155,34 @@
 			<pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-03/Third reading, passed; yeas, 47; nays, 2; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 87; nays, 9; absent, 0; excused, 2.</title>
+			<description>Passed final passage; yeas, 87; nays, 9; absent, 0; excused, 2.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Passed final passage; yeas, 87; nays, 9; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/President signed.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Speaker signed.</guid>
 		</item>
 	</channel>
 </rss>

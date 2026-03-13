@@ -10,6 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/12/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-thats-wrap-session-ends-whimper-new-state-income-tax/#:~:text=SB%205974:%20Decertifying%20Elected%20Sheriffs)
 * 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=2SSB%205974)
 * 03/06/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA bill that could allow state board to remove elected sheriffs clears House | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_062acf7a-4cb2-49b2-b684-916ae26aa5f2.html#:~:text=Senate%20Bill%205974)
 * 02/26/2026 [KUOW](/org/kuow/) - [KUOW - Controversial bill spelling out removal for decertified sheriffs advances in Washington legislature](https://www.kuow.org/stories/controversial-bill-spelling-out-removal-for-decertified-sheriffs-advances-in-washington-legislature#:~:text=SB%205974)

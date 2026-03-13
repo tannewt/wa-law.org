@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/12/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-thats-wrap-session-ends-whimper-new-state-income-tax/#:~:text=SB%205945:%20Weakening%20the%20“Three%20Strikes”%20Law)
 * 01/14/2026 [KIRO7](/org/kiro7/) - [Proposed WA bill would remove juvenile offenses from ‘Three Strikes’ convictions – KIRO 7 News Seattle](https://www.kiro7.com/news/local/proposed-wa-bill-would-remove-juvenile-offenses-three-strikes-convictions/4NS7UUA33NAT7EYPKJLSYTZWGU/#:~:text=Senate%20Bill%205945)
 
 ## Meetings

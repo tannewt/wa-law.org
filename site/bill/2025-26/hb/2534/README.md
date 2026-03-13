@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [The Senate is (almost) adjourned - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/03/12/the-senate-is-almost-adjourned/#:~:text=HB%202534)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=ESHB%202534)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=ESHB%202534)
 * 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Week Five - Halfway there - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/02/13/week-five-halfway-there/#:~:text=HB%202534)

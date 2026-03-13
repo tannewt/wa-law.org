@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 02/18/2026 [The Urbanist](/org/the_urbanist/) - [ICE’s Tacoma Detention Center Targeted in New Lawsuit Alleging Abuses » The Urbanist](https://www.theurbanist.org/2026/02/18/ice-tacoma-detention-center-targeted-in-lawsuit/#:~:text=SB%206109)
+* 02/18/2026 [The Urbanist](/org/the_urbanist/) - [ICE’s Tacoma Detention Center Targeted in New Lawsuit Alleging Abuses » The Urbanist](https://www.theurbanist.org/ice-tacoma-detention-center-targeted-in-lawsuit/#:~:text=SB%206109)
 
 ## Meetings
 ### Thu 01/29 04:00 PM - Ways & Means (WM): SB 6109 Private detention/investment

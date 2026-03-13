@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Mon 02/23 10:30 AM - Labor & Commerce (LC): ESHB 2476 Theater licenses/alcohol

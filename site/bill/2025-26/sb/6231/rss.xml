@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6231/</link>
 		<description>Updates about SB 6231</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2026 21:56:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -339,6 +339,41 @@
 			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-09/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/President signed.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 51; nays, 46; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 51; nays, 46; absent, 0; excused, 1.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Third reading, passed; yeas, 51; nays, 46; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>WA Dems push through $2B spending increase in final hours of legislative session | Washington | thecentersquare.com</title>
+			<description>News article "WA Dems push through $2B spending increase in final hours of legislative session | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 12 Mar 2026 21:56:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_48e4805e-5021-4e23-989c-20efb1b5a5f5.html#:~:text=data</guid>
 		</item>
 	</channel>
 </rss>

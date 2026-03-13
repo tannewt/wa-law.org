@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/12/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-thats-wrap-session-ends-whimper-new-state-income-tax/#:~:text=5382)
 * 02/27/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Senate Democrats pass $80 billion budget - a house of cards built on phantom savings - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-senate-democrats-pass-80-billion-budget-built-phantom-savings/#:~:text=5382)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=SB%205382)
 * 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=SB%205382)

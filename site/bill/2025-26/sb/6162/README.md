@@ -10,6 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned sine die! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/12/the-legislature-has-adjourned-sine-die/#:~:text=cut%20property%20taxes)
+* 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [The Senate is (almost) adjourned - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/03/12/the-senate-is-almost-adjourned/#:~:text=Senate%20Bill%206162)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESSB%206162)
 * 02/28/2026 [Senate Democrats](/org/senate_democrats/) - [Week Seven, Session coming to an end - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/02/27/week-seven-session-coming-to-an-end/#:~:text=SB%206162)
 * 02/27/2026 [Senate Democrats](/org/senate_democrats/) - [What do the transportation and capital budgets mean for you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/27/what-do-the-transportation-and-capital-budgets-mean-for-you/#:~:text=expanding%20the%20senior%20citizen%20property%20tax%20relief%20program)

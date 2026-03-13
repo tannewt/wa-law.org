@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=6005)
+* 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=6005)
 * 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=ESSB%206005)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESSB%206005)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SB%206005)

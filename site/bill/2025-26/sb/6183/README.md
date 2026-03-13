@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/11/2026 [Senate Democrats](/org/senate_democrats/) - [Senate unanimously passes Liias bills focused on housing fairness, health care accessibility - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/10/senate-unanimously-passes-liias-bills-focused-on-housing-fairness-health-care-accessibility/#:~:text=The%20second%20bill)

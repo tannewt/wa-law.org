@@ -10,6 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=House%20Bill%202711)
+* 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=House%20Bill%202711)
 * 03/06/2026 [The Urbanist](/org/the_urbanist/) - [Sound Transit’s Bid to Unlock 75-Year Bonds Finds Second Wind » The Urbanist](https://www.theurbanist.org/2026/03/06/sound-transits-bid-to-unlock-75-year-bonds-finds-second-wind/#:~:text=HB%202711)
 * 03/06/2026 [The Urbanist](/org/the_urbanist/) - [Sound Transit’s Bid to Unlock 75-Year Bonds Finds Second Wind » The Urbanist](https://www.theurbanist.org/sound-transits-bid-to-unlock-75-year-bonds-finds-second-wind/#:~:text=HB%202711)
 * 03/05/2026 [Senate Democrats](/org/senate_democrats/) - [Budget investments for flood recovery; bill update before session ends - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/04/budget-investments-for-flood-recovery-bill-update-before-session-ends/#:~:text=House%20Bill%202711)

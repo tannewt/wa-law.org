@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2711/</link>
 		<description>Updates about HB 2711</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2026 23:05:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -366,6 +366,34 @@
 			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-11/Third reading, passed; yeas, 33; nays, 15; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/President signed.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Washington Senate Democrats</title>
+			<description>News article "Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Thu, 12 Mar 2026 23:05:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=House%20Bill%202711</guid>
+		</item>
+		<item>
+			<title>Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Sen. Marko Liias</title>
+			<description>News article "Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Sen. Marko Liias" from Senate Democrats.</description>
+			<pubDate>Thu, 12 Mar 2026 23:05:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=House%20Bill%202711</guid>
 		</item>
 	</channel>
 </rss>

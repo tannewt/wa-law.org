@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * [Senate Republicans](/org/senate_republicans/) - [Affordable Solutions for Washington - Senate Republican Caucus](https://src.wastateleg.org/bills-protect-washington/#:~:text=FOLLOW%20SB%205827)

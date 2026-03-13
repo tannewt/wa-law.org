@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/12/2026 [House Democrats](/org/house_democrats/) - [House Passes “Ryan’s Law,” Restoring Compassion and Dignity to End-of-Life Care – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/12/house-passes-ryans-law-restoring-compassion-and-dignity-to-end-of-life-care/#:~:text=House%20B)

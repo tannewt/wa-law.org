@@ -9,6 +9,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned sine die! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/12/the-legislature-has-adjourned-sine-die/#:~:text=banned)
+* 03/12/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-thats-wrap-session-ends-whimper-new-state-income-tax/#:~:text=SB%205855:%20Prohibiting%20Face%20Masks%20for%20Law%20Enforcement:)
 * 03/10/2026 [Axios](/org/axios/) - [Washington Legislature passes police face mask ban aimed at ICE agents - Axios Seattle](https://www.axios.com/local/seattle/2026/03/10/washington-police-face-mask-ban-ice-agents-sb5855-bob-ferguson-signature#:~:text=Senate%20Bill%205855)
 * 03/09/2026 [Senate Democrats](/org/senate_democrats/) - [Valdez bill banning face-concealing masks for law enforcement heads to governor’s desk - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/03/09/valdez-bill-banning-face-concealing-masks-for-law-enforcement-heads-to-governors-desk/#:~:text=Senate%20Bill%205855)
 * 03/09/2026 [Senate Democrats](/org/senate_democrats/) - [Valdez bill banning face-concealing masks for law enforcement heads to governor’s desk - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/03/09/valdez-bill-banning-face-concealing-masks-for-law-enforcement-heads-to-governors-desk/#:~:text=Senate%20Bill%205855)

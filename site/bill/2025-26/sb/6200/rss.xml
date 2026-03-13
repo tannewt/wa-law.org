@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6200/</link>
 		<description>Updates about SB 6200</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Mar 2026 00:27:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -320,6 +320,20 @@
 			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-11/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Final day of session - Sen. Vandana Slatter</title>
+			<description>News article "Final day of session - Sen. Vandana Slatter" from Senate Democrats.</description>
+			<pubDate>Fri, 13 Mar 2026 00:27:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2026/03/12/final-day-of-session/#:~:text=6200</guid>
 		</item>
 	</channel>
 </rss>

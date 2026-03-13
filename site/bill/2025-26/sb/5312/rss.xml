@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5312/</link>
 		<description>Updates about SB 5312</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2026 16:24:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -153,6 +153,13 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus</title>
+			<description>News article "NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Thu, 12 Mar 2026 16:24:19 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/newsflash-thats-wrap-session-ends-whimper-new-state-income-tax/#:~:text=SB%205312:%20Sex%20Offender%20Leniency</guid>
 		</item>
 	</channel>
 </rss>

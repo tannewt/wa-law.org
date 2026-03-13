@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/12/2026 [KGW](/org/kgw/) - [Washington becomes second state to ban retail sale of nitrous oxide | kgw.com](https://www.kgw.com/article/news/investigations/washington-state-pass-nitrous-oxide-ban-bill-whippets/283-daf2ca8a-3dcd-46e2-8900-7bc0b1d33767#:~:text=House%20Bill%202532)
 * 03/05/2026 [FOX13](/org/fox13/) - [WA bills on face coverings, ghost guns, nitrous oxide | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-face-coverings-ghost-guns-nitrous-oxide#:~:text=House%20Bill%202532)
 * 02/28/2026 [Senate Democrats](/org/senate_democrats/) - [A transportation budget that delivers for ferries - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/28/a-transportation-budget-that-delivers-for-ferries/#:~:text=HB 2532)
 * 02/07/2026 [Senate Democrats](/org/senate_democrats/) - [Banning the retail sale of dangerous nitrous oxide - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/06/banning-the-retail-sale-of-dangerous-nitrous-oxide/#:~:text=HB%202532)

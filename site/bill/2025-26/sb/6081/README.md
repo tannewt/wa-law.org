@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/01/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting your privacy from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/01/protecting-your-privacy-from-federal-overreach/#:~:text=SB%206081)

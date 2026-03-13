@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/02/2026 [Washington State Standard](/org/washington_state_standard/) - [For Rivian and Lucid, path finally emerges for direct-to-consumer car sales in WA • Washington State Standard](https://washingtonstatestandard.com/2026/03/02/for-rivian-and-lucid-path-finally-emerges-for-direct-to-consumer-car-sales/#:~:text=Senate%20Bill%206354)

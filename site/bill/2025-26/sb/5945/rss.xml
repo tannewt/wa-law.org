@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5945/</link>
 		<description>Updates about SB 5945</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 16:52:04 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2026 16:24:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -336,6 +336,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Natasha/Willson/2026-01-28 16:52:04</guid>
+		</item>
+		<item>
+			<title>NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus</title>
+			<description>News article "NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Thu, 12 Mar 2026 16:24:19 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/newsflash-thats-wrap-session-ends-whimper-new-state-income-tax/#:~:text=SB%205945:%20Weakening%20the%20“Three%20Strikes”%20Law</guid>
 		</item>
 	</channel>
 </rss>

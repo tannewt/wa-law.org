@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6026/</link>
 		<description>Updates about SB 6026</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Mar 2026 00:11:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -962,6 +962,27 @@
 			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-11/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Washington Just Passed First-in-the-US Flexibility for Ground-Floor Retail | Sightline Institute</title>
+			<description>News article "Washington Just Passed First-in-the-US Flexibility for Ground-Floor Retail | Sightline Institute" from Sightline Institute.</description>
+			<pubDate>Wed, 11 Mar 2026 22:52:36 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.sightline.org/2026/03/11/washington-just-passed-first-in-the-us-flexibility-for-ground-floor-retail/#:~:text=SB%206026</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>The Legislature has adjourned sine die! - Sen. Jessica Bateman</title>
+			<description>News article "The Legislature has adjourned sine die! - Sen. Jessica Bateman" from Senate Democrats.</description>
+			<pubDate>Fri, 13 Mar 2026 00:11:17 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/03/12/the-legislature-has-adjourned-sine-die/#:~:text=changing%20zoning%20laws</guid>
 		</item>
 	</channel>
 </rss>

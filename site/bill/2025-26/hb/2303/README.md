@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/12/2026 [Washington State Standard](/org/washington_state_standard/) - [Businesses can’t require microchip implants for workers under new WA law • Washington State Standard](https://washingtonstatestandard.com/briefs/businesses-cant-require-microchip-implants-for-workers-under-new-wa-law/#:~:text=House%20Bill%202303)

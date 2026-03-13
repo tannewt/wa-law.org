@@ -6,8 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=6225)
+* 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=6225)
 * 02/24/2026 [The Urbanist](/org/the_urbanist/) - [State Senate Signs Onto Billions of New Debt for Highway Upkeep » The Urbanist](https://www.theurbanist.org/2026/02/24/state-senate-signs-onto-billions-of-new-debt-for-highway-upkeep/#:~:text=bill%20authorizing%20the%20new%20bonds)
 * 02/24/2026 [The Urbanist](/org/the_urbanist/) - [State Senate Signs Onto Billions of New Debt for Highway Upkeep » The Urbanist](https://www.theurbanist.org/state-senate-signs-onto-billions-of-new-debt-for-highway-upkeep/#:~:text=bill%20authorizing%20the%20new%20bonds)
 * 02/23/2026 [Senate Democrats](/org/senate_democrats/) - [Senate unveils bipartisan supplemental transportation budget prioritizing preservation and maintenance, job creation - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/23/senate-unveils-bipartisan-supplemental-transportation-budget-prioritizing-preservation-and-maintenance-job-creation/#:~:text=SB%206225)
