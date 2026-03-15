@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=HB%202557)
 * 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=ESHB%202557)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=SHB%202557)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SHB%202557)

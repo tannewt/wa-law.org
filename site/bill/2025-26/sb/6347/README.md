@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=rollback%20to%20the%20estate%20tax)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESB%206347)
 * 02/26/2026 [The Center Square](/org/the_center_square/) - [WATCH: Fearing wealth flight, WA lawmakers propose estate tax rollback; critics resist | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ae748f46-edd1-4c9c-a6c3-38cf65e6158e.html#:~:text=Senate%20Bill%206347)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=ESB%206347)

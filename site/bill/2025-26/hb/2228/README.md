@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=HB%202228)
 * 03/09/2026 [KING5](/org/king5/) - [Ferguson signs new laws on housing, healthcare | king5.com](https://www.king5.com/article/news/politics/state-politics/new-washington-laws-housing-healthcare/281-53aceb02-b644-43f9-bd36-bfd741cee887#:~:text=Substitute%20House%20Bill%20No.%202228)
 * 03/06/2026 [Senate Democrats](/org/senate_democrats/) - [One week left! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/06/one-week-left/#:~:text=HB%202228)
 

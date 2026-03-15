@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=SB%206027)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [What’s happening at the Capitol - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/10/3156/#:~:text=Senate%20Bill%206027)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate Bill 6027)
 

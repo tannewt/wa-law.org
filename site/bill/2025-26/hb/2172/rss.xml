@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2172/</link>
 		<description>Updates about HB 2172</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 27 Feb 2026 08:33:20 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -196,6 +196,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ashley/Probart/2026-02-27 08:33:20</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to House Rules Committee for third reading.</title>
+			<description>By resolution, returned to House Rules Committee for third reading.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/By resolution, returned to House Rules Committee for third reading.</guid>
 		</item>
 	</channel>
 </rss>

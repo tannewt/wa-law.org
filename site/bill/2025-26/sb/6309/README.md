@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/13/2026 [The Urbanist](/org/the_urbanist/) - [Washington Legislature Delivers Sound Transit a One-Two Punch in 2026](https://www.theurbanist.org/washington-legislature-delivers-multiple-blows-to-sound-transit-in-2026/#:~:text=Senate%20Bill%206309)
 * 02/04/2026 [The Urbanist](/org/the_urbanist/) - [Olympia Seeks to Boost Sound Transit with Long Overdue Permit Reforms » The Urbanist](https://www.theurbanist.org/2026/02/04/olympia-seeks-to-boost-sound-transit-with-long-overdue-permit-reforms/#:~:text=Senate%20Bill%206309)
 
 ## Meetings

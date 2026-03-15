@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6346/</link>
 		<description>Updates about SB 6346</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Mar 2026 00:27:35 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Mar 2026 22:35:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -4731,11 +4731,32 @@
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_a57562d9-f01c-41e2-a921-2f126fa9085b.html#:~:text=Senate%20Bill%206346</guid>
 		</item>
 		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-13/Delivered to Governor.</guid>
+		</item>
+		<item>
 			<title>Final day of session - Sen. Vandana Slatter</title>
 			<description>News article "Final day of session - Sen. Vandana Slatter" from Senate Democrats.</description>
 			<pubDate>Fri, 13 Mar 2026 00:27:35 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2026/03/12/final-day-of-session/#:~:text=6346</guid>
+		</item>
+		<item>
+			<title>Washington Legislature Delivers Sound Transit a One-Two Punch in 2026</title>
+			<description>News article "Washington Legislature Delivers Sound Transit a One-Two Punch in 2026" from The Urbanist.</description>
+			<pubDate>Fri, 13 Mar 2026 18:12:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/washington-legislature-delivers-multiple-blows-to-sound-transit-in-2026/#:~:text=Senate%20Bill%206346</guid>
+		</item>
+		<item>
+			<title>Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado</title>
+			<description>News article "Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado" from Senate Democrats.</description>
+			<pubDate>Fri, 13 Mar 2026 22:35:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=a%20bill</guid>
 		</item>
 	</channel>
 </rss>

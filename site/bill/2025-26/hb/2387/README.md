@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/13/2026 [Washington State Standard](/org/washington_state_standard/) - [WA sheriffs urge partial veto of bill setting new standards for their jobs • Washington State Standard](https://washingtonstatestandard.com/2026/03/13/wa-sheriffs-urge-partial-veto-of-bill-setting-new-standards-for-their-jobs/#:~:text=another%20measure)
 * 02/13/2026 [KUOW](/org/kuow/) - [KUOW - Stricter standards for Washington sheriffs approved in state Senate](https://www.kuow.org/stories/stricter-standards-for-washington-sheriffs-approved-in-state-senate#:~:text=bill%20in%20the%20House)
 * 02/13/2026 [Washington State Standard](/org/washington_state_standard/) - [Stricter standards for WA sheriffs approved in state Senate • Washington State Standard](https://washingtonstatestandard.com/2026/02/12/stricter-standards-for-wa-sheriffs-approved-in-state-senate/#:~:text=bill%20in%20the%20House)
 * 01/16/2026 [The Center Square](/org/the_center_square/) - [WATCH: Law enforcement group threatens to expel Pierce County sheriff over fiery testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_da2387f5-b7f8-4c2a-9c58-9dfc7a34014f.html#:~:text=House%20Bill%202387)

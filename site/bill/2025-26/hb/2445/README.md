@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202445)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislature passes AGO-request bill strengthening probate law to protect grieving families | Washington State](http://www.atg.wa.gov/news/news-releases/legislature-passes-ago-request-bill-strengthening-probate-law-protect-grieving#:~:text=HB%202445)
 
 ## Meetings
 ### Thu 02/19 10:30 AM - Law & Justice (LAW): EHB 2445 Probate

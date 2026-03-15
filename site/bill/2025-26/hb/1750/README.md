@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=HB%201750)
 * 03/04/2026 [The Washington Observer](/org/the_washington_observer/) - [Local governments quietly grumble over a voting rights win](https://washingtonobserver.substack.com/p/local-governments-quietly-grumble#:~:text=HB%201750)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/02/20/session-update-and-monday-town-hall/#:~:text=HB%201750)
 * 01/28/2026 [House Democrats](/org/house_democrats/) - [Members of Color Caucus Announce 2026 Legislative Priorities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/members-of-color-caucus-announce-2026-legislative-priorities/#:~:text=HB%201750)

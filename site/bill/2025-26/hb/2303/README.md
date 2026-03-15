@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=HB%202303)
 * 03/12/2026 [Washington State Standard](/org/washington_state_standard/) - [Businesses can’t require microchip implants for workers under new WA law • Washington State Standard](https://washingtonstatestandard.com/briefs/businesses-cant-require-microchip-implants-for-workers-under-new-wa-law/#:~:text=House%20Bill%202303)
 * 03/04/2026 [House Democrats](/org/house_democrats/) - [With Senate approval of Thomas’ bill, Washington is one step closer to telling companies, “Don’t chip me, bro!”  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/04/with-senate-approval-of-thomas-bill-washington-is-one-step-closer-to-telling-companies-dont-chip-me-bro/#:~:text=House%20Bill%202303)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202303)

@@ -29,6 +29,8 @@
 * 12/08/2025 [Washington State Standard](/org/washington_state_standard/) - [Ban on police face coverings pitched ahead of WA’s 2026 legislative session • Washington State Standard](https://washingtonstatestandard.com/2025/12/08/ban-on-police-face-coverings-pitched-ahead-of-was-2026-legislative-session/#:~:text=Immigrant%20Worker%20Protection%20Act)
 * 12/08/2025 [Gorge News Center](/org/gorge_news_center/) - [Ban on police face coverings pitched ahead of WA’s 2026 legislative session](https://gorgenewscenter.com/2025/12/08/ban-on-police-face-coverings-pitched-ahead-of-was-2026-legislative-session/#:~:text=Immigrant%20Worker%20Protection%20Act)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [El procurador general Brown, en colaboración con legisladores estatales, propone la Ley de Protección a Trabajadores Inmigrantes | Washington State](http://www.atg.wa.gov/news/news-releases/el-procurador-general-brown-en-colaboraci-n-con-legisladores-estatales-propone#:~:text=HB%202105)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [La Legislatura aprueba la Ley de Protección de los Trabajadores Inmigrantes solicitada por la AGO | Washington State](http://www.atg.wa.gov/news/news-releases/la-legislatura-aprueba-la-ley-de-protecci-n-de-los-trabajadores-inmigrantes#:~:text=HB%202105)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislature passes AGO-request Immigrant Worker Protection Act | Washington State](http://www.atg.wa.gov/news/news-releases/legislature-passes-ago-request-immigrant-worker-protection-act#:~:text=HB%202105)
 
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): 2SHB 2105 Immigrant workers

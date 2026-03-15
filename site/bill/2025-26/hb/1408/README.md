@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/02/2026 [Senate Democrats](/org/senate_democrats/) - [Racing towards the finish - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/03/02/racing-towards-the-finish/#:~:text=HB%201408)

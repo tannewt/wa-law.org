@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=addressed utility costs)
 * 02/26/2026 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/02/26/february-session-recap-3/#:~:text=HB%201903)
 * 02/14/2026 [House Democrats](/org/house_democrats/) - [House passes Mena bill to lower energy costs for working families – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/house-passes-mena-bill-to-lower-energy-costs-for-working-families/#:~:text=House%20Bill%201903)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201903)

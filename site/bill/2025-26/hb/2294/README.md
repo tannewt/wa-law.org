@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=HB%202294)
 * 03/04/2026 [House Democrats](/org/house_democrats/) - [Communities Over Covenants: Senate Advances Farivar Food Access Bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/04/communities-over-covenants-senate-advances-farivar-food-access-bill/#:~:text=HB%202294)
 * 02/25/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative update: Three-quarters through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/25/legislative-update-three-quarters-through-session/#:~:text=HB%202294)
 * 02/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More bills falter as time dwindles for Washington Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/19/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=restrictions%20on%20where%20grocery%20stores%20or%20pharmacies%20can%20be%20located)

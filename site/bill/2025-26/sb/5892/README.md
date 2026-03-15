@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=SB 5892)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned sine die! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/12/the-legislature-has-adjourned-sine-die/#:~:text=took%20steps)
 * 03/01/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting your privacy from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/01/protecting-your-privacy-from-federal-overreach/#:~:text=SB%205892)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/02/20/session-update-and-monday-town-hall/#:~:text=SB 5892)

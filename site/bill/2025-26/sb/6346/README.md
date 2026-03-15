@@ -10,6 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=a%20bill)
+* 03/13/2026 [The Urbanist](/org/the_urbanist/) - [Washington Legislature Delivers Sound Transit a One-Two Punch in 2026](https://www.theurbanist.org/washington-legislature-delivers-multiple-blows-to-sound-transit-in-2026/#:~:text=Senate%20Bill%206346)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Final day of session - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/03/12/final-day-of-session/#:~:text=6346)
 * 03/12/2026 [The Center Square](/org/the_center_square/) - [WATCH: NFIB WA says income tax could cripple small businesses | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a57562d9-f01c-41e2-a921-2f126fa9085b.html#:~:text=Senate%20Bill%206346)
 * 03/12/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-thats-wrap-session-ends-whimper-new-state-income-tax/#:~:text=(Senate%20Bill%206346))

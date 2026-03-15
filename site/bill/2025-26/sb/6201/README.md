@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/14/2026 [The Urbanist](/org/the_urbanist/) - [Seattle Social Housing Developer Wins New Tool from State Lawmakers](https://www.theurbanist.org/seattle-social-housing-developer-wins-new-tool-from-state-lawmakers/#:~:text=SB%206201)
+
 ## Meetings
 ### Wed 01/28 10:30 AM - Housing (HSG): SB 6201 Social housing agencies/tax
 #### 111 👍 - Pro

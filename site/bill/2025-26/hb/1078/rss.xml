@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1078/</link>
 		<description>Updates about HB 1078</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 04 Mar 2026 07:02:47 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -181,6 +181,13 @@
 			<pubDate>Wed, 04 Mar 2026 07:02:47 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.kuow.org/stories/more-bills-knocked-out-of-running-in-washington-legislature#:~:text=House%20Bill%201078</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to House Rules Committee for third reading.</title>
+			<description>By resolution, returned to House Rules Committee for third reading.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/By resolution, returned to House Rules Committee for third reading.</guid>
 		</item>
 	</channel>
 </rss>

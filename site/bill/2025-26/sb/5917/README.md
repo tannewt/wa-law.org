@@ -9,6 +9,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/14/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington law will make it easier for state to distribute its abortion pill stockpile • Washington State Standard](https://washingtonstatestandard.com/2026/03/14/washington-law-will-make-it-easier-for-state-to-distribute-its-abortion-pill-stockpile/#:~:text=Senate%20Bill%205917)
+* 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=SB%205917)
 * 03/06/2026 [Senate Democrats](/org/senate_democrats/) - [One week left! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/06/one-week-left/#:~:text=SB%205917)
 * 02/21/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes the Senate! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/20/millionaires-tax-passes-the-senate/#:~:text=SB%205917)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/02/20/session-update-and-monday-town-hall/#:~:text=SB 5917)

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=HB%202272)
+
 ## Meetings
 ### Tue 01/13 04:00 PM - Environment & Energy (ENVI): HB 2272 Ski areas and winter sports
 #### 1 👍 - Pro

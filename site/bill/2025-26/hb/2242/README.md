@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=HB%202242)
 * 03/09/2026 [KING5](/org/king5/) - [Ferguson signs new laws on housing, healthcare | king5.com](https://www.king5.com/article/news/politics/state-politics/new-washington-laws-housing-healthcare/281-53aceb02-b644-43f9-bd36-bfd741cee887#:~:text=Engrossed%20Substitute%20House%20Bill%20No.%202242)
 * 03/05/2026 [FOX13](/org/fox13/) - [WA bills on face coverings, ghost guns, nitrous oxide | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-face-coverings-ghost-guns-nitrous-oxide#:~:text=HB%202242)
 * 02/27/2026 [The Center Square](/org/the_center_square/) - [WA passes legislation requiring no-cost insurance for state-recommended vaccines | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_395f2ab6-e30b-4b0a-84b0-c4d6018bc1cb.html#:~:text=House%20Bill%202242)
