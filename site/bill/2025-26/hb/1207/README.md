@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201207)
 * 06/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington State Library closing to the public, 12 jobs getting axed • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-state-library-closing-to-the-public-12-jobs-getting-axed/#:~:text=A%20bill%20signed%20by%20Ferguson)
 * 05/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Money crunch: Nearly 50 WA State Library employees facing layoffs • Washington State Standard](https://washingtonstatestandard.com/2025/05/13/money-crunch-nearly-50-wa-state-library-employees-facing-layoffs/#:~:text=A%20bill%20awaiting%20action%20by%20Gov.%20Bob%20Ferguson)
 

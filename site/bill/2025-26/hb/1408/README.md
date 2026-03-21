@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [A Decade of Service, A Heart Full of Gratitude - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/03/16/a-decade-of-service-a-heart-full-of-gratitude/#:~:text=HB%201408)
 * 03/02/2026 [Senate Democrats](/org/senate_democrats/) - [Racing towards the finish - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/03/02/racing-towards-the-finish/#:~:text=HB%201408)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=House%20Bill 1408)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201408)

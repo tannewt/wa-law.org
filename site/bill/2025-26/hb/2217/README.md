@@ -18,7 +18,7 @@ Testifying:
 * Katherine Hurley - King County Dept of Public Defense
 * Ramona Brandes - Sentencing Guidelines Commission
 * Tim Warden-Hertz - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
-* Cindy Liou - OneAmerica
+* 💵Cindy Liou - OneAmerica
 * Gisella Gonzales - Team children youth, advocacy, coalition
 * Melinda Young
 

@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202081)
 * 02/02/2026 [Senate Republicans](/org/senate_republicans/) - [ALERT: Listening sessions for the two initiatives before the Legislature - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-listening-sessions-two-initiatives-legislature/#:~:text=Initiative%202081,%20the%20initial%20Parents’%20Bill%20of%20Rights,)
 * 12/31/2025 [Gorge News Center](/org/gorge_news_center/) - [These new laws and taxes take effect in Washington state on Jan. 1](https://gorgenewscenter.com/2025/12/31/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1/#:~:text=additional%20business%20and%20occupation%20tax)
 * 12/30/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [These new laws and taxes take effect in Washington state on Jan. 1 | Cascadia Daily News](https://www.cascadiadaily.com/2025/dec/30/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1/#:~:text=additional%20business%20and%20occupation%20tax)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202045)
 * 04/11/2025 [The Burner](/org/the_burner/) - [WA Democrats May Bypass Gov. Ferguson Veto Threat With Hail Mary Wealth Tax  Referendum Bill](https://www.theburnerseattle.com/post/wa-democrats-may-bypass-gov-ferguson-veto-threat-with-hail-mary-wealth-tax-referendum-bill#:~:text=House’s)
 * 04/09/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Progressive revenue bills 2025 — Quaker Voice](https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=HB%202045)
 * 04/08/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Washington Legislature Must Break Boeing’s Corporate Handout Addiction - The Urbanist](https://www.theurbanist.org/2025/04/08/op-ed-break-boeings-handout-addiction/#:~:text=proposal%20for%20increasing%20the%20business%20and%20occupations%20tax%20rate)

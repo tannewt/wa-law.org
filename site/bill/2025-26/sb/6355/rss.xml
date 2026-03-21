@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6355/</link>
 		<description>Updates about SB 6355</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 16 Mar 2026 21:08:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -356,6 +356,20 @@
 			<pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-13/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>WATCH: Concerns about new WA agency tasked with modernizing energy grid | Energy | thecentersquare.com</title>
+			<description>News article "WATCH: Concerns about new WA agency tasked with modernizing energy grid | Energy | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 16 Mar 2026 17:16:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/issues/energy/article_670af00b-3018-4446-862e-6bcc12a15371.html#:~:text=Senate%20Bill%206355</guid>
+		</item>
+		<item>
+			<title>Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt</title>
+			<description>News article "Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt" from Senate Democrats.</description>
+			<pubDate>Mon, 16 Mar 2026 21:08:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=Senate%20Bill%206355</guid>
 		</item>
 	</channel>
 </rss>

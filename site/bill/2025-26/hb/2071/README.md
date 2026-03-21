@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202071)
 * 04/09/2025 [FOX13](/org/fox13/) - [Possible WA tax on dating app companies | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-tax-online-dating-companies#:~:text=House%20Bill%202071)
 * 04/08/2025 [The Center Square](/org/the_center_square/) - [Online dating tax bill would fund efforts to fight domestic violence in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_840d775f-4987-4723-972e-e09b64927e28.html#:~:text=House%20Bill%202071)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202071)

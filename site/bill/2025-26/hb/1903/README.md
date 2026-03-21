@@ -11,6 +11,11 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/19/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes as 2026 session ends - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/19/millionaires-tax-passes-as-2026-session-ends/#:~:text=HB%201903)
+* 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [A few accomplishments this session - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/03/18/a-few-accomplishments-this-session/#:~:text=HB%201903))
+* 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=HB%201903)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=HB%201903)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Has Concluded: Here’s What We Achieved - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/03/16/the-2026-legislative-session-has-concluded-heres-what-we-achieved/#:~:text=HB%201903)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=addressed utility costs)
 * 02/26/2026 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/02/26/february-session-recap-3/#:~:text=HB%201903)
 * 02/14/2026 [House Democrats](/org/house_democrats/) - [House passes Mena bill to lower energy costs for working families – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/house-passes-mena-bill-to-lower-energy-costs-for-working-families/#:~:text=House%20Bill%201903)

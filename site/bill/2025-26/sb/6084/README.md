@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/19/2026 [KUOW](/org/kuow/) - [KUOW - New Washington law reaffirms ban on voting more than once in an election](https://www.kuow.org/stories/new-washington-law-reaffirms-ban-on-voting-more-than-once-in-an-election#:~:text=Senate%20Bill%206084.)
+* 03/18/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington state clarifies what is an ‘election’ • Washington State Standard](https://washingtonstatestandard.com/briefs/new-wa-law-clarifies-what-is-an-election/#:~:text=Senate%20Bill%206084)
+* 03/18/2026 [MyNorthwest](/org/mynorthwest/) - [Governor Ferguson signs bill prohibiting double voting in Washington - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/ferguson-voting-bill-signed/4218264#:~:text=Senate%20Bill%206084)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%206084)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February update from Olympia - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/02/20/february-update/#:~:text=Senate%20Bill%206084)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SB%206084)

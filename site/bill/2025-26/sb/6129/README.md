@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%206129)
 * 03/09/2026 [The Washington Observer](/org/the_washington_observer/) - [Tax policy news galore for the end-game](https://washingtonobserver.substack.com/p/tax-policy-news-galore-for-the-end#:~:text=Senate%20Bill%206129)
 * 03/05/2026 [Washington State Standard](/org/washington_state_standard/) - [Cigarette tax hike still in play as WA legislative session wanes • Washington State Standard](https://washingtonstatestandard.com/2026/03/04/cigarette-tax-hike-still-in-play-as-wa-legislative-session-wanes/#:~:text=Senate%20Bill%206129)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate%20Bill%206129)

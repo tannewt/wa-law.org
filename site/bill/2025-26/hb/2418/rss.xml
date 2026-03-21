@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2418/</link>
 		<description>Updates about HB 2418</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 12 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Mar 2026 18:48:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -397,6 +397,20 @@
 			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-12/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt</title>
+			<description>News article "Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt" from Senate Democrats.</description>
+			<pubDate>Mon, 16 Mar 2026 21:08:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=HB%202418</guid>
+		</item>
+		<item>
+			<title>What we accomplished this session  - Sen. Manka Dhingra</title>
+			<description>News article "What we accomplished this session  - Sen. Manka Dhingra" from Senate Democrats.</description>
+			<pubDate>Wed, 18 Mar 2026 18:48:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=HB%202418</guid>
 		</item>
 	</channel>
 </rss>

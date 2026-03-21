@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205390)
 * 04/24/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington Legislature approves hiking Discover Pass price to $45 • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-legislature-approves-hiking-discover-pass-price-to-45/#:~:text=Senate%20Bill%205390)
 * 04/07/2025 [KIRO7](/org/kiro7/) - [Lawmakers advance bill to raise price of Discover Pass – KIRO 7 News Seattle](https://www.kiro7.com/news/local/lawmakers-advance-bill-raise-price-discover-pass/U32MQCLVWJA5BM6N3OGIF4ERMU/#:~:text=Senate%20Bill%205390.)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205390)

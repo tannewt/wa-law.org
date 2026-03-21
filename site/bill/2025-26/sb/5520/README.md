@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/17/2026 [Senate Democrats](/org/senate_democrats/) - [That’s a wrap on the 2026 legislative session! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/17/thats-a-wrap-on-the-2026-legislative-session/#:~:text=SB%205520)
 * 03/05/2026 [Senate Democrats](/org/senate_democrats/) - [Budget investments for flood recovery; bill update before session ends - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/04/budget-investments-for-flood-recovery-bill-update-before-session-ends/#:~:text=easier%20for%20wrongly%20convicted%20people)
 
 ## Meetings

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201334)
 * 04/03/2025 [The Urbanist](/org/the_urbanist/) - [Ferguson Ignites Revenue Battle with State Democrats, Threatening Veto - The Urbanist](https://www.theurbanist.org/2025/04/03/ferguson-ignites-revenue-battle-with-state-democrats/#:~:text=a%20provision)
 * 03/06/2025 [The Urbanist](/org/the_urbanist/) - [Seattle and King County Grapple with Federal Disinvestment and Threats - The Urbanist](https://www.theurbanist.org/2025/03/06/seattle-and-king-county-grapple-with-federal-threats/#:~:text=HB%201334)
 * 02/17/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [House Democrats begin push to repeal Washington’s cap on property tax hikes | Cascadia Daily News](https://www.cascadiadaily.com/2025/feb/17/house-democrats-begin-push-to-repeal-washingtons-cap-on-property-tax-hikes/#:~:text=House%20Bill%201334)

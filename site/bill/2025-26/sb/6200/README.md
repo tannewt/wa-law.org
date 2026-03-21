@@ -38,7 +38,7 @@ Testifying:
 * Gordon Wheat - Washington Physicians for Social Responsibility
 * 💵James Moschella - Washington Physicians for Social Responsibility
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
-* Kimberly Loewen - Elevate
+* 💵Kimberly Loewen - Elevate
 * Shay Stokes - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * 💵Carl Nelson - Cedar Crossing Tenants Association
 * Gayle Kouklis

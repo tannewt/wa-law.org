@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2428/</link>
 		<description>Updates about HB 2428</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 16 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -181,6 +181,27 @@
 			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-06/President signed.</guid>
+		</item>
+		<item>
+			<title>Chapter 62, 2026 Laws.</title>
+			<description>Chapter 62, 2026 Laws.</description>
+			<pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-16/Chapter 62, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 1/1/2027.</title>
+			<description>Effective date 1/1/2027.</description>
+			<pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-16/Effective date 1/1/2027.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-16/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/18/2026 [Food Lifeline](/org/food_lifeline/) - [2026 Washington State Legislative Session Summary  | Food Lifeline](https://foodlifeline.org/article/2026-washington-state-legislative-session-summary#:~:text=HB%202297)
 * 02/05/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [The bills that didn’t survive the WA Legislature’s first major deadline | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/05/the-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=tax%20incentives)
 * 02/05/2026 [KUOW](/org/kuow/) - [KUOW - The bills that didn’t survive the Washington Legislature’s first major deadline](https://www.kuow.org/stories/the-bills-that-didn-t-survive-the-washington-legislature-s-first-major-deadline#:~:text=tax%20incentives)
 * 02/05/2026 [Washington State Standard](/org/washington_state_standard/) - [The bills that didn’t survive the WA Legislature’s first major deadline • Washington State Standard](https://washingtonstatestandard.com/2026/02/05/the-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=tax%20incentives)

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201867)
+
 ## Meetings
 ### Thu 02/13 01:30 PM - Finance (FIN): HB 1867 Affordable housing REET
 #### 270 👍 - Pro

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/17/2026 [House Democrats](/org/house_democrats/) - [House passes child care bill focused on flexibility, safety, and access – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/17/house-passes-child-care-bill-focused-on-flexibility-safety-and-access/#:~:text=House%20Bill%202219)

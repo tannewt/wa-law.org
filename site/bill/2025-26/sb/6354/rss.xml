@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6354/</link>
 		<description>Updates about SB 6354</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 16 Mar 2026 22:18:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -371,6 +371,27 @@
 			<pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-13/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>KUOW - Tesla loses Washington loophole as Rivian, Lucid score direct deals</title>
+			<description>News article "KUOW - Tesla loses Washington loophole as Rivian, Lucid score direct deals" from Senate Democrats.</description>
+			<pubDate>Mon, 16 Mar 2026 16:39:34 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2026/03/16/kuow-tesla-loses-washington-loophole-as-rivian-lucid-score-direct-deals/#:~:text=Senate%20Bill%206354</guid>
+		</item>
+		<item>
+			<title>KUOW - Tesla loses Washington loophole as Rivian, Lucid score direct deals</title>
+			<description>News article "KUOW - Tesla loses Washington loophole as Rivian, Lucid score direct deals" from KUOW.</description>
+			<pubDate>Mon, 16 Mar 2026 16:39:34 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/tesla-loses-washington-loophole-as-rivian-lucid-score-direct-deals#:~:text=Senate%20Bill%206354</guid>
+		</item>
+		<item>
+			<title>WA is close to letting Rivian and Lucid sell directly to customers at showrooms • Washington State Standard</title>
+			<description>News article "WA is close to letting Rivian and Lucid sell directly to customers at showrooms • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Mon, 16 Mar 2026 22:18:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/03/16/wa-is-close-to-letting-rivian-and-lucid-sell-directly-to-customers-at-showrooms/#:~:text=Senate%20Bill%206354</guid>
 		</item>
 	</channel>
 </rss>

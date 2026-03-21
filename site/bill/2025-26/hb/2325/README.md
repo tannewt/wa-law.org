@@ -10,6 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
 
+## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202325)
+
 ## Meetings
 ### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2325 Tourism assessment
 #### 88 👍 - Pro

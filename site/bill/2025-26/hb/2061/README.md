@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202061)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202061)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats will tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=House%20Bill%202061%20|%20Concession%20fees)
 

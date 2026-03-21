@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205813)
 * 07/02/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature addresses budget shortfall with balanced approach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/02/legislature-addresses-budget-shortfall-with-balanced-approach/#:~:text=SB%205813)
 * 06/19/2025 [The Center Square](/org/the_center_square/) - [Will Washington state’s higher capital gains tax drive businesses away? | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_886de93b-f73c-49a5-b04e-f1cbd3bc6f84.html#:~:text=Senate%20Bill%205813)
 * 06/17/2025 [FOX13](/org/fox13/) - [These new WA laws go into effect July 1 | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-laws-july-1-2025#:~:text=SB%205813)

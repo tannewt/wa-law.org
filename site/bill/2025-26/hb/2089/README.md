@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202089)
 * 02/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Rollback of mortgage lender tax break eyed to help replenish WA wildfire account • Washington State Standard](https://washingtonstatestandard.com/2026/02/19/rollback-of-mortgage-lender-tax-break-eyed-to-help-replenish-wa-wildfire-account/#:~:text=House%20Bill%202089)
 * 02/09/2026 [House Democrats](/org/house_democrats/) - [Scott’s Bill to Restore Wildfire Mitigation Funding Advances – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/09/scotts-bill-to-restore-wildfire-mitigation-funding-advances/#:~:text=HB%202089)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202089)

@@ -10,6 +10,8 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201607)
+* 03/17/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Letters, Week of March 18, 2026: Nuclear weapons, ACP, clock alignment | Cascadia Daily News](https://www.cascadiadaily.com/2026/mar/17/letters-week-of-march-18-2026-nuclear-weapons-acp-clock-alignment/#:~:text=Bottles%20and%20Cans%20Recycling%20Refund%20Act)
 * 02/10/2026 [MyNorthwest](/org/mynorthwest/) - [Harger: Grocery prices in WA are already painful, but new legislative proposals could make them even worse - MyNorthwest.com](https://mynorthwest.com/kiro-opinion/harger-grocery-prices-wa/4201102#:~:text=moratorium)
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%201607)
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=HB%201607)

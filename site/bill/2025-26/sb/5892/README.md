@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=SB%205892)
+* 03/17/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature adjourns with big results for Spokane - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/03/17/legislature-adjourns-with-big-results-for-spokane/#:~:text=Senate%20Bill%205892)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%205892)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Has Concluded: Here’s What We Achieved - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/03/16/the-2026-legislative-session-has-concluded-heres-what-we-achieved/#:~:text=SB%205892)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=SB 5892)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned sine die! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/12/the-legislature-has-adjourned-sine-die/#:~:text=took%20steps)
 * 03/01/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting your privacy from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/01/protecting-your-privacy-from-federal-overreach/#:~:text=SB%205892)

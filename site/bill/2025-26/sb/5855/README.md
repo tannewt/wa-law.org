@@ -9,6 +9,14 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Face mask ban for police in Washington is signed into law • Washington State Standard](https://washingtonstatestandard.com/2026/03/19/face-mask-ban-for-police-in-washington-is-signed-into-law/#:~:text=Senate%20Bill%205855)
+* 03/19/2026 [Senate Democrats](/org/senate_democrats/) - [Masked law enforcement banned under new Washington state law  - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/03/19/masked-law-enforcement-banned-under-new-washington-state-law/#:~:text=Substitute%20Senate%20Bill%205855)
+* 03/19/2026 [FOX13](/org/fox13/) - [Gov. Ferguson signs ban on law enforcement face coverings | FOX 13 Seattle](https://www.fox13seattle.com/news/ferguson-ban-law-enforcement-face-coverings#:~:text=Senate%20Bill%205855)
+* 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=SB%205855)
+* 03/17/2026 [Senate Democrats](/org/senate_democrats/) - [That’s a wrap on the 2026 legislative session! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/17/thats-a-wrap-on-the-2026-legislative-session/#:~:text=successfully%20fought)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%205855)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [A Decade of Service, A Heart Full of Gratitude - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/03/16/a-decade-of-service-a-heart-full-of-gratitude/#:~:text=Senate%20Bill%205855)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Has Concluded: Here’s What We Achieved - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/03/16/the-2026-legislative-session-has-concluded-heres-what-we-achieved/#:~:text=Senate%20Bill%205855)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=SB%205855,)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned sine die! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/12/the-legislature-has-adjourned-sine-die/#:~:text=banned)
 * 03/12/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-thats-wrap-session-ends-whimper-new-state-income-tax/#:~:text=SB%205855:%20Prohibiting%20Face%20Masks%20for%20Law%20Enforcement:)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2616/</link>
 		<description>Updates about HB 2616</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Mar 2026 06:49:34 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Mar 2026 16:39:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -86,6 +86,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Charlie/Brown/2026-03-03 06:49:34</guid>
+		</item>
+		<item>
+			<title>2026 Washington State Legislative Session Summary  | Food Lifeline</title>
+			<description>News article "2026 Washington State Legislative Session Summary  | Food Lifeline" from Food Lifeline.</description>
+			<pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://foodlifeline.org/article/2026-washington-state-legislative-session-summary#:~:text=HB%202616</guid>
+		</item>
+		<item>
+			<title>Why farmworker union rights died</title>
+			<description>News article "Why farmworker union rights died" from The Washington Observer.</description>
+			<pubDate>Wed, 18 Mar 2026 16:39:28 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonobserver.substack.com/p/why-farmworker-union-rights-died#:~:text=HB%202616</guid>
 		</item>
 	</channel>
 </rss>

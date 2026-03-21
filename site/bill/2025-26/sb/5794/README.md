@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205794)
 * 12/07/2025 [The Spokesman-Review](/org/the_spokesman-review/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://www.spokesman.com/stories/2025/dec/07/bills-begin-streaming-in-ahead-of-was-2026-legisla/#:~:text=Senate%20Bill%205794)
 * 12/07/2025 [Gorge News Center](/org/gorge_news_center/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://gorgenewscenter.com/2025/12/07/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=Senate%20Bill%205794)
 * 12/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills begin streaming in ahead of WA’s 2026 legislative session • Washington State Standard](https://washingtonstatestandard.com/2025/12/06/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=Senate%20Bill%205794)

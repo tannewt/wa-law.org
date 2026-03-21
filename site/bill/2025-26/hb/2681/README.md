@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202681)
+
 ## Meetings
 ### Mon 03/09 10:00 AM - Ways & Means (WM): EHB 2681 Cannabis license fees
 #### 26 👍 - Pro

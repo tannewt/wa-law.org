@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%206262)
+
 ## Meetings
 ### Thu 02/26 01:30 PM - Transportation (TR): ESSB 6262 Vehicle fees/maximum weight
 #### 22 👍 - Pro

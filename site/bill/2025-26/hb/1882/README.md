@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201882)
+
 ## Meetings
 ### Tue 02/18 08:00 AM - Finance (FIN): HB 1882 State tax on lodging
 #### 5 👍 - Pro

@@ -11,6 +11,8 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=SB%206026)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%206026)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=SB%206026)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned sine die! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/12/the-legislature-has-adjourned-sine-die/#:~:text=changing%20zoning%20laws)
 * 03/11/2026 [Sightline Institute](/org/sightline_institute/) - [Washington Just Passed First-in-the-US Flexibility for Ground-Floor Retail | Sightline Institute](https://www.sightline.org/2026/03/11/washington-just-passed-first-in-the-us-flexibility-for-ground-floor-retail/#:~:text=SB%206026)

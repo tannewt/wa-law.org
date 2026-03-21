@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201386)
 * 11/21/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [What’s Coming for Washington Gun Owners in 2026 - Conservative Ladies of Washington](https://conservativeladiesofwa.com/2026-gun-bills-preview/#:~:text=HB%201386)
 * 08/06/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [CPLs Skyrocket in Wake of Gun Control Overreach - Conservative Ladies of Washington](https://conservativeladiesofwa.com/cpls-skyrocket-in-wake-of-gun-control-overreach/#:~:text=HB%201386)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201386)

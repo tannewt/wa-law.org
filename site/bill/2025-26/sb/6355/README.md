@@ -8,6 +8,10 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=Senate%20Bill%206355)
+* 03/16/2026 [The Center Square](/org/the_center_square/) - [WATCH: Concerns about new WA agency tasked with modernizing energy grid | Energy | thecentersquare.com](https://www.thecentersquare.com/issues/energy/article_670af00b-3018-4446-862e-6bcc12a15371.html#:~:text=Senate%20Bill%206355)
+
 ## Meetings
 ### Thu 03/05 08:00 AM - Appropriations (APP): SSB 6355 Electric transmission system
 #### 169 👍 - Pro

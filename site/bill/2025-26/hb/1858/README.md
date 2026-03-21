@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201858)
 * 10/16/2025 [Capitol Hill Seattle Blog](/org/capitol_hill_seattle_blog/) - [Tax the rich? 43rd District’s Rep. Scott at the center of debate over a Washington wealth tax | CHS Capitol Hill Seattle News](https://www.capitolhillseattle.com/2025/10/tax-the-rich-43rd-districts-rep-scott-at-the-center-of-debate-over-a-washington-wealth-tax/#:~:text=House%20Bill%201858)
 * 07/26/2025 [House Republicans](/org/house_republicans/) - [Summer update: New taxes, old budget problems | Washington State House Republicans](https://houserepublicans.wa.gov/current/summer-update-new-taxes-old-budget-problems/#:~:text=House%20Bill%201858)
 * 05/06/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Budget Compromise Leaves Many Hoping for More - The Urbanist](https://www.theurbanist.org/2025/05/06/washington-state-budget-compromise-leaves-many-hoping-for-more/#:~:text=HB%201858)

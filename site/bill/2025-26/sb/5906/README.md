@@ -111,6 +111,6 @@ Testifying:
 
 #### 25 ❓ - Other
 Testifying:
-* Cindy Liou - OneAmerica
+* 💵Cindy Liou - OneAmerica
 * Lee Che LEONG - Northwest Health Law Advocates (NoHLA)
 * 💵Lisa Thatcher - Washington State Hospital Association

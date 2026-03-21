@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/18/2026 [Food Lifeline](/org/food_lifeline/) - [2026 Washington State Legislative Session Summary  | Food Lifeline](https://foodlifeline.org/article/2026-washington-state-legislative-session-summary#:~:text=PSSB%206003)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [The Capital budget is great for our community - Sen. Mike Chapman](https://senatedemocrats.wa.gov/chapman/2026/03/13/the-capital-budget-is-great-for-our-community/#:~:text=plan%20received%20unanimous%20support%20every%20step%20of%20the%20way)
 * 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=SSB%206003)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=SSB%206003)

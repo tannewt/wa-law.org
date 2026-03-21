@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205786)
 * 07/26/2025 [House Republicans](/org/house_republicans/) - [Summer update: New taxes, old budget problems | Washington State House Republicans](https://houserepublicans.wa.gov/current/summer-update-new-taxes-old-budget-problems/#:~:text=Senate%20Bill%205786)
 
 ## Meetings

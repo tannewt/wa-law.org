@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/19/2026 [KUOW](/org/kuow/) - [KUOW - New law seeks to help clear up Washington’s DUI testing backlog](https://www.kuow.org/stories/new-law-seeks-to-help-clear-up-washington-s-dui-testing-backlog#:~:text=legislation%20in%202025)
+* 03/19/2026 [Washington State Standard](/org/washington_state_standard/) - [New law seeks to help clear up Washington’s DUI testing backlog • Washington State Standard](https://washingtonstatestandard.com/2026/03/19/new-law-seeks-to-help-clear-up-washingtons-dui-testing-backlog/#:~:text=legislation%20in%202025)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201228)
 * 01/23/2025 [The Center Square](/org/the_center_square/) - [Seattle city attorney pushes for approval of state bill to speed up DUI cases | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3436aa4c-d9dd-11ef-b4d9-d3bb9aaa7565.html#:~:text=House%20Bill%201228)
 

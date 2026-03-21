@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/19/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes as 2026 session ends - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/19/millionaires-tax-passes-as-2026-session-ends/#:~:text=HB%206162)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=HB%206162)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Has Concluded: Here’s What We Achieved - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/03/16/the-2026-legislative-session-has-concluded-heres-what-we-achieved/#:~:text=HB 6162)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned sine die! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/12/the-legislature-has-adjourned-sine-die/#:~:text=cut%20property%20taxes)
 * 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [The Senate is (almost) adjourned - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/03/12/the-senate-is-almost-adjourned/#:~:text=Senate%20Bill%206162)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESSB%206162)

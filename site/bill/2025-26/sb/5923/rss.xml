@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5923/</link>
 		<description>Updates about SB 5923</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -195,6 +195,27 @@
 			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-09/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Chapter 84, 2026 Laws.</title>
+			<description>Chapter 84, 2026 Laws.</description>
+			<pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-17/Chapter 84, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/11/2026.</title>
+			<description>Effective date 6/11/2026.</description>
+			<pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-17/Effective date 6/11/2026.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-17/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

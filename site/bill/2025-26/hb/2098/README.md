@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202098)
 * 02/01/2026 [The Urbanist](/org/the_urbanist/) - [Op-Ed: State Lawmakers Should Hold Amazon, Microsoft Accountable for Supporting Fascism » The Urbanist](https://www.theurbanist.org/2026/02/01/op-ed-state-lawmakers-should-hold-amazon-microsoft-accountable-for-supporting-fascism/#:~:text=House%20Bill%202098)
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%202098)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202098)

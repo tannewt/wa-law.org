@@ -10,6 +10,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/19/2026 [KUOW](/org/kuow/) - [KUOW - Washington students attending private universities to see state financial aid cut](https://www.kuow.org/stories/washington-students-attending-private-universities-to-see-state-financial-aid-cut#:~:text=a%20bill%20to%20reduce%20financial%20aid)
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205785)
+* 03/18/2026 [Washington State Standard](/org/washington_state_standard/) - [WA students attending private universities to see state financial aid cut • Washington State Standard](https://washingtonstatestandard.com/2026/03/18/wa-students-attending-private-universities-to-see-state-financial-aid-cut/#:~:text=a%20bill%20to%20reduce%20financial%20aid)
 * 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [Bill to boost financial aid for students at WA's private colleges moves out of Senate • Washington State Standard](https://washingtonstatestandard.com/briefs/bill-to-boost-financial-aid-for-students-at-washingtons-private-colleges-moves-out-of-senate/#:~:text=Senate%20Bill%205785)
 * 05/31/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Democrats Acted Irresponsibly, Failed to Trump-Proof Washington State in 2025 Session » The Urbanist](https://www.theurbanist.org/2025/05/31/op-ed-democrats-acted-irresponsibly-failed-to-trump-proof-wa/#:~:text=with%20no%20Republicans%20supporting)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205785)

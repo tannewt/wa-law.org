@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5998/</link>
 		<description>Updates about SB 5998</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -2854,6 +2854,13 @@
 			<pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-13/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>2026 Washington State Legislative Session Summary  | Food Lifeline</title>
+			<description>News article "2026 Washington State Legislative Session Summary  | Food Lifeline" from Food Lifeline.</description>
+			<pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://foodlifeline.org/article/2026-washington-state-legislative-session-summary#:~:text=ESSB%205998</guid>
 		</item>
 	</channel>
 </rss>

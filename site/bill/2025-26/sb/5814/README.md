@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205814)
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=ESSB%205814)
 * 01/02/2026 [MyNorthwest](/org/mynorthwest/) - [WA’s new laws for 2026: Minimum wage hike, nicotine tax, more worker protections](https://mynorthwest.com/mynorthwest-politics/washington-laws-2026/4180467#:~:text=Senate%20Bill%205814)
 * 12/31/2025 [The Center Square](/org/the_center_square/) - [Several new laws to take effect in Washington state in 2026 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_dfd8bcb2-ed34-4896-bd1a-000eb34a42b2.html#:~:text=Senate%20Bill%205814)

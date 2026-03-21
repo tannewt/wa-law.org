@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5922/</link>
 		<description>Updates about SB 5922</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 16 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,6 +140,27 @@
 			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-09/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Chapter 71, 2026 Laws.</title>
+			<description>Chapter 71, 2026 Laws.</description>
+			<pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-16/Chapter 71, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/11/2026.</title>
+			<description>Effective date 6/11/2026.</description>
+			<pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-16/Effective date 6/11/2026.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-16/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

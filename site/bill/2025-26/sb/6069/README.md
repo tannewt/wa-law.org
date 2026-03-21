@@ -23,7 +23,7 @@ Testifying:
 * Sarah Dickmeyer - Plymouth Housing
 * Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
 * 💵Eric Pettigrew - The Moore Group
-* Jameel Brown - 2027146332
+* 💵Jameel Brown - 2027146332
 * Tanikka Watford - The Moore Wright Group
 * 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 * Dan Wise - [Catholic Community Services](/org/catholic_community_services/)

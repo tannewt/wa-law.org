@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/16/2026 [Washington State Standard](/org/washington_state_standard/) - [WA is close to letting Rivian and Lucid sell directly to customers at showrooms • Washington State Standard](https://washingtonstatestandard.com/2026/03/16/wa-is-close-to-letting-rivian-and-lucid-sell-directly-to-customers-at-showrooms/#:~:text=Senate%20Bill%206354)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [KUOW - Tesla loses Washington loophole as Rivian, Lucid score direct deals](https://senatedemocrats.wa.gov/liias/2026/03/16/kuow-tesla-loses-washington-loophole-as-rivian-lucid-score-direct-deals/#:~:text=Senate%20Bill%206354)
+* 03/16/2026 [KUOW](/org/kuow/) - [KUOW - Tesla loses Washington loophole as Rivian, Lucid score direct deals](https://www.kuow.org/stories/tesla-loses-washington-loophole-as-rivian-lucid-score-direct-deals#:~:text=Senate%20Bill%206354)
 * 03/02/2026 [Washington State Standard](/org/washington_state_standard/) - [For Rivian and Lucid, path finally emerges for direct-to-consumer car sales in WA • Washington State Standard](https://washingtonstatestandard.com/2026/03/02/for-rivian-and-lucid-path-finally-emerges-for-direct-to-consumer-car-sales/#:~:text=Senate%20Bill%206354)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SB%206354)
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6309/</link>
 		<description>Updates about SB 6309</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Mar 2026 18:12:43 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Mar 2026 15:30:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -257,6 +257,13 @@
 			<pubDate>Fri, 13 Mar 2026 18:12:43 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/washington-legislature-delivers-multiple-blows-to-sound-transit-in-2026/#:~:text=Senate%20Bill%206309</guid>
+		</item>
+		<item>
+			<title>KUOW - ST3 cannot be delivered on time, so Sound Transit is considering light rail cuts</title>
+			<description>News article "KUOW - ST3 cannot be delivered on time, so Sound Transit is considering light rail cuts" from KUOW.</description>
+			<pubDate>Wed, 18 Mar 2026 15:30:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/st3-cannot-be-delivered-on-time-so-sound-transit-is-considering-light-rail-cuts#:~:text=a%20bill</guid>
 		</item>
 	</channel>
 </rss>

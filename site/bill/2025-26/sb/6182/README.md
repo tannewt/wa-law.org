@@ -10,6 +10,8 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=SB%206182)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%206182)
 * 03/14/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington law will make it easier for state to distribute its abortion pill stockpile • Washington State Standard](https://washingtonstatestandard.com/2026/03/14/washington-law-will-make-it-easier-for-state-to-distribute-its-abortion-pill-stockpile/#:~:text=Senate%20Bill%206182)
 * 03/09/2026 [Washington State Standard](/org/washington_state_standard/) - [Fee on health insurers to fund abortion services debated in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/09/fee-on-health-insurers-to-fund-abortion-services-debated-in-wa-legislature/#:~:text=Senate%20Bill%206182)
 * 02/21/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes the Senate! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/20/millionaires-tax-passes-the-senate/#:~:text=SB%206182)

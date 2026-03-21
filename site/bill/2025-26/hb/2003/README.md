@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202003)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats will tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=House%20Bill%202003%20|%20Another%20fishing%20license%20increase)
 
 ## Meetings

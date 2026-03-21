@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5917/</link>
 		<description>Updates about SB 5917</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 14 Mar 2026 20:15:35 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 16 Mar 2026 21:08:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -357,6 +357,27 @@
 			<guid isPermaLink="false">2026-03-09/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 52, 2026 Laws.</title>
+			<description>Chapter 52, 2026 Laws.</description>
+			<pubDate>Sat, 14 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-14/Chapter 52, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 3/14/2026.</title>
+			<description>Effective date 3/14/2026.</description>
+			<pubDate>Sat, 14 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-14/Effective date 3/14/2026.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Sat, 14 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-14/Governor signed.</guid>
+		</item>
+		<item>
 			<title>Here are the bills signed into law this week in Washington state | king5.com</title>
 			<description>News article "Here are the bills signed into law this week in Washington state | king5.com" from KING5.</description>
 			<pubDate>Sat, 14 Mar 2026 16:44:13 GMT</pubDate>
@@ -369,6 +390,20 @@
 			<pubDate>Sat, 14 Mar 2026 20:15:35 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/03/14/washington-law-will-make-it-easier-for-state-to-distribute-its-abortion-pill-stockpile/#:~:text=Senate%20Bill%205917</guid>
+		</item>
+		<item>
+			<title>Washington law will make it easier for state to distribute its abortion pill stockpile | Northwest News | wenatcheeworld.com</title>
+			<description>News article "Washington law will make it easier for state to distribute its abortion pill stockpile | Northwest News | wenatcheeworld.com" from Wenatchee World.</description>
+			<pubDate>Mon, 16 Mar 2026 13:16:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wenatcheeworld.com/news/northwest/washington-law-will-make-it-easier-for-state-to-distribute-its-abortion-pill-stockpile/article_c9d98141-019a-4943-9121-4bbf544650d1.html#:~:text=Senate%20Bill%205917</guid>
+		</item>
+		<item>
+			<title>Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt</title>
+			<description>News article "Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt" from Senate Democrats.</description>
+			<pubDate>Mon, 16 Mar 2026 21:08:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%205917</guid>
 		</item>
 	</channel>
 </rss>

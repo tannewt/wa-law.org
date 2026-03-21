@@ -10,6 +10,10 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/19/2026 [PubliCola](/org/publicola/) - [Wilson "Pauses" Police Camera Surveillance Expansion But Keeps Existing Cameras On - PubliCola](https://publicola.com/2026/03/19/wilson-pauses-police-camera-surveillance-expansion-but-keeps-existing-cameras-on/#:~:text=state%20law)
+* 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=SB%206002)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%206002)
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Has Concluded: Here’s What We Achieved - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/03/16/the-2026-legislative-session-has-concluded-heres-what-we-achieved/#:~:text=SB%206002)
 * 03/06/2026 [Washington State Standard](/org/washington_state_standard/) - [Automated license plate reader regulations close to becoming WA law • Washington State Standard](https://washingtonstatestandard.com/2026/03/06/automated-license-plate-reader-regulations-close-to-becoming-wa-law/#:~:text=Senate%20Bill%206002)
 * 03/01/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting your privacy from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/01/protecting-your-privacy-from-federal-overreach/#:~:text=SB%206002)
 * 02/24/2026 [MyNorthwest](/org/mynorthwest/) - [Bill to regulate automated license plate readers clears another hurdle](https://mynorthwest.com/mynorthwest-politics/automated-license/4208062#:~:text=Engrossed%20Substitute%20Senate%20Bill%206002)

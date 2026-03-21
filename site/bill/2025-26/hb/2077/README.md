@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202077)
 * 07/02/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature addresses budget shortfall with balanced approach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/02/legislature-addresses-budget-shortfall-with-balanced-approach/#:~:text=HB%202077)
 * 05/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Ferguson signs budget boosting Washington's spending and taxes • Washington State Standard](https://washingtonstatestandard.com/2025/05/20/ferguson-signs-budget-boosting-washington-state-spending-and-taxes/#:~:text=House%20Bill%202077)
 * 05/16/2025 [Washington State Standard](/org/washington_state_standard/) - [Tesla, Netflix, Philip Morris among those pushing WA governor for tax vetoes • Washington State Standard](https://washingtonstatestandard.com/2025/05/16/tesla-netflix-philip-morris-among-those-pushing-wa-governor-for-tax-vetoes/#:~:text=House%20Bill%202077)

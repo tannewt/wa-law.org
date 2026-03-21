@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205400)
 * 02/06/2026 [The Center Square](/org/the_center_square/) - [Media outlets push for WA bill funding state-sponsored journalism | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_cd6e34d8-00f5-4cc7-9158-b1a0d30bfe8e.html#:~:text=Senate%20Bill%205400)
 * 03/17/2025 [MyNorthwest](/org/mynorthwest/) - [State senate bill may benefit smaller news organizations](https://mynorthwest.com/mynorthwest-politics/senate-bill-big-tech/4064006#:~:text=Senate%20Bill%205400)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting local news and pilots - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/04/protecting-local-news-and-pilots/#:~:text=Senate%20Bill%205400)

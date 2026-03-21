@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205083)
 * 07/26/2025 [House Republicans](/org/house_republicans/) - [Summer update: New taxes, old budget problems | Washington State House Republicans](https://houserepublicans.wa.gov/current/summer-update-new-taxes-old-budget-problems/#:~:text=Senate%20Bill%205083)
 * 05/20/2025 [Senate Democrats](/org/senate_democrats/) - [Robinson bill to address health care costs, access signed into law - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/05/20/robinson-bill-to-address-health-care-costs-access-signed-into-law/#:~:text=Senate%20Bill%205083)
 * 05/15/2025 [The Center Square](/org/the_center_square/) - [Five days remain to sign WA bills into law; critics urge Ferguson to veto some | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b1f5393e-e8fd-4145-8009-24c23f49ec33.html#:~:text=Senate%20Bill%205083)

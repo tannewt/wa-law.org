@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201996)
+
 ## Meetings
 ### Mon 02/24 08:00 AM - Finance (FIN): HB 1996 Behavioral health diversion
 #### 15 👍 - Pro

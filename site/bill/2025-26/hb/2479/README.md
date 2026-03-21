@@ -8,8 +8,11 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/19/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes as 2026 session ends - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/19/millionaires-tax-passes-as-2026-session-ends/#:~:text=HB%202479)
+* 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [A few accomplishments this session - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/03/18/a-few-accomplishments-this-session/#:~:text=HB%202479)
 * 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=HB%202479)
 * 02/14/2026 [House Democrats](/org/house_democrats/) - [House approves Fosse’s Wage Recovery Act to strengthen enforcement and protect workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/house-approves-fosses-wage-recovery-act-to-strengthen-enforcement-and-protect-workers/#:~:text=House%20Bill%202479)
 

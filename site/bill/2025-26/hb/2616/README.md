@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/18/2026 [The Washington Observer](/org/the_washington_observer/) - [Why farmworker union rights died](https://washingtonobserver.substack.com/p/why-farmworker-union-rights-died#:~:text=HB%202616)
+* 03/18/2026 [Food Lifeline](/org/food_lifeline/) - [2026 Washington State Legislative Session Summary  | Food Lifeline](https://foodlifeline.org/article/2026-washington-state-legislative-session-summary#:~:text=HB%202616)
+
 ## Meetings
 ### Tue 03/03 08:00 AM - Consumer Protection & Business (CPB): HB 2616 Agriculture
 #### 374 👍 - Pro

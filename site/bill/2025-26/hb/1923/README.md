@@ -10,6 +10,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201923)
 * 03/08/2026 [The Urbanist](/org/the_urbanist/) - [Mosquito Fleet Act Runs Into Choppy Seas in the State Senate » The Urbanist](https://www.theurbanist.org/2026/03/08/mosquito-fleet-act-runs-into-choppy-seas-in-the-state-senate/#:~:text=House%20Bill%201923)
 * 03/08/2026 [The Urbanist](/org/the_urbanist/) - [Mosquito Fleet Act Runs Into Choppy Seas in the State Senate » The Urbanist](https://www.theurbanist.org/mosquito-fleet-act-runs-into-choppy-seas-in-the-state-senate/#:~:text=House%20Bill%201923)
 * 02/16/2026 [The Urbanist](/org/the_urbanist/) - [Mosquito Fleet Act Seeks to Throw Ferry-Oriented Communities a Lifeline » The Urbanist](https://www.theurbanist.org/2026/02/16/mosquito-fleet-act-seeks-to-throw-ferry-oriented-communities-a-lifeline/#:~:text=House%20Bill%201923)

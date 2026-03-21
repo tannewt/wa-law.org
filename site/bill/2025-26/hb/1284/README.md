@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201284)
 * 10/16/2025 [Capitol Hill Seattle Blog](/org/capitol_hill_seattle_blog/) - [Tax the rich? 43rd District’s Rep. Scott at the center of debate over a Washington wealth tax | CHS Capitol Hill Seattle News](https://www.capitolhillseattle.com/2025/10/tax-the-rich-43rd-districts-rep-scott-at-the-center-of-debate-over-a-washington-wealth-tax/#:~:text=investment%20income%20business%20and%20occupation%20tax%20deduction%20for%20corporations)
 
 ## Meetings

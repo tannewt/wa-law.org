@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/17/2026 [Senate Democrats](/org/senate_democrats/) - [That’s a wrap on the 2026 legislative session! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/17/thats-a-wrap-on-the-2026-legislative-session/#:~:text=SB%205395)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/02/20/session-update-and-monday-town-hall/#:~:text=SB%205395)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Orwall prior authorization bill heard in House committee - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/19/orwall-prior-authorization-bill-heard-in-house-committee/#:~:text=Senate%20Bill%205395)
 * 09/25/2025 [Washington State Standard](/org/washington_state_standard/) - [AI reviews rolling out for Medicare in WA for some procedures • Washington State Standard](https://washingtonstatestandard.com/2025/09/25/ai-reviews-rolling-out-for-medicare-in-wa-for-some-procedures/#:~:text=considered%20legislation)

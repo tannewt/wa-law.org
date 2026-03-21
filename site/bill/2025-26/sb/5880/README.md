@@ -10,6 +10,9 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/20/2026 [The Spokesman-Review](/org/the_spokesman-review/) - [New Washington law aimed at reducing DUI backlog 'helpful in theory' but could be ineffective, Spokane County prosecutor says](https://www.spokesman.com/stories/2026/mar/20/new-washington-law-aimed-at-reducing-dui-backlog-h/#:~:text=The%20new%20law)
+* 03/19/2026 [KUOW](/org/kuow/) - [KUOW - New law seeks to help clear up Washington’s DUI testing backlog](https://www.kuow.org/stories/new-law-seeks-to-help-clear-up-washington-s-dui-testing-backlog#:~:text=Senate%20Bill%205880)
+* 03/19/2026 [Washington State Standard](/org/washington_state_standard/) - [New law seeks to help clear up Washington’s DUI testing backlog • Washington State Standard](https://washingtonstatestandard.com/2026/03/19/new-law-seeks-to-help-clear-up-washingtons-dui-testing-backlog/#:~:text=Senate%20Bill%205880)
 * 03/10/2026 [The Urbanist](/org/the_urbanist/) - [Seattle City Attorney Says ‘Tough-on-Crime’ Predecessor Left Big Case Backlog](https://www.theurbanist.org/seattle-city-attorney-says-tough-on-crime-predecessor-left-big-case-backlog/#:~:text=SB%205880)
 * 02/21/2026 [PubliCola](/org/publicola/) - [Mayor Katie Wilson: "If We Turned Off the Cameras, It Would Become More Difficult to Solve Many Crimes" - PubliCola](https://publicola.com/2026/02/20/mayor-katie-wilson-if-we-turned-off-the-cameras-it-would-become-more-difficult-to-solve-many-crimes/#:~:text=from%20the%20Seattle%20Police%20Department)
 * 02/19/2026 [MyNorthwest](/org/mynorthwest/) - [Senate-passed bill to expand DUI testing clears first hurdle in House - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/bill-dui-testing/4205188#:~:text=Senate%20Bill%205880)

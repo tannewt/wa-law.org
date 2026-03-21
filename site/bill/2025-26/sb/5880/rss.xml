@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5880/</link>
 		<description>Updates about SB 5880</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 12 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Mar 2026 15:30:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -362,6 +362,48 @@
 			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-12/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Chapter 108, 2026 Laws.</title>
+			<description>Chapter 108, 2026 Laws.</description>
+			<pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-18/Chapter 108, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/11/2026*.</title>
+			<description>Effective date 6/11/2026*.</description>
+			<pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-18/Effective date 6/11/2026*.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-18/Governor signed.</guid>
+		</item>
+		<item>
+			<title>New law seeks to help clear up Washington’s DUI testing backlog • Washington State Standard</title>
+			<description>News article "New law seeks to help clear up Washington’s DUI testing backlog • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Thu, 19 Mar 2026 11:00:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/03/19/new-law-seeks-to-help-clear-up-washingtons-dui-testing-backlog/#:~:text=Senate%20Bill%205880</guid>
+		</item>
+		<item>
+			<title>KUOW - New law seeks to help clear up Washington’s DUI testing backlog</title>
+			<description>News article "KUOW - New law seeks to help clear up Washington’s DUI testing backlog" from KUOW.</description>
+			<pubDate>Thu, 19 Mar 2026 14:00:32 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/new-law-seeks-to-help-clear-up-washington-s-dui-testing-backlog#:~:text=Senate%20Bill%205880</guid>
+		</item>
+		<item>
+			<title>New Washington law aimed at reducing DUI backlog 'helpful in theory' but could be ineffective, Spokane County prosecutor says</title>
+			<description>News article "New Washington law aimed at reducing DUI backlog 'helpful in theory' but could be ineffective, Spokane County prosecutor says" from The Spokesman-Review.</description>
+			<pubDate>Fri, 20 Mar 2026 15:30:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.spokesman.com/stories/2026/mar/20/new-washington-law-aimed-at-reducing-dui-backlog-h/#:~:text=The%20new%20law</guid>
 		</item>
 	</channel>
 </rss>

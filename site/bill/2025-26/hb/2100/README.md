@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202100)
 * 02/21/2026 [House Republicans](/org/house_republicans/) - [Let your voice be heard on the state income tax bill | Washington State House Republicans](https://houserepublicans.wa.gov/current/let-your-voice-be-heard-on-the-state-income-tax-bill/#:~:text=House%20Bill%202100)
 * 02/02/2026 [The Center Square](/org/the_center_square/) - [Nearly 2,200 Seattle-area jobs included in latest round of Amazon corporate layoffs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9dae5582-8f54-43fa-b6ec-0fab01798478.html#:~:text=head)
 * 01/29/2026 [The Burner](/org/the_burner/) - [GUEST POST: If Washington Democrats Want To Stand Up To Trump, They Need To Tax Big Business](https://www.theburnerseattle.com/post/guest-post-if-washington-democrats-want-to-stand-up-to-trump-they-need-to-tax-big-business#:~:text=WA%20State%20Representative%20Shaun%20Scott’s%20bill,%20H.B.%202100.)

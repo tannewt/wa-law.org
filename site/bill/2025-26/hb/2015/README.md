@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202015)
 * 03/05/2026 [FOX13](/org/fox13/) - [New Pierce County tax to raise funds for public safety | FOX 13 Seattle](https://www.fox13seattle.com/news/pierce-county-tax-funds-public-safety#:~:text=HB%202015)
 * 03/02/2026 [The Center Square](/org/the_center_square/) - [WATCH: Slow rollout: Washington’s $100M police grant remains untouched | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ced01bc8-ea72-41e2-b126-2d1d2801eb92.html#:~:text=HB%202015)
 * 02/18/2026 [The Washington Observer](/org/the_washington_observer/) - [Giving the income tax back before its enacted](https://washingtonobserver.substack.com/p/giving-the-income-tax-back-before#:~:text=HB%202015)

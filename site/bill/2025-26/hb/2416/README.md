@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/17/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature adjourns with big results for Spokane - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/03/17/legislature-adjourns-with-big-results-for-spokane/#:~:text=House%20Bill%202416)
 * 02/11/2026 [The Washington Observer](/org/the_washington_observer/) - [The legislative deadpool](https://washingtonobserver.substack.com/p/the-legislative-deadpool#:~:text=House%20Bill%202416)
 * 01/13/2026 [The Center Square](/org/the_center_square/) - [Spokane proposes 'glide path' to stop $8M in climate fees from hitting taxpayers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_acce3f6d-2290-4574-b98b-c83fc4790cea.html#:~:text=House%20Bill%202416)
 
