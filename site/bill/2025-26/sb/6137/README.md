@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/03/2026 [Washington State Standard](/org/washington_state_standard/) - [WA clashes in court with prediction market platforms Kalshi and Robinhood • Washington State Standard](https://washingtonstatestandard.com/2026/04/03/wa-clashes-in-court-with-prediction-market-platforms-kalshi-and-robinhood/#:~:text=expanded%20state%20gambling%20law)
+* 03/25/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session recap! I hope to see you at our town hall on April 11 - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/03/25/2026-legislative-session-recap-i-hope-to-see-you-at-our-town-hall-on-april-11/#:~:text=Senate%20Bill%206137)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February update from Olympia - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/02/20/february-update/#:~:text=Senate%20Bill%206137)
 
 ## Meetings

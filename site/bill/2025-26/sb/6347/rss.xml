@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6347/</link>
 		<description>Updates about SB 6347</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Mar 2026 22:35:25 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Mar 2026 00:21:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -300,6 +300,41 @@
 			<pubDate>Fri, 13 Mar 2026 22:35:25 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=rollback%20to%20the%20estate%20tax</guid>
+		</item>
+		<item>
+			<title>Chapter 209, 2026 Laws.</title>
+			<description>Chapter 209, 2026 Laws.</description>
+			<pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-24/Chapter 209, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/11/2026.</title>
+			<description>Effective date 6/11/2026.</description>
+			<pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-24/Effective date 6/11/2026.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-24/Governor signed.</guid>
+		</item>
+		<item>
+			<title>What we accomplished this session - Sen. Claudia Kauffman</title>
+			<description>News article "What we accomplished this session - Sen. Claudia Kauffman" from Senate Democrats.</description>
+			<pubDate>Tue, 24 Mar 2026 23:02:33 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/kauffman/2026/03/24/what-we-accomplished-this-session/#:~:text=SB%206347</guid>
+		</item>
+		<item>
+			<title>Ferguson signs law to undo WA estate tax increase enacted last year • Washington State Standard</title>
+			<description>News article "Ferguson signs law to undo WA estate tax increase enacted last year • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 25 Mar 2026 00:21:22 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/ferguson-signs-law-to-undo-wa-estate-tax-increase-enacted-last-year/#:~:text=Senate%20Bill%206347</guid>
 		</item>
 	</channel>
 </rss>

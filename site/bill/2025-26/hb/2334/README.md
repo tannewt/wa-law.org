@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/23/2026 [Washington State Standard](/org/washington_state_standard/) - [Rounding out debate, Ferguson signs bill addressing retailers’ penny problem • Washington State Standard](https://washingtonstatestandard.com/briefs/rounding-out-debate-ferguson-signs-bill-addressing-retailers-penny-problem/#:~:text=House%20Bill%202334)
+* 03/06/2026 [House Democrats](/org/house_democrats/) - [Berg Bill Addressing Cash Transactions After End of the Penny Passes Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/06/berg-bill-addressing-cash-transactions-after-end-of-the-penny-passes-senate/#:~:text=House%20Bill%202334)
 * 03/05/2026 [Axios](/org/axios/) - [Washington lawmakers weigh rounding rule as pennies disappear - Axios Seattle](https://www.axios.com/local/seattle/2026/03/05/washington-penny-shortage-cash-rounding-bill-house-bill-2334-retailers#:~:text=House%20Bill%202334)
 * 02/10/2026 [KUOW](/org/kuow/) - [KUOW - As pennies disappear, Washington must address how retailers make change](https://www.kuow.org/stories/as-pennies-disappear-washington-must-address-how-retailers-make-change#:~:text=the%20House%20bill.)
 * 02/09/2026 [Washington State Standard](/org/washington_state_standard/) - [As pennies disappear, Washington must address how retailers make change • Washington State Standard](https://washingtonstatestandard.com/2026/02/09/as-pennies-disappear-washington-must-address-how-retailers-make-change/#:~:text=the%20House%20bill)

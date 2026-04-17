@@ -8,8 +8,13 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting our rights and freedoms from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/03/protecting-our-rights-and-freedoms-from-federal-overreach/#:~:text=HB%202105)
+* 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session wrap up - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/04/02/2026-legislative-session-wrap-up/#:~:text=2105)
+* 03/31/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington adds safeguards for Flock cameras | Cascadia Daily News](https://www.cascadiadaily.com/2026/mar/31/washington-adds-safeguards-for-flock-cameras/#:~:text=House%20Bill%202105)
+* 03/30/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington adds safeguards for Flock cameras • Washington State Standard](https://washingtonstatestandard.com/2026/03/30/washington-adds-safeguards-for-flock-cameras/#:~:text=House%20Bill%202105)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [A few accomplishments this session - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/03/18/a-few-accomplishments-this-session/#:~:text=HB%202105)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=HB%202105)
 * 03/17/2026 [Senate Democrats](/org/senate_democrats/) - [That’s a wrap on the 2026 legislative session! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/17/thats-a-wrap-on-the-2026-legislative-session/#:~:text=now%20requires%20employers)
@@ -17,6 +22,7 @@
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [A Decade of Service, A Heart Full of Gratitude - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/03/16/a-decade-of-service-a-heart-full-of-gratitude/#:~:text=House%20Bill%202105)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Has Concluded: Here’s What We Achieved - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/03/16/the-2026-legislative-session-has-concluded-heres-what-we-achieved/#:~:text=HB%202105)
 * 03/06/2026 [The Center Square](/org/the_center_square/) - [WA Senate passes bill requiring employers to notify workers ahead of I-9 audits | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6e325420-2d9a-4ec2-9f80-fdf6efd31cde.html#:~:text=House%20Bill%202105)
+* 03/05/2026 [House Democrats](/org/house_democrats/) - [Senate passes Ortiz-Self’s Immigrant Workers Protection Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/05/senate-passes-ortiz-selfs-immigrant-workers-protection-act/#:~:text=House%20Bill%202105)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=2SHB%202105)
 * 03/01/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting your privacy from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/01/protecting-your-privacy-from-federal-overreach/#:~:text=HB%202105)
 * 02/25/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative update: Three-quarters through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/25/legislative-update-three-quarters-through-session/#:~:text=HB%202105)

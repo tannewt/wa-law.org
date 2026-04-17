@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/25/2026 [Washington State Standard](/org/washington_state_standard/) - [Ferguson signs law to undo WA estate tax increase enacted last year • Washington State Standard](https://washingtonstatestandard.com/briefs/ferguson-signs-law-to-undo-wa-estate-tax-increase-enacted-last-year/#:~:text=Senate%20Bill%206347)
+* 03/24/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/03/24/what-we-accomplished-this-session/#:~:text=SB%206347)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=rollback%20to%20the%20estate%20tax)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESB%206347)
 * 02/26/2026 [The Center Square](/org/the_center_square/) - [WATCH: Fearing wealth flight, WA lawmakers propose estate tax rollback; critics resist | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ae748f46-edd1-4c9c-a6c3-38cf65e6158e.html#:~:text=Senate%20Bill%206347)

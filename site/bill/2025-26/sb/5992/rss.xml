@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5992/</link>
 		<description>Updates about SB 5992</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 14 Feb 2026 00:43:40 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -249,6 +249,13 @@
 			<pubDate>Sat, 14 Feb 2026 00:43:40 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2026/02/13/week-five-halfway-there/#:~:text=Senate Bill 5992</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to Senate Rules Committee for third reading.</title>
+			<description>By resolution, returned to Senate Rules Committee for third reading.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-12/By resolution, returned to Senate Rules Committee for third reading.</guid>
 		</item>
 	</channel>
 </rss>

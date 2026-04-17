@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6231/</link>
 		<description>Updates about SB 6231</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 18 Mar 2026 19:04:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 01 Apr 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -402,6 +402,34 @@
 			<pubDate>Wed, 18 Mar 2026 19:04:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%206231</guid>
+		</item>
+		<item>
+			<title>Gov. Bob Ferguson has a critical choice to make on data centers • Washington State Standard</title>
+			<description>News article "Gov. Bob Ferguson has a critical choice to make on data centers • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 31 Mar 2026 22:44:38 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/03/31/gov-bob-ferguson-has-a-critical-choice-to-make-on-data-centers/#:~:text=Senate%20Bill%206231</guid>
+		</item>
+		<item>
+			<title>Chapter 266, 2026 Laws.</title>
+			<description>Chapter 266, 2026 Laws.</description>
+			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-04-01/Chapter 266, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/11/2026*.</title>
+			<description>Effective date 6/11/2026*.</description>
+			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-04-01/Effective date 6/11/2026*.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-04-01/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

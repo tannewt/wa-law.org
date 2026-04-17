@@ -8,9 +8,11 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202442)
+* 03/06/2026 [House Democrats](/org/house_democrats/) - [Senate Passes Berg Bill Giving Local Governments More Flexibility to Support Families, Housing, and Public Health – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/06/senate-passes-berg-bill-giving-local-governments-more-flexibility-to-support-families-housing-and-public-health/#:~:text=House%20Bill%202442)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESHB%202442)
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=ESHB%202442)
 * 02/21/2026 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Why HB 2442 is a Lifeline for Cash-Strapped King County » The Urbanist](https://www.theurbanist.org/2026/02/21/op-ed-why-hb-2442-is-a-lifeline-for-cash-strapped-king-county/#:~:text=House%20Bill%202442)

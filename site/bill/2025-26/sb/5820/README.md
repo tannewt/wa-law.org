@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/25/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session recap! I hope to see you at our town hall on April 11 - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/03/25/2026-legislative-session-recap-i-hope-to-see-you-at-our-town-hall-on-april-11/#:~:text=Senate%20Bill%205820)
 * 03/05/2026 [Senate Democrats](/org/senate_democrats/) - [Cortes bill to protect agricultural, forest land in Clark County passes Legislature - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/03/05/cortes-bill-to-protect-agricultural-forest-land-in-clark-county-passes-legislature/#:~:text=5820)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February update from Olympia - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/02/20/february-update/#:~:text=Senate%20Bill%205820)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session update - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/01/23/2026-legislative-session-update/#:~:text=Senate%20Bill%205820)

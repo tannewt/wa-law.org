@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Liias bill restricting private real estate listings signed into law - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/03/16/liias-bill-restricting-private-real-estate-listings-signed-into-law/#:~:text=The%20bill)
 * 02/26/2026 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/02/26/february-session-recap-3/#:~:text=SB%206091)
 * 02/11/2026 [Senate Democrats](/org/senate_democrats/) - [Senate unanimously passes Liias bills focused on housing fairness, health care accessibility - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/10/senate-unanimously-passes-liias-bills-focused-on-housing-fairness-health-care-accessibility/#:~:text=The%20first%20bill)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=renters%20and%20homebuyers)

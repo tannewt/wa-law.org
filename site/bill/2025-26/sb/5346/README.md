@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/25/2026 [Senate Democrats](/org/senate_democrats/) - [Liias bill to help schools limit student cellphone use signed into law - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/03/25/liias-bill-to-help-schools-limit-student-cellphone-use-signed-into-law/#:~:text=The%20bill)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%205346)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SSB%205346)
 * 02/17/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington is being left behind as other states pass phone-free schools laws • Washington State Standard](https://washingtonstatestandard.com/2026/02/17/washington-is-being-left-behind-as-other-states-pass-phone-free-schools-laws/#:~:text=Senate%20Bill%205346)

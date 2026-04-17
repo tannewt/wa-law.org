@@ -8,8 +8,15 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/10/2026 [Washington State Standard](/org/washington_state_standard/) - [New WA sheriff standards law faces another lawsuit • Washington State Standard](https://washingtonstatestandard.com/2026/04/10/new-wa-sheriff-standards-law-faces-another-lawsuit/#:~:text=Senate%20Bill%205974)
+* 04/08/2026 [MyNorthwest](/org/mynorthwest/) - [Gee sides with Washington sheriffs fighting new accountability law - MyNorthwest.com](https://mynorthwest.com/kiro-opinion/sheriff-accountability-wa/4226174#:~:text=Senate%20Bill%205974)
+* 04/06/2026 [FOX13](/org/fox13/) - [4 Washington sheriffs sue over eligibility law | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-sheriffs-sue-eligibility-law#:~:text=Senate%20Bill%205974)
+* 04/04/2026 [Washington State Standard](/org/washington_state_standard/) - [Lawsuit aims to block new eligibility requirements for WA sheriffs • Washington State Standard](https://washingtonstatestandard.com/2026/04/03/lawsuit-aims-to-block-new-eligibility-requirements-for-wa-sheriffs/#:~:text=Senate%20Bill%205974)
+* 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting our rights and freedoms from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/03/protecting-our-rights-and-freedoms-from-federal-overreach/#:~:text=SB 5974)
+* 04/01/2026 [Washington State Standard](/org/washington_state_standard/) - [Ferguson signs controversial law tightening standards for WA sheriffs • Washington State Standard](https://washingtonstatestandard.com/2026/04/01/ferguson-signs-controversial-law-tightening-standards-for-wa-sheriffs/#:~:text=Senate%20Bill%205974)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=SB 5974)
 * 03/12/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: That's a wrap! Session ends with a whimper - a new state income tax - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-thats-wrap-session-ends-whimper-new-state-income-tax/#:~:text=SB%205974:%20Decertifying%20Elected%20Sheriffs)
 * 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=2SSB%205974)

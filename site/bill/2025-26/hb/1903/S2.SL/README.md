@@ -1,0 +1,150 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1903](/bill/2025-26/hb/1903/) > [Session Law](/bill/2025-26/hb/1903/S2.SL/)
+
+# HB 1903 - Low-income energy assistance
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/House/1903-S2.SL.pdf)
+
+## Section 1
+1. The legislature finds that there is an urgent need for stronger policy and a new program option to secure universally accessible low-income energy bill assistance and reduce the $275,000,000 annual energy burden in Washington. Many income-eligible households do not have sufficient support. The department of commerce November 2024 study of options for a statewide energy assistance program in Washington lays out core features of a just system to expand and secure access to energy affordability measures. To address present and widening disparities in household access to energy assistance will require easier applications, safe data sharing, low barrier eligibility determinations, systematic processes for filling in gaps in the reach of existing programs, and guaranteed funding sources. The recommended program design promotes a more centralized approach to energy assistance. Key elements include those that reduce administrative burdens, but also improve the experience and likelihood that an eligible household receives assistance.
+
+2. It is the intent of the legislature for the department of commerce to phase in this program across the state, working with the advisory group created in section 4 of this act to prioritize low-income households with energy assistance need.
+
+3. This section expires June 30, 2035.
+
+## Section 2
+The definitions in this section apply throughout sections 3 and 4 of this act unless the context clearly requires otherwise.
+
+1. "Coadministrator" means a participating utility that has voluntarily entered into an agreement with the department to perform any or all administrative tasks associated with implementing the statewide low-income energy assistance program. The scope of the administrative duties of a utility choosing to serve as coadministrator are to be established under the agreement between the utility and department under section 3(3) of this act.
+
+2. "Community action council" has the same meaning as "community action agency" in RCW 43.185C.010.
+
+3. "Energy assistance" means monetary assistance, such as a grant program, affordability benefits, or discounts for low-income households, that lowers a low-income household's energy burden.
+
+4. "Energy assistance need" means the amount of assistance necessary to achieve an energy burden equal to six percent for utility customers.
+
+5. "Energy burden" has the same meaning as in RCW 19.405.020.
+
+6. "Low-income" has the same meaning as in RCW 19.405.020.
+
+7. "Participating utility" means a utility that has affirmatively elected to participate in the statewide low-income energy assistance program established in section 3 of this act and whom the department has accepted to participate subject to available funds.
+
+8. This section expires June 30, 2035.
+
+## Section 3
+1. The statewide low-income energy assistance program is established within the department. The purpose of the program is to reduce energy burden for low-income households in Washington. The statewide low-income energy assistance program is supplemental to low-income energy assistance provided by utilities under RCW 19.405.120 and 80.28.068. Participating utilities may not supplant funding from this program to meet the requirements of RCW 19.405.120 and 80.28.068. The department must begin providing energy assistance no later than 14 months after funding is appropriated. The department, in consultation with the utilities and transportation commission, must write rules to implement this section. Nothing in this section alters existing regulatory jurisdiction over consumer-owned utilities.
+
+2. In accordance with subsection (4) of this section, the department must establish details for low-income customers to enroll in the statewide low-income energy assistance program via rule making. This rule making must consider:
+
+    a. Low-income households' eligibility;
+
+    b. Application processes for in-person, online, and over-the-phone enrollment;
+
+    c. Partnership with utilities from which low-income households receive service and the utility has voluntarily chosen to serve as coadministrator of the program;
+
+    d. Partnership with community action councils and other community providers of low-income social services;
+
+    e. Allowance for self-attestation;
+
+    f. That the department may verify that applicants and participants meet the income qualifications, and may work with utilities and community action councils to conduct this verification;
+
+    g. That there is no risk to eligibility based on immigration status; and
+
+    h. Auto enrollment of known eligible households.
+
+3. The department may enter into agreements with participating utilities to serve as coadministrators of the statewide low-income energy assistance program for the purposes of enhancing customer engagement, facilitating enrollment of eligible customers, and sharing administrative duties with the department. Serving as a coadministrator is voluntary for participating utilities.
+
+4. Subject to appropriation, the department, in consultation with the advisory group created in section 4 of this act, must phase in the statewide low-income energy assistance program across participating utilities, prioritizing low-income households in energy assistance need.
+
+5. [Empty]
+
+    a. The department must, in consultation with the utilities and transportation commission as it applies to investor-owned utilities, administer the statewide low-income energy assistance program by providing funds to participating utilities. The participating utilities must pass these funds on to their low-income residential customers and show the energy assistance on the customers' monthly bills.
+
+    b. Following standard contractual procedures, a participating utility may seek reimbursement from the department equal to the energy assistance provided.
+
+    c. The discount or dollar amount that the department provides to low-income households must be tiered to provide the most energy assistance to the households with the greatest need.
+
+    d. The department and each participating utility's obligation to provide energy assistance under the statewide low-income energy assistance program is based on available funding appropriated for this specific purpose. Participating utilities may not be required to provide assistance to low-income customers under the statewide low-income energy assistance program beyond funding appropriated for this purpose. This program may not be funded through a utility surcharge or collection of any funding from utilities. It is the intent of the legislature that sustained funding shall be provided to meet low-income household needs from climate commitment act auction revenues or other dollars.
+
+6. A participating utility may not reduce the level of low-income energy assistance it provides as a result of participation in the statewide low-income energy assistance program.
+
+7. This section expires June 30, 2035.
+
+## Section 4
+1. The department, in consultation with the utilities and transportation commission, must establish an advisory group for the statewide low-income energy assistance program, which must include, but is not limited to, members from low-income households, and at least one member each from a community organization, community action council, investor-owned utility, municipal utility, public utility district, electric cooperative, and natural gas utility. The advisory group must be composed of a diverse group of stakeholders and must be established by the department before program implementation to help inform program development and design. The advisory group must advise the department throughout program implementation.
+
+2. This section expires June 30, 2035.
+
+## Section 5
+1. It is the intent of the legislature to demonstrate progress toward addressing the disproportionate impacts of home energy bills on low-income households and reduce energy assistance need consistent with the policies identified in this section.
+
+2. [Empty]
+
+    a. An electric utility must ensure that each low-income household has access to an energy assistance program.
+
+    b. [Empty]
+
+        i. An electric utility must ensure that the cumulative annual level of low-income energy assistance that it provides to its customers is not reduced as a result of participation in the statewide low-income energy assistance program established under section 3 of this act.
+
+        ii. The cumulative assistance may not include a responsibility for nonutility sources of funds.
+
+    c. For the purposes of this subsection, "energy assistance" has the same meaning as defined in section 2 of this act.
+
+3. Each utility must demonstrate progress in providing energy assistance pursuant to the assessment and plans in subsection (5) of this section. To the extent practicable, priority must be given to low-income households with a higher energy burden.
+
+4. Beginning July 31, 2020, the department must collect and aggregate data estimating the energy burden and energy assistance need and reported energy assistance for each electric utility, in order to improve agency and utility efforts to serve low-income households with energy assistance. The department must update the aggregated data on a biennial basis, make it publicly accessible on its internet website and, to the extent practicable, include geographic attributes.
+
+    a. The aggregated data published by the department must include, but is not limited to:
+
+        i. The estimated number and demographic characteristics of households served by energy assistance for each utility and the dollar value of the assistance;
+
+        ii. The estimated level of energy burden and energy assistance need among customers served, accounting for household income and other drivers of energy burden;
+
+        iii. Housing characteristics including housing type, home vintage, and fuel types; and
+
+        iv. Energy efficiency potential.
+
+    b. Each utility must disclose information to the department for use under this subsection, including:
+
+        i. The amount and type of energy assistance and the number and type of households, if applicable, served for programs administered by the utility;
+
+        ii. The amount of money passed through to third parties that administer energy assistance programs;
+
+        iii. The amount of money used to mitigate rate impacts to low-income customers and a description of any other benefits provided to ratepayers from the sale of allowances as required under RCW 70A.65.120(4), if applicable; and
+
+        iv. Subject to availability, any other information related to the utility's low-income assistance programs that is requested by the department.
+
+    c. The information required by (b) of this subsection must be from the electric utility's most recent completed budget period and in a form, timeline, and manner as prescribed by the department.
+
+5. [Empty]
+
+    a. In addition to the requirements under subsection (4) of this section, each electric utility must submit biennially to the department a description of:
+
+        i. The programs and mechanisms used by the utility to reduce energy burden ;
+
+        ii. The outreach strategies used to encourage participation of eligible households, including consultation with community-based organizations and Indian tribes as appropriate, and comprehensive enrollment campaigns that are linguistically and culturally appropriate to the customers they serve in vulnerable populations; and
+
+        iii. A cumulative assessment of program participation rates and funding levels compared to what is needed to meet energy assistance need.
+
+    b. For electric utilities with more than 25,000 retail customers, the description required in (a) of this subsection must include a plan to improve the effectiveness of the  mechanisms and strategies toward meeting the energy assistance need.
+
+6. A consumer-owned utility may enter into an agreement with a public university, community-based organization, or joint operating agency organized under chapter 43.52 RCW to aggregate the disclosures required in this section and submit the assessment required in subsection (4) of this section and the description in subsection (5) of this section.
+
+7. [Empty]
+
+    a. The department must submit a biennial report to the legislature that:
+
+        i. Aggregates information into a statewide summary of energy assistance programs, energy burden, and energy assistance need;
+
+        ii. Identifies and quantifies current expenditures on low-income energy assistance; and
+
+        iii. Evaluates the effectiveness of additional  mechanisms for energy assistance including, but not limited to, customer rates, a low-income specific discount, system benefits charges, and public and private funds.
+
+    b. The department must also assess mechanisms to prioritize energy assistance towards low-income households with a higher energy burden.
+
+8. Nothing in this section may be construed to restrict the rate-making authority of the commission or the governing body of a consumer-owned utility as otherwise provided by law.
+
+## Section 6
+This act is not severable, and if any provision of this act is held invalid, this entire act is null and void.
+
+## Section 7
+Section 5 of this act expires June 30, 2035.

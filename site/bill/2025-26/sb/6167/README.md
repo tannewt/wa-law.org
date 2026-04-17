@@ -30,6 +30,6 @@ Testifying:
 * Sai Samineni
 * Token Dunbar
 * Kristina Sawyckyj
-* Aaron Tulloch - WA Build Back Black Alliance
+* 💵Aaron Tulloch - WA Build Back Black Alliance
 
 #### 4 ❓ - Other

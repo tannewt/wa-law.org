@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/23/2026 [Senate Democrats](/org/senate_democrats/) - [Governor signs Krishnadasan bill providing tax relief - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/03/23/governor-signs-krishnadasan-bill-providing-tax-relief/#:~:text=companion%20legislation)
+
 ## Meetings

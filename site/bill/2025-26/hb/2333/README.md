@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/18/2026 [House Democrats](/org/house_democrats/) - [Statement from Speaker Laurie Jinkins (D-Tacoma) on the safety of elected officials and others who serve the public – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/18/statement-from-speaker-laurie-jinkins-d-tacoma-on-the-safety-of-elected-officials-and-others-who-serve-the-public/#:~:text=House%20Bill%202333.)
 * 03/07/2026 [Washington State Standard](/org/washington_state_standard/) - [Last deadline of Washington legislative session kills more bills • Washington State Standard](https://washingtonstatestandard.com/2026/03/07/last-deadline-of-washington-legislative-session-kills-more-bills/#:~:text=House%20Bill%202333)
 * 02/11/2026 [The Washington Observer](/org/the_washington_observer/) - [The legislative deadpool](https://washingtonobserver.substack.com/p/the-legislative-deadpool#:~:text=well-intended%20bill)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202333)

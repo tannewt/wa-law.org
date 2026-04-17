@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=SB%205917)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%205917)
 * 03/16/2026 [Wenatchee World](/org/wenatchee_world/) - [Washington law will make it easier for state to distribute its abortion pill stockpile | Northwest News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/washington-law-will-make-it-easier-for-state-to-distribute-its-abortion-pill-stockpile/article_c9d98141-019a-4943-9121-4bbf544650d1.html#:~:text=Senate%20Bill%205917)
 * 03/14/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington law will make it easier for state to distribute its abortion pill stockpile • Washington State Standard](https://washingtonstatestandard.com/2026/03/14/washington-law-will-make-it-easier-for-state-to-distribute-its-abortion-pill-stockpile/#:~:text=Senate%20Bill%205917)

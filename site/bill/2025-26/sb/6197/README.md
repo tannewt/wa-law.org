@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Tue 02/24 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 6197 Plumbing contractors

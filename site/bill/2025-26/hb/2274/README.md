@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): ESHB 2274 Commercial electronic mail

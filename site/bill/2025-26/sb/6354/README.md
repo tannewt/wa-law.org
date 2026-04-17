@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/24/2026 [Senate Democrats](/org/senate_democrats/) - [Liias bill expanding direct electric vehicle sales in Washington signed into law - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/03/24/liias-bill-expanding-direct-electric-vehicle-sales-in-washington-signed-into-law/#:~:text=The%20bill)
 * 03/16/2026 [Washington State Standard](/org/washington_state_standard/) - [WA is close to letting Rivian and Lucid sell directly to customers at showrooms • Washington State Standard](https://washingtonstatestandard.com/2026/03/16/wa-is-close-to-letting-rivian-and-lucid-sell-directly-to-customers-at-showrooms/#:~:text=Senate%20Bill%206354)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [KUOW - Tesla loses Washington loophole as Rivian, Lucid score direct deals](https://senatedemocrats.wa.gov/liias/2026/03/16/kuow-tesla-loses-washington-loophole-as-rivian-lucid-score-direct-deals/#:~:text=Senate%20Bill%206354)
 * 03/16/2026 [KUOW](/org/kuow/) - [KUOW - Tesla loses Washington loophole as Rivian, Lucid score direct deals](https://www.kuow.org/stories/tesla-loses-washington-loophole-as-rivian-lucid-score-direct-deals#:~:text=Senate%20Bill%206354)

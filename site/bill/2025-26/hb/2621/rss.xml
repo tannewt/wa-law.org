@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2621/</link>
 		<description>Updates about HB 2621</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Mar 2026 22:51:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-22/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>Governor signs Krishnadasan bill providing tax relief - Sen. Deborah Krishnadasan</title>
+			<description>News article "Governor signs Krishnadasan bill providing tax relief - Sen. Deborah Krishnadasan" from Senate Democrats.</description>
+			<pubDate>Mon, 23 Mar 2026 22:51:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2026/03/23/governor-signs-krishnadasan-bill-providing-tax-relief/#:~:text=companion%20legislation</guid>
 		</item>
 	</channel>
 </rss>

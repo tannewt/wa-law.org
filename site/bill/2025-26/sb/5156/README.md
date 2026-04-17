@@ -8,8 +8,11 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=SB%205156)
+* 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature increases support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/26/legislature-increases-support-for-affordable-housing/#:~:text=SB%205156)
 * 03/19/2026 [Sightline Institute](/org/sightline_institute/) - [Washington State Leads on Elevator Reform | Sightline Institute](https://www.sightline.org/2026/03/19/washington-state-leads-on-elevator-reform/#:~:text=Senate%20Bill%205156)
 * 02/17/2026 [The Urbanist](/org/the_urbanist/) - [Washington’s Elevator Reform Bill Rises Again » The Urbanist](https://www.theurbanist.org/2026/02/17/washington-elevator-reform-bill-rises-again/#:~:text=SB%205156)
 * 02/06/2026 [PubliCola](/org/publicola/) - [Elevating the Affordable Housing Issue - PubliCola](https://publicola.com/2026/02/06/elevating-the-affordable-housing-issue/#:~:text=Senate%20Bill%205156,)

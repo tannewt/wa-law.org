@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [A Decade of Service, A Heart Full of Gratitude - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/03/16/a-decade-of-service-a-heart-full-of-gratitude/#:~:text=SB%205847)

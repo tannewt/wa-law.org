@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/24/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Letters, Week of March 25, 2026: Housing, a Catholic high school, taxes | Cascadia Daily News](https://www.cascadiadaily.com/2026/mar/24/letters-week-of-march-25-2026-housing-a-catholic-high-school-taxes/#:~:text=Senate%20Bill%206304)
 * 02/18/2026 [The Urbanist](/org/the_urbanist/) - [ICE’s Tacoma Detention Center Targeted in New Lawsuit Alleging Abuses » The Urbanist](https://www.theurbanist.org/2026/02/18/ice-tacoma-detention-center-targeted-in-lawsuit/#:~:text=SB%206304)
 * 02/18/2026 [The Urbanist](/org/the_urbanist/) - [ICE’s Tacoma Detention Center Targeted in New Lawsuit Alleging Abuses » The Urbanist](https://www.theurbanist.org/ice-tacoma-detention-center-targeted-in-lawsuit/#:~:text=SB%206304)
 

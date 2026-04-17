@@ -8,8 +8,12 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting our rights and freedoms from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/03/protecting-our-rights-and-freedoms-from-federal-overreach/#:~:text=HB%202165)
+* 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session wrap up - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/04/02/2026-legislative-session-wrap-up/#:~:text=2165)
+* 03/25/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session recap! I hope to see you at our town hall on April 11 - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/03/25/2026-legislative-session-recap-i-hope-to-see-you-at-our-town-hall-on-april-11/#:~:text=House%20Bill%202165)
 * 03/20/2026 [KUOW](/org/kuow/) - [KUOW - Is Mayor Wilson turning off police cameras? Sort of](https://www.kuow.org/stories/is-mayor-wilson-turning-off-police-cameras-sort-of#:~:text=a%20bill%20making%20it%20a%20gross%20misdemeanor)
 * 03/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Face mask ban for police in Washington is signed into law • Washington State Standard](https://washingtonstatestandard.com/2026/03/19/face-mask-ban-for-police-in-washington-is-signed-into-law/#:~:text=legislation%20making%20it%20a%20gross%20misdemeanor)
 * 03/19/2026 [FOX13](/org/fox13/) - [Gov. Ferguson signs ban on law enforcement face coverings | FOX 13 Seattle](https://www.fox13seattle.com/news/ferguson-ban-law-enforcement-face-coverings#:~:text=House%20Bill%202165)

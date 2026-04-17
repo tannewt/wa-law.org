@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/07/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: Patrick Henry said, ‘Give me liberty’; Senate Bill 5925 says ‘Hand over your records’ | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_752b9513-4a1d-457d-80bd-188ff545af2f.html#:~:text=Senate%20Bill%205925)

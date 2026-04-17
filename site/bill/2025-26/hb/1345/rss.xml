@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1345/</link>
 		<description>Updates about HB 1345</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Mar 2026 20:38:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -309,6 +309,41 @@
 			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-06/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Chelan County residents asked to comply with new ADU law | Local News | wenatcheeworld.com</title>
+			<description>News article "Chelan County residents asked to comply with new ADU law | Local News | wenatcheeworld.com" from Wenatchee World.</description>
+			<pubDate>Mon, 23 Mar 2026 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wenatcheeworld.com/news/local/chelan-county-residents-asked-to-comply-with-new-adu-law/article_5887ac88-b15c-4706-88b0-28e1ee8043b8.html#:~:text=House%20Bill%201345</guid>
+		</item>
+		<item>
+			<title>Chapter 231, 2026 Laws.</title>
+			<description>Chapter 231, 2026 Laws.</description>
+			<pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-27/Chapter 231, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/11/2026.</title>
+			<description>Effective date 6/11/2026.</description>
+			<pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-27/Effective date 6/11/2026.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-27/Governor signed.</guid>
+		</item>
+		<item>
+			<title>New WA law drops barriers for homeless shelters, permanent supportive housing • Washington State Standard</title>
+			<description>News article "New WA law drops barriers for homeless shelters, permanent supportive housing • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Fri, 27 Mar 2026 20:38:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/03/27/new-wa-law-drops-barriers-for-homeless-shelters-permanent-supportive-housing/#:~:text=detached%20accessory%20dwelling%20units</guid>
 		</item>
 	</channel>
 </rss>

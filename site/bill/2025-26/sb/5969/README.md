@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/25/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session recap! I hope to see you at our town hall on April 11 - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/03/25/2026-legislative-session-recap-i-hope-to-see-you-at-our-town-hall-on-april-11/#:~:text=Senate%20Bill%205969)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=2SSB%205969)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February update from Olympia - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/02/20/february-update/#:~:text=Senate%20Bill%205969)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=2SSB%205969)

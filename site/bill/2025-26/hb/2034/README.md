@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 02/23/2026 [House Democrats](/org/house_democrats/) - [House Democratic Operating Budget Maintains Critical Services, Prepares for the Future – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/house-democratic-operating-budget-maintains-critical-services-prepares-for-the-future/#:~:text=HB%202034)

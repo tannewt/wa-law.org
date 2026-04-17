@@ -8,8 +8,11 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Legislative Session / Town Halls April 18 - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/04/03/2026-legislative-session-town-halls-april-18/#:~:text=supplemental operating%20budget)
+* 04/01/2026 [Washington State Standard](/org/washington_state_standard/) - [With more state financial stress on horizon, Ferguson signs WA budget • Washington State Standard](https://washingtonstatestandard.com/2026/04/01/with-more-state-financial-stress-on-horizon-ferguson-signs-wa-budget/#:~:text=signed%20a%20budget)
 * 03/18/2026 [Food Lifeline](/org/food_lifeline/) - [2026 Washington State Legislative Session Summary  | Food Lifeline](https://foodlifeline.org/article/2026-washington-state-legislative-session-summary#:~:text=ESSB%205998)
 * 03/12/2026 [Senate Republicans](/org/senate_republicans/) - [STATEMENT: New state budget makes Washington less affordable, Senate Republicans say - Senate Republican Caucus](https://src.wastateleg.org/blog/statement-new-state-budget-makes-washington-less-affordable-senate-republicans-say/#:~:text=$80.1%20billion%20budget%20compromise)
 * 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=ESSB%205998)

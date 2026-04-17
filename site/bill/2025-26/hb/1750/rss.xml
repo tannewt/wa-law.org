@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1750/</link>
 		<description>Updates about HB 1750</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Mar 2026 22:35:25 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -443,6 +443,13 @@
 			<guid isPermaLink="true">https://washingtonobserver.substack.com/p/local-governments-quietly-grumble#:~:text=HB%201750</guid>
 		</item>
 		<item>
+			<title>Democrats advance package of bills to strengthen voting rights and election integrity – Washington State House Democrats</title>
+			<description>News article "Democrats advance package of bills to strengthen voting rights and election integrity – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/03/09/democrats-advance-package-of-bills-to-strengthen-voting-rights-and-election-integrity/#:~:text=House%20Bill%201750</guid>
+		</item>
+		<item>
 			<title>House concurred in Senate amendments.</title>
 			<description>House concurred in Senate amendments.</description>
 			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
@@ -483,6 +490,27 @@
 			<pubDate>Fri, 13 Mar 2026 22:35:25 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=HB%201750</guid>
+		</item>
+		<item>
+			<title>Chapter 215, 2026 Laws.</title>
+			<description>Chapter 215, 2026 Laws.</description>
+			<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-25/Chapter 215, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/11/2026.</title>
+			<description>Effective date 6/11/2026.</description>
+			<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-25/Effective date 6/11/2026.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-25/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

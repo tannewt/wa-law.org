@@ -18,7 +18,7 @@ Testifying:
 * 💵Jaime Bodden - WSALPHO
 * Heidi Low - Campaign for Tobacco-Free Kids
 * Scott Waller - Washington Association for Substance misuse And Violence Prevention (WASAVP)
-* Aaron Tulloch - FMSGS/WBBA
+* 💵Aaron Tulloch - FMSGS/WBBA
 * 💵Alex Hamasaki - [American Heart Association](/org/american_heart_association/)
 
 #### 80 👎 - Con
@@ -41,7 +41,7 @@ Testifying:
 * Scott Waller - Washington Association for Substance misuse And Violence Prevention (WASAVP)
 * Craig Meidl
 * Joe McDermott - State Relations Director | King County
-* Aaron Tulloch - FMSGS/WBBA
+* 💵Aaron Tulloch - FMSGS/WBBA
 * Beth Ebel - WCAAP
 * Sheley Secrest
 * 💵Alex Hamasaki

@@ -10,6 +10,7 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 03/22/2026 [Washington State Standard](/org/washington_state_standard/) - [Environment and climate bills that passed and failed in WA’s legislative session • Washington State Standard](https://washingtonstatestandard.com/2026/03/22/environment-and-climate-bills-that-passed-and-failed-in-was-legislative-session-data-centers-transmission-authority-loopholes/#:~:text=House%20Bill%201607)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201607)
 * 03/17/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Letters, Week of March 18, 2026: Nuclear weapons, ACP, clock alignment | Cascadia Daily News](https://www.cascadiadaily.com/2026/mar/17/letters-week-of-march-18-2026-nuclear-weapons-acp-clock-alignment/#:~:text=Bottles%20and%20Cans%20Recycling%20Refund%20Act)
 * 02/10/2026 [MyNorthwest](/org/mynorthwest/) - [Harger: Grocery prices in WA are already painful, but new legislative proposals could make them even worse - MyNorthwest.com](https://mynorthwest.com/kiro-opinion/harger-grocery-prices-wa/4201102#:~:text=moratorium)

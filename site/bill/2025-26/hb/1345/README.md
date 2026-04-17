@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/27/2026 [Washington State Standard](/org/washington_state_standard/) - [New WA law drops barriers for homeless shelters, permanent supportive housing • Washington State Standard](https://washingtonstatestandard.com/2026/03/27/new-wa-law-drops-barriers-for-homeless-shelters-permanent-supportive-housing/#:~:text=detached%20accessory%20dwelling%20units)
+* 03/23/2026 [Wenatchee World](/org/wenatchee_world/) - [Chelan County residents asked to comply with new ADU law | Local News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/local/chelan-county-residents-asked-to-comply-with-new-adu-law/article_5887ac88-b15c-4706-88b0-28e1ee8043b8.html#:~:text=House%20Bill%201345)
 * 10/05/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Legislature’s housing leaders outline vision for 2026](https://gorgenewscenter.com/2025/10/05/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=accessory%20dwelling%20units)
 * 10/03/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature’s housing leaders outline vision for 2026 • Washington State Standard](https://washingtonstatestandard.com/2025/10/03/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=accessory%20dwelling%20units)
 * 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=in%20rural%20areas)

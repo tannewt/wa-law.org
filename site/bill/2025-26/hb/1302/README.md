@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 01/16/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA GOP leader: Energy subsidy bill 'warps meaning of affordability' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f004d30d-0985-4ae9-8e28-7ccfe830336f.html#:~:text=HB%201302)

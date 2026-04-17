@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/20/2026 [The Center Square](/org/the_center_square/) - [WA Senate advances 'trigger' bill shifting private labor disputes from feds to state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_101656c8-cec7-4b06-909f-c55d89c41be4.html#:~:text=House%20Bill%202471)

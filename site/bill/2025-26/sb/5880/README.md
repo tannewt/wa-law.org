@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/20/2026 [The Spokesman-Review](/org/the_spokesman-review/) - [New Washington law aimed at reducing DUI backlog 'helpful in theory' but could be ineffective, Spokane County prosecutor says](https://www.spokesman.com/stories/2026/mar/20/new-washington-law-aimed-at-reducing-dui-backlog-h/#:~:text=The%20new%20law)

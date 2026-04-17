@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/25/2026 [House Democrats](/org/house_democrats/) - [Noncompetes No More: Governor Signs Law that Bans Anti-Worker Noncompete Agreements – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/25/noncompetes-no-more-governor-signs-law-that-bans-anti-worker-noncompete-agreements/#:~:text=HB%201155)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [A few accomplishments this session - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/03/18/a-few-accomplishments-this-session/#:~:text=HB%201155)
 * 03/05/2026 [Senate Democrats](/org/senate_democrats/) - [Sprinting to the finish line - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/03/05/sprinting-to-the-finish-line/#:~:text=House%20Bill%201155)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 7: Budgets revealed, another cutoff arrives as session hits its stretch run - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/20/this-week-in-the-senate-week-7-budgets-revealed-another-cutoff-arrives-as-session-hits-its-stretch-run/#:~:text=House%20Bill%201155)

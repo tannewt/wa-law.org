@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting our rights and freedoms from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/03/protecting-our-rights-and-freedoms-from-federal-overreach/#:~:text=HB%202242)
+* 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=HB%202242)
+* 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [The Senate is adjourned, sine die - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/03/26/the-senate-is-adjourned-sine-die/#:~:text=HB%202242)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=HB%202242)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=HB%202242)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Has Concluded: Here’s What We Achieved - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/03/16/the-2026-legislative-session-has-concluded-heres-what-we-achieved/#:~:text=HB%202242)

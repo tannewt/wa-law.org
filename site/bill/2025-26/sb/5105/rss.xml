@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5105/</link>
 		<description>Updates about SB 5105</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Mar 2026 17:54:22 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -626,6 +626,27 @@
 			<pubDate>Tue, 17 Mar 2026 17:54:22 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/orwall/2026/03/17/thats-a-wrap-on-the-2026-legislative-session/#:~:text=SB%205105</guid>
+		</item>
+		<item>
+			<title>Chapter 223, 2026 Laws.</title>
+			<description>Chapter 223, 2026 Laws.</description>
+			<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-25/Chapter 223, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/11/2026.</title>
+			<description>Effective date 6/11/2026.</description>
+			<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-25/Effective date 6/11/2026.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-25/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

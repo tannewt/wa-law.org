@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Legislative Session / Town Halls April 18 - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/04/03/2026-legislative-session-town-halls-april-18/#:~:text=HB%202532)
 * 03/12/2026 [KGW](/org/kgw/) - [Washington becomes second state to ban retail sale of nitrous oxide | kgw.com](https://www.kgw.com/article/news/investigations/washington-state-pass-nitrous-oxide-ban-bill-whippets/283-daf2ca8a-3dcd-46e2-8900-7bc0b1d33767#:~:text=House%20Bill%202532)
 * 03/05/2026 [FOX13](/org/fox13/) - [WA bills on face coverings, ghost guns, nitrous oxide | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-face-coverings-ghost-guns-nitrous-oxide#:~:text=House%20Bill%202532)
 * 02/28/2026 [Senate Democrats](/org/senate_democrats/) - [A transportation budget that delivers for ferries - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/28/a-transportation-budget-that-delivers-for-ferries/#:~:text=HB 2532)

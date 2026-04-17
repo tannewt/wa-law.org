@@ -7,10 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=we%20finally passed)
 * 02/11/2026 [Washington State Standard](/org/washington_state_standard/) - [More dead bills stack up in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/10/more-dead-bills-stack-up-in-wa-legislature/#:~:text=Senate%20Bill%205911)
+* 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [The Washington State Standard: More dead bills stack up in WA Legislature - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/10/the-washington-state-standard-more-dead-bills-stack-up-in-wa-legislature/#:~:text=Senate%20Bill%205911)
 
 ## Meetings
 ### Fri 02/27 10:30 AM - Appropriations (APP): SSB 5911 DCYF/financial stability

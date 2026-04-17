@@ -8,8 +8,15 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/07/2026 [MyNorthwest](/org/mynorthwest/) - [Renton Police shut down license plate cameras to comply with new privacy law - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/renton-flock-camera/4225670#:~:text=Senate%20Bill%206002)
+* 04/02/2026 [MyNorthwest](/org/mynorthwest/) - [Stanwood reactivates Flock cameras as Spokane County joins Pierce County in shutting them down - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/flock-cameras-alpr/4224212#:~:text=Senate%20Bill%206002)
+* 03/31/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington adds safeguards for Flock cameras | Cascadia Daily News](https://www.cascadiadaily.com/2026/mar/31/washington-adds-safeguards-for-flock-cameras/#:~:text=Senate%20Bill%206002)
+* 03/31/2026 [MyNorthwest](/org/mynorthwest/) - ['Shut those toll roads down immediately': Jake demands Gov. Ferguson apply license plate law to tolls - MyNorthwest.com](https://mynorthwest.com/kiro-opinion/license-plate-ferguson-toll/4223383#:~:text=Senate%20Bill%206002)
+* 03/30/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington adds safeguards for Flock cameras • Washington State Standard](https://washingtonstatestandard.com/2026/03/30/washington-adds-safeguards-for-flock-cameras/#:~:text=Senate%20Bill%206002)
+* 03/24/2026 [The Urbanist](/org/the_urbanist/) - [Wilson Pauses Surveillance Camera Expansion, Pending Data Security Audit](https://www.theurbanist.org/wilson-pauses-surveillance-camera-expansion-pending-data-security-audit/#:~:text=The%20license%20plate%20reader%20bill)
 * 03/19/2026 [PubliCola](/org/publicola/) - [Wilson "Pauses" Police Camera Surveillance Expansion But Keeps Existing Cameras On - PubliCola](https://publicola.com/2026/03/19/wilson-pauses-police-camera-surveillance-expansion-but-keeps-existing-cameras-on/#:~:text=state%20law)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=SB%206002)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%206002)

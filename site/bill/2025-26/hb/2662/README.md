@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/24/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Letters, Week of March 25, 2026: Housing, a Catholic high school, taxes | Cascadia Daily News](https://www.cascadiadaily.com/2026/mar/24/letters-week-of-march-25-2026-housing-a-catholic-high-school-taxes/#:~:text=House%20Bill%202662)
+
 ## Meetings

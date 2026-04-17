@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6358/</link>
 		<description>Updates about SB 6358</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Mar 2026 21:04:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-09/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>The Senate is adjourned, sine die - Sen. Bob Hasegawa</title>
+			<description>News article "The Senate is adjourned, sine die - Sen. Bob Hasegawa" from Senate Democrats.</description>
+			<pubDate>Thu, 26 Mar 2026 21:04:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2026/03/26/the-senate-is-adjourned-sine-die/#:~:text=SB%206358</guid>
 		</item>
 	</channel>
 </rss>

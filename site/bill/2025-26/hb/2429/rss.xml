@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2429/</link>
 		<description>Updates about HB 2429</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 18 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 02 Apr 2026 19:35:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -480,6 +480,13 @@
 			<pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-18/Governor signed.</guid>
+		</item>
+		<item>
+			<title>2026 legislative session wrap up - Sen. Claire Wilson</title>
+			<description>News article "2026 legislative session wrap up - Sen. Claire Wilson" from Senate Democrats.</description>
+			<pubDate>Thu, 02 Apr 2026 19:35:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/wilson/2026/04/02/2026-legislative-session-wrap-up/#:~:text=2429</guid>
 		</item>
 	</channel>
 </rss>

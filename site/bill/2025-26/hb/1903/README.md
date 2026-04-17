@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/19/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes as 2026 session ends - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/19/millionaires-tax-passes-as-2026-session-ends/#:~:text=HB%201903)

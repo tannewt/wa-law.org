@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/07/2026 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Washington Is Caught in a Property Tax Trap. Here's the Way Out.](https://www.theurbanist.org/op-ed-washington-is-caught-in-a-property-tax-trap-heres-the-way-out/#:~:text=Senate%20Bill%205770)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [I want to hear from you! See you Saturday, March 15th? - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/04/i-want-to-hear-from-you-see-you-saturday-march-15th/#:~:text=5770)
 * 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Cortes co-sponsors bills providing tax relief to working families - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/02/24/cortes-co-sponsors-bills-providing-tax-relief-to-working-families/#:~:text=5770)
 * 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205770)

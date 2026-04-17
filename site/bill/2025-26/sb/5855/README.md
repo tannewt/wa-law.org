@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting our rights and freedoms from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/03/protecting-our-rights-and-freedoms-from-federal-overreach/#:~:text=SB%205855)
+* 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session wrap up - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/04/02/2026-legislative-session-wrap-up/#:~:text=5855)
+* 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=Senate%20Bill%205855)
+* 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [The Senate is adjourned, sine die - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/03/26/the-senate-is-adjourned-sine-die/#:~:text=SB%205855)
 * 03/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Face mask ban for police in Washington is signed into law • Washington State Standard](https://washingtonstatestandard.com/2026/03/19/face-mask-ban-for-police-in-washington-is-signed-into-law/#:~:text=Senate%20Bill%205855)
 * 03/19/2026 [Senate Democrats](/org/senate_democrats/) - [Masked law enforcement banned under new Washington state law  - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/03/19/masked-law-enforcement-banned-under-new-washington-state-law/#:~:text=Substitute%20Senate%20Bill%205855)
 * 03/19/2026 [FOX13](/org/fox13/) - [Gov. Ferguson signs ban on law enforcement face coverings | FOX 13 Seattle](https://www.fox13seattle.com/news/ferguson-ban-law-enforcement-face-coverings#:~:text=Senate%20Bill%205855)

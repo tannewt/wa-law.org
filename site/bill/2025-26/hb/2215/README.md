@@ -9,8 +9,10 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/22/2026 [Washington State Standard](/org/washington_state_standard/) - [Environment and climate bills that passed and failed in WA’s legislative session • Washington State Standard](https://washingtonstatestandard.com/2026/03/22/environment-and-climate-bills-that-passed-and-failed-in-was-legislative-session-data-centers-transmission-authority-loopholes/#:~:text=House%20Bill%202215)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202215)
 
 ## Meetings

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6003/</link>
 		<description>Updates about SB 6003</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 18 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 03 Apr 2026 16:07:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1159,6 +1159,34 @@
 			<pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://foodlifeline.org/article/2026-washington-state-legislative-session-summary#:~:text=PSSB%206003</guid>
+		</item>
+		<item>
+			<title>Chapter 259, 2026 Laws PV.</title>
+			<description>Chapter 259, 2026 Laws PV.</description>
+			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-04-01/Chapter 259, 2026 Laws PV.</guid>
+		</item>
+		<item>
+			<title>Effective date 4/1/2026.</title>
+			<description>Effective date 4/1/2026.</description>
+			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-04-01/Effective date 4/1/2026.</guid>
+		</item>
+		<item>
+			<title>Governor partially vetoed.</title>
+			<description>Governor partially vetoed.</description>
+			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-04-01/Governor partially vetoed.</guid>
+		</item>
+		<item>
+			<title>2026 Legislative Session / Town Halls April 18 - Sen. Drew Hansen</title>
+			<description>News article "2026 Legislative Session / Town Halls April 18 - Sen. Drew Hansen" from Senate Democrats.</description>
+			<pubDate>Fri, 03 Apr 2026 16:07:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hansen/2026/04/03/2026-legislative-session-town-halls-april-18/#:~:text=supplemental%20capital%20budget</guid>
 		</item>
 	</channel>
 </rss>

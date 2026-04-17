@@ -22,7 +22,7 @@ Testifying:
 * David Keyes David Keyes
 * John Schapman - NCW Thriving Together
 * Katherine VanHenley - Digital Equity Learning Network of Seattle-King County
-* Aaron Tulloch - FMSGS/WBBA
+* 💵Aaron Tulloch - FMSGS/WBBA
 
 #### 413 👎 - Con
 

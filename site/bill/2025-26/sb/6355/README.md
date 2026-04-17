@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/31/2026 [Senate Democrats](/org/senate_democrats/) - [Hunt legislation to strengthen Washington’s electric grid, clean energy future signed into law - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/31/hunt-legislation-to-strengthen-washingtons-electric-grid-clean-energy-future-signed-into-law/#:~:text=Senate%20Bill%206355)
+* 03/22/2026 [Washington State Standard](/org/washington_state_standard/) - [Environment and climate bills that passed and failed in WA’s legislative session • Washington State Standard](https://washingtonstatestandard.com/2026/03/22/environment-and-climate-bills-that-passed-and-failed-in-was-legislative-session-data-centers-transmission-authority-loopholes/#:~:text=Senate%20Bill%206355)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=Senate%20Bill%206355)
 * 03/16/2026 [The Center Square](/org/the_center_square/) - [WATCH: Concerns about new WA agency tasked with modernizing energy grid | Energy | thecentersquare.com](https://www.thecentersquare.com/issues/energy/article_670af00b-3018-4446-862e-6bcc12a15371.html#:~:text=Senate%20Bill%206355)
 

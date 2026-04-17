@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2089/</link>
 		<description>Updates about HB 2089</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 18 Mar 2026 19:04:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Mar 2026 20:03:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -285,6 +285,34 @@
 			<pubDate>Wed, 18 Mar 2026 19:04:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202089</guid>
+		</item>
+		<item>
+			<title>Chapter 131, 2026 Laws.</title>
+			<description>Chapter 131, 2026 Laws.</description>
+			<pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-23/Chapter 131, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 7/1/2026.</title>
+			<description>Effective date 7/1/2026.</description>
+			<pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-23/Effective date 7/1/2026.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-23/Governor signed.</guid>
+		</item>
+		<item>
+			<title>New WA law nixes mortgage lender tax break to boost wildfire funding • Washington State Standard</title>
+			<description>News article "New WA law nixes mortgage lender tax break to boost wildfire funding • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Mon, 23 Mar 2026 20:03:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/new-wa-law-nixes-mortgage-lender-tax-break-to-boost-wildfire-funding/#:~:text=House%20Bill%202089</guid>
 		</item>
 	</channel>
 </rss>

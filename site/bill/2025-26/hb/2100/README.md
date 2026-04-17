@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/31/2026 [PubliCola](/org/publicola/) - [Hannah Sabio-Howell Says It's Time to Replace Longtime Legislator Jamie Pedersen - PubliCola](https://publicola.com/2026/03/31/hannah-sabio-howell-says-its-time-to-replace-longtime-legislator-jamie-pedersen/#:~:text=Scott’s%20bill)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202100)
 * 02/21/2026 [House Republicans](/org/house_republicans/) - [Let your voice be heard on the state income tax bill | Washington State House Republicans](https://houserepublicans.wa.gov/current/let-your-voice-be-heard-on-the-state-income-tax-bill/#:~:text=House%20Bill%202100)
 * 02/02/2026 [The Center Square](/org/the_center_square/) - [Nearly 2,200 Seattle-area jobs included in latest round of Amazon corporate layoffs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9dae5582-8f54-43fa-b6ec-0fab01798478.html#:~:text=head)

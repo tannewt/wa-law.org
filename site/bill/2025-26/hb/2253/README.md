@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/01/2026 [Washington State Standard](/org/washington_state_standard/) - [Audit questions $37M in child care payments in WA • Washington State Standard](https://washingtonstatestandard.com/2026/03/31/audit-questions-37m-in-child-care-payments-in-wa/#:~:text=bill%20passed%20the%20House)
 * 02/27/2026 [The Center Square](/org/the_center_square/) - [WATCH: Did anti-fraud crackdown kill WA childcare licensing reform? | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c6338197-c651-4bad-9b5e-9f8a6d5822c9.html#:~:text=House%20Bill%202253)
 
 ## Meetings

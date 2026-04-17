@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/07/2026 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Washington Is Caught in a Property Tax Trap. Here's the Way Out.](https://www.theurbanist.org/op-ed-washington-is-caught-in-a-property-tax-trap-heres-the-way-out/#:~:text=House%20Bill%202049%20passed%20and%20was%20signed%20into%20law)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202049)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=HB%202049)
 * 08/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Remote participation now firmly embedded in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/08/21/remote-participation-now-firmly-embedded-in-wa-legislature/#:~:text=on%20the%20original%20House%20bill)

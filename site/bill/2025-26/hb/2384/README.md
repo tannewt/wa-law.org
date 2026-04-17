@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): 2SHB 2384 Continuing care retirement

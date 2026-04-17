@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=SB%206237)
+* 03/27/2026 [Washington State Standard](/org/washington_state_standard/) - [New WA law drops barriers for homeless shelters, permanent supportive housing • Washington State Standard](https://washingtonstatestandard.com/2026/03/27/new-wa-law-drops-barriers-for-homeless-shelters-permanent-supportive-housing/#:~:text=let%20renters%20know%20about%20flood%20risks)
+* 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature increases support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/26/legislature-increases-support-for-affordable-housing/#:~:text=SB%206237)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%206237)
 * 03/06/2026 [Senate Democrats](/org/senate_democrats/) - [One week left! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/03/06/one-week-left/#:~:text=SB%206237)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Senate bills moving forward - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/13/senate-bills-moving-forward/#:~:text=SB%206237)

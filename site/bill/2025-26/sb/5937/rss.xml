@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5937/</link>
 		<description>Updates about SB 5937</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 16 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Mar 2026 18:18:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -231,6 +231,13 @@
 			<pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-16/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Legislature increases support for affordable housing - Sen. Jamie Pedersen</title>
+			<description>News article "Legislature increases support for affordable housing - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Thu, 26 Mar 2026 18:18:07 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2026/03/26/legislature-increases-support-for-affordable-housing/#:~:text=SB%205937</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,9 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * [Gorge Radio](/org/gorge_radio/) - [Heritage Apple Preservation Bill Passes Committee – Gorge Radio](https://gorgeradio.com/heritage-apple-preservation-bill-passes-committee/#:~:text=House%20Bill%202525)
+* [Gorge Radio](/org/gorge_radio/) - [Mendoza Sponsored Apple Heritage Bill Signed Into Law – Gorge Radio](https://gorgeradio.com/mendoza-sponsored-apple-heritage-bill-signed-into-law/#:~:text=House%20Bill%202525)
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Higher Education & Workforce Development (HEWD): SHB 2525 Heritage orchard program

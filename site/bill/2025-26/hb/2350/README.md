@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/17/2026 [House Democrats](/org/house_democrats/) - [House Passes Rep. Farivar’s Bills to Expand Food Access, Update Disability Facility Names, & Strengthen Transparency in RHC’s – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/17/house-passes-rep-farivars-bills-to-expand-food-access-update-disability-facility-names-strengthen-transparency-in-rhcs/#:~:text=HB%202350)

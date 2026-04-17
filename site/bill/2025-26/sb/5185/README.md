@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/25/2026 [Senate Democrats](/org/senate_democrats/) - [Saldaña bill expanding pathways for international doctors signed into law  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/03/25/saldana-bill-expanding-pathways-for-international-doctors-signed-into-law/#:~:text=Senate%20Bill%205185)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [A Decade of Service, A Heart Full of Gratitude - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/03/16/a-decade-of-service-a-heart-full-of-gratitude/#:~:text=SB%205185)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SSB%205185)
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2025 legislative session - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/13/kicking-off-the-2025-legislative-session/#:~:text=SB%205185)

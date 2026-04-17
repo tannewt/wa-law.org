@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1408/</link>
 		<description>Updates about HB 1408</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 16 Mar 2026 20:38:35 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Mar 2026 21:04:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -319,6 +319,34 @@
 			<pubDate>Mon, 16 Mar 2026 20:38:35 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2026/03/16/a-decade-of-service-a-heart-full-of-gratitude/#:~:text=HB%201408</guid>
+		</item>
+		<item>
+			<title>Chapter 217, 2026 Laws.</title>
+			<description>Chapter 217, 2026 Laws.</description>
+			<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-25/Chapter 217, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 3/25/2026.</title>
+			<description>Effective date 3/25/2026.</description>
+			<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-25/Effective date 3/25/2026.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-25/Governor signed.</guid>
+		</item>
+		<item>
+			<title>The Senate is adjourned, sine die - Sen. Bob Hasegawa</title>
+			<description>News article "The Senate is adjourned, sine die - Sen. Bob Hasegawa" from Senate Democrats.</description>
+			<pubDate>Thu, 26 Mar 2026 21:04:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2026/03/26/the-senate-is-adjourned-sine-die/#:~:text=HB%201408</guid>
 		</item>
 	</channel>
 </rss>

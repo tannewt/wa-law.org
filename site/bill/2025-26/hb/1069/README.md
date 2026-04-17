@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/06/2026 [House Democrats](/org/house_democrats/) - [Senate passes Fosse’s retirement security bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/06/senate-passes-fosses-retirement-security-bill/#:~:text=HB%201069)
 * 02/07/2025 [House Democrats](/org/house_democrats/) - [House Passes Bipartisan Bill to Help Public Employees Retire  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/07/house-passes-bipartisan-bill-to-help-public-employees-retire/#:~:text=House%20Bill%201069)
 
 ## Meetings

@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/01/2026 [Washington State Standard](/org/washington_state_standard/) - [Highway preservation at center of new WA transportation budget • Washington State Standard](https://washingtonstatestandard.com/2026/03/31/highway-preservation-at-center-of-new-wa-transportation-budget/#:~:text=House%20Bill%202711)
 * 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=House%20Bill%202711)
 * 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=House%20Bill%202711)
 * 03/06/2026 [The Urbanist](/org/the_urbanist/) - [Sound Transit’s Bid to Unlock 75-Year Bonds Finds Second Wind » The Urbanist](https://www.theurbanist.org/2026/03/06/sound-transits-bid-to-unlock-75-year-bonds-finds-second-wind/#:~:text=HB%202711)

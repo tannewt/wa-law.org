@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1903/</link>
 		<description>Updates about HB 1903</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 19 Mar 2026 21:37:04 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 30 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -705,6 +705,27 @@
 			<pubDate>Thu, 19 Mar 2026 21:37:04 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2026/03/19/millionaires-tax-passes-as-2026-session-ends/#:~:text=HB%201903</guid>
+		</item>
+		<item>
+			<title>Chapter 252, 2026 Laws.</title>
+			<description>Chapter 252, 2026 Laws.</description>
+			<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-30/Chapter 252, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/11/2026.</title>
+			<description>Effective date 6/11/2026.</description>
+			<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-30/Effective date 6/11/2026.</guid>
+		</item>
+		<item>
+			<title>Governor partially vetoed.</title>
+			<description>Governor partially vetoed.</description>
+			<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-30/Governor partially vetoed.</guid>
 		</item>
 	</channel>
 </rss>

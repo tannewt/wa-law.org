@@ -10,6 +10,7 @@
 * [Third Substitute](S3/)
 * [Engrossed Third Substitute](S3.E/)
 * [Passed Legislature](S3.PL/)
+* [Session Law](S3.SL/)
 
 ## 📰 Articles
 * 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=E3SHB%201634)

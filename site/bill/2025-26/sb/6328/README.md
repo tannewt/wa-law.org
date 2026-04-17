@@ -114,7 +114,7 @@ Testifying:
 * Dominic Martinico - WBBA
 * Jerry Morales - WBBA
 * Paula Fillmore-Sardinas - WBBA
-* Aaron Tulloch - WBBA
+* 💵Aaron Tulloch - WBBA
 * Casie Sanders
 * Kaylee Becker
 * Gary Purdy

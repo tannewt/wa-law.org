@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2334/</link>
 		<description>Updates about HB 2334</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 12 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Mar 2026 21:18:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -300,6 +300,13 @@
 			<guid isPermaLink="true">https://www.axios.com/local/seattle/2026/03/05/washington-penny-shortage-cash-rounding-bill-house-bill-2334-retailers#:~:text=House%20Bill%202334</guid>
 		</item>
 		<item>
+			<title>Berg Bill Addressing Cash Transactions After End of the Penny Passes Senate – Washington State House Democrats</title>
+			<description>News article "Berg Bill Addressing Cash Transactions After End of the Penny Passes Senate – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/03/06/berg-bill-addressing-cash-transactions-after-end-of-the-penny-passes-senate/#:~:text=House%20Bill%202334</guid>
+		</item>
+		<item>
 			<title>House concurred in Senate amendments.</title>
 			<description>House concurred in Senate amendments.</description>
 			<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
@@ -333,6 +340,34 @@
 			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-12/President signed.</guid>
+		</item>
+		<item>
+			<title>Chapter 138, 2026 Laws.</title>
+			<description>Chapter 138, 2026 Laws.</description>
+			<pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-23/Chapter 138, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/11/2026.</title>
+			<description>Effective date 6/11/2026.</description>
+			<pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-23/Effective date 6/11/2026.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-23/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Rounding out debate, Ferguson signs bill addressing retailers’ penny problem • Washington State Standard</title>
+			<description>News article "Rounding out debate, Ferguson signs bill addressing retailers’ penny problem • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Mon, 23 Mar 2026 21:18:36 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/rounding-out-debate-ferguson-signs-bill-addressing-retailers-penny-problem/#:~:text=House%20Bill%202334</guid>
 		</item>
 	</channel>
 </rss>

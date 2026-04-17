@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/05/2026 [Senate Democrats](/org/senate_democrats/) - [Sprinting to the finish line - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/03/05/sprinting-to-the-finish-line/#:~:text=Senate%20Bill 6248)

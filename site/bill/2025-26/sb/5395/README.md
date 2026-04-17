@@ -9,8 +9,10 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/25/2026 [Senate Democrats](/org/senate_democrats/) - [Orwall bill to improve prior authorization transparency signed into law - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/25/orwall-bill-to-improve-prior-authorization-transparency-signed-into-law/#:~:text=Senate%20Bill%205395)
 * 03/17/2026 [Senate Democrats](/org/senate_democrats/) - [That’s a wrap on the 2026 legislative session! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/17/thats-a-wrap-on-the-2026-legislative-session/#:~:text=SB%205395)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/02/20/session-update-and-monday-town-hall/#:~:text=SB%205395)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Orwall prior authorization bill heard in House committee - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/19/orwall-prior-authorization-bill-heard-in-house-committee/#:~:text=Senate%20Bill%205395)

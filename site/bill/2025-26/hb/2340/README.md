@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/05/2026 [House Democrats](/org/house_democrats/) - [Simmons bill supporting nursing assistants’ recovery efforts heads to Governor’s desk  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/05/simmons-bill-supporting-nursing-assistants-recovery-efforts-heads-to-governors-desk/#:~:text=House Bill 2340)
 * 02/11/2026 [House Democrats](/org/house_democrats/) - [House passes Simmons’ bill supporting nursing assistants’ recovery efforts – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/11/house-passes-simmons-bill-supporting-nursing-assistants-recovery-efforts/#:~:text=HB%202340)
 
 ## Meetings

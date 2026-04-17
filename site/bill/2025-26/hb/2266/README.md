@@ -8,8 +8,14 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=HB%202266)
+* 04/01/2026 [MyNorthwest](/org/mynorthwest/) - ['Your dealer is your neighbor': We Heart Seattle activist exposes drug use in taxpayer-funded tiny house villages - MyNorthwest.com](https://mynorthwest.com/kiro-radio/seattle-tiny-house-drug-use/4223750#:~:text=House%20Bill%202266)
+* 03/27/2026 [Washington State Standard](/org/washington_state_standard/) - [New WA law drops barriers for homeless shelters, permanent supportive housing • Washington State Standard](https://washingtonstatestandard.com/2026/03/27/new-wa-law-drops-barriers-for-homeless-shelters-permanent-supportive-housing/#:~:text=House%20Bill%202266)
+* 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature increases support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/26/legislature-increases-support-for-affordable-housing/#:~:text=HB%202266)
+* 03/05/2026 [House Democrats](/org/house_democrats/) - [Peterson bill setting statewide standards for emergency housing clears Senate.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/05/peterson-bill-setting-statewide-standards-for-emergency-housing-clears-senate/#:~:text=House%20Bill%202266)
 * 03/04/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: House Bill 2266: Stupid greed or false philanthropy? | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_9c36d4bd-962e-4e94-8f60-5bb7e3d563a2.html#:~:text=House%20Bill%202266)
 * 02/21/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes the Senate! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/20/millionaires-tax-passes-the-senate/#:~:text=HB%202266)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=HB%202266)

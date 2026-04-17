@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1155/</link>
 		<description>Updates about HB 1155</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 18 Mar 2026 23:31:59 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Mar 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -426,6 +426,34 @@
 			<pubDate>Wed, 18 Mar 2026 23:31:59 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/stanford/2026/03/18/a-few-accomplishments-this-session/#:~:text=HB%201155</guid>
+		</item>
+		<item>
+			<title>Chapter 149, 2026 Laws.</title>
+			<description>Chapter 149, 2026 Laws.</description>
+			<pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-23/Chapter 149, 2026 Laws.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/30/2027.</title>
+			<description>Effective date 6/30/2027.</description>
+			<pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-23/Effective date 6/30/2027.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-03-23/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Noncompetes No More: Governor Signs Law that Bans Anti-Worker Noncompete Agreements – Washington State House Democrats</title>
+			<description>News article "Noncompetes No More: Governor Signs Law that Bans Anti-Worker Noncompete Agreements – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/03/25/noncompetes-no-more-governor-signs-law-that-bans-anti-worker-noncompete-agreements/#:~:text=HB%201155</guid>
 		</item>
 	</channel>
 </rss>

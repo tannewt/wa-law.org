@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/10/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature protects LGBTQ+ rights - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/10/legislature-protects-lgbtq-rights/#:~:text=HB%201604)
 * 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=HB%201604)
 * 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=House%20Bill%201604)
 

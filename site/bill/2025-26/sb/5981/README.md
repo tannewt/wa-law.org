@@ -9,8 +9,11 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=SB%205981)
+* 03/30/2026 [Washington State Standard](/org/washington_state_standard/) - [Pharmaceutical giants sue WA over new drug pricing law • Washington State Standard](https://washingtonstatestandard.com/2026/03/30/pharmaceutical-giants-sue-wa-over-new-drug-pricing-law/#:~:text=Senate%20Bill%205981)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=SB%205981)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%205981)
 * 03/05/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: Drug pricing bill benefits affluent areas rather than those in need | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_078e99c1-2850-49ab-aacb-657ff159eb85.html#:~:text=Senate%20Bill%205981)

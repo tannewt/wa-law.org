@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Legislature Adjourns, Cuts $90 million from K-12 Education - WSPTA](https://www.wastatepta.org/week-9-legislature-adjourns-cuts-90-million-from-k-12-education/#:~:text=ESSB%206260)
 * 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=ESSB%206260)
 * 03/04/2026 [The Center Square](/org/the_center_square/) - [WA Senate narrowly advances bill to reduce education spending by $176M through 2031 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_560f84fa-62c9-4c80-82e3-2f963c1c5504.html#:~:text=Senate%20Bill%206260)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=SB%206260)

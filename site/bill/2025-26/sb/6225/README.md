@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/01/2026 [Washington State Standard](/org/washington_state_standard/) - [Highway preservation at center of new WA transportation budget • Washington State Standard](https://washingtonstatestandard.com/2026/03/31/highway-preservation-at-center-of-new-wa-transportation-budget/#:~:text=Senate%20Bill%206225)
 * 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=6225)
 * 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=6225)
 * 02/24/2026 [The Urbanist](/org/the_urbanist/) - [State Senate Signs Onto Billions of New Debt for Highway Upkeep » The Urbanist](https://www.theurbanist.org/2026/02/24/state-senate-signs-onto-billions-of-new-debt-for-highway-upkeep/#:~:text=bill%20authorizing%20the%20new%20bonds)

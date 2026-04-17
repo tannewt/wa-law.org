@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/09/2026 [House Democrats](/org/house_democrats/) - [Legislature passes Fosse bill to address child care workforce shortage  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/09/legislature-passes-fosse-bill-to-address-child-care-workforce-shortage/#:~:text=companion%20bill)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205062)
 
 ## Meetings

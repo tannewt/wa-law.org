@@ -10,6 +10,7 @@
 * [Third Substitute](S3/)
 * [Engrossed Third Substitute](S3.E/)
 * [Passed Legislature](S3.PL/)
+* [Session Law](S3.SL/)
 
 ## Meetings
 ### Fri 02/27 01:30 PM - Ways & Means (WM): E3SHB 1960 Renewable energy

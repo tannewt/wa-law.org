@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/07/2026 [The Center Square](/org/the_center_square/) - [Spokane Valley considers banning crypto kiosks to address scams following suicide | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_827b840a-b39f-4601-9408-c5fdc6a99e26.html#:~:text=Senate%20Bill%205280)
 * 03/04/2026 [KUOW](/org/kuow/) - [KUOW - More bills knocked out of running in Washington Legislature](https://www.kuow.org/stories/more-bills-knocked-out-of-running-in-washington-legislature#:~:text=Senate%20Bill%205280)
 * 03/03/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills knocked out of running in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/03/more-bills-knocked-out-of-running-in-wa-legislature/#:~:text=Senate%20Bill%205280)
 * 02/16/2026 [Senate Democrats](/org/senate_democrats/) - [Building policy through partnership - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/02/16/building-policy-through-partnership/#:~:text=SB%205280)
