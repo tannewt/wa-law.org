@@ -10,6 +10,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=SB%206237)
+* 04/15/2026 [Senate Democrats](/org/senate_democrats/) - [22nd District legislative town hall coming up! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/15/22nd-district-legislative-town-hall-coming-up/#:~:text=SB%206237)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=SB%206237)
 * 03/27/2026 [Washington State Standard](/org/washington_state_standard/) - [New WA law drops barriers for homeless shelters, permanent supportive housing • Washington State Standard](https://washingtonstatestandard.com/2026/03/27/new-wa-law-drops-barriers-for-homeless-shelters-permanent-supportive-housing/#:~:text=let%20renters%20know%20about%20flood%20risks)
 * 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature increases support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/26/legislature-increases-support-for-affordable-housing/#:~:text=SB%206237)

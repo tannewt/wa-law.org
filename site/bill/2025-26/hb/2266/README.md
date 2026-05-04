@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=HB%202266)
+* 04/15/2026 [Senate Democrats](/org/senate_democrats/) - [22nd District legislative town hall coming up! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/15/22nd-district-legislative-town-hall-coming-up/#:~:text=HB%202266)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=HB%202266)
 * 04/01/2026 [MyNorthwest](/org/mynorthwest/) - ['Your dealer is your neighbor': We Heart Seattle activist exposes drug use in taxpayer-funded tiny house villages - MyNorthwest.com](https://mynorthwest.com/kiro-radio/seattle-tiny-house-drug-use/4223750#:~:text=House%20Bill%202266)
 * 03/27/2026 [Washington State Standard](/org/washington_state_standard/) - [New WA law drops barriers for homeless shelters, permanent supportive housing • Washington State Standard](https://washingtonstatestandard.com/2026/03/27/new-wa-law-drops-barriers-for-homeless-shelters-permanent-supportive-housing/#:~:text=House%20Bill%202266)

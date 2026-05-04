@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/01/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/05/01/investing-in-washingtons-1-million-k-12-students/#:~:text=SB%205872)
 * 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=SB%205872)
 * 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESB%205872)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=ESB%205872)
@@ -15,6 +16,7 @@
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%205872)
 * 02/05/2026 [Senate Democrats](/org/senate_democrats/) - [Supporting our communities and working families - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/05/supporting-our-communities-and-working-families/#:~:text=Pre-K%20Promise%20Account)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205872)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Investing in Education - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/investing-in-education/#:~:text=SB%205872)
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Appropriations (APP): ESB 5872 PreK promise account

@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/23/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to affordable health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/23/protecting-access-to-affordable-health-care-in-washington/#:~:text=HB%202548)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=HB%202548)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/02/20/session-update-and-monday-town-hall/#:~:text=HB%202548)
 * 02/02/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/02/the-house-hot-sheet-for-week-4-of-the-2026-legislative-session/#:~:text=HB%202548)

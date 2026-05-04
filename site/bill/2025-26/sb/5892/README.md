@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/30/2026 [House Democrats](/org/house_democrats/) - [Protecting the Freedom to Vote: Washington’s Response to a Weakened Voting Rights Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/04/30/protecting-the-freedom-to-vote-washingtons-response-to-a-weakened-voting-rights-act/#:~:text=SB%205892)
 * 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting our rights and freedoms from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/03/protecting-our-rights-and-freedoms-from-federal-overreach/#:~:text=SB%205892)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session wrap up - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/04/02/2026-legislative-session-wrap-up/#:~:text=5892)
 * 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [The Senate is adjourned, sine die - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/03/26/the-senate-is-adjourned-sine-die/#:~:text=SB 5892)

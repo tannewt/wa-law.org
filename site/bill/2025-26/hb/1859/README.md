@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=HB%201859)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=HB%201859)
 * 03/17/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature adjourns with big results for Spokane - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/03/17/legislature-adjourns-with-big-results-for-spokane/#:~:text=House%20Bill%201859)
 * 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=HB%201859)

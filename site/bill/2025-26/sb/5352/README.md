@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 05/31/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Democrats Acted Irresponsibly, Failed to Trump-Proof Washington State in 2025 Session » The Urbanist](https://www.theurbanist.org/2025/05/31/op-ed-democrats-acted-irresponsibly-failed-to-trump-proof-wa/#:~:text=universal%20free%20lunches%20in%20public%20schools)
+* 05/31/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Democrats Acted Irresponsibly, Failed to Trump-Proof Washington State in 2025 Session » The Urbanist](https://www.theurbanist.org/op-ed-democrats-acted-irresponsibly-failed-to-trump-proof-wa/#:~:text=universal%20free%20lunches%20in%20public%20schools)
 * 02/27/2025 [Cascade PBS](/org/cascade_pbs/) - [Friday deadline looms for WA’s free-school-meals-for-all bill | Cascade PBS](https://www.cascadepbs.org/briefs/2025/02/friday-deadline-looms-was-free-school-meals-all-bill#:~:text=its%20version%20of%20the%20legislation)
 * 02/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Fate of free school meals expansion is in doubt in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/02/26/fate-of-free-school-meals-expansion-is-in-doubt-in-washington-legislature/#:~:text=its%20version%20of%20the%20legislation)
 * 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [Building an economy that works for all Washingtonians - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/14/building-an-economy-that-works-for-all-washingtonians/#:~:text=SB%205352)

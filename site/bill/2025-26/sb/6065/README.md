@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/01/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/05/01/investing-in-washingtons-1-million-k-12-students/#:~:text=SB%206065)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SB%206065)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%206065)
 

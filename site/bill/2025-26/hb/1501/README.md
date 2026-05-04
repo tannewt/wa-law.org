@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=HB%201501)
+
 ## Meetings
 ### Wed 02/04 10:30 AM - Housing (HSG): EHB 1501 CIC unit owner inquiries
 #### 16 👍 - Pro

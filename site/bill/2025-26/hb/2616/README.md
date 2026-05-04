@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/22/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Guest Writer: Olympia knew Washington farming was in crisis, but did nothing | Cascadia Daily News](https://www.cascadiadaily.com/2026/apr/22/guest-writer-olympia-knew-washington-farming-is-in-crisis-but-did-nothing/#:~:text=granted%20the%20bill%20a%20public%20hearing)
+* 04/21/2026 [Washington State Standard](/org/washington_state_standard/) - [Olympia knew Washington farming is in crisis, but did nothing • Washington State Standard](https://washingtonstatestandard.com/2026/04/21/olympia-knew-washington-farming-is-in-crisis-but-did-nothing/#:~:text=granted%20the%20bill%20a%20public%20hearing)
 * 03/18/2026 [The Washington Observer](/org/the_washington_observer/) - [Why farmworker union rights died](https://washingtonobserver.substack.com/p/why-farmworker-union-rights-died#:~:text=HB%202616)
 * 03/18/2026 [Food Lifeline](/org/food_lifeline/) - [2026 Washington State Legislative Session Summary  | Food Lifeline](https://foodlifeline.org/article/2026-washington-state-legislative-session-summary#:~:text=HB%202616)
 

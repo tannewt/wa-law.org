@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=SB%205938)
 * 03/17/2026 [Senate Democrats](/org/senate_democrats/) - [That’s a wrap on the 2026 legislative session! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/17/thats-a-wrap-on-the-2026-legislative-session/#:~:text=SB%205938)
 * 03/05/2026 [Senate Democrats](/org/senate_democrats/) - [Budget investments for flood recovery; bill update before session ends - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/04/budget-investments-for-flood-recovery-bill-update-before-session-ends/#:~:text=Senate%20Bill%205938)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Week 4 update: Bill progress, holding ICE accountable, and resources for immigrant communities - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/06/week-4-update-bill-progress-holding-ice-accountable-and-resources-for-immigrant-communities/#:~:text=SB%205938)

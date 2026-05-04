@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202722)
+
 ## Meetings
 ### Fri 02/06 10:30 AM - Transportation (TR): HB 2722 Vehicle fees/maximum weight
 #### 10 👍 - Pro

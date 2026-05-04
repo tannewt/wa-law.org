@@ -31,6 +31,7 @@
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201483)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=HB%201483)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201483)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Protecting our Environment - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/protecting-our-environment/#:~:text=HB%201483)
 
 ## Meetings
 ### Wed 03/26 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1483 Digital electronics/repair

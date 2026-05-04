@@ -10,12 +10,14 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/01/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/05/01/investing-in-washingtons-1-million-k-12-students/#:~:text=SB%205346)
 * 03/25/2026 [Senate Democrats](/org/senate_democrats/) - [Liias bill to help schools limit student cellphone use signed into law - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/03/25/liias-bill-to-help-schools-limit-student-cellphone-use-signed-into-law/#:~:text=The%20bill)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%205346)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SSB%205346)
 * 02/17/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington is being left behind as other states pass phone-free schools laws • Washington State Standard](https://washingtonstatestandard.com/2026/02/17/washington-is-being-left-behind-as-other-states-pass-phone-free-schools-laws/#:~:text=Senate%20Bill%205346)
 * 01/24/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting local journalism and student success - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/01/24/3559/#:~:text=Senate%20Bill%205346)
 * 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Liias introduces bipartisan bill to limit use of cellphones, other devices in classrooms - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/01/21/liias-introduces-bipartisan-bill-to-limit-use-of-cellphones-other-devices-in-classrooms/#:~:text=Senate%20Bill%205346)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Investing in Education - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/investing-in-education/#:~:text=SB%205346)
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SSB 5346 Student mobile device use

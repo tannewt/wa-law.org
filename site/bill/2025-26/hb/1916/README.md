@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/30/2026 [House Democrats](/org/house_democrats/) - [Protecting the Freedom to Vote: Washington’s Response to a Weakened Voting Rights Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/04/30/protecting-the-freedom-to-vote-washingtons-response-to-a-weakened-voting-rights-act/#:~:text=HB%201916)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=HB%201916)
 * 03/09/2026 [House Democrats](/org/house_democrats/) - [Democrats advance package of bills to strengthen voting rights and election integrity – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/09/democrats-advance-package-of-bills-to-strengthen-voting-rights-and-election-integrity/#:~:text=House%20Bill%201916)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 6: Jobs, floor action winds down and another major deadline arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/13/this-week-in-the-senate-week-6-jobs-floor-action-winds-down-and-another-major-deadline-arrives/#:~:text=HB%201916)

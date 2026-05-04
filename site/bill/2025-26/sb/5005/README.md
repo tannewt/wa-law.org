@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/15/2026 [The Urbanist](/org/the_urbanist/) - [King County Council's D2 Race Heats Up with Dueling Public Safety Platforms](https://www.theurbanist.org/king-county-councils-d2-race-heats-up-with-dueling-public-safety-platforms/#:~:text=SB%205005)
 * 03/13/2025 [KING5](/org/king5/) - [Washington taxpayers shell out $60 million for jail claims, lawsuits as oversight bills fail | king5.com](https://www.king5.com/article/news/investigations/washington-taxpayers-jail-claims-lawsuits-oversight-bills-fail/281-4e20ee85-f7bb-4937-a500-48eb07b78e6d#:~:text=Senate%20Bill%205005)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing strong, moving forward - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205005)
 * 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Saldaña bill to reform Washington jail system heard in committee  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/22/saldana-bill-to-reform-washington-jail-system-heard-in-committee/#:~:text=Senate%20Bill%205005)

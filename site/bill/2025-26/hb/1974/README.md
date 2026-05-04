@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=HB%201974)
+* 04/15/2026 [Senate Democrats](/org/senate_democrats/) - [22nd District legislative town hall coming up! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/15/22nd-district-legislative-town-hall-coming-up/#:~:text=HB%201974)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=HB%201974)
 * 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature increases support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/26/legislature-increases-support-for-affordable-housing/#:~:text=HB%201974)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=HB%201974)

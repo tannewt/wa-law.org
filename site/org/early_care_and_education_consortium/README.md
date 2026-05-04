@@ -2,7 +2,7 @@
 ## 2025-26
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board  👎1 
-* 👎 Sapna Rampersaud
+* 👎💵 Sapna Rampersaud
 
 ## [HB 2438](/bill/2025-26/hb/2438/) - Early education scholarship 👍2  
 

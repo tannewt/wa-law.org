@@ -10,6 +10,7 @@
 * 04/23/2025 [Senate Democrats](/org/senate_democrats/) - [The Finish Line Is in Sight - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/04/23/the-finish-line-is-in-sight/#:~:text=Senate%20Bill%205667)
 * 02/26/2025 [Senate Democrats](/org/senate_democrats/) - [Almost halfway there!   - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/26/almost-halfway-there/#:~:text=SB%205667)
 * 02/05/2025 [The Urbanist](/org/the_urbanist/) - [State Lawmakers Chart Path to Double Amtrak Cascades Service - The Urbanist](https://www.theurbanist.org/2025/02/05/lawmakers-path-to-double-amtrak-cascades-service/#:~:text=companion%20version%20(SB%205667))
+* 02/05/2025 [The Urbanist](/org/the_urbanist/) - [State Lawmakers Chart Path to Double Amtrak Cascades Service » The Urbanist](https://www.theurbanist.org/lawmakers-path-to-double-amtrak-cascades-service/#:~:text=companion%20version%20(SB%205667))
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Transportation (TRAN): SB 5667 Intercity passenger rail

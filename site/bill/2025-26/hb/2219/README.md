@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/01/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/05/01/investing-in-washingtons-1-million-k-12-students/#:~:text=HB%202219)
 * 02/17/2026 [House Democrats](/org/house_democrats/) - [House passes child care bill focused on flexibility, safety, and access – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/17/house-passes-child-care-bill-focused-on-flexibility-safety-and-access/#:~:text=House%20Bill%202219)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202219)
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=HB%202664)
+
 ## Meetings
 ### Wed 02/18 10:30 AM - Housing (HSG): HB 2664 Unlawful detainer notices
 #### 0 👍 - Pro

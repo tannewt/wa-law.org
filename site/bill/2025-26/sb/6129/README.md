@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/14/2026 [The Center Square](/org/the_center_square/) - [WATCH: Consumer group says higher WA tobacco taxes fueling illegal market | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f5fd5232-06d6-447a-85e2-3e96d33c2470.html#:~:text=Senate%20Bill%206129)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%206129)
 * 03/09/2026 [The Washington Observer](/org/the_washington_observer/) - [Tax policy news galore for the end-game](https://washingtonobserver.substack.com/p/tax-policy-news-galore-for-the-end#:~:text=Senate%20Bill%206129)
 * 03/05/2026 [Washington State Standard](/org/washington_state_standard/) - [Cigarette tax hike still in play as WA legislative session wanes • Washington State Standard](https://washingtonstatestandard.com/2026/03/04/cigarette-tax-hike-still-in-play-as-wa-legislative-session-wanes/#:~:text=Senate%20Bill%206129)

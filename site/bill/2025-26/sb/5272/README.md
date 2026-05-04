@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/01/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/05/01/investing-in-washingtons-1-million-k-12-students/#:~:text=SB%205272)
 * 02/13/2025 [FOX13](/org/fox13/) - [Bills protecting WA youth refs makes way to Legislature | FOX 13 Seattle](https://www.fox13seattle.com/news/bills-youth-referees-wa-legislature-seattle-hockey#:~:text=SB%205272)
 * 02/03/2025 [KING5](/org/king5/) - [Lawmakers consider tougher penalties to protect youth sport referees | king5.com](https://www.king5.com/article/news/politics/state-politics/law-penalties-youth-sports-referees-harassment/281-11c1d613-5173-4526-9eb7-1805f4c76f6c#:~:text=Senate%20Bill%205272)
 * 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=Senate%20Bill%205272)

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/23/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to affordable health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/23/protecting-access-to-affordable-health-care-in-washington/#:~:text=SB%206183)
 * 04/10/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature protects LGBTQ+ rights - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/10/legislature-protects-lgbtq-rights/#:~:text=SB%206183)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=SB%206183)
 * 03/19/2026 [Senate Democrats](/org/senate_democrats/) - [Liias bill expanding access to HIV medications signed into law - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/03/19/liias-bill-expanding-access-to-hiv-medications-signed-into-law/#:~:text=The%20bill)

@@ -28,6 +28,7 @@
 * 04/25/2025 [FOX13](/org/fox13/) - [What’s still up in the air as WA Legislature wraps up | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislature-wraps-up#:~:text=limits%20for%20school%20levies)
 * 04/25/2025 [FOX13](/org/fox13/) - [What to expect as WA legislative session nears end | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislative-session-end#:~:text=SHB%202049)
 * 04/25/2025 [The Urbanist](/org/the_urbanist/) - [Ferguson’s Continued Focus on Austerity Places King County in Jeopardy - The Urbanist](https://www.theurbanist.org/2025/04/25/fergusons-continued-focus-on-austerity-places-king-county-in-jeopardy/#:~:text=the%20legislative%20vehicle)
+* 04/25/2025 [The Urbanist](/org/the_urbanist/) - [Ferguson’s Continued Focus on Austerity Places King County in Jeopardy » The Urbanist](https://www.theurbanist.org/fergusons-continued-focus-on-austerity-places-king-county-in-jeopardy/#:~:text=the%20legislative%20vehicle)
 * 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [Permits to purchase guns may soon be required in Washington | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/permits-purchase-guns-may-soon-be-required-washington#:~:text=allow%20an%20increase%20in%20annual%20property%20tax%20growth)
 * 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [New Washington law will exclude medical debt from credit reports | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/new-washington-law-will-exclude-medical-debt-credit-reports#:~:text=allow%20an%20increase%20in%20annual%20property%20tax%20growth)
 * 04/24/2025 [MyNorthwest](/org/mynorthwest/) - [Tension rises over school funding, taxes in Olympia](https://mynorthwest.com/mynorthwest-politics/school-funding-tax/4079644#:~:text=Engrossed%20House%20Substitute%20Bill%202049.)
@@ -66,6 +67,7 @@
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%202049)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=HB%202049)
 * 03/24/2025 [House Democrats](/org/house_democrats/) - [House Democratic Operating Budget Holds the Line on Housing, Food Assistance, and Maintains Critical Services and Programs – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/24/house-democratic-operating-budget-holds-the-line-on-housing-food-assistance-and-maintains-critical-services-and-programs/#:~:text=legislation%20to%20modify%20the%20state%20and%20local%20property%20tax%20authority)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Investing in Education - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/investing-in-education/#:~:text=HB%202049)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [New Revenue Approach Release as Sine Die Comes April 27 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04212025#:~:text=HB%202049)
 
 ## Meetings

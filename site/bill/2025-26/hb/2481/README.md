@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/28/2026 [KUOW](/org/kuow/) - [KUOW - WA sues Albertsons over ‘deceptive’ buy one, get one free deals](https://www.kuow.org/stories/wa-sues-albertsons-over-deceptive-buy-one-get-one-free-deals#:~:text=proposed%20legislation)
+* 04/27/2026 [Washington State Standard](/org/washington_state_standard/) - [WA sues Albertsons over ‘deceptive’ buy one, get one free deals • Washington State Standard](https://washingtonstatestandard.com/2026/04/27/wa-sues-albertsons-over-deceptive-buy-one-get-one-free-deals/#:~:text=proposed%20legislation)
+* 04/27/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington AG sues Albertsons, alleging overcharging on 'buy one, get one' deals | Cascadia Daily News](https://www.cascadiadaily.com/2026/apr/27/washington-ag-sues-albertsons-alleging-overcharging-on-buy-one-get-one-deals/#:~:text=proposed%20legislation)
 * 02/11/2026 [Washington State Standard](/org/washington_state_standard/) - [More dead bills stack up in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/10/more-dead-bills-stack-up-in-wa-legislature/#:~:text=House%20Bill%202481)
 * 01/27/2026 [The Urbanist](/org/the_urbanist/) - [Washington Legislature Grapples with Slew of Bills Regulating AI » The Urbanist](https://www.theurbanist.org/2026/01/27/washington-legislature-grapples-with-slew-of-bills-regulating-ai/#:~:text=House%20Bill%202481)
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202481)

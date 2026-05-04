@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1710/</link>
 		<description>Updates about HB 1710</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 25 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Apr 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -578,6 +578,13 @@
 			<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-25/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Protecting the Freedom to Vote: Washington’s Response to a Weakened Voting Rights Act – Washington State House Democrats</title>
+			<description>News article "Protecting the Freedom to Vote: Washington’s Response to a Weakened Voting Rights Act – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/04/30/protecting-the-freedom-to-vote-washingtons-response-to-a-weakened-voting-rights-act/#:~:text=HB%201710</guid>
 		</item>
 	</channel>
 </rss>

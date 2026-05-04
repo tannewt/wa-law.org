@@ -11,17 +11,24 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=SB%205156)
+* 04/15/2026 [Senate Democrats](/org/senate_democrats/) - [22nd District legislative town hall coming up! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/15/22nd-district-legislative-town-hall-coming-up/#:~:text=SB%205156)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=SB%205156)
 * 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature increases support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/26/legislature-increases-support-for-affordable-housing/#:~:text=SB%205156)
 * 03/19/2026 [Sightline Institute](/org/sightline_institute/) - [Washington State Leads on Elevator Reform | Sightline Institute](https://www.sightline.org/2026/03/19/washington-state-leads-on-elevator-reform/#:~:text=Senate%20Bill%205156)
 * 02/17/2026 [The Urbanist](/org/the_urbanist/) - [Washington’s Elevator Reform Bill Rises Again » The Urbanist](https://www.theurbanist.org/2026/02/17/washington-elevator-reform-bill-rises-again/#:~:text=SB%205156)
+* 02/17/2026 [The Urbanist](/org/the_urbanist/) - [Washington’s Elevator Reform Bill Rises Again » The Urbanist](https://www.theurbanist.org/washington-elevator-reform-bill-rises-again/#:~:text=SB%205156)
 * 02/06/2026 [PubliCola](/org/publicola/) - [Elevating the Affordable Housing Issue - PubliCola](https://publicola.com/2026/02/06/elevating-the-affordable-housing-issue/#:~:text=Senate%20Bill%205156,)
+* 01/14/2026 [The Urbanist](/org/the_urbanist/) - [2026: The Year the Washington Legislature Catches Its Breath on Housing » The Urbanist](https://www.theurbanist.org/2026-washington-legislature-catches-breath-on-housing/#:~:text=SB%205156)
 * 01/14/2026 [The Urbanist](/org/the_urbanist/) - [2026: The Year the Washington Legislature Catches Its Breath on Housing » The Urbanist](https://www.theurbanist.org/2026/01/14/2026-washington-legislature-catches-breath-on-housing/#:~:text=SB%205156)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=SB%205156)
 * 04/03/2025 [The Urbanist](/org/the_urbanist/) - [Elevator Reform Falls Short at Washington Legislature - The Urbanist](https://www.theurbanist.org/2025/04/03/elevator-reform-falls-short/#:~:text=Senate%20Bill%205156)
+* 04/03/2025 [The Urbanist](/org/the_urbanist/) - [Elevator Reform Falls Short at Washington Legislature » The Urbanist](https://www.theurbanist.org/elevator-reform-falls-short/#:~:text=Senate%20Bill%205156)
 * 03/29/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Harrell’s Growth Plan Shorts Housing and Tree Canopy - The Urbanist](https://www.theurbanist.org/2025/03/29/harrell-plan-fails-to-add-enough-housing-or-tree-canopy/#:~:text=SB%205156)
+* 03/29/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Harrell’s Growth Plan Shorts Housing and Tree Canopy » The Urbanist](https://www.theurbanist.org/harrell-plan-fails-to-add-enough-housing-or-tree-canopy/#:~:text=SB%205156)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [An Update on Our Work to Support Affordable Housing - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/02/26/heres-how-im-working-to-make-housing-more-affordable/#:~:text=SB%205156)
 * 02/20/2025 [The Urbanist](/org/the_urbanist/) - [Washington Senate Greenlights Elevator Reform Aimed at Boosting Midrise Homebuilding - The Urbanist](https://www.theurbanist.org/2025/02/20/washington-senate-greenlights-elevator-reform-aimed-at-boosting-midrise-homebuilding/#:~:text=Senate%20Bill%205156)
+* 02/20/2025 [The Urbanist](/org/the_urbanist/) - [Washington Senate Greenlights Elevator Reform Aimed at Boosting Midrise Homebuilding » The Urbanist](https://www.theurbanist.org/washington-senate-greenlights-elevator-reform-aimed-at-boosting-midrise-homebuilding/#:~:text=Senate%20Bill%205156)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205156)
 
 ## Meetings

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6268/</link>
 		<description>Updates about SB 6268</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 May 2026 15:04:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -219,6 +219,13 @@
 			<pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-17/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen</title>
+			<description>News article "Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Fri, 01 May 2026 15:04:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2026/05/01/investing-in-washingtons-1-million-k-12-students/#:~:text=SB%206268</guid>
 		</item>
 	</channel>
 </rss>

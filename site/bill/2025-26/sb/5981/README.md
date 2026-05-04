@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/23/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to affordable health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/23/protecting-access-to-affordable-health-care-in-washington/#:~:text=SB%205981)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=SB%205981)
 * 03/30/2026 [Washington State Standard](/org/washington_state_standard/) - [Pharmaceutical giants sue WA over new drug pricing law • Washington State Standard](https://washingtonstatestandard.com/2026/03/30/pharmaceutical-giants-sue-wa-over-new-drug-pricing-law/#:~:text=Senate%20Bill%205981)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=SB%205981)

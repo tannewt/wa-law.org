@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 02/07/2025 [Wenatchee World](/org/wenatchee_world/) - [Power Play: Washington House advances Ybarra energy bill to supercharge partnerships | News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/power-play-washington-house-advances-ybarra-energy-bill-to-supercharge-partnerships/article_abce76f4-e589-11ef-9893-235bf19a19d7.html#:~:text=House%20Bill%201253)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Protecting our Environment - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/protecting-our-environment/#:~:text=HB%201253)
 
 ## Meetings
 ### Fri 03/14 10:30 AM - Environment, Energy & Technology (ENET): SHB 1253 Utility joint use agreements

@@ -10,6 +10,9 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## 📰 Articles
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Protecting our Environment - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/protecting-our-environment/#:~:text=HB%201990)
+
 ## Meetings
 ### Fri 03/21 10:30 AM - Environment, Energy & Technology (ENET): 2SHB 1990 Utility disaster costs
 #### 129 👍 - Pro

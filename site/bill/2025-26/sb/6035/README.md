@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/30/2026 [House Democrats](/org/house_democrats/) - [Protecting the Freedom to Vote: Washington’s Response to a Weakened Voting Rights Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/04/30/protecting-the-freedom-to-vote-washingtons-response-to-a-weakened-voting-rights-act/#:~:text=SB%206035)
 * 03/24/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/03/24/what-we-accomplished-this-session/#:~:text=SB%206035)
 * 03/09/2026 [House Democrats](/org/house_democrats/) - [Democrats advance package of bills to strengthen voting rights and election integrity – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/09/democrats-advance-package-of-bills-to-strengthen-voting-rights-and-election-integrity/#:~:text=Senate%20Bill%206035)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%206035)

@@ -26,6 +26,7 @@
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SSB%205253)
 * 02/01/2025 [Senate Democrats](/org/senate_democrats/) - [My first newsletter as your senator! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/01/31/my-first-newsletter-as-your-senator/#:~:text=SB%205253)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205253)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Investing in Education - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/investing-in-education/#:~:text=SB%205253)
 
 ## Meetings
 ### Wed 04/02 04:00 PM - Appropriations (APP): SSB 5253 Special education services

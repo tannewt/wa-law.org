@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205502)
 * 02/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington legislators debate bills to boost recycling • Washington State Standard](https://washingtonstatestandard.com/2025/02/26/washington-legislators-debate-bills-to-boost-recycling/#:~:text=Senate%20Bill%205502)
 * 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205502)
 * 01/30/2025 [KING5](/org/king5/) - [Bottle bill backers hope 10-cent fee refund will boost recycling in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bottle-bill-backers-hope-10-cent-refund-will-boost-recycling-washington-state/281-42b0811b-bc66-4682-aee3-afef0df99e7e#:~:text=Senate%20Bill%205502)

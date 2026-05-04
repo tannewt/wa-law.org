@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/20/2026 [Senate Democrats](/org/senate_democrats/) - [Don’t Miss It: 46th District Town Hall and Session Updates - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/20/dont-miss-it-46th-district-town-hall-and-session-updates/#:~:text=HB%202225)
 * 03/26/2026 [KUOW](/org/kuow/) - [KUOW - Washington passes new AI laws to crack down on misinformation, protect minors](https://www.kuow.org/stories/washington-passes-new-ai-laws-to-crack-down-on-misinformation-protect-minors#:~:text=House%20Bill%202225)
 * 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=ESHB%202225)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESHB%202225)

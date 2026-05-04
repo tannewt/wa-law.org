@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205543)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Investing in Education - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/investing-in-education/#:~:text=SB%205543)
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): SB 5543 College bound scholarship

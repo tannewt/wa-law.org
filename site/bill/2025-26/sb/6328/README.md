@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%206328)
+
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6328 Cannabis excise tax
 #### 76 👍 - Pro

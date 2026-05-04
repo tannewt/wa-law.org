@@ -13,6 +13,7 @@
 ## 📰 Articles
 * 09/19/2025 [The Center Square](/org/the_center_square/) - [Washington state another step closer to linking to CA-Quebec carbon market | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b9695f0a-6062-411d-b8bf-59df3ab22a1e.html#:~:text=House%20Bill%201975)
 * 03/12/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington carbon auction prices rise again • Washington State Standard](https://washingtonstatestandard.com/2025/03/12/washington-carbon-auction-prices-rise-again/#:~:text=House%20Bill%201975)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Protecting our Environment - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/protecting-our-environment/#:~:text=HB%201975)
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): 2SHB 1975 Climate commitment act

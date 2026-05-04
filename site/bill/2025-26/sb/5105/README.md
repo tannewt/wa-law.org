@@ -12,6 +12,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/20/2026 [Senate Democrats](/org/senate_democrats/) - [Don’t Miss It: 46th District Town Hall and Session Updates - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/20/dont-miss-it-46th-district-town-hall-and-session-updates/#:~:text=SB%205105)
 * 03/17/2026 [Senate Democrats](/org/senate_democrats/) - [That’s a wrap on the 2026 legislative session! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/17/thats-a-wrap-on-the-2026-legislative-session/#:~:text=SB%205105)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%205105)
 * 03/05/2026 [Senate Democrats](/org/senate_democrats/) - [Budget investments for flood recovery; bill update before session ends - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/04/budget-investments-for-flood-recovery-bill-update-before-session-ends/#:~:text=Senate%20Bill%205105)

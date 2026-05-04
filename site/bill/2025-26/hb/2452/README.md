@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=HB%202452)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202452)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202452)
 

@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/11/2026 [Washington State Standard](/org/washington_state_standard/) - [Reykdal: Washington behind as lawmakers study school phone limits • Washington State Standard](https://washingtonstatestandard.com/briefs/reykdal-washington-behind-as-lawmakers-study-school-phone-limits/#:~:text=statewide%20policy)
+
 ## Meetings

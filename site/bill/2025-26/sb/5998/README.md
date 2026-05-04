@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/24/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Top credit rating agency raises red flag on Washington finances | Cascadia Daily News](https://www.cascadiadaily.com/2026/apr/24/top-credit-rating-agency-raises-red-flag-on-washington-finances/#:~:text=signed%20a%20roughly%20$79.4%20billion%20plan)
+* 04/24/2026 [Washington State Standard](/org/washington_state_standard/) - [Top credit rating agency puts Washington on notice • Washington State Standard](https://washingtonstatestandard.com/2026/04/24/top-credit-rating-agency-puts-washington-on-notice/#:~:text=signed%20a%20roughly%20$79.4%20billion%20plan)
+* 04/17/2026 [House Republicans](/org/house_republicans/) - [Problems and solutions | Washington State House Republicans](http://houserepublicans.wa.gov/current/problems-and-solutions/#:~:text=supplemental%20operating%20budget)
 * 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Legislative Session / Town Halls April 18 - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/04/03/2026-legislative-session-town-halls-april-18/#:~:text=supplemental operating%20budget)
 * 04/01/2026 [Washington State Standard](/org/washington_state_standard/) - [With more state financial stress on horizon, Ferguson signs WA budget • Washington State Standard](https://washingtonstatestandard.com/2026/04/01/with-more-state-financial-stress-on-horizon-ferguson-signs-wa-budget/#:~:text=signed%20a%20budget)
 * 03/18/2026 [Food Lifeline](/org/food_lifeline/) - [2026 Washington State Legislative Session Summary  | Food Lifeline](https://foodlifeline.org/article/2026-washington-state-legislative-session-summary#:~:text=ESSB%205998)

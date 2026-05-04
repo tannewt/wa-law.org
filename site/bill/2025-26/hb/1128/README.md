@@ -38,7 +38,7 @@ Testifying:
 * Torrie Amaratunge
 * Margot Gould - KinderCare
 * Laura Murphey - Taylor Tots Childcare Center Inc
-* Elsa Jacobsen - Early Care and Education Consortium (ECEC)
+* 💵Elsa Jacobsen - Early Care and Education Consortium (ECEC)
 * 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
 * Annastasia Hunt - ECEAP lead at Taylor Tots Childcare
 * Jenifer Orr
@@ -63,7 +63,7 @@ Testifying:
 * Erin Hayden - Learning Care Group
 * 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
 * Jenna McKenzie - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
-* Sapna Rampersaud - [Early Care and Education Consortium](/org/early_care_and_education_consortium/)
+* 💵Sapna Rampersaud - [Early Care and Education Consortium](/org/early_care_and_education_consortium/)
 * 💵David Foster
 
 #### 9 ❓ - Other

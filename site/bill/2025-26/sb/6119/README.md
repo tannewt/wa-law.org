@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%206119)
 * 02/27/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Senate Democrats pass $80 billion budget - a house of cards built on phantom savings - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-senate-democrats-pass-80-billion-budget-built-phantom-savings/#:~:text=Senate%20Bill%206119)
 
 ## Meetings

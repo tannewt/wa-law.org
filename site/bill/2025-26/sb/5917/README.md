@@ -10,6 +10,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/23/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to affordable health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/23/protecting-access-to-affordable-health-care-in-washington/#:~:text=SB%205917)
+* 04/13/2026 [The Stranger](/org/the_stranger/) - [Whatever Happened to the Abortion Pill Stockpile? - The Stranger](https://www.thestranger.com/april-2026/whatever-happened-to-the-abortion-pill-stockpile/#:~:text=Senate%20Bill%205917)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=SB%205917)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%205917)
 * 03/16/2026 [Wenatchee World](/org/wenatchee_world/) - [Washington law will make it easier for state to distribute its abortion pill stockpile | Northwest News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/washington-law-will-make-it-easier-for-state-to-distribute-its-abortion-pill-stockpile/article_c9d98141-019a-4943-9121-4bbf544650d1.html#:~:text=Senate%20Bill%205917)

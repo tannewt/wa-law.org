@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205797)
 * 02/04/2026 [The Burner](/org/the_burner/) - [Almost Every WA Senate Democrat Supports The Millionaires Tax — The Four Holdouts Are Not Surprising](https://www.theburnerseattle.com/post/almost-every-senate-democrat-supports-the-millionaires-tax-the-four-holdouts-are-not-surprising#:~:text=SB%205797)
 * 02/02/2026 [The Center Square](/org/the_center_square/) - [Nearly 2,200 Seattle-area jobs included in latest round of Amazon corporate layoffs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9dae5582-8f54-43fa-b6ec-0fab01798478.html#:~:text=wealth)
 * 01/29/2026 [The Center Square](/org/the_center_square/) - [Tech sector gloom prompts worries of an economic slowdown in Seattle | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_197077b9-c22c-4adc-9704-072866c0ca1e.html#:~:text=wealth)
@@ -21,6 +22,7 @@
 * 10/05/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Legislature’s housing leaders outline vision for 2026](https://gorgenewscenter.com/2025/10/05/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=passed%20the%20wealth%20tax)
 * 10/03/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature’s housing leaders outline vision for 2026 • Washington State Standard](https://washingtonstatestandard.com/2025/10/03/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=passed%20the%20wealth%20tax)
 * 07/08/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: How to De-Trumpify the Washington State Budget » The Urbanist](https://www.theurbanist.org/2025/07/08/op-ed-how-to-de-trumpify-the-washington-state-budget/#:~:text=wealth%20tax)
+* 07/08/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: How to De-Trumpify the Washington State Budget » The Urbanist](https://www.theurbanist.org/op-ed-how-to-de-trumpify-the-washington-state-budget/#:~:text=wealth%20tax)
 * 07/02/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature addresses budget shortfall with balanced approach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/02/legislature-addresses-budget-shortfall-with-balanced-approach/#:~:text=SB%205797)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205797)
 * 04/19/2025 [Senate Republicans](/org/senate_republicans/) - [ALERT: Senate Democrats pass BILLIONS in new taxes Easter weekend - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-senate-democrats-pass-18-5-billion-new-taxes-easter-weekend/#:~:text=SB%205797:)

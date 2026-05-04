@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/01/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/05/01/investing-in-washingtons-1-million-k-12-students/#:~:text=SB%206268)
 * [Senate Republicans](/org/senate_republicans/) - [Affordable Solutions for Washington - Senate Republican Caucus](https://src.wastateleg.org/bills-protect-washington/#:~:text=FOLLOW%20SB%206268)
 
 ## Meetings

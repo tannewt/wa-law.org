@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=HB%201687)
+* 04/15/2026 [Senate Democrats](/org/senate_democrats/) - [22nd District legislative town hall coming up! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/15/22nd-district-legislative-town-hall-coming-up/#:~:text=HB%201687)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=HB%201687)
 * 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature increases support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/26/legislature-increases-support-for-affordable-housing/#:~:text=HB%201687)
 * 03/14/2026 [The Urbanist](/org/the_urbanist/) - [Seattle Social Housing Developer Wins New Tool from State Lawmakers](https://www.theurbanist.org/seattle-social-housing-developer-wins-new-tool-from-state-lawmakers/#:~:text=House%20Bill%201687)

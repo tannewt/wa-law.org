@@ -11,6 +11,11 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/29/2026 [Washington State Standard](/org/washington_state_standard/) - [Judge blocks Washington’s new sheriff standards law • Washington State Standard](https://washingtonstatestandard.com/2026/04/29/judge-blocks-washingtons-new-sheriff-standards-law/#:~:text=Senate%20Bill%205974)
+* 04/29/2026 [MyNorthwest](/org/mynorthwest/) - [Washington sheriff standards law partially blocked by judge - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/sheriff-standards-law/4233422#:~:text=Senate%20Bill%205974)
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [The story behind the sheriffs bill - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/the-story-behind-the-sheriffs-bill/#:~:text=SB%205974)
+* 04/17/2026 [Washington State Standard](/org/washington_state_standard/) - [Eastern WA judge moves challenge against new sheriff law to Thurston County • Washington State Standard](https://washingtonstatestandard.com/2026/04/16/eastern-wa-judge-moves-challenge-against-new-sheriff-law-to-thurston-county/#:~:text=Senate%20Bill%205974)
+* 04/13/2026 [KUOW](/org/kuow/) - [KUOW - New Washington sheriff standards law faces another lawsuit](https://www.kuow.org/stories/new-washington-sheriff-standards-law-faces-another-lawsuit#:~:text=Senate%20Bill%205974,)
 * 04/10/2026 [Washington State Standard](/org/washington_state_standard/) - [New WA sheriff standards law faces another lawsuit • Washington State Standard](https://washingtonstatestandard.com/2026/04/10/new-wa-sheriff-standards-law-faces-another-lawsuit/#:~:text=Senate%20Bill%205974)
 * 04/08/2026 [MyNorthwest](/org/mynorthwest/) - [Gee sides with Washington sheriffs fighting new accountability law - MyNorthwest.com](https://mynorthwest.com/kiro-opinion/sheriff-accountability-wa/4226174#:~:text=Senate%20Bill%205974)
 * 04/06/2026 [FOX13](/org/fox13/) - [4 Washington sheriffs sue over eligibility law | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-sheriffs-sue-eligibility-law#:~:text=Senate%20Bill%205974)

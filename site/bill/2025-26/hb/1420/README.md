@@ -10,6 +10,7 @@
 
 ## 📰 Articles
 * 03/22/2026 [Washington State Standard](/org/washington_state_standard/) - [Environment and climate bills that passed and failed in WA’s legislative session • Washington State Standard](https://washingtonstatestandard.com/2026/03/22/environment-and-climate-bills-that-passed-and-failed-in-was-legislative-session-data-centers-transmission-authority-loopholes/#:~:text=House%20Bill%201420)
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201420)
 * 02/13/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmaker’s plan to keep used clothing out of landfills hits dead end • Washington State Standard](https://washingtonstatestandard.com/2026/02/13/wa-lawmakers-plan-to-keep-used-clothing-out-of-landfills-hits-dead-end/#:~:text=House%20Bill%201420)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%201420)
 * 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Latest deadline in Washington Legislature fells more bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/01/latest-deadline-in-washington-legislature-fells-more-bills/#:~:text=House%20Bill%201420)

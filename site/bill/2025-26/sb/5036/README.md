@@ -16,6 +16,7 @@
 * 04/25/2025 [Cascade PBS](/org/cascade_pbs/) - [WA environmental legislation passed this year that you should know | Cascade PBS](https://www.cascadepbs.org/environment/2025/04/wa-environmental-legislation-passed-year-you-should-know/#:~:text=Senate%20Bill%205036)
 * 03/17/2025 [The Center Square](/org/the_center_square/) - [Washington Senate passes bill to speed up carbon emission data updates | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9234e3c6-0358-11f0-83ee-03ad68a61e92.html#:~:text=Senate%20Bill%205036)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=SB%205036:)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Protecting our Environment - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/protecting-our-environment/#:~:text=SB%205036)
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): SB 5036 Statewide emissions data

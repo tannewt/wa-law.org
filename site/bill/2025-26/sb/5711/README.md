@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205711)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205711)
 
 ## Meetings

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205726)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=SB%205726)
 * 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205726)
 * 02/25/2025 [The Center Square](/org/the_center_square/) - [Op-Ed: Washington considers imposing mileage tax | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8c0a1d9a-f390-11ef-9b20-8b671d5032e9.html#:~:text=Senate%20Bill%205726)

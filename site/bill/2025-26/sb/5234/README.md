@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205234)
+
 ## Meetings
 ### Mon 01/26 04:00 PM - Transportation (TRAN): SB 5234 Snowmobile registration fees
 #### 7 👍 - Pro

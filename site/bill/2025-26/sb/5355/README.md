@@ -22,6 +22,7 @@
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205355)
 * 02/08/2025 [Senate Democrats](/org/senate_democrats/) - [Week four recap: Bill updates, State Route 509 construction forum, and resources for immigrants and refugees - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/02/07/week-four-recap-bill-updates-state-route-509-construction-forum-and-resources-for-immigrants-and-refugees/#:~:text=SB%205355)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205355)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Investing in Education - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/investing-in-education/#:~:text=SB%205355)
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Postsecondary Education & Workforce (PEW): E2SSB 5355 Higher education safety

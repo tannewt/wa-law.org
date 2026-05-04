@@ -26,6 +26,7 @@
 * 03/19/2025 [The Center Square](/org/the_center_square/) - [Attitudes mixed about proposed fixes to WA’s Clean Fuel Standard | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2bd3737b-3d3f-427b-babd-7ea465a36819.html#:~:text=House%20Bill%201409)
 * 02/22/2025 [House Republicans](/org/house_republicans/) - [Safer streets | Washington State House Republicans](https://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201409)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201409)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Protecting our Environment - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/protecting-our-environment/#:~:text=HB%201409)
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201409)
 
 ## Meetings

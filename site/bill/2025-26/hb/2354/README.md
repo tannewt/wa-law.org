@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=HB%202354)
+
 ## Meetings
 ### Fri 02/20 10:30 AM - Housing (HSG): SHB 2354 Common interest communities
 #### 3 👍 - Pro

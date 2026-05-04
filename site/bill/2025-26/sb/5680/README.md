@@ -17,6 +17,7 @@
 * 04/11/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching the finish line - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/04/11/approaching-the-finish-line/#:~:text=SB%205680,)
 * 04/09/2025 [Senate Democrats](/org/senate_democrats/) - [Join me this Sunday, April 13th for an end of session coffee chat! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/04/09/join-me-this-sunday-april-13th-for-an-end-of-session-coffee-chat/#:~:text=5680)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Session update + townhalls tomorrow - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/03/21/session-update-townhalls-tomorrow/#:~:text=SB%205680)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Protecting our Environment - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/protecting-our-environment/#:~:text=SB%205680)
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Consumer Protection & Business (CPB): SB 5680 Mobility equipment repair

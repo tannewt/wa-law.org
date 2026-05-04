@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/23/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to affordable health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/23/protecting-access-to-affordable-health-care-in-washington/#:~:text=SB%205845)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Final day of session - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/03/12/final-day-of-session/#:~:text=5845)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February legislative update - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/02/19/february-legislative-update/#:~:text=5845)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=ESSB%205845)

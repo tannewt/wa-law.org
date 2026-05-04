@@ -63,6 +63,7 @@
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session is underway! - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/01/24/2025-session-is-underway/#:~:text=SB%205263)
 * 01/24/2025 [Washington State Standard](/org/washington_state_standard/) - [In tight budget year, pressure builds to boost WA school funding • Washington State Standard](https://washingtonstatestandard.com/2025/01/23/in-tight-budget-year-pressure-builds-to-boost-wa-school-funding/#:~:text=Senate%20Bill%205263)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205263)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Investing in Education - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/investing-in-education/#:~:text=SB%205263)
 
 ## Meetings
 ### Wed 03/19 04:00 PM - Appropriations (APP): E2SSB 5263 Special education funding

@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/23/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to affordable health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/23/protecting-access-to-affordable-health-care-in-washington/#:~:text=HB%202242)
 * 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting our rights and freedoms from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/03/protecting-our-rights-and-freedoms-from-federal-overreach/#:~:text=HB%202242)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=HB%202242)
 * 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [The Senate is adjourned, sine die - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/03/26/the-senate-is-adjourned-sine-die/#:~:text=HB%202242)

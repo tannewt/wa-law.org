@@ -10,6 +10,7 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 04/11/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [‘Corporate medicine at its best’: The PeaceHealth emergency room policy Oregon is fighting to avoid | Cascadia Daily News](https://www.cascadiadaily.com/2026/apr/11/corporate-medicine-at-its-best-the-peacehealth-emergency-rooms-oregon-is-fighting-to-avoid/#:~:text=legislation)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What I’m working on this session - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/23/what-im-working-on-this-session/#:~:text=Senate%20Bill%205387)
 * 02/11/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=Senate%20Bill%205387)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Robinson bill seeks to limit corporate influence in patient care - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/07/robinson-bill-seeks-to-limit-corporate-influence-in-patient-care/#:~:text=Senate%20Bill%205387)

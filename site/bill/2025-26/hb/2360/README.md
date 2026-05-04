@@ -13,6 +13,7 @@
 * 02/23/2026 [Washington St Pta](/org/washington_st_pta/) - [Revenues up, budgets released, and House and Senate propose cuts to K12 education - WSPTA](https://www.wastatepta.org/revenues-up-budgets-released-and-house-and-senate-propose-cuts-to-k12-education/#:~:text=SHB%202360)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SHB%202360)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202360)
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Investing in Education - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/investing-in-education/#:~:text=HB%202360)
 
 ## Meetings
 ### Mon 01/19 01:30 PM - Education (ED): HB 2360 Albuterol access in schools

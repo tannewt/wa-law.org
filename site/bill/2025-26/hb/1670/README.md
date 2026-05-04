@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 05/11/2022 [Senate Democrats](/org/senate_democrats/) - [Protecting our Environment - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/issues/protecting-our-environment/#:~:text=HB%201670)
+
 ## Meetings
 ### Fri 03/14 10:30 AM - Environment, Energy & Technology (ENET): SHB 1670 Sewage-containing spills
 #### 432 👍 - Pro

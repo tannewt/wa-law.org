@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/02/2026 [KING5](/org/king5/) - [Washington coalition attempts universal health care as Medicaid enrollment declines | king5.com](https://www.king5.com/article/news/health/healthcare/washington-universal-health-care-exchange-enrollment-declines/281-0f8d14a3-c94b-4655-93bb-61e780000c03#:~:text=Senate%20Bill%205947)
+* 04/23/2026 [The Urbanist](/org/the_urbanist/) - [Nonprofit Leader Jaelynn Scott Pitches Herself to LD37 Voters](https://www.theurbanist.org/nonprofit-leader-jaelynn-scott-pitches-herself-to-ld37-voters/#:~:text=Senate%20Bill%205927)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/02/20/session-update-and-monday-town-hall/#:~:text=SB%205947)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=Senate Bill 5947)
 * 02/03/2026 [Senate Democrats](/org/senate_democrats/) - [Health care movement & floor votes - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/03/health-care-movement-floor-votes/#:~:text=SB%205947)

@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/01/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/05/01/investing-in-washingtons-1-million-k-12-students/#:~:text=HB%201795)
 * 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=ESHB%201795)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=SHB%201795)
 * 02/25/2026 [The Washington Observer](/org/the_washington_observer/) - [No brakes on runaway liability costs](https://washingtonobserver.substack.com/p/no-brakes-on-runaway-liability-costs#:~:text=HB%201795,)

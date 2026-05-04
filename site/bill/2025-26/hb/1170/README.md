@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/20/2026 [Senate Democrats](/org/senate_democrats/) - [Don’t Miss It: 46th District Town Hall and Session Updates - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/20/dont-miss-it-46th-district-town-hall-and-session-updates/#:~:text=HB%201170)
 * 03/26/2026 [KUOW](/org/kuow/) - [KUOW - Washington passes new AI laws to crack down on misinformation, protect minors](https://www.kuow.org/stories/washington-passes-new-ai-laws-to-crack-down-on-misinformation-protect-minors#:~:text=House%20Bill%201170)
 * 02/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More bills falter as time dwindles for Washington Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/19/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=AI%20detection%20tool%20available)
 * 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills falter as time dwindles for Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=AI%20detection%20tool%20available)

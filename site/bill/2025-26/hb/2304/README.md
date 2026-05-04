@@ -7,11 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=HB%202304)
 * 03/19/2026 [Sightline Institute](/org/sightline_institute/) - [Washington State Leads on Elevator Reform | Sightline Institute](https://www.sightline.org/2026/03/19/washington-state-leads-on-elevator-reform/#:~:text=condo%20liability%20reform)
 * 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=HB%202304)
 * 03/09/2026 [KING5](/org/king5/) - [Ferguson signs new laws on housing, healthcare | king5.com](https://www.king5.com/article/news/politics/state-politics/new-washington-laws-housing-healthcare/281-53aceb02-b644-43f9-bd36-bfd741cee887#:~:text=House%20Bill%20No.%202304)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202304)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202304)
+* 01/14/2026 [The Urbanist](/org/the_urbanist/) - [2026: The Year the Washington Legislature Catches Its Breath on Housing » The Urbanist](https://www.theurbanist.org/2026-washington-legislature-catches-breath-on-housing/#:~:text=HB%202304)
 * 01/14/2026 [The Urbanist](/org/the_urbanist/) - [2026: The Year the Washington Legislature Catches Its Breath on Housing » The Urbanist](https://www.theurbanist.org/2026/01/14/2026-washington-legislature-catches-breath-on-housing/#:~:text=HB%202304)
 
 ## Meetings
