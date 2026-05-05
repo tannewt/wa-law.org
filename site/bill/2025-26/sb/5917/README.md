@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/04/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA anti-abortion group undeterred by SCOTUS ruling on abortion pill access | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bc23ab34-1d17-4bce-b89a-b841d0ca86dc.html#:~:text=a%20bill)
 * 04/23/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to affordable health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/23/protecting-access-to-affordable-health-care-in-washington/#:~:text=SB%205917)
 * 04/13/2026 [The Stranger](/org/the_stranger/) - [Whatever Happened to the Abortion Pill Stockpile? - The Stranger](https://www.thestranger.com/april-2026/whatever-happened-to-the-abortion-pill-stockpile/#:~:text=Senate%20Bill%205917)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=SB%205917)

@@ -6,7 +6,7 @@
 ## Upcoming hearings
 
 ## Heard bills
-* [SB 6346](sb/6346) - Tax on millionaires 125📰 31874👍 178237👎 716❓ - C 238 L 26
+* [SB 6346](sb/6346) - Tax on millionaires 126📰 31874👍 178237👎 716❓ - C 238 L 26
 * [SB 5798](sb/5798) - Property tax 25📰 2169👍 43170👎 161❓ - SWays & Means
 * [SB 5974](sb/5974) - Local law enforcement 29📰 5340👍 30670👎 52❓ - C 258 L 26
 * [HB 1217](hb/1217) - Residential tenants 110📰 17685👍 12044👎 161❓ - C 209 L 25
@@ -150,7 +150,7 @@
 * [SB 6045](sb/6045) - Agricultural employees/PERC 13📰 1161👍 1539👎 3❓ - SRules X
 * [HB 1052](hb/1052) - Hate crime offense 21📰 41👍 2633👎 1❓ - C 249 L 25
 * [HB 1152](hb/1152) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 18📰 812👍 1861👎 2❓ - HRules X
-* [SB 5917](sb/5917) - Abortion medications 15📰 741👍 1929👎 0❓ - C 52 L 26
+* [SB 5917](sb/5917) - Abortion medications 16📰 741👍 1929👎 0❓ - C 52 L 26
 * [HB 1512](hb/1512) - Traffic safety 9📰 2218👍 430👎 11❓ - HCommunity Safe
 * [HB 1432](hb/1432) - Mental health services 3📰 2434👍 182👎 13❓ - C 227 L 25
 * [SB 5061](sb/5061) - Public works wages 1📰 1310👍 1279👎 37❓ - SRules 3
