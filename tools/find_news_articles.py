@@ -46,15 +46,17 @@ EXCLUDE = {
         "/Device/",
         "/Parts/",
         "/Teardown/",
+        "/Document/",
     ],
     "washingtonstatestandard.com": ["/tag/", "/author/"],
+    "kuow.org": ["/stories/"],
 }
 
 # regular expression pattern to match a date in the format yyyy/mm/dd
 DATE_PATTERN = r"(\d{4})[/-](\d{2}|\w{3})[/-](\d{2})[^\d]"
 
 
-after_date = arrow.get(2026, 1, 1)
+after_date = arrow.get(2026, 5, 2)
 
 
 def parse_date(content):
@@ -117,6 +119,8 @@ async def scrape(progress, session, org_rowid, domain):
         robots = await session.get(robots_url, fetch_again=True)
     except (httpx.HTTPStatusError, httpx.ConnectError) as e:
         print(f"Unable to get {robots_url}", e)
+    except url_history.Blocked:
+        print(f"{robots_url} blocked")
 
     if robots:
         rp.parse(robots.decode("utf-8").splitlines())
@@ -131,7 +135,7 @@ async def scrape(progress, session, org_rowid, domain):
         crawl_delay = rp.crawl_delay("*")
     if not crawl_delay:
         crawl_delay = 0
-    crawl_delay = min(10, crawl_delay)
+    crawl_delay = min(1, crawl_delay)
 
     if robots is not None and rp.request_rate("*"):
         raise NotImplementedError()
@@ -151,6 +155,8 @@ async def scrape(progress, session, org_rowid, domain):
         except (asyncio.TimeoutError, httpx.HTTPStatusError, httpx.ConnectError) as e:
             print(f"Unable to get sitemap {sitemap} {e}")
             continue
+        except url_history.Blocked:
+            print(f"{sitemap} blocked")
         if sitemap is None:
             continue
         # print(sitemap)
@@ -204,9 +210,28 @@ async def scrape(progress, session, org_rowid, domain):
 
             if domain == "www.spokesman.com":
                 parsed = urlparse(subsitemap.loc.text)
-                query = parse_qs(parsed.query)
-                if "p" in query and int(query["p"][0]) > 10:
+                subpart_found = False
+                for subpart in ["videos", "documents", "photosets", "gnews", "pages"]:
+                    if subpart in subsitemap.loc.text:
+                        subpart_found = True
+                        continue
+
+                if subpart_found:
                     continue
+
+                query = parse_qs(parsed.query)
+                if "p" in query:
+                    p = query["p"][0]
+                    if len(p) == 7 and "-" in p:
+                        year, month = p.split("-")
+                        year = int(year)
+                        month = int(month)
+                        if year < after_date.year or (year == after_date.year and month < after_date.month):
+                            continue
+
+                    elif int(p) > 10:
+                        continue
+                print(subsitemap.loc.text, query)
 
             sitemaps.add(subsitemap.loc.text)
             running_total += 1
@@ -215,6 +240,7 @@ async def scrape(progress, session, org_rowid, domain):
             url_text = url.loc.text
             if url.find("video"):
                 continue
+            # print(url_text)
             if domain in EXCLUDE:
                 include = True
                 for exclude in EXCLUDE[domain]:
@@ -231,14 +257,13 @@ async def scrape(progress, session, org_rowid, domain):
                 lastmod = parse_date(url.lastmod.text)
                 if lastmod is None:
                     # raise ValueError(
-                    #     f"Failed to parse lastmod date for URL: {url_text} {url.lastmod.text}"
+                    print(f"Failed to parse lastmod date for URL: {url_text} {url.lastmod.text}")
                     # )
                     # Include stuff with invalid lastmod date
                     pass
                 # Don't bother with old stuff yet.
                 elif lastmod < after_date:
                     continue
-                # print(url_text, lastmod)
             else:
                 match = re.search(DATE_PATTERN, url_text)
                 if match:
@@ -589,6 +614,8 @@ async def main():
     ) as progress:
         async with asyncio.TaskGroup() as tg:
             for org_rowid, domain in org_cur:
+                if "crosscut" in domain:
+                    continue
                 tg.create_task(scrape(progress, session, org_rowid, domain))
     await session.close()
 

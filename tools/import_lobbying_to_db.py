@@ -23,7 +23,7 @@ async def main():
     for row in csv.DictReader(csvfile):
         merged_employers = []
         for employer in row["employers"].split(","):
-            if employer[0] == " ":
+            if employer[0] == " " and merged_employers:
                 merged_employers[-1] += "," + employer
             else:
                 merged_employers.append(employer)
