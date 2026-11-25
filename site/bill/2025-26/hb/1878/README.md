@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/30/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Work zone speed camera fines in WA rise to $125 on July 1 | Cascadia Daily News](https://www.cascadiadaily.com/2026/jun/30/work-zone-speed-camera-fines-in-wa-rise-to-125-on-july-1/#:~:text=legislation%20requiring)
+* 06/30/2026 [Washington State Standard](/org/washington_state_standard/) - [Work zone speed camera fines in WA rise to $125 on July 1 • Washington State Standard](https://washingtonstatestandard.com/2026/06/30/work-zone-speed-camera-fines-in-wa-rise-to-125-on-july-1/#:~:text=legislation%20requiring)
+* 05/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Deaths on Washington roads drop again • Washington State Standard](https://washingtonstatestandard.com/2026/05/19/deaths-on-washington-roads-drop-again/#:~:text=mandate%20driver’s%20education)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201878)
 * 08/05/2025 [KUOW](/org/kuow/) - [KUOW - Washington's new work zone speed cameras cite 7K drivers in first 90 days](https://www.kuow.org/stories/washington-s-new-work-zone-speed-cameras-cite-7k-drivers-in-first-90-days#:~:text=legislation%20requiring)
 * 06/10/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Overhauls Driver’s Education System, Focusing on Young Motorists » The Urbanist](https://www.theurbanist.org/2025/06/10/washington-state-overhauls-drivers-education/#:~:text=House%20Bill%201878)

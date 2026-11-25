@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/27/2026 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Four competitive all-Democratic legislative races are requiring King and Snohomish voters to weigh more than party affiliation - NPI's Cascadia Advocate](https://www.nwprogressive.org/weblog/2026/10/four-competitive-all-democratic-legislative-races-are-requiring-king-and-snohomish-voters-to-weigh-more-than-party-affiliation.html#:~:text=Immigrant%20Worker%20Protection%20Act)
 * 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting our rights and freedoms from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/03/protecting-our-rights-and-freedoms-from-federal-overreach/#:~:text=HB%202105)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session wrap up - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/04/02/2026-legislative-session-wrap-up/#:~:text=2105)
 * 03/31/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington adds safeguards for Flock cameras | Cascadia Daily News](https://www.cascadiadaily.com/2026/mar/31/washington-adds-safeguards-for-flock-cameras/#:~:text=House%20Bill%202105)
@@ -124,7 +125,7 @@ Testifying:
 * 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
 * Adam Eitmann - Washington State Attorney General's Office
 * Guillermo Cruz
-* Mark Bowers - [Columbia Legal Services](/org/columbia_legal_services/)
+* 💵Mark Bowers - [Columbia Legal Services](/org/columbia_legal_services/)
 * Mercedes Gonzalez
 * Jeremiah Miller - Working WA
 * Commissioner Carolina Mejia

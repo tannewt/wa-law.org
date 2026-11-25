@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/09/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Closing two Bellingham schools could affect all elementary students in district | Cascadia Daily News](https://www.cascadiadaily.com/2026/aug/09/closing-two-bellingham-schools-could-affect-all-elementary-students-in-district/#:~:text=House%20Bill%202049)
 * 04/07/2026 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Washington Is Caught in a Property Tax Trap. Here's the Way Out.](https://www.theurbanist.org/op-ed-washington-is-caught-in-a-property-tax-trap-heres-the-way-out/#:~:text=House%20Bill%202049%20passed%20and%20was%20signed%20into%20law)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202049)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=HB%202049)

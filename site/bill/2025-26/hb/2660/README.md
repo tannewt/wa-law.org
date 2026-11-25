@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 07/24/2026 [The Center Square](/org/the_center_square/) - [Lawmaker: Record payouts prove Washington is failing to protect children | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f64423aa-70df-43d4-a2db-c29c6313a87e.html#:~:text=Substitute%20House%20Bill%202660%20,)
 * 02/10/2026 [The Center Square](/org/the_center_square/) - [WATCH: Record child deaths fuel fierce debate over WA safety standards | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_14c7fd88-f280-42e1-a48c-d0cbaa03a5eb.html#:~:text=Substitute%20House%20Bill%202660,)
 * 02/04/2026 [The Washington Observer](/org/the_washington_observer/) - [Tax fairness vs. revenue sufficiency](https://washingtonobserver.substack.com/p/tax-fairness-vs-revenue-sufficiency#:~:text=HB%202660)
 * 02/02/2026 [Washington State Standard](/org/washington_state_standard/) - [Record deaths in WA child welfare system have Legislature’s attention • Washington State Standard](https://washingtonstatestandard.com/2026/02/02/record-deaths-in-wa-child-welfare-system-have-legislatures-attention/#:~:text=House%20Bill%202660)

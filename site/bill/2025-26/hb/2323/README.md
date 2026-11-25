@@ -10,6 +10,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/11/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More than 200 new laws now in effect in Washington state | Cascadia Daily News](https://www.cascadiadaily.com/2026/jun/11/more-than-200-new-laws-now-in-effect-in-washington-state/#:~:text=House%20Bill%202323)
+* 06/11/2026 [Washington State Standard](/org/washington_state_standard/) - [These new WA laws take effect Thursday • Washington State Standard](https://washingtonstatestandard.com/2026/06/11/these-new-wa-laws-take-effect-thursday/#:~:text=House%20Bill%202323)
+* 03/23/2026 [Washington State Standard](/org/washington_state_standard/) - [‘Blue envelopes’ seek to reduce WA traffic stop risks for neurodivergent drivers • Washington State Standard](https://washingtonstatestandard.com/2026/03/23/blue-envelopes-seek-to-reduce-wa-traffic-stop-risks-for-neurodivergent-drivers/#:~:text=House%20Bill%202323)
 * 03/23/2026 [Washington State Standard](/org/washington_state_standard/) - [‘Blue envelopes’ seek to reduce WA traffic stop risks for neurodivergent drivers • Washington State Standard](https://washingtonstatestandard.com/briefs/blue-envelopes-seek-to-reduce-wa-traffic-stop-risks-for-neurodivergent-drivers/#:~:text=House%20Bill%202323)
 * 01/29/2026 [The Spokesman-Review](/org/the_spokesman-review/) - [Bill establishing program helping neurodivergent people interact with police advances in Washington House committee](https://www.spokesman.com/stories/2026/jan/29/bill-establishing-program-helping-neurodivergent-p/#:~:text=The%20bill)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202323)

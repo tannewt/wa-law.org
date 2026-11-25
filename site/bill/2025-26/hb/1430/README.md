@@ -97,8 +97,8 @@ Testifying:
 * Mallorie Mancuso
 * Angela Sankaran
 * Lianabell Soto Silva
-* Dee Bender - Washington Association of Nurse Anesthesiology
-* Kelli Camp - Washington Association of Nurse Anesthesiology
+* Dee Bender - [Washington Association of Nurse Anesthesiology](/org/washington_association_of_nurse_anesthesiology/)
+* Kelli Camp - [Washington Association of Nurse Anesthesiology](/org/washington_association_of_nurse_anesthesiology/)
 * Danielle Waldron
 * Tami Silva
 * Hannah Goettle

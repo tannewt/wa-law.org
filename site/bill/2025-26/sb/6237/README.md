@@ -10,6 +10,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/18/2026 [Senate Democrats](/org/senate_democrats/) - [Building More Housing, Expanding Opportunity - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/06/18/building-more-housing-expanding-opportunity/#:~:text=SB%206237)
+* 06/11/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More than 200 new laws now in effect in Washington state | Cascadia Daily News](https://www.cascadiadaily.com/2026/jun/11/more-than-200-new-laws-now-in-effect-in-washington-state/#:~:text=let%20renters%20know%20about%20flood%20risks)
+* 06/11/2026 [Washington State Standard](/org/washington_state_standard/) - [These new WA laws take effect Thursday • Washington State Standard](https://washingtonstatestandard.com/2026/06/11/these-new-wa-laws-take-effect-thursday/#:~:text=let%20renters%20know%20about%20flood%20risks)
 * 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=SB%206237)
 * 04/15/2026 [Senate Democrats](/org/senate_democrats/) - [22nd District legislative town hall coming up! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/15/22nd-district-legislative-town-hall-coming-up/#:~:text=SB%206237)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=SB%206237)

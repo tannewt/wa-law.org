@@ -9,6 +9,10 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 11/20/2026 [Washington State Standard](/org/washington_state_standard/) - [WA panel pushes COLA for retired teachers, public employees • Washington State Standard](https://washingtonstatestandard.com/2026/11/19/wa-panel-pushes-cola-for-retired-teachers-public-employees/#:~:text=Senate%20Bill%205862)
+* 11/19/2026 [The Spokesman-Review](/org/the_spokesman-review/) - [WA panel pushes COLA for retired teachers, public employees](https://www.spokesman.com/stories/2026/nov/19/wa-panel-pushes-cola-for-retired-teachers-public-e/#:~:text=Senate%20Bill%205862)
+
 ## Meetings
 ### Thu 02/26 01:30 PM - Appropriations (APP): SSB 5862 TRS & PERS plan 1 COLA
 #### 927 👍 - Pro

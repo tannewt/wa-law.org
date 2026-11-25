@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/26/2026 [The Center Square](/org/the_center_square/) - [WATCH: Washington paid leave tax hits 1.2% cap for 2027, lawmakers eyeing lift | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_918d4916-a76e-4479-9bcb-658da75abbea.html#:~:text=SB%205292)
 * 10/13/2025 [KUOW](/org/kuow/) - [KUOW - Washington’s paid leave program heads toward a fiscal cliff](https://www.kuow.org/stories/washington-s-paid-leave-program-heads-toward-a-fiscal-cliff#:~:text=Senate%20Bill%205292,)
 * 10/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington’s paid leave program heads toward a fiscal cliff • Washington State Standard](https://washingtonstatestandard.com/2025/10/13/washingtons-paid-leave-program-heads-toward-a-fiscal-cliff/#:~:text=Senate%20Bill%205292)
 * 10/13/2025 [Gorge News Center](/org/gorge_news_center/) - [Washington’s paid leave program heads toward a fiscal cliff](https://gorgenewscenter.com/2025/10/13/washingtons-paid-leave-program-heads-toward-a-fiscal-cliff/#:~:text=Senate%20Bill%205292)

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 09/28/2026 [Washington State Standard](/org/washington_state_standard/) - [Brown eyes utility costs, tort liability as 2027 legislative priorities • Washington State Standard](https://washingtonstatestandard.com/2026/09/28/brown-eyes-utility-costs-tort-liability-as-2027-legislative-priorities/#:~:text=previous%20social-media%20legislation)
 * 01/20/2026 [KUOW](/org/kuow/) - [KUOW - Push for youth social media safeguards revived in WA Legislature](https://www.kuow.org/stories/push-for-youth-social-media-safeguards-revived-in-wa-legislature#:~:text=its%20version%20of%20the%20legislation)
 * 01/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Push for youth social media safeguards revived in WA Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/jan/19/push-for-youth-social-media-safeguards-revived-in-wa-legislature/#:~:text=its%20version%20of%20the%20legislation)
 * 01/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Push for youth social media safeguards revived in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/01/19/push-for-youth-social-media-safeguards-revived-in-wa-legislature/#:~:text=its%20version%20of%20the%20legislation)

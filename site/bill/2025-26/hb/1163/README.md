@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 09/16/2026 [The Center Square](/org/the_center_square/) - [Washington’s new gun permit system moves ahead as one sheriff calls law ‘insane’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d55b5bc1-3796-44f2-a730-aaa57fd4215c.html#:~:text=House%20Bill%201163)
 * 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=HB 1163)
 * 08/13/2025 [KUOW](/org/kuow/) - [KUOW - Concealed carry licenses in Washington jump after approval of gun permit law](https://www.kuow.org/stories/concealed-carry-licenses-in-washington-jump-after-approval-of-gun-permit-law#:~:text=House%20Bill%201163,)
 * 08/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Concealed carry licenses in Washington jump after approval of gun permit law • Washington State Standard](https://washingtonstatestandard.com/2025/08/13/concealed-carry-licenses-in-washington-jump-after-approval-of-gun-permit-law/#:~:text=House%20Bill%201163)
@@ -26,6 +27,7 @@
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/the-legislature-has-adjourned/#:~:text=‘permit%20to%20purchase’%20gun%20safety%20law)
 * 04/23/2025 [Axios](/org/axios/) - [Washington state lawmakers pass gun permit bill - Axios Seattle](https://www.axios.com/local/seattle/2025/04/23/washington-gun-permit-bill#:~:text=House%20Bill%201163)
 * 04/23/2025 [Senate Democrats](/org/senate_democrats/) - [Keeping our communities safe - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/23/keeping-our-communities-safe/#:~:text=passed%20a%20measure)
+* 04/23/2025 [Washington State Standard](/org/washington_state_standard/) - [Permit-to-purchase bill for gun buyers headed to WA governor’s desk • Washington State Standard](https://washingtonstatestandard.com/2025/04/23/permit-to-purchase-bill-for-gun-buyers-headed-to-wa-governors-desk/#:~:text=House%20Bill%201163)
 * 04/23/2025 [Washington State Standard](/org/washington_state_standard/) - [Permit-to-purchase bill for gun buyers headed to WA governor’s desk • Washington State Standard](https://washingtonstatestandard.com/briefs/permit-to-purchase-bill-for-gun-buyers-headed-to-wa-governors-desk/#:~:text=House%20Bill%201163)
 * 04/23/2025 [The Center Square](/org/the_center_square/) - [WATCH: Permit-to-purchase gun bill headed to Gov. Ferguson’s desk | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_eba2b601-191a-451d-af71-f74d7b84f141.html#:~:text=House%20Bill%201163)
 * 04/15/2025 [KGW](/org/kgw/) - [Oregon lawmakers eye more gun control bills as Measure 114 remains on hold | kgw.com](https://www.kgw.com/article/news/local/the-story/measure-114-constitutional-oregon-lawmakers-more-gun-control-bills/283-0b6547b9-56c0-401c-8bd5-43a14f712cbf#:~:text=House%20Bill%201163)

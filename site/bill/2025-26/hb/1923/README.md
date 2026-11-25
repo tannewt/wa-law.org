@@ -10,6 +10,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 10/14/2026 [The Urbanist](/org/the_urbanist/) - [2026 General Election Endorsements](https://www.theurbanist.org/2026-general-election-endorsements/#:~:text=HB%201923)
+* 07/23/2026 [The Urbanist](/org/the_urbanist/) - [Bremerton Fast Ferry Headed for 35% Weekday Service Cut This Fall](https://www.theurbanist.org/bremerton-fast-ferry-headed-for-35-weekday-service-cut-this-fall/#:~:text=HB%201923)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201923)
 * 03/08/2026 [The Urbanist](/org/the_urbanist/) - [Mosquito Fleet Act Runs Into Choppy Seas in the State Senate » The Urbanist](https://www.theurbanist.org/2026/03/08/mosquito-fleet-act-runs-into-choppy-seas-in-the-state-senate/#:~:text=House%20Bill%201923)
 * 03/08/2026 [The Urbanist](/org/the_urbanist/) - [Mosquito Fleet Act Runs Into Choppy Seas in the State Senate » The Urbanist](https://www.theurbanist.org/mosquito-fleet-act-runs-into-choppy-seas-in-the-state-senate/#:~:text=House%20Bill%201923)

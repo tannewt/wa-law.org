@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 08/13/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington poised to elect its first openly trans legislator • Washington State Standard](https://washingtonstatestandard.com/2026/08/13/washington-poised-to-elect-its-first-openly-trans-legislator/#:~:text=didn’t%20go%20anywhere)
 * 03/31/2026 [PubliCola](/org/publicola/) - [Hannah Sabio-Howell Says It's Time to Replace Longtime Legislator Jamie Pedersen - PubliCola](https://publicola.com/2026/03/31/hannah-sabio-howell-says-its-time-to-replace-longtime-legislator-jamie-pedersen/#:~:text=Scott’s%20bill)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202100)
 * 02/21/2026 [House Republicans](/org/house_republicans/) - [Let your voice be heard on the state income tax bill | Washington State House Republicans](https://houserepublicans.wa.gov/current/let-your-voice-be-heard-on-the-state-income-tax-bill/#:~:text=House%20Bill%202100)

@@ -19,7 +19,7 @@
 #### 1559 👎 - Con
 Testifying:
 * Rob Colombini - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
-* Soleil Boyd - [Children's Alliance](/org/children's_alliance/)
+* 💵Soleil Boyd - [Children's Alliance](/org/children's_alliance/)
 * Cindy Elizalde - SEIU 925
 * Lupita Suarez
 * Maria de Jesus Marin

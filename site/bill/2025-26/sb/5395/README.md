@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/25/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to health care - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/05/24/protecting-access-to-health-care/#:~:text=SB%205395)
 * 04/23/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to affordable health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/23/protecting-access-to-affordable-health-care-in-washington/#:~:text=SB%205395)
 * 04/20/2026 [Senate Democrats](/org/senate_democrats/) - [Don’t Miss It: 46th District Town Hall and Session Updates - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/20/dont-miss-it-46th-district-town-hall-and-session-updates/#:~:text=SB%205395)
 * 03/25/2026 [Senate Democrats](/org/senate_democrats/) - [Orwall bill to improve prior authorization transparency signed into law - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/25/orwall-bill-to-improve-prior-authorization-transparency-signed-into-law/#:~:text=Senate%20Bill%205395)

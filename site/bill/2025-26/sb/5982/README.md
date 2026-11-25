@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/31/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington’s Environment, Strengthening Our Climate Resilience - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/08/31/protecting-washingtons-environment-strengthening-our-climate-resilience/#:~:text=SB%205982)
 * 03/22/2026 [Washington State Standard](/org/washington_state_standard/) - [Environment and climate bills that passed and failed in WA’s legislative session • Washington State Standard](https://washingtonstatestandard.com/2026/03/22/environment-and-climate-bills-that-passed-and-failed-in-was-legislative-session-data-centers-transmission-authority-loopholes/#:~:text=Senate%20Bill%205982)
 * 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=SSB%205982)
 

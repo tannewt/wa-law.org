@@ -10,6 +10,10 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 11/18/2026 [Washington State Standard](/org/washington_state_standard/) - [What can Washington lawmakers do about record-breaking lawsuit payouts? • Washington State Standard](https://washingtonstatestandard.com/2026/11/18/what-can-washington-lawmakers-do-about-record-breaking-lawsuit-payouts/#:~:text=red%20flag%20for%20trial%20lawyers)
+* 09/21/2026 [MyNorthwest](/org/mynorthwest/) - [Harger: Washington needs $1.3 billion more for lawsuit payouts. That's more than UW gets in state operating support - MyNorthwest.com](https://mynorthwest.com/kiro-opinion/washington-lawsuit-payouts-uw/4278286#:~:text=Senate%20Bill%206239)
+* 09/15/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers face another $1B decision on lawsuit payouts • Washington State Standard](https://washingtonstatestandard.com/2026/09/15/wa-lawmakers-face-another-1b-decision-on-lawsuit-payouts/#:~:text=the%20bill)
+* 07/21/2026 [Washington State Standard](/org/washington_state_standard/) - [WA sets another record with growing lawsuit costs • Washington State Standard](https://washingtonstatestandard.com/2026/07/21/wa-sets-another-record-with-growing-lawsuit-costs/#:~:text=the%20bill)
 * 02/25/2026 [The Washington Observer](/org/the_washington_observer/) - [No brakes on runaway liability costs](https://washingtonobserver.substack.com/p/no-brakes-on-runaway-liability-costs#:~:text=SB%206239)
 * 02/25/2026 [The Center Square](/org/the_center_square/) - [WATCH: Stalled tort reform bill would have further harmed victims, lawyer group says | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6f7769cf-93e2-406b-aa63-5ae0d90c6e2c.html#:~:text=Senate%20Bill%206239)
 * 02/25/2026 [Washington State Standard](/org/washington_state_standard/) - [Attempt to rein in surging lawsuit costs stalls in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/24/attempt-to-rein-in-surging-lawsuit-costs-stalls-in-wa-legislature/#:~:text=Senate%20Bill%206239)

@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 10/14/2026 [The Urbanist](/org/the_urbanist/) - [2026 General Election Endorsements](https://www.theurbanist.org/2026-general-election-endorsements/#:~:text=johns)
+* 07/16/2026 [The Urbanist](/org/the_urbanist/) - [2026 Primary Election Endorsements](https://www.theurbanist.org/2026-primary-election-endorsements/#:~:text=johns)
 * 02/10/2026 [PubliCola](/org/publicola/) - [Bill Targeting Sex Buyers Would No Longer Result in Immediate Felony Charges - PubliCola](https://publicola.com/2026/02/09/bill-targeting-sex-buyers-would-no-longer-result-in-immediate-felony-charges/#:~:text=State%20legislation)
 
 ## Meetings

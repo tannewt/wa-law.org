@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1137/</link>
 		<description>Updates about HB 1137</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 06 May 2026 11:00:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -207,6 +207,13 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>Critics question WA’s progress reducing solitary confinement in state prisons • Washington State Standard</title>
+			<description>News article "Critics question WA’s progress reducing solitary confinement in state prisons • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 06 May 2026 11:00:58 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/05/06/critics-question-was-progress-reducing-solitary-confinement-in-state-prisons/#:~:text=proposal%20in%20the%20state%20Legislature</guid>
 		</item>
 	</channel>
 </rss>

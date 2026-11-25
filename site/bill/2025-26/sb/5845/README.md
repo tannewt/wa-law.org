@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/25/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to health care - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/05/24/protecting-access-to-health-care/#:~:text=SB%205845)
 * 04/23/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to affordable health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/23/protecting-access-to-affordable-health-care-in-washington/#:~:text=SB%205845)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Final day of session - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/03/12/final-day-of-session/#:~:text=5845)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February legislative update - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/02/19/february-legislative-update/#:~:text=5845)

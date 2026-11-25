@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 08/07/2026 [Senate Democrats](/org/senate_democrats/) - [Safe and secure elections - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/08/07/safe-and-secure-elections/#:~:text=SB%205892)
+* 06/22/2026 [Washington State Standard](/org/washington_state_standard/) - [Postal Service skips hearing with WA lawmakers on mail-in ballot rules • Washington State Standard](https://washingtonstatestandard.com/2026/06/22/postal-service-skips-hearing-with-wa-lawmakers-on-mail-in-ballot-rules/#:~:text=passed%20a%20law)
 * 04/30/2026 [House Democrats](/org/house_democrats/) - [Protecting the Freedom to Vote: Washington’s Response to a Weakened Voting Rights Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/04/30/protecting-the-freedom-to-vote-washingtons-response-to-a-weakened-voting-rights-act/#:~:text=SB%205892)
 * 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting our rights and freedoms from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/03/protecting-our-rights-and-freedoms-from-federal-overreach/#:~:text=SB%205892)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session wrap up - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/04/02/2026-legislative-session-wrap-up/#:~:text=5892)

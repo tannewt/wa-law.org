@@ -148,7 +148,7 @@ Testifying:
 * Sherrie Tinocco - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
 * Alison Eisinger - Seattle / King County Coalition on Homelessness
-* Annalise Martucci - Office of Civil Legal Aid
+* Annalise Martucci - [Office of Civil Legal Aid](/org/office_of_civil_legal_aid/)
 * Suzi Fode - New Hope
 * 💵Laurel Redden - King County Sexual Assault Resource Center/Sexual Assault Working Group
 * 💵Melanie Smith - WA State LTC Ombuds Program

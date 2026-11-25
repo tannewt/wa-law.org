@@ -19,7 +19,7 @@
 ### Fri 02/27 01:30 PM - Ways & Means (WM): 2SHB 2333 Political violence
 #### 195 👍 - Pro
 Testifying:
-* Louisa Duggan - Vote Mama Lobby
+* 💵Louisa Duggan - Vote Mama Lobby
 * Gary Ernsdorff - King County Prosecutor's Office
 * Jennifer Ritchie - King County Prosecutor's Office
 * Michael Mohandeson - King County Prosecutor's Office
@@ -40,7 +40,7 @@ Testifying:
 * Joe Kunzler - NEVER AGAIN MEANS NEVER AGAIN
 * Casey Parks - King County Prosecutor's Office
 * Gary Ernsdorff - King County Prosecutor's Office
-* Louisa Duggan - Vote Mama Lobby
+* 💵Louisa Duggan - Vote Mama Lobby
 
 #### 266 👎 - Con
 
@@ -78,7 +78,7 @@ Testifying:
 * Muthoni Wambu Kraal - Women’s Democracy Lab
 * Aparna Ghosh - Ghosh Innovation Lab
 * Caroline Djamalov - King County Prosecuting Attorney's Office
-* Louisa Duggan - Vote Mama Lobby
+* 💵Louisa Duggan - Vote Mama Lobby
 * 💵Timothy Grisham - WA Assn of County Officials
 * Eveline Dowling - Expand Democracy
 * Alana Persson - RepresentWomen

@@ -10,6 +10,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/06/2026 [The Center Square](/org/the_center_square/) - [WATCH: State fails to investigate daycares with no children despite media reports | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2b9ca4ec-3104-4c92-a07a-3776f2f161b7.html#:~:text=SB%202689)
+* 05/21/2026 [The Center Square](/org/the_center_square/) - [WATCH: DCYF secretary refutes fraud claims, says agency needs funding for more audits | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a74cd54b-f5f5-4520-9c8b-ce9950ec2e01.html#:~:text=new%20law)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=HB%202689)
 
 ## Meetings

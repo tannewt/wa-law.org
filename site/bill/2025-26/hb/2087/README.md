@@ -20,5 +20,5 @@ Testifying:
 #### 3 ❓ - Other
 Testifying:
 * Bryon Welch - Office of the Insurance Commissioner
-* Chio Saeteurn - Office of the Insurance Commissioner
+* 💵Chio Saeteurn - Office of the Insurance Commissioner
 * Nick Fielden - Washington State Attorney General's Office

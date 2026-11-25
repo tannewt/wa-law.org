@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/03/2026 [The Center Square](/org/the_center_square/) - [Richland council eyes criminal charges for parents allowing kids to ride e-motos | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1b3b1c53-1abf-466a-ad7a-ff084d748d9c.html#:~:text=bill)
 * 02/23/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/the-house-hot-sheet-for-week-7-of-the-2026-legislative-session/#:~:text=ESSB%206110)
 
 ## Meetings

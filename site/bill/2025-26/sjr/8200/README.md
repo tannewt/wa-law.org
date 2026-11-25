@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 10/14/2026 [The Urbanist](/org/the_urbanist/) - [2026 General Election Endorsements](https://www.theurbanist.org/2026-general-election-endorsements/#:~:text=Senate%20Joint%20Resolution%208200)
+* 07/16/2026 [The Urbanist](/org/the_urbanist/) - [2026 Primary Election Endorsements](https://www.theurbanist.org/2026-primary-election-endorsements/#:~:text=Senate%20Joint%20Resolution%208200)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SSJR%208200)
 * 03/10/2025 [Senate Democrats](/org/senate_democrats/) - [Halfway there - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/10/halfway-there/#:~:text=SJR%208200)
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=SSJR%208200)

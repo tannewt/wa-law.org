@@ -14,7 +14,7 @@
 ### Wed 01/29 01:30 PM - State Government & Tribal Relations (SGOV): HB 1412 Comm'n, M. East & N. Africa
 #### 122 👍 - Pro
 Testifying:
-* Heidi Sadri
+* 💵Heidi Sadri
 * Yashar Shayan
 * Manal Alsharif
 * Laila Saliba - Washington for Peace and Justice

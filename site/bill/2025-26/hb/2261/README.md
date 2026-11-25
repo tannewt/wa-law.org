@@ -25,8 +25,8 @@ Testifying:
 * Jonathan Medverd - Washington State Radiological Society
 * Robert Schroeter - Adult Family Home Council of Washington State
 * Angela Ross - WA Assoc of Naturopathic Physicians
-* Dee Bender - Washington Association of Nurse Anesthesiology
-* Kelli Camp - Washington Association of Nurse Anesthesiology
+* Dee Bender - [Washington Association of Nurse Anesthesiology](/org/washington_association_of_nurse_anesthesiology/)
+* Kelli Camp - [Washington Association of Nurse Anesthesiology](/org/washington_association_of_nurse_anesthesiology/)
 * 💵Amina Teouri - [Adult Family Home Council](/org/adult_family_home_council/)
 * Dorothy Schlimme - AFH Council Executive Board Chair
 

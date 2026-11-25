@@ -28,7 +28,7 @@ Testifying:
 * Shahein Moussavi - Global Underwater Explorers Seattle
 * Elizabeth Burton - Seattle Cruise Control
 * Lovel Pratt - Friends of the San Juans
-* Marcie Keever - Friends of the Earth
+* Marcie Keever - [Friends of the Earth](/org/friends_of_the_earth/)
 * Mona Howe - Climate Action Families
 * Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)
 * Jay Julius - Lummi Nation Fisherman

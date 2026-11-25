@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 09/18/2026 [The Stranger](/org/the_stranger/) - [Seattle Is Poised to Ban Supermarket Algorithmic Price Discrimination - The Stranger](https://www.thestranger.com/news/seattle-is-poised-to-ban-supermarket-algorithmic-price-discrimination/#:~:text=statewide%20bill)
 * 04/28/2026 [KUOW](/org/kuow/) - [KUOW - WA sues Albertsons over ‘deceptive’ buy one, get one free deals](https://www.kuow.org/stories/wa-sues-albertsons-over-deceptive-buy-one-get-one-free-deals#:~:text=proposed%20legislation)
 * 04/27/2026 [Washington State Standard](/org/washington_state_standard/) - [WA sues Albertsons over ‘deceptive’ buy one, get one free deals • Washington State Standard](https://washingtonstatestandard.com/2026/04/27/wa-sues-albertsons-over-deceptive-buy-one-get-one-free-deals/#:~:text=proposed%20legislation)
 * 04/27/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington AG sues Albertsons, alleging overcharging on 'buy one, get one' deals | Cascadia Daily News](https://www.cascadiadaily.com/2026/apr/27/washington-ag-sues-albertsons-alleging-overcharging-on-buy-one-get-one-deals/#:~:text=proposed%20legislation)

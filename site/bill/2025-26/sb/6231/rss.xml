@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6231/</link>
 		<description>Updates about SB 6231</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 01 Apr 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 26 May 2026 13:00:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -430,6 +430,13 @@
 			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-04-01/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Seattle Advances Data Center Moratorium, Amid Public Backlash</title>
+			<description>News article "Seattle Advances Data Center Moratorium, Amid Public Backlash" from The Urbanist.</description>
+			<pubDate>Tue, 26 May 2026 13:00:46 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/seattle-advances-data-center-moratorium-amid-public-backlash/#:~:text=Senate%20bill</guid>
 		</item>
 	</channel>
 </rss>

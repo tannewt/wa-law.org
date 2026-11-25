@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 09/04/2026 [Washington State Standard](/org/washington_state_standard/) - [Wildfire risks are driving up costs for Northwest utilities • Washington State Standard](https://washingtonstatestandard.com/2026/09/04/wildfire-risks-are-driving-up-costs-for-northwest-utilities/#:~:text=proposed%20a%20bill)
+* 08/05/2026 [The Center Square](/org/the_center_square/) - [WATCH: Spokane fires reignite talk of Washington victims fund | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5b933753-1fb1-4d8a-8074-945443f72a53.html#:~:text=House%20Bill%202275)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202275)
 * 02/21/2026 [House Republicans](/org/house_republicans/) - [Let your voice be heard on the state income tax bill | Washington State House Republicans](https://houserepublicans.wa.gov/current/let-your-voice-be-heard-on-the-state-income-tax-bill/#:~:text=House%20Bill%202275)
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202275)

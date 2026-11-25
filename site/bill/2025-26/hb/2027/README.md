@@ -8,5 +8,6 @@
 
 ## 📰 Articles
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202027)
+* 12/24/2025 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Twelve ideas for recovering revenue that would allow Washington to avoid austerity in the 2026 supplemental operating budget - NPI's Cascadia Advocate](https://www.nwprogressive.org/weblog/2025/12/twelve-ideas-for-recovering-revenue-that-would-allow-washington-to-avoid-austerity-in-the-2026-supplemental-operating-budget.html#:~:text=House%20Bill%202027)
 
 ## Meetings

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/15/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington may ban sales of farmed octopus • Washington State Standard](https://washingtonstatestandard.com/2026/01/15/washington-may-ban-sales-of-farmed-octopus/#:~:text=House%20Bill%201608)
 * 01/15/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington may ban sales of farmed octopus • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-may-ban-sales-of-farmed-octopus/#:~:text=House%20Bill%201608)
 
 ## Meetings

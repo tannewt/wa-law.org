@@ -38,7 +38,7 @@ Testifying:
 Testifying:
 * Annemarie Dooley - Washington Physicians for Social Responsibility
 * Brendan Flynn - FulmarFish
-* Marcie Keever - Friends of the Earth
+* Marcie Keever - [Friends of the Earth](/org/friends_of_the_earth/)
 * Mona Howe - Climate Action Families
 * Jay Julius - Lummi Fisherman
 * Deborah Giles - WildOrca

@@ -52,7 +52,7 @@
 * 👎 Christina Henry
 
 ### [HB 1874](/bill/2023-24/hb/1874/) - Protecting consumers from predatory loans. 👍2  
-* 👍 Sam Leonard
+* 👍💵 Sam Leonard
 
 ### [HB 2081](/bill/2023-24/hb/2081/) - Home equity sharing 👍1  
 * 👍💵 Emily Murphy
@@ -68,6 +68,6 @@
 * 👍💵 Emily Murphy
 
 ## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍4  
-* 👍 Sam Leonard
-* 👍 Sam Leonard
-* 👍 Sam Leonard
+* 👍💵 Sam Leonard
+* 👍💵 Sam Leonard
+* 👍💵 Sam Leonard

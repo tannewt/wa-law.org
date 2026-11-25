@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/18/2026 [Senate Democrats](/org/senate_democrats/) - [Building More Housing, Expanding Opportunity - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/06/18/building-more-housing-expanding-opportunity/#:~:text=HB%201903)
+* 06/12/2026 [Senate Democrats](/org/senate_democrats/) - [Public comment open now on PSE rates - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/06/12/public-comment-open-now-on-pse-rates/#:~:text=HB 1903)
 * 03/19/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes as 2026 session ends - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/19/millionaires-tax-passes-as-2026-session-ends/#:~:text=HB%201903)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [A few accomplishments this session - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/03/18/a-few-accomplishments-this-session/#:~:text=HB%201903))
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=HB%201903)

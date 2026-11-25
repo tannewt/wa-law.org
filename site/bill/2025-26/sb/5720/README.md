@@ -24,7 +24,7 @@ Testifying:
 Testifying:
 * Mindy Chumbley - NW Collectors Assoc
 * David Reid
-* Sam Leonard - NW Consumer Law Center
+* 💵Sam Leonard - NW Consumer Law Center
 * Raymond Pepe - Uniform Law Commission
 
 #### 0 👎 - Con
@@ -39,7 +39,7 @@ Testifying:
 
 #### 1 👎 - Con
 Testifying:
-* Sam Leonard - NW Consumer Law Center
+* 💵Sam Leonard - NW Consumer Law Center
 
 #### 2 ❓ - Other
 Testifying:

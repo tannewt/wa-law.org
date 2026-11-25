@@ -11,6 +11,9 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/11/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More than 200 new laws now in effect in Washington state | Cascadia Daily News](https://www.cascadiadaily.com/2026/jun/11/more-than-200-new-laws-now-in-effect-in-washington-state/#:~:text=Senate%20Bill%206182)
+* 06/11/2026 [Washington State Standard](/org/washington_state_standard/) - [These new WA laws take effect Thursday • Washington State Standard](https://washingtonstatestandard.com/2026/06/11/these-new-wa-laws-take-effect-thursday/#:~:text=Senate%20Bill%206182)
+* 05/25/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to health care - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/05/24/protecting-access-to-health-care/#:~:text=SB%206182)
 * 04/23/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to affordable health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/23/protecting-access-to-affordable-health-care-in-washington/#:~:text=SB%206182)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=SB%206182)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%206182)

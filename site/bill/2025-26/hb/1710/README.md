@@ -13,6 +13,9 @@
 * [Session Law](S3.SL/)
 
 ## 📰 Articles
+* 07/07/2026 [Washington State Standard](/org/washington_state_standard/) - [These 3 WA communities now need state approval for election rule changes • Washington State Standard](https://washingtonstatestandard.com/2026/07/07/these-3-wa-communities-now-need-state-approval-for-election-rule-changes/#:~:text=added%20the%20mandate%20this%20year)
+* 06/11/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More than 200 new laws now in effect in Washington state | Cascadia Daily News](https://www.cascadiadaily.com/2026/jun/11/more-than-200-new-laws-now-in-effect-in-washington-state/#:~:text=House%20Bill%201710)
+* 06/11/2026 [Washington State Standard](/org/washington_state_standard/) - [These new WA laws take effect Thursday • Washington State Standard](https://washingtonstatestandard.com/2026/06/11/these-new-wa-laws-take-effect-thursday/#:~:text=House%20Bill%201710)
 * 04/30/2026 [House Democrats](/org/house_democrats/) - [Protecting the Freedom to Vote: Washington’s Response to a Weakened Voting Rights Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/04/30/protecting-the-freedom-to-vote-washingtons-response-to-a-weakened-voting-rights-act/#:~:text=HB%201710)
 * 03/09/2026 [House Democrats](/org/house_democrats/) - [Democrats advance package of bills to strengthen voting rights and election integrity – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/09/democrats-advance-package-of-bills-to-strengthen-voting-rights-and-election-integrity/#:~:text=House%20Bill%201710)
 * 03/04/2026 [The Washington Observer](/org/the_washington_observer/) - [Local governments quietly grumble over a voting rights win](https://washingtonobserver.substack.com/p/local-governments-quietly-grumble#:~:text=HB%201710)

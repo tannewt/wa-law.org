@@ -219,7 +219,7 @@ Testifying:
 * 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * Rob Colombini - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 * Sheila Capestany - [Start Early](/org/start_early/)
-* Soleil Boyd - [Children's Alliance](/org/children's_alliance/)
+* 💵Soleil Boyd - [Children's Alliance](/org/children's_alliance/)
 * Skippy Shaw - The Nature Conservancy in Washington
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
@@ -283,7 +283,7 @@ Testifying:
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
 * 💵Amber Carter
 * Ashe Tippins
-* Max Mendez Kauffman - Office of Civil Legal Aid
+* Max Mendez Kauffman - [Office of Civil Legal Aid](/org/office_of_civil_legal_aid/)
 * Ryan Blackwell - W4A (Washington Area Agencies on Aging)
 * Linnea Anderson - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
 * Melissa Derry
@@ -375,7 +375,7 @@ Testifying:
 * Krystyna Wolniakowski - Columbia River Gorge Commission
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Judy Ellis
-* Max Mendez Kauffman - Office of Civil Legal Aid
+* Max Mendez Kauffman - [Office of Civil Legal Aid](/org/office_of_civil_legal_aid/)
 * Dave Upthegrove - Office of the Commissioner of Public Lands, Department of Natural Resources
 * Melissa Derry - Central Washington Legal Aid
 * Melissa Derry - Central Washington Legal Aid
@@ -441,7 +441,7 @@ Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Dr. Kevin Brockbank - Spokane Colleges
 * Nate Humphrey - WA State Board for Community and Technical Colleges
-* Annalise Martucci - Office of Civil Legal Aid
+* Annalise Martucci - [Office of Civil Legal Aid](/org/office_of_civil_legal_aid/)
 * Hali Willis - Seattle/King County Coalition on Homelessness
 * Demas Nesterenko - SEIU775
 * 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)

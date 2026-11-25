@@ -56,7 +56,7 @@ Testifying:
 * Jenna Comstock - QLAW Association
 * Erik Janson - Planned Parenthood Great Northwest
 * Fernanda Grether Zdanowsky
-* Amasai Jeke - UTOPIA Washington
+* 💵Amasai Jeke - UTOPIA Washington
 * Aspen Coyle
 * Zoë Schirmer
 * Syzygy Blankenship - Self

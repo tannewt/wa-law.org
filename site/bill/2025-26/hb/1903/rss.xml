@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1903/</link>
 		<description>Updates about HB 1903</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 30 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jun 2026 19:11:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -726,6 +726,20 @@
 			<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-30/Governor partially vetoed.</guid>
+		</item>
+		<item>
+			<title>Public comment open now on PSE rates - Sen. Jessica Bateman</title>
+			<description>News article "Public comment open now on PSE rates - Sen. Jessica Bateman" from Senate Democrats.</description>
+			<pubDate>Fri, 12 Jun 2026 21:25:41 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/06/12/public-comment-open-now-on-pse-rates/#:~:text=HB 1903</guid>
+		</item>
+		<item>
+			<title>Building More Housing, Expanding Opportunity - Sen. Victoria Hunt</title>
+			<description>News article "Building More Housing, Expanding Opportunity - Sen. Victoria Hunt" from Senate Democrats.</description>
+			<pubDate>Thu, 18 Jun 2026 19:11:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hunt/2026/06/18/building-more-housing-expanding-opportunity/#:~:text=HB%201903</guid>
 		</item>
 	</channel>
 </rss>

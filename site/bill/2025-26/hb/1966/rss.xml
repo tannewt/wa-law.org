@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1966/</link>
 		<description>Updates about HB 1966</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Oct 2026 13:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,20 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>2026 Primary Election Endorsements</title>
+			<description>News article "2026 Primary Election Endorsements" from The Urbanist.</description>
+			<pubDate>Thu, 16 Jul 2026 23:21:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2026-primary-election-endorsements/#:~:text=HB%201966</guid>
+		</item>
+		<item>
+			<title>2026 General Election Endorsements</title>
+			<description>News article "2026 General Election Endorsements" from The Urbanist.</description>
+			<pubDate>Wed, 14 Oct 2026 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2026-general-election-endorsements/#:~:text=HB%201966</guid>
 		</item>
 	</channel>
 </rss>

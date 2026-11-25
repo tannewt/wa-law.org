@@ -13,7 +13,7 @@
 
 #### 521 👎 - Con
 Testifying:
-* Mikala Staples Hughes - Western Washington Agricultural Association
+* Mikala Staples Hughes - [Western Washington Agricultural Association](/org/western_washington_agricultural_association/)
 * Ellen Bynum - Friends of Skagit County
 * TaraLyn Fray
 * Liza Simmonds

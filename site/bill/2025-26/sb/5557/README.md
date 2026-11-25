@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/11/2026 [Washington State Standard](/org/washington_state_standard/) - [Gluesenkamp Perez hits Braun on abortion as battle begins for WA House seat • Washington State Standard](https://washingtonstatestandard.com/2026/08/11/gluesenkamp-perez-hits-braun-on-abortion-as-battle-begins-for-wa-house-seat/#:~:text=emergency%20care%20for%20pregnant%20women)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205557)
 * 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%205557)
 * 07/10/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=SB%205557)

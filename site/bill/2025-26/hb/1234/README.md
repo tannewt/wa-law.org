@@ -10,7 +10,7 @@
 ### Fri 03/14 08:00 AM - Health & Long Term Care (HLTC): HB 1234 Counselors, etc. committee
 #### 36 👍 - Pro
 Testifying:
-* Jeremy Arp - National Association of Social Workers - Washington Chapter
+* 💵Jeremy Arp - National Association of Social Workers - Washington Chapter
 
 #### 0 👎 - Con
 
@@ -19,7 +19,7 @@ Testifying:
 ### Wed 01/22 01:30 PM - Health Care & Wellness (HCW): HB 1234 Counselors, etc. committee
 #### 11 👍 - Pro
 Testifying:
-* Jeremy Arp - National Association of Social Workers - Washington Chapter
+* 💵Jeremy Arp - National Association of Social Workers - Washington Chapter
 
 #### 0 👎 - Con
 

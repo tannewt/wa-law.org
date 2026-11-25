@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 09/14/2026 [The Spokesman-Review](/org/the_spokesman-review/) - [Democrat challenges longtime incumbent to represent southeastern Washington in state House](https://www.spokesman.com/stories/2026/sep/14/democrat-challenges-longtime-incumbent-to-represen/#:~:text=one%20of%20Schmick’s%20bills)
+
 ## Meetings
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): ESHB 2110 Specialty care transports
 #### 92 👍 - Pro

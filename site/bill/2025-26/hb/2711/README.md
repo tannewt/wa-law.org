@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/29/2026 [The Center Square](/org/the_center_square/) - [WATCH: Washington gas tax sends drivers deal hunting as critics question results | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3daec6fd-1ecb-4335-83c5-91630763bd12.html#:~:text=ESHB%202711)
 * 04/01/2026 [Washington State Standard](/org/washington_state_standard/) - [Highway preservation at center of new WA transportation budget • Washington State Standard](https://washingtonstatestandard.com/2026/03/31/highway-preservation-at-center-of-new-wa-transportation-budget/#:~:text=House%20Bill%202711)
 * 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=House%20Bill%202711)
 * 03/12/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature passes bipartisan transportation budget that creates jobs, invests in preservation - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/03/12/legislature-passes-bipartisan-transportation-budget-that-creates-jobs-invests-in-preservation/#:~:text=House%20Bill%202711)

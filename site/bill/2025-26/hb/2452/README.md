@@ -25,7 +25,7 @@
 ### Wed 02/18 10:30 AM - Housing (HSG): SHB 2452 Rent increase notice service
 #### 421 👍 - Pro
 Testifying:
-* William Schneider - Washington Multi-Family Housing Association
+* 💵William Schneider - Washington Multi-Family Housing Association
 * Matthew Plummer - MVP Property Pros LLC
 * Teresa Warner
 * Nancy Lindley

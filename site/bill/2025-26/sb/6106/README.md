@@ -18,7 +18,7 @@ Testifying:
 #### 2 ❓ - Other
 Testifying:
 * 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
-* 💵Scott Dilley - Worker and Farmer Labor Association
+* 💵Scott Dilley - [Worker and Farmer Labor Association](/org/worker_and_farmer_labor_association/)
 
 ### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 6106 Laid-off employees
 #### 10 👍 - Pro

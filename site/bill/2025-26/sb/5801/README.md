@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/24/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington’s gas tax is going up, but state transportation revenue is falling short • Washington State Standard](https://washingtonstatestandard.com/2026/06/24/washingtons-gas-tax-is-going-up-but-state-transportation-revenue-is-falling-short/#:~:text=a%202025%20law)
+* 05/27/2026 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Rob McKenna's tall tales can't change Washington's fiscal reality: Apples-to-apples metrics show falling investment in state services - NPI's Cascadia Advocate](https://www.nwprogressive.org/weblog/2026/05/rob-mckennas-tall-tales-cant-change-washingtons-fiscal-reality-apples-to-apples-metrics-show-falling-investment-in-state-services.html#:~:text=Engrossed%20Substitute%20Senate%20Bill%205801)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205801)
 * 02/28/2026 [KIRO7](/org/kiro7/) - [New 3% card fee hits ferry riders March 1 – KIRO 7 News Seattle](https://www.kiro7.com/news/local/new-3-card-fee-hits-ferry-riders-march-1/IW4AWUS7OJGF5I5FTPXLKVXDOI/#:~:text=2025-27%20state%20transportation%20budget)
 * 02/18/2026 [KIRO7](/org/kiro7/) - [Credit card fee is coming soon for Washington State Ferries – KIRO 7 News Seattle](https://www.kiro7.com/news/local/credit-card-fee-is-coming-soon-washington-state-ferries/3VJBIH4BKZEF5PH22C4BSSH36A/#:~:text=2025-27%20state%20transportation%20budget)

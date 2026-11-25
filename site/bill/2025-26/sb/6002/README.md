@@ -11,6 +11,10 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 11/18/2026 [MyNorthwest](/org/mynorthwest/) - [Redmond removes all Flock license plate reader cameras, citing privacy concerns - MyNorthwest.com](https://mynorthwest.com/local/license-plate-reader-cameras/4301884#:~:text=Senate%20Bill%206002)
+* 11/04/2026 [MyNorthwest](/org/mynorthwest/) - [Renton pulls plug on Flock camera contract amid privacy debate - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/renton-flock-camera-contract/4294797#:~:text=state%20law)
+* 09/02/2026 [The Center Square](/org/the_center_square/) - [Flock cameras cost Washington taxpayers millions as backlash grows | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_284fed07-d4e4-4589-a09e-46d52a64477d.html#:~:text=a%20new%20state%20law)
+* 08/18/2026 [MyNorthwest](/org/mynorthwest/) - ['Don't hide in Kent': License plate reader helps Kent police arrest man wanted for child rape - MyNorthwest.com](https://mynorthwest.com/crime-blotter/kent-license-plate-arrest/4267016#:~:text=new%20law)
 * 04/23/2026 [MyNorthwest](/org/mynorthwest/) - [Everett flips Flock cameras back on under new state law - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/everett-flock-cameras/4231348#:~:text=Senate%20Bill%206002)
 * 04/22/2026 [MyNorthwest](/org/mynorthwest/) - [Renton PD restarts license plate reader cameras after pausing to meet new state law - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/license-plate-reader/4230899#:~:text=Senate%20Bill%206002%20(SB%206002),)
 * 04/07/2026 [MyNorthwest](/org/mynorthwest/) - [Renton Police shut down license plate cameras to comply with new privacy law - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/renton-flock-camera/4225670#:~:text=Senate%20Bill%206002)

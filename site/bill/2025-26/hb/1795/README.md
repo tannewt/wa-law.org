@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/30/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Our Students, Strengthening Our Schools - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/07/30/investing-in-our-students-strengthening-our-schools/#:~:text=HB%201795)
+* 06/11/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More than 200 new laws now in effect in Washington state | Cascadia Daily News](https://www.cascadiadaily.com/2026/jun/11/more-than-200-new-laws-now-in-effect-in-washington-state/#:~:text=House%20Bill%201795)
+* 06/11/2026 [Washington State Standard](/org/washington_state_standard/) - [These new WA laws take effect Thursday • Washington State Standard](https://washingtonstatestandard.com/2026/06/11/these-new-wa-laws-take-effect-thursday/#:~:text=House%20Bill%201795)
 * 05/01/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/05/01/investing-in-washingtons-1-million-k-12-students/#:~:text=HB%201795)
 * 03/09/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 8: It's the Final Countdown - WSPTA](https://www.wastatepta.org/week-8-its-the-final-countdown/#:~:text=ESHB%201795)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=SHB%201795)

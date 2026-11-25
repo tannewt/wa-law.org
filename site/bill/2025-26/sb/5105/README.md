@@ -12,6 +12,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/24/2026 [The Center Square](/org/the_center_square/) - [Washington judges flagged criminal law defects last year that remain unresolved | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2e2d626b-a591-48fc-91da-d2ef5910ee32.html#:~:text=minors)
 * 04/20/2026 [Senate Democrats](/org/senate_democrats/) - [Don’t Miss It: 46th District Town Hall and Session Updates - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/20/dont-miss-it-46th-district-town-hall-and-session-updates/#:~:text=SB%205105)
 * 03/17/2026 [Senate Democrats](/org/senate_democrats/) - [That’s a wrap on the 2026 legislative session! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/03/17/thats-a-wrap-on-the-2026-legislative-session/#:~:text=SB%205105)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [Reflecting on the 2026 Legislative Session - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/03/16/reflecting-on-the-2026-legislative-session/#:~:text=SB%205105)

@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 06/25/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [WA child welfare deaths drop significantly after record year | Cascadia Daily News](https://www.cascadiadaily.com/2026/jun/25/wa-child-welfare-deaths-drop-significantly-after-record-year/#:~:text=expanded%20the%20crime%20of%20child%20endangerment)
+* 06/25/2026 [Washington State Standard](/org/washington_state_standard/) - [WA child welfare deaths drop significantly after record year • Washington State Standard](https://washingtonstatestandard.com/2026/06/24/wa-child-welfare-deaths-drop-significantly-after-record-year/#:~:text=expanded%20the%20crime%20of%20child%20endangerment)
 * 03/04/2026 [KUOW](/org/kuow/) - [KUOW - More bills knocked out of running in Washington Legislature](https://www.kuow.org/stories/more-bills-knocked-out-of-running-in-washington-legislature#:~:text=Senate%20Bill%205071)
 * 03/03/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills knocked out of running in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/03/03/more-bills-knocked-out-of-running-in-wa-legislature/#:~:text=Senate%20Bill%205071)
 * 02/27/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Senate Democrats pass $80 billion budget - a house of cards built on phantom savings - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-senate-democrats-pass-80-billion-budget-built-phantom-savings/#:~:text=(Senate%20Bill%205071))

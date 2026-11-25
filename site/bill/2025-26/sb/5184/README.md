@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/15/2026 [The Urbanist](/org/the_urbanist/) - [Bellevue Council Faces Decision Point on Parking Reform](https://www.theurbanist.org/bellevue-council-parking/#:~:text=Senate%20Bill%205184)
+* 05/22/2026 [Senate Democrats](/org/senate_democrats/) - [Successes on housing affordability - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/05/22/successes-on-housing-affordability/#:~:text=SB%205184,)
 * 03/11/2026 [The Center Square](/org/the_center_square/) - [Spokane Valley to challenge state parking mandates with $100K study | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f5dfaf6f-203f-422d-9ee5-7a3cc5fdd6b0.html#:~:text=Senate%20Bill%205184)
 * 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=SB%205184)
 * 08/07/2025 [PubliCola](/org/publicola/) - [Council Amendments to Comprehensive Plan Reveal Competing Priorities - PubliCola](https://publicola.com/2025/08/07/council-amendments-to-comprehensive-plan-show-competing-priorities/#:~:text=parking%20reform%20bill)
@@ -21,6 +23,7 @@
 * 05/16/2025 [Sightline Institute](/org/sightline_institute/) - [How Washington State Won Parking Reform | Sightline Institute](https://www.sightline.org/2025/05/16/how-washington-state-won-parking-reform/#:~:text=SB%205184)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=SB%205184)
 * 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2025 session ends with progress on housing, education, and recycling! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/05/15/lizs-loveletter-2025-session-ends-with-progress-on-housing-education-and-recycling/#:~:text=SB%205184)
+* 05/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Next stop for Washington housing: More construction near transit • Washington State Standard](https://washingtonstatestandard.com/2025/05/13/next-stop-for-washington-housing-more-construction-near-transit/#:~:text=ease%20parking%20requirements)
 * 05/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Next stop for Washington housing: More construction near transit • Washington State Standard](https://washingtonstatestandard.com/briefs/next-stop-for-washington-housing-more-construction-near-transit/#:~:text=ease%20parking%20requirements)
 * 05/08/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization, Parking Reforms Become Law in Washington - The Urbanist](https://www.theurbanist.org/2025/05/08/rent-stabilization-parking-reforms-become-law-in-washington/#:~:text=Senate%20Bill%205184)
 * 05/08/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization, Parking Reforms Become Law in Washington » The Urbanist](https://www.theurbanist.org/rent-stabilization-parking-reforms-become-law-in-washington/#:~:text=Senate%20Bill%205184)

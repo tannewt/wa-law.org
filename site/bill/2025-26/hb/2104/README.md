@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 08/31/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington’s Environment, Strengthening Our Climate Resilience - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/08/31/protecting-washingtons-environment-strengthening-our-climate-resilience/#:~:text=HB%202104)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202104)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202104)
 * 12/29/2025 [Gorge News Center](/org/gorge_news_center/) - [Dent seeks to make temporary early wildfire air support program permanent](https://gorgenewscenter.com/2025/12/29/dent-seeks-to-make-temporary-early-wildfire-air-support-program-permanent/#:~:text=House%20Bill%202104)

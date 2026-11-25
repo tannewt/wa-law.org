@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/30/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Our Students, Strengthening Our Schools - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/07/30/investing-in-our-students-strengthening-our-schools/#:~:text=SB%206278)
 * 05/01/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/05/01/investing-in-washingtons-1-million-k-12-students/#:~:text=SB%206278)
 * 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=SB%206278)
 

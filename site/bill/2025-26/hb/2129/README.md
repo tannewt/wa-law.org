@@ -23,7 +23,7 @@ Testifying:
 * Darrin morrison
 * Kraig Knutzen
 * Lora Claus - Skagitonians to Preserve Farmland
-* Mikala Staples Hughes - Western Washington Agricultural Association
+* Mikala Staples Hughes - [Western Washington Agricultural Association](/org/western_washington_agricultural_association/)
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Ellen Bynum - Friends of Skagit County
 * Tim Knue - Skagitonians to Preserve Farmland

@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/18/2026 [Senate Democrats](/org/senate_democrats/) - [Building More Housing, Expanding Opportunity - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/06/18/building-more-housing-expanding-opportunity/#:~:text=HB%206162)
 * 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [The Senate is adjourned, sine die - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/03/26/the-senate-is-adjourned-sine-die/#:~:text=SB%206162)
 * 03/23/2026 [Senate Democrats](/org/senate_democrats/) - [Governor signs Krishnadasan bill providing tax relief - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/03/23/governor-signs-krishnadasan-bill-providing-tax-relief/#:~:text=Senate%20Bill%206162)
 * 03/23/2026 [Senate Democrats](/org/senate_democrats/) - [KHQ: Washington law makes more people eligible for property tax exemption - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/03/23/khq-washington-law-makes-more-people-eligible-for-property-tax-exemption/#:~:text=newly%20signed%20bill)

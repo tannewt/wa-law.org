@@ -12,6 +12,9 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/11/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More than 200 new laws now in effect in Washington state | Cascadia Daily News](https://www.cascadiadaily.com/2026/jun/11/more-than-200-new-laws-now-in-effect-in-washington-state/#:~:text=House%20Bill%201750)
+* 06/11/2026 [Washington State Standard](/org/washington_state_standard/) - [These new WA laws take effect Thursday • Washington State Standard](https://washingtonstatestandard.com/2026/06/11/these-new-wa-laws-take-effect-thursday/#:~:text=House%20Bill%201750)
+* 05/08/2026 [Senate Democrats](/org/senate_democrats/) - [Thank you for joining us! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/05/08/thank-you-for-joining-us/#:~:text=again%20this%20year)
 * 04/30/2026 [House Democrats](/org/house_democrats/) - [Protecting the Freedom to Vote: Washington’s Response to a Weakened Voting Rights Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/04/30/protecting-the-freedom-to-vote-washingtons-response-to-a-weakened-voting-rights-act/#:~:text=HB%201750)
 * 03/13/2026 [Senate Democrats](/org/senate_democrats/) - [Wrapping up the 2026 Legislative Session  - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/03/13/wrapping-up-the-2026-legislative-session/#:~:text=HB%201750)
 * 03/09/2026 [House Democrats](/org/house_democrats/) - [Democrats advance package of bills to strengthen voting rights and election integrity – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/09/democrats-advance-package-of-bills-to-strengthen-voting-rights-and-election-integrity/#:~:text=House%20Bill%201750)

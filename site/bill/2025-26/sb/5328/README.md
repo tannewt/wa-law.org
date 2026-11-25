@@ -45,6 +45,6 @@ Testifying:
 * 💵Andrew Kushner - [Center for Responsible Lending](/org/center_for_responsible_lending/)
 * Amanda Martin - NW Consumer Law Center
 * Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
-* Sam Leonard - WA State Association for Justice
+* 💵Sam Leonard - WA State Association for Justice
 * Jane Doyle - Woodstock Institute
 * Cathleen MacCaul - AARP Washington State

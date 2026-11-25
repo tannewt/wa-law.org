@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2110/</link>
 		<description>Updates about HB 2110</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 14 Sep 2026 01:45:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -286,6 +286,13 @@
 			<pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-24/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Democrat challenges longtime incumbent to represent southeastern Washington in state House</title>
+			<description>News article "Democrat challenges longtime incumbent to represent southeastern Washington in state House" from The Spokesman-Review.</description>
+			<pubDate>Mon, 14 Sep 2026 01:45:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.spokesman.com/stories/2026/sep/14/democrat-challenges-longtime-incumbent-to-represen/#:~:text=one%20of%20Schmick’s%20bills</guid>
 		</item>
 	</channel>
 </rss>

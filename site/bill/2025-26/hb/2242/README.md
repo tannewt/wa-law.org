@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/08/2026 [Senate Democrats](/org/senate_democrats/) - [Back-to-school resources for Washington families - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2026/09/08/back-to-school-resources-for-washington-families/#:~:text=Legislature%20took%20action%20this%20spring)
+* 05/25/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to health care - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/05/24/protecting-access-to-health-care/#:~:text=HB%202242)
 * 04/23/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to affordable health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/23/protecting-access-to-affordable-health-care-in-washington/#:~:text=HB%202242)
 * 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting our rights and freedoms from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/03/protecting-our-rights-and-freedoms-from-federal-overreach/#:~:text=HB%202242)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=HB%202242)

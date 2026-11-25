@@ -36,7 +36,7 @@ Testifying:
 Testifying:
 * 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
 * Charlie Brown - [Washington Asparagus Commission](/org/washington_asparagus_commission/)
-* 💵Scott Dilley - Worker and Farmer Labor Association
+* 💵Scott Dilley - [Worker and Farmer Labor Association](/org/worker_and_farmer_labor_association/)
 * Bre Elsey - WA Farm Bureau
 * Kellie Sundquist
 * 💵Natalie Doelman - Washington State Dairy Federation
@@ -73,7 +73,7 @@ Testifying:
 * Lauren Gonzalez
 * Kellie Sundquist - Orchard & Vineyard Supply Co.
 * Timothy McDonald - Bluewater Legacy Estates
-* Enrique Gastelum - Worker and Farmer Labor Association
+* Enrique Gastelum - [Worker and Farmer Labor Association](/org/worker_and_farmer_labor_association/)
 * Ben Tindall - [Save Family Farming](/org/save_family_farming/)
 * Cody Anderson - L&L Ag Production
 * Blaine Smith

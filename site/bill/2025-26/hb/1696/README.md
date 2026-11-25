@@ -34,7 +34,7 @@ Testifying:
 * LaKeisha Davis - Habitat for Humanity Spokane
 * Kyle Lucas - Urban Indians Northwest
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
-* Steve Walker - Washington State Housing Finance Commission
+* Steve Walker - [Washington State Housing Finance Commission](/org/washington_state_housing_finance_commission/)
 * Dana Le Roy - Habitat for Humanity Spokane
 
 #### 2149 👎 - Con
@@ -58,7 +58,7 @@ Testifying:
 * Dee Scott
 * Delbert Richardson
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
-* Lisa DeBrock - Washington State Housing Finance Commission
+* Lisa DeBrock - [Washington State Housing Finance Commission](/org/washington_state_housing_finance_commission/)
 * Michael Fornerette
 * Patience Malaba - Housing Development Consortium Seattle-King County
 * Susan Cozzens - Quaker Voice on Washington Public Policy
@@ -97,7 +97,7 @@ Testifying:
 * Sarah Clark - Seattle Metro Chamber
 * Bryan LaFlamme
 * Kimberly Richardson - Global Unspoken Truths, LLC
-* Steve Walker - Washington State Housing Finance Commission
+* Steve Walker - [Washington State Housing Finance Commission](/org/washington_state_housing_finance_commission/)
 
 #### 519 👎 - Con
 

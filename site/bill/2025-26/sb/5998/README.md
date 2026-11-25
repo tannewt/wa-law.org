@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/28/2026 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Seattle Mayor Katie Wilson turns heads by endorsing challengers Hannah Sabio-Howell, Ron Davis in key D-on-D legislative races - NPI's Cascadia Advocate](https://www.nwprogressive.org/weblog/2026/06/seattle-mayor-katie-wilson-turns-heads-by-endorsing-challengers-hannah-sabio-howell-ron-davis-in-key-d-on-d-legislative-races.html#:~:text=the%20operating%20budget)
 * 04/24/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Top credit rating agency raises red flag on Washington finances | Cascadia Daily News](https://www.cascadiadaily.com/2026/apr/24/top-credit-rating-agency-raises-red-flag-on-washington-finances/#:~:text=signed%20a%20roughly%20$79.4%20billion%20plan)
 * 04/24/2026 [Washington State Standard](/org/washington_state_standard/) - [Top credit rating agency puts Washington on notice • Washington State Standard](https://washingtonstatestandard.com/2026/04/24/top-credit-rating-agency-puts-washington-on-notice/#:~:text=signed%20a%20roughly%20$79.4%20billion%20plan)
 * 04/17/2026 [House Republicans](/org/house_republicans/) - [Problems and solutions | Washington State House Republicans](http://houserepublicans.wa.gov/current/problems-and-solutions/#:~:text=supplemental%20operating%20budget)
@@ -80,7 +81,7 @@ Testifying:
 * Muriel Herrera-Velasquez
 * Rob Colombini - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 * Sheila Capestany - [Start Early](/org/start_early/)
-* Soleil Boyd - [Children's Alliance](/org/children's_alliance/)
+* 💵Soleil Boyd - [Children's Alliance](/org/children's_alliance/)
 * Alexandra Folz - Family Connects Pierce County implemented by Step by Step and Answer's Counseling
 * 💵Nick Federici - [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/)
 
@@ -369,7 +370,7 @@ Testifying:
 * 💵Brad Forbes - Alzheimer's Association
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Judy Ellis
-* Max Kauffman - Office of Civil Legal Aid
+* Max Kauffman - [Office of Civil Legal Aid](/org/office_of_civil_legal_aid/)
 * Deborah Wilson
 * Melissa Derry - Central Washington Legal Aid
 * Tom McGarry - [Northwest Justice Project](/org/northwest_justice_project/)

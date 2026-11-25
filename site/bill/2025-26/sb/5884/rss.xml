@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5884/</link>
 		<description>Updates about SB 5884</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 10:17:21 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 23 May 2026 21:32:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -195,6 +195,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kristen/Holdsworth/2026-02-02 10:17:21</guid>
+		</item>
+		<item>
+			<title>West Coast Cities Turn to Vacancy Taxes to Grapple with Housing Crisis</title>
+			<description>News article "West Coast Cities Turn to Vacancy Taxes to Grapple with Housing Crisis" from The Urbanist.</description>
+			<pubDate>Sat, 23 May 2026 21:32:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/west-coast-cities-turn-to-vacancy-taxes-to-grapple-with-housing-crisis/#:~:text=SB%205884</guid>
 		</item>
 	</channel>
 </rss>

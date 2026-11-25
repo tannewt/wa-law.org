@@ -51,7 +51,7 @@ Testifying:
 * Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
 * Cathleen MacCaul - AARP Washington
 * Kris Shook
-* Sam Leonard - NW Consumer Law Center
+* 💵Sam Leonard - NW Consumer Law Center
 
 #### 89 👎 - Con
 Testifying:

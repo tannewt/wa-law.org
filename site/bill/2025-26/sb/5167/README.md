@@ -238,7 +238,7 @@ Testifying:
 * Alison Eisinger - Seattle / King County Coalition on Homelessness
 * Whitney Carlson - Washington Association for Children and Families
 * 💵Jill May - Washington Association for Children and Families
-* Annalise Martucci - Office of Civil Legal Aid
+* Annalise Martucci - [Office of Civil Legal Aid](/org/office_of_civil_legal_aid/)
 * Kate Krug - King County Sexual Assault Resource Center/Sexual Assault Working Group
 * 💵Melanie Smith - WA State LTC Ombuds Program
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)

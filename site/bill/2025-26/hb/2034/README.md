@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/20/2026 [The Center Square](/org/the_center_square/) - [State actuary: $4 billion pension transfer raises odds of future taxpayer bailouts | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fba8e7b4-48bd-4b51-9796-d9c626cae185.html#:~:text=House%20Bill%202034)
 * 02/23/2026 [House Democrats](/org/house_democrats/) - [House Democratic Operating Budget Maintains Critical Services, Prepares for the Future – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/23/house-democratic-operating-budget-maintains-critical-services-prepares-for-the-future/#:~:text=HB%202034)
 * 02/17/2026 [The Center Square](/org/the_center_square/) - [WA House bill raids billions from pension plan while lawmakers also pass record tax hikes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a8e0cc09-4853-4274-995b-bbdeae278a3d.html#:~:text=House%20Bill%202034)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=E2SHB%202034)

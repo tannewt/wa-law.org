@@ -10,6 +10,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/25/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to health care - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/05/24/protecting-access-to-health-care/#:~:text=SB%205917)
+* 05/08/2026 [Senate Democrats](/org/senate_democrats/) - [Thank you for joining us! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/05/08/thank-you-for-joining-us/#:~:text=important%20legislation)
 * 05/04/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA anti-abortion group undeterred by SCOTUS ruling on abortion pill access | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bc23ab34-1d17-4bce-b89a-b841d0ca86dc.html#:~:text=a%20bill)
 * 04/23/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting access to affordable health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/23/protecting-access-to-affordable-health-care-in-washington/#:~:text=SB%205917)
 * 04/13/2026 [The Stranger](/org/the_stranger/) - [Whatever Happened to the Abortion Pill Stockpile? - The Stranger](https://www.thestranger.com/april-2026/whatever-happened-to-the-abortion-pill-stockpile/#:~:text=Senate%20Bill%205917)

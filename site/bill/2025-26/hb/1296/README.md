@@ -11,6 +11,11 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 11/19/2026 [The Center Square](/org/the_center_square/) - [Washington teachers push back after failure of parental rights initiative | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a1ca7491-2bca-480d-9c48-ea92701ab21f.html#:~:text=HB%201296)
+* 10/08/2026 [Washington State Standard](/org/washington_state_standard/) - [Initiative 001 | Voter Guide: 2026 Washington state general election • Washington State Standard](https://washingtonstatestandard.com/voter-guides/ballot-measures/to-restore-the-2024-parents-bill-of-rights-initiative-001/#:~:text=House%20Bill%201296)
+* 09/17/2026 [The Center Square](/org/the_center_square/) - [WATCH: Ferguson says initiative 'weakens' parental rights in push against IL26-001 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9a7282b9-2444-459a-97fc-6457d2eefb40.html#:~:text=House%20Bill%201296)
+* 08/06/2026 [Washington St Pta](/org/washington_st_pta/) - [Washington State PTA Opposes Initiative IL26-001 - WSPTA](https://www.wastatepta.org/washington-state-pta-opposes-initiative-il26-001/#:~:text=Engrossed%20Substitute%20House%20Bill%201296%20(2025)%20summary%20page)
+* 05/15/2026 [Washington State Standard](/org/washington_state_standard/) - [Judge rejects lawsuit against rewrite of WA parental rights law • Washington State Standard](https://washingtonstatestandard.com/2026/05/15/judge-rejects-challenge-to-rewrite-of-wa-parental-rights-law/#:~:text=the%20legislation)
 * 02/04/2026 [Washington State Standard](/org/washington_state_standard/) - [With rally and ‘listening sessions’, WA initiative supporters deliver their message • Washington State Standard](https://washingtonstatestandard.com/2026/02/04/with-rally-and-listening-sessions-wa-initiative-supporters-deliver-their-message/#:~:text=House%20Bill%201296)
 * 01/22/2026 [Washington State Standard](/org/washington_state_standard/) - [State senator is latest Republican to join central WA congressional race • Washington State Standard](https://washingtonstatestandard.com/2026/01/22/state-senator-is-latest-republican-to-join-central-wa-congressional-race/#:~:text=a%20law%20passed%20last%20year)
 * 01/13/2026 [The Center Square](/org/the_center_square/) - [Watchdog org demands WA Legislature hold hearings on two initiatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_20cb568b-970a-49b3-98cb-cd1674bc4aad.html#:~:text=House%20Bill%201296)
@@ -76,6 +81,7 @@
 * 03/13/2025 [MyNorthwest](/org/mynorthwest/) - [Schools must notify parents immediately under reworked House Bill 1296](https://mynorthwest.com/mynorthwest-politics/house-bill-1296/4062314#:~:text=House%20Bill%201296)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201296)
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [Moses Lake School Board comes out against state bills it says erode parents' rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a33e7fea-fb76-11ef-8bed-cf5cea5646c8.html#:~:text=House%20Bill%201296)
+* 03/04/2025 [Washington State Standard](/org/washington_state_standard/) - [Voters could get final say on changes to Washington’s parental ‘bill of rights' • Washington State Standard](https://washingtonstatestandard.com/2025/03/04/voters-could-get-final-say-on-changes-to-washingtons-parental-bill-of-right/#:~:text=a%20students’%20bill%20of%20rights)
 * 03/04/2025 [Washington State Standard](/org/washington_state_standard/) - [Voters could get final say on changes to Washington’s parental ‘bill of rights' • Washington State Standard](https://washingtonstatestandard.com/briefs/voters-could-get-final-say-on-changes-to-washingtons-parental-bill-of-right/#:~:text=a%20students’%20bill%20of%20rights)
 * 03/02/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Human Rights -- 2025 action — Quaker Voice](https://www.quakervoicewa.org/human-rights-2025-action/#:~:text=HB%201296)
 * 02/27/2025 [Real Change](/org/real_change/) - [Seattleites resist Trump admin’s efforts to eliminate trans rights | Feb. 26–March 4, 2025 | Real Change](https://www.realchangenews.org/news/2025/02/27/seattleites-resist-trump-admin-s-efforts-eliminate-trans-rights#:~:text=HB%201296)
@@ -110,7 +116,7 @@ Testifying:
 * Randi Miller
 * Amy Cannava - Washington State Association of School Psychologists
 * Eleanor Nguyen - Not official representative, but coming from Lake Washington High School AP Government class
-* Amasai Jeke - UTOPIA WA
+* 💵Amasai Jeke - UTOPIA WA
 * Susan Tuzzolino
 * Marlene Meyer
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
@@ -155,7 +161,7 @@ Testifying:
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Jerrett Burk
 * Emma Kohl
-* Amasai Jeke - UTOPIA Washington
+* 💵Amasai Jeke - UTOPIA Washington
 * Amelia Fruzzetti
 * Madeline Brown
 * Tim Voie - WEA Chinook Council

@@ -19,7 +19,7 @@ Testifying:
 * Arik Korman - [League of Education Voters](/org/league_of_education_voters/)
 * Jenee Myers Twitchell - Washington STEM
 * Darin Reynaud Knapp - Equity Manager- Puget Sound ESD
-* Soleil Boyd - [Children's Alliance](/org/children's_alliance/)
+* 💵Soleil Boyd - [Children's Alliance](/org/children's_alliance/)
 * 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
 * Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 

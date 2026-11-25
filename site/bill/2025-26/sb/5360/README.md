@@ -107,7 +107,7 @@ Testifying:
 * Bradley Roberts - Washington State Attorney Generals Office
 * Melissa Malott - Communities for a Healthy Bay
 * Stefanie Stockwell - Communities for a Healthy Bay
-* Sean Dixon - Puget Soundkeeper Alliance
+* Sean Dixon - [Puget Soundkeeper Alliance](/org/puget_soundkeeper_alliance/)
 * Connar Mon
 
 #### 80 👎 - Con

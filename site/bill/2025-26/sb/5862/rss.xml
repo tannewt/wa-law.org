@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5862/</link>
 		<description>Updates about SB 5862</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 30 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 00:45:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -249,6 +249,20 @@
 			<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-30/Governor signed.</guid>
+		</item>
+		<item>
+			<title>WA panel pushes COLA for retired teachers, public employees</title>
+			<description>News article "WA panel pushes COLA for retired teachers, public employees" from The Spokesman-Review.</description>
+			<pubDate>Thu, 19 Nov 2026 17:26:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.spokesman.com/stories/2026/nov/19/wa-panel-pushes-cola-for-retired-teachers-public-e/#:~:text=Senate%20Bill%205862</guid>
+		</item>
+		<item>
+			<title>WA panel pushes COLA for retired teachers, public employees • Washington State Standard</title>
+			<description>News article "WA panel pushes COLA for retired teachers, public employees • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Fri, 20 Nov 2026 00:45:07 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/11/19/wa-panel-pushes-cola-for-retired-teachers-public-employees/#:~:text=Senate%20Bill%205862</guid>
 		</item>
 	</channel>
 </rss>

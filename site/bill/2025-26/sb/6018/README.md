@@ -11,8 +11,8 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 6018 Housing finance commission
 #### 13 👍 - Pro
 Testifying:
-* lisa vatske - Washington State Housing Finance Commission
-* steve walker - Washington State Housing Finance Commission
+* lisa vatske - [Washington State Housing Finance Commission](/org/washington_state_housing_finance_commission/)
+* steve walker - [Washington State Housing Finance Commission](/org/washington_state_housing_finance_commission/)
 
 #### 828 👎 - Con
 

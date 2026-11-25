@@ -40,7 +40,7 @@ Testifying:
 * Jeremiah Miller - [Working Washington](/org/working_washington/)
 * Adam Etimann - Washington State Office of the Attorney General
 * Guillermo Cruz - Memo's Quality Construction and Remodeling LLC
-* Mark Bowers - [Columbia Legal Services](/org/columbia_legal_services/)
+* 💵Mark Bowers - [Columbia Legal Services](/org/columbia_legal_services/)
 * Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
 * 💵Jake Garcia - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)

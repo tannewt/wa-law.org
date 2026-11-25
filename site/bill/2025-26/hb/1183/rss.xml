@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1183/</link>
 		<description>Updates about HB 1183</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 07 Aug 2025 21:15:20 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Oct 2026 13:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -626,6 +626,20 @@
 			<pubDate>Thu, 07 Aug 2025 21:15:20 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2025/08/07/downtown-mass-timber-tower-project-meets-resistance-at-seattle-landmark-board/#:~:text=House%20Bill%201183</guid>
+		</item>
+		<item>
+			<title>Seattle Looks to Spur Tower and Mass Timber Projects with Upzone Package</title>
+			<description>News article "Seattle Looks to Spur Tower and Mass Timber Projects with Upzone Package" from The Urbanist.</description>
+			<pubDate>Tue, 26 May 2026 22:41:17 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/seattle-advances-zoning-package-spurring-towers-mass-timber-and-passive-house/#:~:text=House%20Bill%201183</guid>
+		</item>
+		<item>
+			<title>Downtown Highrise Project Still Under Fire as Design Gets Revised Taller</title>
+			<description>News article "Downtown Highrise Project Still Under Fire as Design Gets Revised Taller" from The Urbanist.</description>
+			<pubDate>Fri, 23 Oct 2026 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/downtown-highrise-project-still-under-fire-as-design-gets-revised-taller/#:~:text=2025%20change%20in%20state%20law</guid>
 		</item>
 	</channel>
 </rss>

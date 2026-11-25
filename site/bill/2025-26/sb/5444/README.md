@@ -16,6 +16,7 @@
 * 05/20/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Cortes bill to authorize potentially up to 13 new special license plates - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/05/20/governor-signs-cortes-bill-to-authorize-potentially-up-to-13-new-special-license-plates/#:~:text=5444)
 * 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [That’s a wrap on the 2025 session! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/05/02/thats-a-wrap-on-the-2025-session/#:~:text=5444)
 * 04/22/2025 [FOX13](/org/fox13/) - [WA lawmakers weigh new license plates, rules  | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-license-plates-rules#:~:text=Senate%20Bill%205444)
+* 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers may tap brakes on specialty license plates • Washington State Standard](https://washingtonstatestandard.com/2025/02/19/washington-lawmakers-may-tap-brakes-on-specialty-license-plates/#:~:text=companion%20bill%20sitting%20in%20the%20Senate%20Transportation%20Committee)
 * 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers may tap brakes on specialty license plates • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-lawmakers-may-tap-brakes-on-specialty-license-plates/#:~:text=companion%20bill%20sitting%20in%20the%20Senate%20Transportation%20Committee)
 
 ## Meetings

@@ -49,7 +49,7 @@ Testifying:
 * Devin Cabanilla - Filipino American National Historical Society
 * FAALUAINA PRITCHARD - ASIA PACIFIC CULTURAL CENTER
 * Adrianna Suluai - UTOPIA Washington
-* Amasai Jeke - UTOPIA Washington
+* 💵Amasai Jeke - UTOPIA Washington
 * Scarlett Luo - Make Us Visible Washington
 * Zedeeka Fulay
 * Judy Kusakabe - Make Us Visible

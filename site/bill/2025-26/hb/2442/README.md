@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/22/2026 [The Urbanist](/org/the_urbanist/) - [Zahilay Announces More Than $19.5 Million in New Housing Investments](https://www.theurbanist.org/zahilay-announces-more-than-19-5-million-in-new-housing-investments/#:~:text=authorized%20by%20the%20state%20legislature)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202442)
 * 03/06/2026 [House Democrats](/org/house_democrats/) - [Senate Passes Berg Bill Giving Local Governments More Flexibility to Support Families, Housing, and Public Health – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/03/06/senate-passes-berg-bill-giving-local-governments-more-flexibility-to-support-families-housing-and-public-health/#:~:text=House%20Bill%202442)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=ESHB%202442)

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/30/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Our Students, Strengthening Our Schools - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/07/30/investing-in-our-students-strengthening-our-schools/#:~:text=SB%205346)
 * 05/01/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/05/01/investing-in-washingtons-1-million-k-12-students/#:~:text=SB%205346)
 * 03/25/2026 [Senate Democrats](/org/senate_democrats/) - [Liias bill to help schools limit student cellphone use signed into law - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/03/25/liias-bill-to-help-schools-limit-student-cellphone-use-signed-into-law/#:~:text=The%20bill)
 * 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%205346)

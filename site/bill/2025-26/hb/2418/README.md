@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/18/2026 [Senate Democrats](/org/senate_democrats/) - [Building More Housing, Expanding Opportunity - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/06/18/building-more-housing-expanding-opportunity/#:~:text=HB%202418)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [Standing Up for Transparency and Accountability in Law Enforcement, Housing and Your Health - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/04/02/standing-up-for-transparency-and-accountability-in-law-enforcement-housing-and-your-health/#:~:text=HB%202418)
 * 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [Legislature increases support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/03/26/legislature-increases-support-for-affordable-housing/#:~:text=HB%202418)
 * 03/18/2026 [Senate Democrats](/org/senate_democrats/) - [What we accomplished this session  - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/03/18/what-we-accomplished-this-session/#:~:text=HB%202418)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5184/</link>
 		<description>Updates about SB 5184</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Mar 2026 14:40:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 15 Sep 2026 13:00:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1208,6 +1208,13 @@
 			<description>News article "Next stop for Washington housing: More construction near transit • Washington State Standard" from Washington State Standard.</description>
 			<pubDate>Tue, 13 May 2025 22:38:11 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/05/13/next-stop-for-washington-housing-more-construction-near-transit/#:~:text=ease%20parking%20requirements</guid>
+		</item>
+		<item>
+			<title>Next stop for Washington housing: More construction near transit • Washington State Standard</title>
+			<description>News article "Next stop for Washington housing: More construction near transit • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 13 May 2025 22:38:11 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/next-stop-for-washington-housing-more-construction-near-transit/#:~:text=ease%20parking%20requirements</guid>
 		</item>
 		<item>
@@ -1279,6 +1286,20 @@
 			<pubDate>Wed, 11 Mar 2026 14:40:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_f5dfaf6f-203f-422d-9ee5-7a3cc5fdd6b0.html#:~:text=Senate%20Bill%205184</guid>
+		</item>
+		<item>
+			<title>Successes on housing affordability - Sen. Jessica Bateman</title>
+			<description>News article "Successes on housing affordability - Sen. Jessica Bateman" from Senate Democrats.</description>
+			<pubDate>Fri, 22 May 2026 20:57:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/05/22/successes-on-housing-affordability/#:~:text=SB%205184,</guid>
+		</item>
+		<item>
+			<title>Bellevue Council Faces Decision Point on Parking Reform</title>
+			<description>News article "Bellevue Council Faces Decision Point on Parking Reform" from The Urbanist.</description>
+			<pubDate>Tue, 15 Sep 2026 13:00:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/bellevue-council-parking/#:~:text=Senate%20Bill%205184</guid>
 		</item>
 	</channel>
 </rss>

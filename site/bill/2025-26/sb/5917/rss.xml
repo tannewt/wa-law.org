@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5917/</link>
 		<description>Updates about SB 5917</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 04 May 2026 16:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 25 May 2026 04:30:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -432,6 +432,20 @@
 			<pubDate>Mon, 04 May 2026 16:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_bc23ab34-1d17-4bce-b89a-b841d0ca86dc.html#:~:text=a%20bill</guid>
+		</item>
+		<item>
+			<title>Thank you for joining us! - Sen. Jessica Bateman</title>
+			<description>News article "Thank you for joining us! - Sen. Jessica Bateman" from Senate Democrats.</description>
+			<pubDate>Fri, 08 May 2026 22:56:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/05/08/thank-you-for-joining-us/#:~:text=important%20legislation</guid>
+		</item>
+		<item>
+			<title>Protecting access to health care - Sen. Victoria Hunt</title>
+			<description>News article "Protecting access to health care - Sen. Victoria Hunt" from Senate Democrats.</description>
+			<pubDate>Mon, 25 May 2026 04:30:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hunt/2026/05/24/protecting-access-to-health-care/#:~:text=SB%205917</guid>
 		</item>
 	</channel>
 </rss>

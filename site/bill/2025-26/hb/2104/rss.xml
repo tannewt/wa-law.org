@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2104/</link>
 		<description>Updates about HB 2104</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 20 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Aug 2026 18:46:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -250,6 +250,13 @@
 			<pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-20/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Protecting Washington’s Environment, Strengthening Our Climate Resilience - Sen. Victoria Hunt</title>
+			<description>News article "Protecting Washington’s Environment, Strengthening Our Climate Resilience - Sen. Victoria Hunt" from Senate Democrats.</description>
+			<pubDate>Mon, 31 Aug 2026 18:46:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hunt/2026/08/31/protecting-washingtons-environment-strengthening-our-climate-resilience/#:~:text=HB%202104</guid>
 		</item>
 	</channel>
 </rss>

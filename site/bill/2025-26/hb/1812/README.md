@@ -13,8 +13,8 @@
 ### Tue 01/27 01:30 PM - Health Care & Wellness (HCW): HB 1812 Anesthesia services
 #### 119 👍 - Pro
 Testifying:
-* Dee Bender - Washington Association of Nurse Anesthesiology
-* Kelli Camp - Washington Association of Nurse Anesthesiology
+* Dee Bender - [Washington Association of Nurse Anesthesiology](/org/washington_association_of_nurse_anesthesiology/)
+* Kelli Camp - [Washington Association of Nurse Anesthesiology](/org/washington_association_of_nurse_anesthesiology/)
 * 💵Amy Brackenbury - Washington State Society of Anesthesiologists
 
 #### 0 👎 - Con

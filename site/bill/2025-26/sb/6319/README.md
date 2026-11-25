@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 06/25/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [WA child welfare deaths drop significantly after record year | Cascadia Daily News](https://www.cascadiadaily.com/2026/jun/25/wa-child-welfare-deaths-drop-significantly-after-record-year/#:~:text=community-based%20referral%20path%20to%20services)
+* 06/25/2026 [Washington State Standard](/org/washington_state_standard/) - [WA child welfare deaths drop significantly after record year • Washington State Standard](https://washingtonstatestandard.com/2026/06/24/wa-child-welfare-deaths-drop-significantly-after-record-year/#:~:text=community-based%20referral%20path%20to%20services)
 * 02/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More bills falter as time dwindles for Washington Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/19/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=Senate%20Bill%206319)
 * 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills falter as time dwindles for Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=Senate%20Bill%206319)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%206319)

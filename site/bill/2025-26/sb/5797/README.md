@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 09/20/2026 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Gregoire and Locke Speak for Oligarchs, Not the Democratic Base](https://www.theurbanist.org/op-ed-gregoire-and-locke-speaks-for-oligarchs-not-the-democratic-base/#:~:text=tax%20on%20wealth)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%205797)
 * 02/04/2026 [The Burner](/org/the_burner/) - [Almost Every WA Senate Democrat Supports The Millionaires Tax — The Four Holdouts Are Not Surprising](https://www.theburnerseattle.com/post/almost-every-senate-democrat-supports-the-millionaires-tax-the-four-holdouts-are-not-surprising#:~:text=SB%205797)
 * 02/02/2026 [The Center Square](/org/the_center_square/) - [Nearly 2,200 Seattle-area jobs included in latest round of Amazon corporate layoffs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9dae5582-8f54-43fa-b6ec-0fab01798478.html#:~:text=wealth)

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 07/08/2026 [The Center Square](/org/the_center_square/) - [Spokane car tab fees could double without voter approval | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a525076e-a73c-4fd9-98cf-5d448598bc72.html#:~:text=more)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%206262)
 
 ## Meetings

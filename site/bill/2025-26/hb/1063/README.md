@@ -31,7 +31,7 @@ Testifying:
 Testifying:
 * Amanda Martin - NW Consumer Law Center
 * 💵Andrew Kushner - [Center for Responsible Lending](/org/center_for_responsible_lending/)
-* Sam Leonard - WA State Association for Justice
+* 💵Sam Leonard - WA State Association for Justice
 * Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Manuel Alvarez
 * Drew Bouton - Washington State Department of Financial Institutions

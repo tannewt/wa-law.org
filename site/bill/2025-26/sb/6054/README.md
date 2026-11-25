@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/31/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington’s Environment, Strengthening Our Climate Resilience - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/08/31/protecting-washingtons-environment-strengthening-our-climate-resilience/#:~:text=SB%206054)
 * 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=SB%206054)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SSB%206054)
 * 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall invitation & mid-session update - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/02/13/town-hall-invitation-mid-session-update/#:~:text=SB%206054)

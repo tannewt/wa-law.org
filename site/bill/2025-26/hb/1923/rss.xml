@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1923/</link>
 		<description>Updates about HB 1923</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 18 Mar 2026 19:04:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Oct 2026 13:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1128,6 +1128,20 @@
 			<pubDate>Wed, 18 Mar 2026 19:04:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%201923</guid>
+		</item>
+		<item>
+			<title>Bremerton Fast Ferry Headed for 35% Weekday Service Cut This Fall</title>
+			<description>News article "Bremerton Fast Ferry Headed for 35% Weekday Service Cut This Fall" from The Urbanist.</description>
+			<pubDate>Thu, 23 Jul 2026 16:45:10 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/bremerton-fast-ferry-headed-for-35-weekday-service-cut-this-fall/#:~:text=HB%201923</guid>
+		</item>
+		<item>
+			<title>2026 General Election Endorsements</title>
+			<description>News article "2026 General Election Endorsements" from The Urbanist.</description>
+			<pubDate>Wed, 14 Oct 2026 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2026-general-election-endorsements/#:~:text=HB%201923</guid>
 		</item>
 	</channel>
 </rss>

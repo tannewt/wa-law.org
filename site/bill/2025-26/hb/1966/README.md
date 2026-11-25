@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 10/14/2026 [The Urbanist](/org/the_urbanist/) - [2026 General Election Endorsements](https://www.theurbanist.org/2026-general-election-endorsements/#:~:text=HB%201966)
+* 07/16/2026 [The Urbanist](/org/the_urbanist/) - [2026 Primary Election Endorsements](https://www.theurbanist.org/2026-primary-election-endorsements/#:~:text=HB%201966)
+
 ## Meetings
 ### Tue 02/18 10:30 AM - Local Government (LG): HB 1966 Public works contracting
 #### 53 👍 - Pro

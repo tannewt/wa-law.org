@@ -23,7 +23,7 @@ Testifying:
 * Colleen McIngalls - King County Prosecuting Attorney's Office
 * Suzi Fode - Kids Hope Children's Advocacy Center
 * Roz Arch - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
-* Annalise Martucci - Office of Civil Legal Aid
+* Annalise Martucci - [Office of Civil Legal Aid](/org/office_of_civil_legal_aid/)
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Elisa Adolphsen - Kids Hope CAC
 
@@ -46,7 +46,7 @@ Testifying:
 * Leesa Manion - King County Prosecuting Attorney's Office
 * 💵Esther Warwick - [The Arc of King County](/org/the_arc_of_king_county/)
 * Paula Reed - CAC-WA
-* Annalise Martucci - Office of Civil Legal Aid
+* Annalise Martucci - [Office of Civil Legal Aid](/org/office_of_civil_legal_aid/)
 * 💵Sherrie Tinoco - [WSCADV](/org/washington_state_coalition_against_domestic_violence/)
 * Anne-Marie Schwerin - YWCA Walla Walla
 * Carlyn Sampson - Rebuilding HOPE

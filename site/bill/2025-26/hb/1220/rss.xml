@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1220/</link>
 		<description>Updates about HB 1220</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 14 Nov 2026 21:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -210,6 +210,20 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/Rules Committee relieved of further consideration.</guid>
+		</item>
+		<item>
+			<title>State Extension Denied, Bainbridge Island Pivots on Growth Plan</title>
+			<description>News article "State Extension Denied, Bainbridge Island Pivots on Growth Plan" from The Urbanist.</description>
+			<pubDate>Thu, 13 Aug 2026 17:01:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/state-extension-denied-bainbridge-island-pivots-on-growth-plan/#:~:text=House%20Bill%201220</guid>
+		</item>
+		<item>
+			<title>Felony assaults on healthcare workers rise; some worry charges are too harsh | Cascadia Daily News</title>
+			<description>News article "Felony assaults on healthcare workers rise; some worry charges are too harsh | Cascadia Daily News" from Cascadia Daily News.</description>
+			<pubDate>Sat, 14 Nov 2026 21:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadiadaily.com/2026/nov/14/felony-assaults-on-healthcare-workers-rise-some-worry-charges-are-too-harsh/#:~:text=HB%201220</guid>
 		</item>
 	</channel>
 </rss>

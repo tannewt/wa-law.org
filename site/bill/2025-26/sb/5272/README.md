@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/30/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Our Students, Strengthening Our Schools - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/07/30/investing-in-our-students-strengthening-our-schools/#:~:text=SB%205272)
+* 07/24/2026 [The Center Square](/org/the_center_square/) - [Washington judges flagged criminal law defects last year that remain unresolved | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2e2d626b-a591-48fc-91da-d2ef5910ee32.html#:~:text=school)
 * 05/01/2026 [Senate Democrats](/org/senate_democrats/) - [Investing in Washington’s 1 million K-12 students - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/05/01/investing-in-washingtons-1-million-k-12-students/#:~:text=SB%205272)
 * 02/13/2025 [FOX13](/org/fox13/) - [Bills protecting WA youth refs makes way to Legislature | FOX 13 Seattle](https://www.fox13seattle.com/news/bills-youth-referees-wa-legislature-seattle-hockey#:~:text=SB%205272)
 * 02/03/2025 [KING5](/org/king5/) - [Lawmakers consider tougher penalties to protect youth sport referees | king5.com](https://www.king5.com/article/news/politics/state-politics/law-penalties-youth-sports-referees-harassment/281-11c1d613-5173-4526-9eb7-1805f4c76f6c#:~:text=Senate%20Bill%205272)

@@ -17,7 +17,7 @@
 #### 45 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
-* steve walker - Washington State Housing Finance Commission
+* steve walker - [Washington State Housing Finance Commission](/org/washington_state_housing_finance_commission/)
 
 #### 749 👎 - Con
 

@@ -28,5 +28,5 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Kelli Camp - Washington Association of Nurse Anesthesiology
+* Kelli Camp - [Washington Association of Nurse Anesthesiology](/org/washington_association_of_nurse_anesthesiology/)
 * Joel Creswell - Washington State Department of Ecology

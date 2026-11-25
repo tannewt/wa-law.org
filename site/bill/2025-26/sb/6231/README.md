@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/26/2026 [The Urbanist](/org/the_urbanist/) - [Seattle Advances Data Center Moratorium, Amid Public Backlash](https://www.theurbanist.org/seattle-advances-data-center-moratorium-amid-public-backlash/#:~:text=Senate%20bill)
 * 03/31/2026 [Washington State Standard](/org/washington_state_standard/) - [Gov. Bob Ferguson has a critical choice to make on data centers • Washington State Standard](https://washingtonstatestandard.com/2026/03/31/gov-bob-ferguson-has-a-critical-choice-to-make-on-data-centers/#:~:text=Senate%20Bill%206231)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=SB%206231)
 * 03/13/2026 [The Center Square](/org/the_center_square/) - [Republicans warn eliminated tax cut could push data centers to competitor states | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a7e28c3b-ce3d-4605-9830-0e07d9692e57.html#:~:text=Senate%20Bill%206231)

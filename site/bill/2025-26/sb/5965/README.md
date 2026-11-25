@@ -40,7 +40,7 @@ Testifying:
 * Marsha Cutting
 * Mike Wenrick - PCC Markets
 * Rick Hughes - Ray's Pharmacy
-* 💵Gail Cabahug - Puget Soundkeeper Alliance
+* 💵Gail Cabahug - [Puget Soundkeeper Alliance](/org/puget_soundkeeper_alliance/)
 * Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 

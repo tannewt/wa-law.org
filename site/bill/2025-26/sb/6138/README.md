@@ -15,7 +15,7 @@
 Testifying:
 * 💵Amy Brackenbury - Washington State Society of Anesthesiologists
 * Erik Condon - Washington State Society of Anesthesiologists
-* Kevin Van De Wege - Washington Association of Nurse Anesthesiology
+* Kevin Van De Wege - [Washington Association of Nurse Anesthesiology](/org/washington_association_of_nurse_anesthesiology/)
 * Sara Edge
 
 #### 321 👎 - Con

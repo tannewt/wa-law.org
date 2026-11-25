@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 06/04/2026 [The Center Square](/org/the_center_square/) - [ICE pushes back after Spokane schools adopts immigration enforcement policy | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0d490eeb-b4a6-4f8e-aead-c0b436473f84.html#:~:text=proposed)
 * 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Legislative Session / Town Halls April 18 - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/04/03/2026-legislative-session-town-halls-april-18/#:~:text=SB%205906)
 * 03/07/2026 [Washington State Standard](/org/washington_state_standard/) - [Last deadline of Washington legislative session kills more bills • Washington State Standard](https://washingtonstatestandard.com/2026/03/07/last-deadline-of-washington-legislative-session-kills-more-bills/#:~:text=Senate%20Bill%205906)
 * 03/02/2026 [Washington St Pta](/org/washington_st_pta/) - [Week 7: Budget Negotiations Begin, Final Push for Bills This Week - WSPTA](https://www.wastatepta.org/week-7-budget-negotiations-begin-final-push-for-bills-this-week/#:~:text=SB%205906)

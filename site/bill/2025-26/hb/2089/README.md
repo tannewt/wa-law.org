@@ -10,6 +10,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/25/2026 [The Spokesman-Review](/org/the_spokesman-review/) - [Independent candidate challenges Republican for Senate seat in northeastern Washington](https://www.spokesman.com/stories/2026/sep/25/independent-candidate-challenges-republican-for-se/#:~:text=different%20bill)
+* 08/08/2026 [The Urbanist](/org/the_urbanist/) - [Op-Ed: State Lawmakers Must Step Up Wildfire Alleviation Efforts](https://www.theurbanist.org/op-ed-state-lawmakers-must-step-up-wildfire-alleviation-efforts/#:~:text=HB%202089)
+* 03/23/2026 [Washington State Standard](/org/washington_state_standard/) - [New WA law nixes mortgage lender tax break to boost wildfire funding • Washington State Standard](https://washingtonstatestandard.com/2026/03/23/new-wa-law-nixes-mortgage-lender-tax-break-to-boost-wildfire-funding/#:~:text=House%20Bill%202089)
 * 03/23/2026 [Washington State Standard](/org/washington_state_standard/) - [New WA law nixes mortgage lender tax break to boost wildfire funding • Washington State Standard](https://washingtonstatestandard.com/briefs/new-wa-law-nixes-mortgage-lender-tax-break-to-boost-wildfire-funding/#:~:text=House%20Bill%202089)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202089)
 * 02/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Rollback of mortgage lender tax break eyed to help replenish WA wildfire account • Washington State Standard](https://washingtonstatestandard.com/2026/02/19/rollback-of-mortgage-lender-tax-break-eyed-to-help-replenish-wa-wildfire-account/#:~:text=House%20Bill%202089)

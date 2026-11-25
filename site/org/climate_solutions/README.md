@@ -50,7 +50,7 @@
 * 👍💵 Altinay Karasapan
 
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍1  
-* 👍 Kurt Ellison
+* 👍💵 Kurt Ellison
 
 ### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale 👍1  
 * 👍💵 Leah Missik

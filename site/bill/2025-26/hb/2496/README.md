@@ -9,6 +9,11 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 08/31/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington’s Environment, Strengthening Our Climate Resilience - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/08/31/protecting-washingtons-environment-strengthening-our-climate-resilience/#:~:text=HB%202496)
+* 06/11/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More than 200 new laws now in effect in Washington state | Cascadia Daily News](https://www.cascadiadaily.com/2026/jun/11/more-than-200-new-laws-now-in-effect-in-washington-state/#:~:text=House%20Bill%202496)
+* 06/11/2026 [Washington State Standard](/org/washington_state_standard/) - [These new WA laws take effect Thursday • Washington State Standard](https://washingtonstatestandard.com/2026/06/11/these-new-wa-laws-take-effect-thursday/#:~:text=House%20Bill%202496)
+
 ## Meetings
 ### Mon 01/26 01:30 PM - Environment & Energy (ENVI): HB 2496 EFSEC tribal consultation
 #### 73 👍 - Pro

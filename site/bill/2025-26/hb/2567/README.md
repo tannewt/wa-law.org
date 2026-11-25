@@ -19,7 +19,7 @@ Testifying:
 * Mateo Car - Whitman College
 * Erika Hernandez - Whitworth University
 * Jack Kashork - [Gonzaga University](/org/gonzaga_university/)
-* Mercedes Garcia - Heritage University
+* Mercedes Garcia - [Heritage University](/org/heritage_university/)
 * Vernon Glass - Whitworth University
 * Lauren Mendez - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * Paul Hogan - President, Cristo Rey Jesuit Seattle High School

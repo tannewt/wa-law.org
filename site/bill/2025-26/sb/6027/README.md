@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 07/24/2026 [Senate Democrats](/org/senate_democrats/) - [Out in the community - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/07/24/out-in-the-community/#:~:text=legislation)
+* 06/18/2026 [Senate Democrats](/org/senate_democrats/) - [Building More Housing, Expanding Opportunity - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/06/18/building-more-housing-expanding-opportunity/#:~:text=SB%206027)
 * 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=SB%206027)
 * 04/15/2026 [Senate Democrats](/org/senate_democrats/) - [22nd District legislative town hall coming up! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/15/22nd-district-legislative-town-hall-coming-up/#:~:text=SB%206027)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session wrap up - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/04/02/2026-legislative-session-wrap-up/#:~:text=6026)

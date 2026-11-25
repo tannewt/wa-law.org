@@ -10,6 +10,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 10/14/2026 [The Urbanist](/org/the_urbanist/) - [2026 General Election Endorsements](https://www.theurbanist.org/2026-general-election-endorsements/#:~:text=HB%202228)
+* 07/16/2026 [The Urbanist](/org/the_urbanist/) - [2026 Primary Election Endorsements](https://www.theurbanist.org/2026-primary-election-endorsements/#:~:text=HB%202228)
 * 04/24/2026 [Senate Democrats](/org/senate_democrats/) - [Senate Housing Committee 2026 Report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/04/24/senate-housing-committee-2026-report/#:~:text=HB%202228)
 * 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=HB%202228)
 * 03/09/2026 [KING5](/org/king5/) - [Ferguson signs new laws on housing, healthcare | king5.com](https://www.king5.com/article/news/politics/state-politics/new-washington-laws-housing-healthcare/281-53aceb02-b644-43f9-bd36-bfd741cee887#:~:text=Substitute%20House%20Bill%20No.%202228)

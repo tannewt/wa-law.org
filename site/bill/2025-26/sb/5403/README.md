@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/05/2026 [Washington State Standard](/org/washington_state_standard/) - [WA cannabis market faces pressure from federal changes and oversupply • Washington State Standard](https://washingtonstatestandard.com/2026/06/05/wa-cannabis-market-faces-pressure-from-federal-changes-and-oversupply/#:~:text=A%20new%20law)
 * 05/08/2025 [Senate Democrats](/org/senate_democrats/) - [Session Adjourned — Here’s What We Did - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/05/08/session-adjourned-heres-what-we-did/#:~:text=SB%205403)
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205403)
 

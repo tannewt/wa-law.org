@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/11/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More than 200 new laws now in effect in Washington state | Cascadia Daily News](https://www.cascadiadaily.com/2026/jun/11/more-than-200-new-laws-now-in-effect-in-washington-state/#:~:text=House%20Bill%202165)
+* 06/11/2026 [Washington State Standard](/org/washington_state_standard/) - [These new WA laws take effect Thursday • Washington State Standard](https://washingtonstatestandard.com/2026/06/11/these-new-wa-laws-take-effect-thursday/#:~:text=House%20Bill%202165)
 * 04/03/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting our rights and freedoms from federal overreach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/04/03/protecting-our-rights-and-freedoms-from-federal-overreach/#:~:text=HB%202165)
 * 04/02/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session wrap up - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/04/02/2026-legislative-session-wrap-up/#:~:text=2165)
 * 03/25/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session recap! I hope to see you at our town hall on April 11 - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/03/25/2026-legislative-session-recap-i-hope-to-see-you-at-our-town-hall-on-april-11/#:~:text=House%20Bill%202165)

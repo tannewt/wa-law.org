@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/30/2026 [MyNorthwest](/org/mynorthwest/) - ['Just don't mess it up': Gee weighs in on whether Seattle's looser public drinking laws should stay - MyNorthwest.com](https://mynorthwest.com/kiro-opinion/seattle-public-drinking-law/4252809#:~:text=new%20state%20law)
 * 04/18/2025 [Axios](/org/axios/) - [Washington state may ease beer garden rules for World Cup - Axios Seattle](https://www.axios.com/local/seattle/2025/04/18/washington-world-cup-beer-garden-rules#:~:text=House%20Bill%201515)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201515)
 

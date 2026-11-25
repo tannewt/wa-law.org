@@ -14,7 +14,7 @@
 #### 230 👍 - Pro
 Testifying:
 * 💵Rose Gundersen - [Washington Retail Association](/org/washington_retail_association/)
-* Chud Wendle - Hutton Settlement
+* Chud Wendle - [Hutton Settlement](/org/hutton_settlement/)
 * Christopher Christian
 * 💵Patrick Connor - NFIB
 * Brian Newberry - NAWA

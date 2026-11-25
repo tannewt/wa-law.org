@@ -27,6 +27,7 @@
 * 01/21/2026 [The Center Square](/org/the_center_square/) - [WATCH: Bill to secure guns in vehicles moves forward | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_18a8b893-cee9-49c4-b70f-a7951a9f0c2f.html#:~:text=HB%202320)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=2320)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202320)
+* [FOX13](/org/fox13/) - [Ghost guns explained—how they are made, used? | FOX 13 Seattle](https://www.fox13seattle.com/news/ghost-guns-explained#:~:text=HB%202320,)
 
 ## Meetings
 ### Fri 02/20 02:00 PM - Law & Justice (LAW): ESHB 2320 Firearm manufacturing

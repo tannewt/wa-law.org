@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 05/06/2026 [Washington State Standard](/org/washington_state_standard/) - [Critics question WA’s progress reducing solitary confinement in state prisons • Washington State Standard](https://washingtonstatestandard.com/2026/05/06/critics-question-was-progress-reducing-solitary-confinement-in-state-prisons/#:~:text=proposal%20in%20the%20state%20Legislature)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201137)
 
 ## Meetings

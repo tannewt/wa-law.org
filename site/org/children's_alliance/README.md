@@ -46,7 +46,7 @@
 * 👍 Max Lau
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
-* ❓ Soleil Boyd
+* ❓💵 Soleil Boyd
 
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍2  
 
@@ -91,10 +91,10 @@
 ### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots 👍1  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
-* ❓ Soleil Boyd
+* ❓💵 Soleil Boyd
 
 ### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system 👍1  
-* 👍 Soleil Boyd
+* 👍💵 Soleil Boyd
 
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍2  
 * 👍 Max Lau
@@ -104,12 +104,12 @@
 * 👍 Anni-Michele Jean-Pierre
 
 ## [SB 6353](/bill/2025-26/sb/6353/) - Working conn. child care  👎1 
-* 👎 Soleil Boyd
+* 👎💵 Soleil Boyd
 
 ## 2023-24
 
 ### [SB 6353](/bill/2023-24/sb/6353/) - Working conn. child care  👎1 
-* 👎 Soleil Boyd
+* 👎💵 Soleil Boyd
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

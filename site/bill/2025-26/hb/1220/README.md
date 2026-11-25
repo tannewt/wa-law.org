@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 11/14/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Felony assaults on healthcare workers rise; some worry charges are too harsh | Cascadia Daily News](https://www.cascadiadaily.com/2026/nov/14/felony-assaults-on-healthcare-workers-rise-some-worry-charges-are-too-harsh/#:~:text=HB%201220)
+* 08/13/2026 [The Urbanist](/org/the_urbanist/) - [State Extension Denied, Bainbridge Island Pivots on Growth Plan](https://www.theurbanist.org/state-extension-denied-bainbridge-island-pivots-on-growth-plan/#:~:text=House%20Bill%201220)
 * 02/18/2025 [KUOW](/org/kuow/) - [KUOW - Legislative carveout would change penalties for assaults on health care workers](https://www.kuow.org/stories/legislative-carveout-would-change-penalties-for-as#:~:text=HB%201220)
 
 ## Meetings

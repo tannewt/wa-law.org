@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 12/24/2025 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Twelve ideas for recovering revenue that would allow Washington to avoid austerity in the 2026 supplemental operating budget - NPI's Cascadia Advocate](https://www.nwprogressive.org/weblog/2025/12/twelve-ideas-for-recovering-revenue-that-would-allow-washington-to-avoid-austerity-in-the-2026-supplemental-operating-budget.html#:~:text=HB%201416)
 * 04/04/2025 [The Washington Observer](/org/the_washington_observer/) - [Ban on flavored vapes & cigarettes returns, with added taxes](https://washingtonobserver.substack.com/p/ban-on-flavored-vapes-and-cigarettes#:~:text=hike%20on%20the%20tax)
 * 02/21/2025 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers light up plan for cigarette tax hike • Washington State Standard](https://washingtonstatestandard.com/2025/02/21/wa-lawmakers-light-up-plan-for-cigarette-tax-hike/#:~:text=House%20Bill%201416)
 * 02/20/2025 [Axios](/org/axios/) - [Washington Legislature could ban flavored vapes and menthol cigarettes - Axios Seattle](https://www.axios.com/local/seattle/2025/02/20/vaping-flavors-ban-washington-state-menthol#:~:text=taxes)

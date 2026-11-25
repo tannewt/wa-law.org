@@ -25,7 +25,7 @@ Testifying:
 * 💵Adam Zarrin - The Leukemia & Lymphoma Society
 * Amanda Martin - NW Consumer Law Center
 * Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
-* Sam Leonard - Washington State Association for Justice
+* 💵Sam Leonard - Washington State Association for Justice
 * Russell Brandt
 * Natasha Fecteau Minger
 * Adam Eitmann - Attorney General's Office
@@ -49,7 +49,7 @@ Testifying:
 * Amanda Martin - NW Consumer Law Center
 * Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Molly Molly - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
-* Sam Leonard - WA State Association for Justice
+* 💵Sam Leonard - WA State Association for Justice
 * Adam Eitmann - Washington State Office of the Attorney General
 
 #### 50 👎 - Con

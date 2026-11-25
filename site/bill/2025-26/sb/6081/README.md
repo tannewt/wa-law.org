@@ -24,7 +24,7 @@
 Testifying:
 * Tanya Leslie
 * LINDEN JORDAN - PFLAG Washington Chapters
-* Amasai Jeke - UTOPIA WA
+* 💵Amasai Jeke - UTOPIA WA
 * Dana Savage - Association of Washington Assistant Attorneys General
 * Danni Askini - Gender Justice League
 * Jenna Comstock - QLAW Bar Association

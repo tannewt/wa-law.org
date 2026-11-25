@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 02/04/2026 [KUOW](/org/kuow/) - [KUOW - Proposed block on WA police hiring ICE agents fizzles out in Legislature](https://www.kuow.org/stories/proposed-block-on-wa-police-hiring-ice-agents-fizzles-out-in-legislature#:~:text=House%20Bill%202648)
+* 02/04/2026 [Washington State Standard](/org/washington_state_standard/) - [Proposed block on WA police hiring ICE agents fizzles out in Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/03/proposed-block-on-wa-police-hiring-ice-agents-fizzles-out-in-legislature/#:~:text=House%20Bill%202648)
 * 02/04/2026 [Washington State Standard](/org/washington_state_standard/) - [Proposed block on WA police hiring ICE agents fizzles out in Legislature • Washington State Standard](https://washingtonstatestandard.com/briefs/proposed-block-on-wa-police-hiring-ice-agents-fizzles-out-in-legislature/#:~:text=House%20Bill%202648)
 * 02/02/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/02/the-house-hot-sheet-for-week-4-of-the-2026-legislative-session/#:~:text=HB%202648)
 * 01/29/2026 [The Center Square](/org/the_center_square/) - [WATCH: Washington lawmakers clash over bills directed at limiting ICE officers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_203c927e-29f0-4c14-a13c-e05f5e6ae078.html#:~:text=HB%202648)

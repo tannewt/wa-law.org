@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2442/</link>
 		<description>Updates about HB 2442</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 25 Mar 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Sep 2026 15:19:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -590,6 +590,13 @@
 			<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-03-25/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Zahilay Announces More Than $19.5 Million in New Housing Investments</title>
+			<description>News article "Zahilay Announces More Than $19.5 Million in New Housing Investments" from The Urbanist.</description>
+			<pubDate>Tue, 22 Sep 2026 15:19:51 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/zahilay-announces-more-than-19-5-million-in-new-housing-investments/#:~:text=authorized%20by%20the%20state%20legislature</guid>
 		</item>
 	</channel>
 </rss>

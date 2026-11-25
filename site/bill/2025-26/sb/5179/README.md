@@ -54,7 +54,7 @@ Testifying:
 ### Mon 02/17 04:00 PM - Ways & Means (WM): SSB 5179 Education complaint process
 #### 304 👍 - Pro
 Testifying:
-* Amasai Jeke - UTOPIA Washington
+* 💵Amasai Jeke - UTOPIA Washington
 * Aide Villalobos
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)

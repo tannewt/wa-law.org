@@ -22,7 +22,7 @@ Testifying:
 * Joseph Lachman - Purpose Dignity Action (PDA) Board of Directors
 * 💵Lisa Daugaard - Purpose Dignity Action (PDA)
 * SarahAnn Hamilton - The More We Love
-* 💵Mauricio Ayon - Pacific County Voices Uniting
+* 💵Mauricio Ayon - [Pacific County Voices Uniting](/org/pacific_county_voices_uniting/)
 * 💵Donna Christensen - [Catholic Community Services](/org/catholic_community_services/)
 
 #### 2 👎 - Con

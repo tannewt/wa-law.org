@@ -42,6 +42,6 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Chio Saeteurn - Office of the Insurance Commissioner
+* 💵Chio Saeteurn - Office of the Insurance Commissioner
 * Tyler Langford - Office of the Insurance Commissioner
 * Nick Fielden - Washington State Attorney General's Office

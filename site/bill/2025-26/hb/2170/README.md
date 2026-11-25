@@ -30,7 +30,7 @@ Testifying:
 * David Bingham - Crescent School School District #313
 * Russ Pfeiffer-Hoyt - Washington State School Directors' Association (WSSDA)
 * Carmen Smith - R L Smith Logging Inc
-* Kevin Shutty - Economic Development Council of Mason County
+* 💵Kevin Shutty - Economic Development Council of Mason County
 * Katie Whittier - [Skamania County](/org/skamania_county/)
 * Ann Rivers - Hampton Lumber
 * Bill Turner - [Sierra Pacific Industries](/org/sierra_pacific_industries/)

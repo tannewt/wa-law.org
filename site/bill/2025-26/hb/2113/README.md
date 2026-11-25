@@ -15,7 +15,7 @@
 #### 61 👍 - Pro
 Testifying:
 * Jim Hedrick - Washington State Radiological Society (WSRS)
-* Dee Bender - Washington Association of Nurse Anesthesiology
+* Dee Bender - [Washington Association of Nurse Anesthesiology](/org/washington_association_of_nurse_anesthesiology/)
 * Troy Bender - Washington Academy of Physician Associates
 * Caylon Haggard - Docs Who Care
 * Katie Kolan - Washington State Hospital Association (WSHA)

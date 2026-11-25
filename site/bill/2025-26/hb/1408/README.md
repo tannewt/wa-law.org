@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/13/2026 [Washington State Standard](/org/washington_state_standard/) - [Hopes of World Cup tourist boom feeling shaky in Seattle • Washington State Standard](https://washingtonstatestandard.com/2026/05/13/hopes-of-world-cup-tourist-boom-feeling-shaky-in-seattle/#:~:text=new%20law)
 * 03/26/2026 [Senate Democrats](/org/senate_democrats/) - [The Senate is adjourned, sine die - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/03/26/the-senate-is-adjourned-sine-die/#:~:text=HB%201408)
 * 03/16/2026 [Senate Democrats](/org/senate_democrats/) - [A Decade of Service, A Heart Full of Gratitude - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/03/16/a-decade-of-service-a-heart-full-of-gratitude/#:~:text=HB%201408)
 * 03/02/2026 [Senate Democrats](/org/senate_democrats/) - [Racing towards the finish - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/03/02/racing-towards-the-finish/#:~:text=HB%201408)

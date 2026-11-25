@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2689/</link>
 		<description>Updates about HB 2689</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 01 Apr 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 06 Jul 2026 10:30:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -291,6 +291,20 @@
 			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-04-01/Governor signed.</guid>
+		</item>
+		<item>
+			<title>WATCH: DCYF secretary refutes fraud claims, says agency needs funding for more audits | Washington | thecentersquare.com</title>
+			<description>News article "WATCH: DCYF secretary refutes fraud claims, says agency needs funding for more audits | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 21 May 2026 18:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_a74cd54b-f5f5-4520-9c8b-ce9950ec2e01.html#:~:text=new%20law</guid>
+		</item>
+		<item>
+			<title>WATCH: State fails to investigate daycares with no children despite media reports | Washington | thecentersquare.com</title>
+			<description>News article "WATCH: State fails to investigate daycares with no children despite media reports | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 06 Jul 2026 10:30:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_2b9ca4ec-3104-4c92-a07a-3776f2f161b7.html#:~:text=SB%202689</guid>
 		</item>
 	</channel>
 </rss>

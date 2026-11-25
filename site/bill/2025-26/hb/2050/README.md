@@ -25,7 +25,7 @@ Testifying:
 * Carol Lewis - Moses Lake School District
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Linnette Garcia - Online school parent
-* Jason Harrison
+* 💵Jason Harrison
 * Charlie Brown - South Sound Superintendents and Federal Way School District
 
 #### 1 ❓ - Other

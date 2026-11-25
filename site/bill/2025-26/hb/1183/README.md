@@ -11,6 +11,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/23/2026 [The Urbanist](/org/the_urbanist/) - [Downtown Highrise Project Still Under Fire as Design Gets Revised Taller](https://www.theurbanist.org/downtown-highrise-project-still-under-fire-as-design-gets-revised-taller/#:~:text=2025%20change%20in%20state%20law)
+* 05/26/2026 [The Urbanist](/org/the_urbanist/) - [Seattle Looks to Spur Tower and Mass Timber Projects with Upzone Package](https://www.theurbanist.org/seattle-advances-zoning-package-spurring-towers-mass-timber-and-passive-house/#:~:text=House%20Bill%201183)
 * 08/07/2025 [The Urbanist](/org/the_urbanist/) - [Downtown Mass-Timber Tower Project Meets Resistance at Seattle Landmark Board » The Urbanist](https://www.theurbanist.org/2025/08/07/downtown-mass-timber-tower-project-meets-resistance-at-seattle-landmark-board/#:~:text=House%20Bill%201183)
 * 08/07/2025 [The Urbanist](/org/the_urbanist/) - [Downtown Mass-Timber Tower Project Meets Resistance at Seattle Landmark Board » The Urbanist](https://www.theurbanist.org/downtown-mass-timber-tower-project-meets-resistance-at-seattle-landmark-board/#:~:text=House%20Bill%201183)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201183)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 08/31/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington’s Environment, Strengthening Our Climate Resilience - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/08/31/protecting-washingtons-environment-strengthening-our-climate-resilience/#:~:text=HB%202367)
 * 03/18/2026 [House Republicans](/org/house_republicans/) - [The largest tax increase in state history: How Democrats are taxing you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-are-taxing-you/#:~:text=HB%202367)
 * 03/14/2026 [KING5](/org/king5/) - [Here are the bills signed into law this week in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bills-signed-into-law-this-week-washington-state/281-be0216ae-355f-423a-80fe-5ddfb811e50b#:~:text=HB%202367)
 * 03/11/2026 [Washington State Standard](/org/washington_state_standard/) - [New targeted tax in WA aims to keep coal power plant shut down • Washington State Standard](https://washingtonstatestandard.com/2026/03/11/new-targeted-tax-in-wa-aims-to-keep-coal-power-plant-shut-down/#:~:text=the%20new%20law)

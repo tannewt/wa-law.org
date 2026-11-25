@@ -21,7 +21,7 @@ Testifying:
 * Dr. Jennifer Stonequist - Kitsap Humane Society
 * Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
 * Sarah Hock - Joint Animal Services
-* 💵Stephanie Hillman - Seattle Humane
+* 💵Stephanie Hillman - [Seattle Humane](/org/seattle_humane/)
 * 💵Ann Simons - Kitsap Humane Society
 * Rachele Raj - Seattle Veterinary Outreach
 

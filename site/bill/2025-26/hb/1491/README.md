@@ -12,6 +12,7 @@
 * [Session Law](S3.SL/)
 
 ## 📰 Articles
+* 07/17/2026 [The Urbanist](/org/the_urbanist/) - [Jenks and Kang Offer Differing Views at D5 Seattle Council Forum](https://www.theurbanist.org/jenks-and-kang-offer-differing-views-at-d5-seattle-council-forum/#:~:text=House%20Bill%201491)
 * 10/31/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Gov. Ferguson ‘skeptical’ of tax increases in 2026](https://gorgenewscenter.com/2025/10/31/wa-gov-ferguson-skeptical-of-tax-increases-in-2026/#:~:text=development%20around%20transit%20stops)
 * 10/30/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Gov. Ferguson ‘skeptical’ of tax increases in 2026 • Washington State Standard](https://washingtonstatestandard.com/2025/10/30/wa-gov-bob-ferguson-skeptical-of-tax-increases-in-2026/#:~:text=development%20around%20transit%20stops)
 * 10/05/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Legislature’s housing leaders outline vision for 2026](https://gorgenewscenter.com/2025/10/05/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=housing%20development%20around%20transit%20stops)
@@ -23,6 +24,7 @@
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201491)
 * 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2025 session ends with progress on housing, education, and recycling! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/05/15/lizs-loveletter-2025-session-ends-with-progress-on-housing-education-and-recycling/#:~:text=HB%201491)
 * 05/14/2025 [The Washington Observer](/org/the_washington_observer/) - [Another mild veto - by Tim Gruver and Paul Queary](https://washingtonobserver.substack.com/p/another-mild-veto#:~:text=House%20Bill%201491)
+* 05/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Next stop for Washington housing: More construction near transit • Washington State Standard](https://washingtonstatestandard.com/2025/05/13/next-stop-for-washington-housing-more-construction-near-transit/#:~:text=House%20Bill%201491)
 * 05/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Next stop for Washington housing: More construction near transit • Washington State Standard](https://washingtonstatestandard.com/briefs/next-stop-for-washington-housing-more-construction-near-transit/#:~:text=House%20Bill%201491)
 * 05/08/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization, Parking Reforms Become Law in Washington - The Urbanist](https://www.theurbanist.org/2025/05/08/rent-stabilization-parking-reforms-become-law-in-washington/#:~:text=House%20Bill%201491)
 * 05/08/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization, Parking Reforms Become Law in Washington » The Urbanist](https://www.theurbanist.org/rent-stabilization-parking-reforms-become-law-in-washington/#:~:text=House%20Bill%201491)
